@@ -1,0 +1,9 @@
+{
+  "title": "Action Items: TurboQuant Implementation Proposals",
+  "url": "",
+  "source": "editorial",
+  "author": "Internal",
+  "snippet": "HIGH: MarketSwarm regime fingerprint vector store (2-3 days), AutoResearch KVQuant integration (3-5 days). MEDIUM: FORGE context compression (4-6 hrs), QuantMarketData polar signal cache (1 day), SportsBettingSwarm polar normalization (4-6 hrs).",
+  "category": "action_item",
+  "relevance_score": 0.95
+}

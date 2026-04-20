@@ -1,0 +1,106 @@
+{
+  "date": "2026-04-11",
+  "company": "openai",
+  "scan_time": "2026-04-11T07:36:38.570473+00:00",
+  "total_scraped": 38,
+  "after_dedup": 9,
+  "after_filter": 8,
+  "items": [
+    {
+      "title": "The next phase of enterprise AI | OpenAI",
+      "url": "https://openai.com/index/next-phase-of-enterprise-ai/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI has been highly active in April 2026 with a wave of announcements and model releases. On the product side, the company introduced enterprise-focused features including Codex pay-as-you-go pricing for business teams and a new $100/month Pro plan for high-intensity Codex sessions with GPT-5.4 access. Earlier in Q1 2026, OpenAI released three new GPT-5 family models: GPT-5.3 Instant (fast everyday tasks), GPT-5.4 Thinking (complex professional use), and GPT-5.4 Pro (most demanding workloads)",
+      "timestamp": "2026-04-11T07:34:06.814451+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 1.0,
+      "content_hash": "f8883fb6134e5a19"
+    },
+    {
+      "title": "ChatGPT New Features in April 2026: GPT-5.4 Thinking, File Library, and More",
+      "url": "https://imidef.com/en/2026-04-05-chatgpt-new-features-april-2026",
+      "source": "gemini_grounded",
+      "author": "imidef.com",
+      "snippet": "OpenAI has been on an aggressive model release cadence in early 2026, launching multiple GPT-5 variants across different capability tiers. The current lineup includes GPT-5.3 Instant (launched March 3, 2026 as the new default for all ChatGPT users with a 400K token context window), GPT-5.4 Thinking (designed for multi-step reasoning, long context, and tool-heavy workflows), and GPT-5.4 Pro (top-tier). As of March 11, 2026, all GPT-5.1 models were retired, with users automatically migrated to the",
+      "timestamp": "2026-04-11T07:35:14.714749+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 1.0,
+      "content_hash": "1b06465c0cfcab21"
+    },
+    {
+      "title": "OpenAI's Secret Weapon Has a Codename — 'Spud' — Coming This Month",
+      "url": "https://lumichats.com/blog/gpt-5-5-spud-openai-release-date-features-april-2026-complete-guide",
+      "source": "gemini_grounded",
+      "author": "lumichats.com",
+      "snippet": "OpenAI has been on an aggressive model release cadence in early 2026, launching multiple GPT-5 variants across different capability tiers. The current lineup includes GPT-5.3 Instant (launched March 3, 2026 as the new default for all ChatGPT users with a 400K token context window), GPT-5.4 Thinking (designed for multi-step reasoning, long context, and tool-heavy workflows), and GPT-5.4 Pro (top-tier). As of March 11, 2026, all GPT-5.1 models were retired, with users automatically migrated to the",
+      "timestamp": "2026-04-11T07:35:14.714755+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 1.0,
+      "content_hash": "255b95538b9cdd68"
+    },
+    {
+      "title": "OpenAI Research Index | OpenAI",
+      "url": "https://openai.com/research/index/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI's recent research publications in early 2026 span several key areas including AI safety, alignment, and scientific applications. Notable papers include work on chain-of-thought monitorability for detecting misalignment in internal coding agents, an exploration of instruction hierarchy in frontier LLMs to improve safety steerability and resistance to prompt injection, and a January 2026 paper on 'AI as a Scientific Collaborator.' OpenAI also published work extending single-minus amplitudes",
+      "timestamp": "2026-04-11T07:34:32.210018+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.9,
+      "content_hash": "548f3288ba948f4a"
+    },
+    {
+      "title": "OpenAI GPT-5 Model Guide: GPT-5.2 vs 5.3 vs 5.4 — Which One Should You Use? (2026)",
+      "url": "https://www.nxcode.io/resources/news/openai-gpt-5-model-guide-which-to-use-2026",
+      "source": "gemini_grounded",
+      "author": "www.nxcode.io",
+      "snippet": "OpenAI has been on an aggressive model release cadence in early 2026, launching multiple GPT-5 variants across different capability tiers. The current lineup includes GPT-5.3 Instant (launched March 3, 2026 as the new default for all ChatGPT users with a 400K token context window), GPT-5.4 Thinking (designed for multi-step reasoning, long context, and tool-heavy workflows), and GPT-5.4 Pro (top-tier). As of March 11, 2026, all GPT-5.1 models were retired, with users automatically migrated to the",
+      "timestamp": "2026-04-11T07:35:14.714774+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.8,
+      "content_hash": "59fe4984aec2e5a1"
+    },
+    {
+      "title": "OpenAI Company Announcements",
+      "url": "https://openai.com/news/company-announcements/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI has been highly active on Twitter/X in early April 2026, announcing several major initiatives. On April 6, OpenAI announced the acquisition of TBPN and launched the OpenAI Safety Fellowship, a program supporting outside researchers focused on evaluation, ethics, robustness, privacy, and agent oversight. On April 8, OpenAI published the Child Safety Blueprint proposing three pillars to combat AI-enabled child exploitation: modernizing the legal framework, improving reporting and coordinati",
+      "timestamp": "2026-04-11T07:36:20.972120+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.7,
+      "content_hash": "5df6daa09c5907d0"
+    },
+    {
+      "title": "Weekly Generative AI News Roundup (April 4–11, 2026)",
+      "url": "https://blog.greeden.me/en/2026/04/09/weekly-generative-ai-news-roundup-april-4-11-2026-key-model-moves-and-their-practical-impact/",
+      "source": "gemini_grounded",
+      "author": "blog.greeden.me",
+      "snippet": "OpenAI has been highly active on Twitter/X in early April 2026, announcing several major initiatives. On April 6, OpenAI announced the acquisition of TBPN and launched the OpenAI Safety Fellowship, a program supporting outside researchers focused on evaluation, ethics, robustness, privacy, and agent oversight. On April 8, OpenAI published the Child Safety Blueprint proposing three pillars to combat AI-enabled child exploitation: modernizing the legal framework, improving reporting and coordinati",
+      "timestamp": "2026-04-11T07:36:20.972139+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.4,
+      "content_hash": "b6f3d7a68533ac11"
+    },
+    {
+      "title": "AI News Recap: April 10, 2026 - NeuralBuddies",
+      "url": "https://www.neuralbuddies.com/p/ai-news-recap-april-10-2026",
+      "source": "gemini_grounded",
+      "author": "www.neuralbuddies.com",
+      "snippet": "OpenAI has been highly active on Twitter/X in early April 2026, announcing several major initiatives. On April 6, OpenAI announced the acquisition of TBPN and launched the OpenAI Safety Fellowship, a program supporting outside researchers focused on evaluation, ethics, robustness, privacy, and agent oversight. On April 8, OpenAI published the Child Safety Blueprint proposing three pillars to combat AI-enabled child exploitation: modernizing the legal framework, improving reporting and coordinati",
+      "timestamp": "2026-04-11T07:36:20.972150+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.4,
+      "content_hash": "512f9ec8cbb7ff98"
+    }
+  ]
+}

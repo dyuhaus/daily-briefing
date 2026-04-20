@@ -1,0 +1,52 @@
+{
+  "date": "2026-03-30",
+  "scan_time": "2026-03-30T10:01:26.480601+00:00",
+  "total_found": 120,
+  "unique_new": 6,
+  "with_transcripts": 3,
+  "after_filter": 3,
+  "items": [
+    {
+      "video_id": "CnMTzH9IR58",
+      "title": "Claude Agent SDK: Getting Started | Live",
+      "channel": "Ray Fernando",
+      "url": "https://www.youtube.com/watch?v=CnMTzH9IR58",
+      "upload_date": "",
+      "duration_seconds": 2408.0,
+      "description": "Live stream to discuss the Agent SDK and all the amazing capabilities. Let's build an app or something with this. SPECIAL OFFER ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.7,
+      "content_hash": "d852e4f4155f7a2b",
+      "transcript_length": 0
+    },
+    {
+      "video_id": "yLXLHnD4fco",
+      "title": "Claude Code: Build Your Full AI Marketing Team (Agents + Claude Skills)",
+      "channel": "Grace Leung",
+      "url": "https://www.youtube.com/watch?v=yLXLHnD4fco",
+      "upload_date": "",
+      "duration_seconds": 1055.0,
+      "description": "Download the “The AI Toolkit I Use Every Week” here: https://clickhubspot.com/33a603 Most marketers are still running every task ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.5,
+      "content_hash": "66642cc24cf23e6e",
+      "transcript_length": 0
+    },
+    {
+      "video_id": "oYIXe6aqh_U",
+      "title": "You've Been Using Claude Code at 10%. Here's the Rest.",
+      "channel": "Mark Kashef",
+      "url": "https://www.youtube.com/watch?v=oYIXe6aqh_U",
+      "upload_date": "",
+      "duration_seconds": 1470.0,
+      "description": "Master Claude Code: https://www.skool.com/earlyaidopters/about Assets in Video: ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.5,
+      "content_hash": "ea09734f43196cde",
+      "transcript_length": 0
+    }
+  ]
+}

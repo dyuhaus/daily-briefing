@@ -1,0 +1,118 @@
+{
+  "date": "2026-04-19",
+  "company": "openai",
+  "scan_time": "2026-04-19T07:36:56.655493+00:00",
+  "total_scraped": 40,
+  "after_dedup": 9,
+  "after_filter": 9,
+  "items": [
+    {
+      "title": "Developer changelog",
+      "url": "https://developers.openai.com/changelog/",
+      "source": "gemini_grounded",
+      "author": "developers.openai.com",
+      "snippet": "OpenAI has been active with API updates heading into April 2026. Major model releases include GPT-5.4 mini and GPT-5.4 nano added to the Chat Completions and Responses API, with GPT-5.4 mini targeting high-volume workloads and nano optimized for speed and cost. GPT-5.3-Codex was also launched as an agentic coding model combining the Codex and GPT-5 training stacks, running ~25% faster than predecessors with new benchmark highs. On the research side, GPT-Rosalind was introduced as a life sciences",
+      "timestamp": "2026-04-19T07:36:06.188639+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.95,
+      "content_hash": "103f8aed6f3234cc"
+    },
+    {
+      "title": "Introducing GPT-5.3 Instant, GPT-5.4 Thinking, and GPT-5.4 Pro — OpenAI Academy",
+      "url": "https://academy.openai.com/public/resources/latest-model",
+      "source": "gemini_grounded",
+      "author": "academy.openai.com",
+      "snippet": "OpenAI has been active with major announcements in April 2026. On April 16, 2026, the company introduced GPT-Rosalind, a frontier reasoning model purpose-built for life sciences research — targeting biology, drug discovery, protein engineering, genomics, and translational medicine. The same day, OpenAI announced the next evolution of its Agents SDK, expanding autonomous agent capabilities for developers. OpenAI also released a significant Codex update, extending the tool beyond coding into compu",
+      "timestamp": "2026-04-19T07:34:07.429379+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.9,
+      "content_hash": "51507be5fb9d5891"
+    },
+    {
+      "title": "OpenAI Release Notes — April 2026 Latest Updates",
+      "url": "https://releasebot.io/updates/openai",
+      "source": "gemini_grounded",
+      "author": "releasebot.io",
+      "snippet": "OpenAI has been active with major announcements in April 2026. On April 16, 2026, the company introduced GPT-Rosalind, a frontier reasoning model purpose-built for life sciences research — targeting biology, drug discovery, protein engineering, genomics, and translational medicine. The same day, OpenAI announced the next evolution of its Agents SDK, expanding autonomous agent capabilities for developers. OpenAI also released a significant Codex update, extending the tool beyond coding into compu",
+      "timestamp": "2026-04-19T07:34:07.429393+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.9,
+      "content_hash": "04e67736773106b6"
+    },
+    {
+      "title": "The Walt Disney Company and OpenAI reach landmark agreement for Sora",
+      "url": "https://openai.com/index/disney-sora-agreement/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI has been active on Twitter (@OpenAI) in April 2026 with several major announcements. The company announced updates to ChatGPT Pro and Plus subscriptions to better support the growing use of Codex, introducing a new $100/month Pro tier offering 5x more Codex usage than Plus, optimized for longer, high-effort coding sessions. OpenAI also revealed a landmark agreement with The Walt Disney Company to bring beloved Disney characters into Sora, its video generation platform, marking a major cre",
+      "timestamp": "2026-04-19T07:36:45.076160+00:00",
+      "company": "openai",
+      "category": "partnership",
+      "relevance_score": 0.9,
+      "content_hash": "9cd4e18ce0e89b93"
+    },
+    {
+      "title": "openai-python CHANGELOG on GitHub",
+      "url": "https://github.com/openai/openai-python/blob/main/CHANGELOG.md",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "OpenAI has been active with API updates heading into April 2026. Major model releases include GPT-5.4 mini and GPT-5.4 nano added to the Chat Completions and Responses API, with GPT-5.4 mini targeting high-volume workloads and nano optimized for speed and cost. GPT-5.3-Codex was also launched as an agentic coding model combining the Codex and GPT-5 training stacks, running ~25% faster than predecessors with new benchmark highs. On the research side, GPT-Rosalind was introduced as a life sciences",
+      "timestamp": "2026-04-19T07:36:06.188674+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.85,
+      "content_hash": "7719ae465e0f3604"
+    },
+    {
+      "title": "OpenAI on X — ChatGPT Pro and Plus Codex Update",
+      "url": "https://x.com/OpenAI/status/2042295688323875316",
+      "source": "gemini_grounded",
+      "author": "x.com",
+      "snippet": "OpenAI has been active on Twitter (@OpenAI) in April 2026 with several major announcements. The company announced updates to ChatGPT Pro and Plus subscriptions to better support the growing use of Codex, introducing a new $100/month Pro tier offering 5x more Codex usage than Plus, optimized for longer, high-effort coding sessions. OpenAI also revealed a landmark agreement with The Walt Disney Company to bring beloved Disney characters into Sora, its video generation platform, marking a major cre",
+      "timestamp": "2026-04-19T07:36:45.076124+00:00",
+      "company": "openai",
+      "category": "partnership",
+      "relevance_score": 0.85,
+      "content_hash": "416df312e2b152de"
+    },
+    {
+      "title": "Summary of the latest GPT-Image-2 intelligence: 5 major capability upgrades and release date prediction (April 2026)",
+      "url": "https://help.apiyi.com/en/gpt-image-2-leaked-features-release-guide-2026-en.html",
+      "source": "gemini_grounded",
+      "author": "help.apiyi.com",
+      "snippet": "OpenAI has been on an aggressive release cadence in early 2026. GPT-5.4 launched in March 2026, bringing together advances in reasoning, coding, and agentic workflows. It incorporates the coding capabilities of GPT-5.3-Codex, reports a 33% reduction in factual errors vs GPT-5.2, and includes built-in computer use and improved deep research. The GPT-5.4 Thinking variant adds an upfront reasoning plan so users can adjust the model's direction mid-response. Smaller variants — GPT-5.4 mini and nano ",
+      "timestamp": "2026-04-19T07:35:16.424484+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.8,
+      "content_hash": "985d9ac8eff69fac"
+    },
+    {
+      "title": "GPT as a Measurement Tool (OpenAI PDF)",
+      "url": "https://cdn.openai.com/pdf/7517a586-5bfa-4b87-bd3d-6ea0e9e844c7/GPT-as-a-measurement-tool.pdf",
+      "source": "gemini_grounded",
+      "author": "cdn.openai.com",
+      "snippet": "OpenAI's recent research output in early 2026 spans several high-impact areas. Notable publications include work on chain-of-thought monitorability (evaluating misalignment risks in coding agents), an instruction hierarchy challenge paper (IH-Challenge) that trains models to resist prompt injection and prioritize trusted instructions, and a FrontierScience benchmark evaluating AI's ability to autonomously perform scientific research tasks. OpenAI also published 'AI as a Scientific Collaborator' ",
+      "timestamp": "2026-04-19T07:34:46.033761+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.7,
+      "content_hash": "8df50d06c9eecde2"
+    },
+    {
+      "title": "New AI Model Releases News | April 2026 (Startup Edition)",
+      "url": "https://blog.mean.ceo/new-ai-model-releases-news-april-2026/",
+      "source": "gemini_grounded",
+      "author": "blog.mean.ceo",
+      "snippet": "OpenAI has been on an aggressive release cadence in early 2026. GPT-5.4 launched in March 2026, bringing together advances in reasoning, coding, and agentic workflows. It incorporates the coding capabilities of GPT-5.3-Codex, reports a 33% reduction in factual errors vs GPT-5.2, and includes built-in computer use and improved deep research. The GPT-5.4 Thinking variant adds an upfront reasoning plan so users can adjust the model's direction mid-response. Smaller variants — GPT-5.4 mini and nano ",
+      "timestamp": "2026-04-19T07:35:16.424498+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.5,
+      "content_hash": "da6f00b3cb640674"
+    }
+  ]
+}

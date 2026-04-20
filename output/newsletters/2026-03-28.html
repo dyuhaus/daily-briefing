@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daily Briefing — Saturday, March 28, 2026</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #ffffff; color: #1a1a1a; line-height: 1.7; padding: 20px; }
+  .container { max-width: 680px; margin: 0 auto; }
+
+  /* Header */
+  .header { text-align: center; margin-bottom: 32px; padding: 24px 0; border-bottom: 1px solid #e0e0e0; }
+  .header h1 { font-size: 22px; color: #1a1a1a; font-weight: 700; letter-spacing: 0.3px; }
+  .header .date { color: #666666; font-size: 13px; margin-top: 4px; }
+
+  /* Betting Banner */
+  .betting-banner { background: #f7f7f7; border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px 24px; margin-bottom: 32px; }
+  .betting-banner-title { font-size: 11px; text-transform: uppercase; letter-spacing: 1.2px; color: #666666; font-weight: 600; margin-bottom: 14px; }
+  .betting-hero { display: flex; align-items: baseline; gap: 16px; flex-wrap: wrap; margin-bottom: 6px; }
+  .betting-hero-main { font-size: 24px; font-weight: 700; color: #1a1a1a; }
+  .betting-hero-stat { font-size: 14px; color: #666666; }
+  .betting-hero-stat .val { color: #1a1a1a; font-weight: 600; }
+  .betting-narrative { font-size: 13px; color: #444444; line-height: 1.65; margin-top: 10px; }
+
+  /* Sections */
+  .section { margin-bottom: 32px; }
+  .section-title { font-size: 16px; font-weight: 600; color: #1a1a1a; margin-bottom: 2px; }
+  .section-subtitle { font-size: 13px; color: #666666; font-style: italic; margin-bottom: 14px; }
+  .section-tag { float: right; font-size: 11px; color: #666666; font-style: italic; font-weight: 400; }
+  .section-body { font-size: 14px; color: #1a1a1a; line-height: 1.75; }
+  .section-body p { margin-bottom: 12px; }
+  .section-divider { border: none; border-top: 1px solid #e0e0e0; margin: 24px 0; }
+
+  /* Insights */
+  .insights-label { font-size: 12px; color: #666666; font-weight: 600; margin-top: 16px; margin-bottom: 8px; }
+  .insight-item { font-size: 13px; color: #1a1a1a; line-height: 1.65; margin-bottom: 8px; padding-left: 16px; position: relative; }
+  .insight-item::before { content: ""; position: absolute; left: 0; top: 8px; width: 6px; height: 6px; border-radius: 50%; background: #2da44e; }
+
+  /* Project Status */
+  .project-row { display: flex; align-items: flex-start; padding: 10px 0; border-bottom: 1px solid #e0e0e0; gap: 10px; }
+  .project-row:last-child { border-bottom: none; }
+  .status-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; margin-top: 6px; }
+  .status-active { background: #2da44e; }
+  .status-idle { background: #bf8700; }
+  .status-error { background: #cf222e; }
+  .project-info { flex: 1; }
+  .project-name { font-weight: 600; color: #1a1a1a; font-size: 13px; }
+  .project-summary { color: #666666; font-size: 12px; margin-top: 2px; }
+  .metric-row { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 4px; }
+  .metric { font-size: 11px; color: #0969da; }
+  .metric strong { color: #1a1a1a; }
+
+  /* Inactive Projects */
+  .inactive-section { margin-bottom: 32px; }
+  .inactive-row { padding: 8px 14px; background: #f9f9f9; border-left: 3px solid #999; border-radius: 0 6px 6px 0; margin-bottom: 6px; }
+  .inactive-project-name { font-size: 13px; font-weight: 600; color: #555; }
+  .inactive-detail { font-size: 12px; color: #888; margin-top: 2px; }
+
+  .empty-state { color: #666666; font-style: italic; padding: 16px 0; font-size: 13px; }
+  .footer { text-align: center; color: #999999; font-size: 11px; padding: 20px; letter-spacing: 0.3px; }
+</style>
+</head>
+<body>
+<div class="container">
+
+<div class="header">
+  <h1>Daily Briefing</h1>
+  <div class="date">Saturday, March 28, 2026 · 07:33 AM ET</div>
+</div>
+
+
+<!-- KalshiTrader Paper Trading — Timing Strategy -->
+<div class="betting-banner" style="border-left: 3px solid #8250df;">
+  <div class="betting-banner-title">Kalshi Paper Trader — Timing Strategy</div>
+  <div class="betting-hero">
+    <div class="betting-hero-main">11W / 2L</div>
+    <div class="betting-hero-stat"><span class="val">-$3.71</span> Paper P&L</div>
+    <div class="betting-hero-stat"><span class="val">85%</span> Win Rate</div>
+    <div class="betting-hero-stat"><span class="val">-5.6%</span> ROI</div>
+  </div>
+  <div class="betting-narrative">
+    $96.29 bankroll · 16 fills (3 pending)
+    
+    <br>
+    
+    <span style="display: inline-block; background: #f0e6ff; color: #8250df; padding: 1px 8px; border-radius: 3px; margin: 2px 4px 2px 0; font-size: 12px;">NBA: 11W/2L -$3.71</span>
+    
+    
+  </div>
+  
+  <div style="margin-top: 10px; font-size: 12px; color: #444444;">
+    <strong>Today (3 fills):</strong>
+    
+    <div style="padding: 3px 0;">
+      NBA KXNBASPREAD-26MAR28SACATL-ATL7 @ 75c ·
+      <span style="color: #bf8700;">pending</span>
+    </div>
+    
+    <div style="padding: 3px 0;">
+      NBA KXNBASPREAD-26MAR28SASMIL-SAS9 @ 77c ·
+      <span style="color: #bf8700;">pending</span>
+    </div>
+    
+    <div style="padding: 3px 0;">
+      NBA KXNBASPREAD-26MAR28SASMIL-SAS12 @ 69c ·
+      <span style="color: #bf8700;">pending</span>
+    </div>
+    
+    
+  </div>
+  
+  
+</div>
+
+
+<hr class="section-divider">
+
+<!-- Market News -->
+<div class="section">
+  <div class="section-title">Market News</div>
+  
+  <div class="section-body">
+    
+    <p>Saturday's market close delivered a pair of structural milestones that shift the framing from a rough week to a genuine bear phase. The Nasdaq 100 and Dow Jones Industrial Average both officially entered correction territory, and the S&P 500 logged its fifth consecutive weekly decline — its longest losing streak since 2022 — with the index down 1.67% Friday, the Dow shedding 793 points, and Nasdaq off 2.15%. The selling is no longer purely an Iran/energy story. Two separate pressure vectors are converging: rising Treasury yields are compressing equity multiples even as risk sentiment deteriorates, and a new tariff regime has quietly reshaped the trade law landscape. The Supreme Court struck down IEEPA-based tariffs earlier this quarter, forcing the administration to pivot to Section 122 of the Trade Act for authority, resulting in a flat global 10% import tariff structure. That reset introduces a different legal durability — Section 122 tariffs are harder to challenge quickly — and emerging markets are repricing accordingly as dollar liquidity tightens and import cost structures shift. Credit markets are beginning to show stress independent of equity moves, which is the signal worth watching most closely as April opens; equity corrections can reverse fast, but credit spread widening tends to be stickier and has historically preceded deeper drawdowns when it appears alongside oil shocks.</p>
+    
+    <p>The week ahead — March 30 through April 3 — will be the first full trading week with all of these dynamics fully priced in by sophisticated participants. Macro calendar items include any Fed speaker commentary on the inflation revision and tariff pass-through, which will set tone early. The key risk is that the Iran situation and tariff regime are now being treated as durable structural inputs rather than headline noise, meaning the short-volatility / buy-the-dip reflexes that dominated 2023-2025 are less reliable here.</p>
+    
+  </div>
+  
+  <div class="insights-label">Key Developments</div>
+  
+  <div class="insight-item">Nasdaq 100 and Dow both in official correction territory as of Friday close — this changes institutional risk mandates for many funds, potentially triggering programmatic de-risking that accelerates selling pressure into next week independent of any new macro catalyst.</div>
+  
+  <div class="insight-item">SCOTUS invalidation of IEEPA tariffs and the administration's pivot to Section 122 for a global 10% import tariff is a structural change, not a temporary executive order — model any tariff-sensitive equity or prediction market positions with higher permanence assumptions.</div>
+  
+  <div class="insight-item">Credit spread widening appearing alongside equity declines and oil pressure is the multi-asset stress signal to monitor — on Kalshi, look for Fed rate cut probability contracts to reprice if credit stress accelerates, as the Fed faces a stagflation dilemma that makes either direction a trade.</div>
+  
+  <div class="insight-item">Five consecutive weekly S&P losses signals a regime shift worth exploiting on prediction markets — historically this pattern has a meaningful probability of extending to six or seven weeks once momentum is established, making downside-biased index contracts worth evaluating.</div>
+  
+  
+  
+</div>
+
+<hr class="section-divider">
+
+<!-- Anthropic News -->
+<div class="section">
+  <div class="section-title">Anthropic News</div>
+  
+  <div class="section-body">
+    
+    <p>The story dominating Anthropic coverage today is the accidental leak of a next-generation model called Claude Mythos. An internal database misconfiguration exposed draft blog posts and nearly 3,000 unpublished assets, and Anthropic confirmed to Fortune that Mythos is real — describing it as representing a 'step change' in AI capability with dramatically higher benchmark scores than the current Opus/Sonnet line. No release date has been confirmed, but the leak forced Anthropic's hand on the disclosure. Separately, Anthropic's API has reached a quiet but meaningful milestone: the web search tool and programmatic tool calling are now generally available with no beta header required, structured outputs have expanded schema support, and fine-grained tool streaming has shipped. These are the kinds of stabilization signals that matter for production agent deployments. A $200M partnership with Snowflake was also surfaced in the leaked assets, suggesting Anthropic is pushing deeper into enterprise data infrastructure — a logical pairing for agents that need to reason over large internal datasets.</p>
+    
+  </div>
+  
+  <div class="insights-label">Key Developments</div>
+  
+  <div class="insight-item">Claude Mythos confirmed via accidental leak — Anthropic's next flagship was exposed through a CMS misconfiguration, with internal docs describing it as a step-change over current models and showing dramatically higher benchmark scores. No timeline given, but it is clearly in late-stage preparation.</div>
+  
+  <div class="insight-item">Web search and tool calling now GA — both the web search tool and programmatic tool calling have exited beta on the API, removing the beta header requirement. For agent builders, this means these capabilities are now stable contract, not experimental.</div>
+  
+  <div class="insight-item">Structured outputs and tool streaming expanded — the API now supports broader JSON schema coverage in structured outputs and finer-grained streaming events for tool calls, which reduces latency and improves reliability in multi-step agent pipelines.</div>
+  
+  <div class="insight-item">Snowflake $200M partnership surfaces — leaked assets indicate a major enterprise data partnership with Snowflake, positioning Anthropic's models closer to where large organizations actually store their proprietary data — a significant enterprise distribution play.</div>
+  
+  
+  
+</div>
+
+<hr class="section-divider">
+
+<!-- OpenAI News -->
+<div class="section">
+  <div class="section-title">OpenAI News</div>
+  
+  <div class="section-body">
+    
+    <p>The most practically relevant OpenAI news today is on the API tier: GPT-5.4 mini and GPT-5.4 nano have landed in the Chat Completions and Responses API. GPT-5.4 mini ships with built-in tool search, computer use, and context compaction — making it the first sub-flagship model with native agentic primitives baked in rather than bolted on. GPT-5.4 nano targets high-volume, cost-sensitive workloads where latency and price matter more than reasoning depth. For anyone building agent pipelines, this is the tier to watch: capable enough for routing and lightweight tasks, priced for volume. On the research side, OpenAI launched Prism, a LaTeX-native collaborative workspace powered by GPT-5.2, and FrontierScience, an expert-written benchmark designed to stress-test AI on genuine scientific research tasks — both signals that OpenAI is pushing hard into the professional and academic research market.</p>
+    
+    <p>On the consumer side, ChatGPT picked up expanded shopping features: richer visual product discovery, side-by-side comparisons, and a Walmart integration rolling out across free, Plus, and Pro tiers. That move positions ChatGPT as a direct shopping interface — less a search complement, more a retail front end. Separately, TechCrunch is reading SoftBank's new $40 billion structured loan as a deliberate IPO setup, noting the terms appear designed to convert into equity at a public offering. The funding round reported yesterday was the scale story; today's SoftBank angle is about the exit timeline.</p>
+    
+  </div>
+  
+  <div class="insights-label">Key Developments</div>
+  
+  <div class="insight-item">GPT-5.4 mini arrives in the API with native tool search, computer use, and context compaction — the first mid-tier model with agentic primitives built in, not added after the fact. This is the model to evaluate for orchestration layers and tool-calling agents where GPT-5.4 is overkill.</div>
+  
+  <div class="insight-item">GPT-5.4 nano targets pure throughput workloads. For agent pipelines with high call volume — scoring, classification, routing — this is the cost floor to benchmark against.</div>
+  
+  <div class="insight-item">Prism and FrontierScience together signal OpenAI is building a serious research vertical: a LaTeX-native workspace for collaboration and a benchmark designed by domain experts to measure actual scientific reasoning, not proxies for it.</div>
+  
+  <div class="insight-item">SoftBank's $40B loan structure, per TechCrunch, is being read as an IPO setup — terms apparently designed to convert at a public offering. The funding headline was yesterday; the IPO timeline is the new wrinkle today.</div>
+  
+  
+  
+</div>
+
+<hr class="section-divider">
+
+<!-- Google News -->
+<div class="section">
+  <div class="section-title">Google News</div>
+  
+  <div class="section-body">
+    
+    <p>The most actionable development today for agent builders is a quiet but meaningful update to Google Antigravity — the AI coding agent inside AI Studio. Version 1.20.3 now reads agent rules from AGENTS.md in addition to GEMINI.md, which means it joins the emerging cross-tool convention where agents check a standardized rules file alongside their own config. Auto-continue is also now enabled by default rather than a manual toggle, moving Antigravity closer to a fire-and-forget coding agent experience. Separately, the Gemini 3.1 rollout to Gemini CLI is now confirmed in motion for AI Ultra subscribers, meaning the CLI toolchain will start reflecting the 3.1 reasoning improvements covered yesterday without requiring any code changes from developers already using the CLI.</p>
+    
+    <p>On the tooling side, Google AI Studio is getting attention as a full-stack vibe coding environment — it now supports a React frontend plus Node.js backend runtime, letting developers build and wire complete applications from plain English prompts inside the Studio UI. This is less a research story and more a product positioning move, but it signals that AI Studio is evolving from a model playground into a deployment-adjacent IDE. DeepMind also disclosed D4RT, a 4D video model that generates temporally coherent video from sparse inputs — practical applications for simulation and synthetic training data are the obvious angle, though it is early research stage. Genkit's multi-agent documentation appears to have been significantly expanded with new samples in the GitHub repo, which is worth a look if you are building orchestration flows in JavaScript or Python against Gemini backends.</p>
+    
+  </div>
+  
+  <div class="insights-label">Key Developments</div>
+  
+  <div class="insight-item">Google Antigravity v1.20.3 — AI Studio's coding agent now reads AGENTS.md alongside GEMINI.md for agent rules, and auto-continue is on by default, reducing manual intervention in coding sessions.</div>
+  
+  <div class="insight-item">AI Studio full-stack runtime — Studio now runs React plus Node.js in-browser, positioning it as a lightweight deployment environment for prototypes built from plain English prompts.</div>
+  
+  <div class="insight-item">D4RT 4D video model — DeepMind released a new video generation model focused on 4D temporal coherence, early-stage research but relevant for synthetic data and simulation pipelines.</div>
+  
+  <div class="insight-item">Gemini CLI 3.1 rollout confirmed — the gemini-cli GitHub thread confirms Gemini 3.1 is actively rolling out to AI Ultra users, so CLI-based agent workflows will pick up the reasoning upgrade without API changes.</div>
+  
+  
+  
+</div>
+
+<hr class="section-divider">
+
+<!-- General AI Industry Updates -->
+<div class="section">
+  <div class="section-title">General AI Industry Updates</div>
+  
+  
+  <div class="section-subtitle">Busy day</div>
+  
+  <div class="section-body">
+    
+    <p>The most actionable development this week for agent builders is Cursor's Automations feature, introduced in the 2.3 release. It enables always-on agents that trigger from external events — Slack messages, Linear tickets, GitHub webhooks, PagerDuty alerts — rather than requiring a human to initiate each session. Paired with 30+ new marketplace plugins from Atlassian, Datadog, GitLab, Hugging Face, and PlanetScale, Cursor is positioning itself less as a coding assistant and more as an event-driven autonomous development agent. Sourcegraph is moving in the same direction with its own AI Agents offering, suggesting the coding-tool category is converging on ambient, trigger-based execution as the dominant interaction model.</p>
+    
+    <p>On the open-source model front, Alibaba's Qwen 3.5 Small is the release worth flagging this week. It entered the March 2026 wave alongside Llama 4 but targets a different niche — a lightweight, efficient model designed for tasks where Llama 4's scale is overkill. China's open-source ecosystem is visibly broadening beyond DeepSeek: Hugging Face has published analysis noting that multiple Chinese labs are now releasing models across different architectural bets, with MoE, dense, and hybrid approaches all represented. The practical outcome is that the open-weight model shelf is becoming genuinely competitive across capability tiers, not just at the frontier.</p>
+    
+    <p>The agent framework layer is showing signs of consolidation. LangGraph reached v1.0 in late 2025 and is now the default runtime for LangChain-based enterprise deployments; CrewAI shipped v0.35.0 this week; AutoGen/AG2 rounds out the top three production options. Alongside this, researchers at HUST released MemoryAgentBench at ICLR 2026 — the first standardized benchmark specifically for evaluating how well LLM agents handle memory across long task horizons. For anyone building multi-session or stateful agents, this is the first rigorous yardstick to emerge for that capability gap. NitroGen from MineDojo is also worth a bookmark — a foundation model for generalist gaming agents that treats open-ended game environments as a proving ground for general-purpose autonomous behavior.</p>
+    
+  </div>
+  
+  <div class="insights-label">Key Developments</div>
+  
+  <div class="insight-item">Cursor Automations (v2.3): always-on agents that fire from Slack, Linear, GitHub, and PagerDuty events — shifts coding AI from assistant to event-driven autonomous actor.</div>
+  
+  <div class="insight-item">Alibaba Qwen 3.5 Small: lightweight open-weight model released March 2026, targeting efficient inference where Llama 4-scale is unnecessary; part of a broader wave of Chinese open-source releases diversifying beyond DeepSeek.</div>
+  
+  <div class="insight-item">MemoryAgentBench (ICLR 2026, HUST): first standardized benchmark for evaluating LLM agent memory across long-horizon tasks — a critical missing measurement for stateful and multi-session agent systems.</div>
+  
+  <div class="insight-item">Agent framework consolidation: LangGraph v1.0, CrewAI v0.35.0, and AutoGen/AG2 are now the three dominant production runtimes; the framework selection question is largely settled for enterprise use.</div>
+  
+  <div class="insight-item">NitroGen (MineDojo): foundation model for generalist gaming agents treating open-ended game environments as a general autonomous-behavior test bed — relevant signal for anyone evaluating agent generalization outside narrow task domains.</div>
+  
+  
+  
+  
+  <div class="insights-label">Editorial</div>
+  
+  <div class="insight-item">
+    <a href="https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/" style="font-weight:600;">TurboQuant: Redefining AI Efficiency with Extreme Compression (Google Research)</a>
+     <span style="color:#888;font-size:0.85em;">— Google Research</span>
+    <div style="margin-top:4px;color:#444;">Google Research published TurboQuant (ICLR 2026), a two-stage vector compression achieving 3-bit KV cache quantization with ZERO accuracy loss. PolarQuant converts vectors to polar coordinates; QJL adds 1-bit error correction. Results: 6x KV memory reduction, 8x throughput on H100s. No open-source release yet. PROJECT APPLICABILITY: AutoResearch (KVQuant near-term), MarketSwarm (regime fingerprints), QuantMarketData (belief compression), SportsBettingSwarm (polar normalization), FORGE (context compression).</div>
+  </div>
+  
+  <div class="insight-item">
+    <strong>Action Items: TurboQuant Implementation Proposals</strong>
+     <span style="color:#888;font-size:0.85em;">— Internal</span>
+    <div style="margin-top:4px;color:#444;">HIGH: MarketSwarm regime fingerprint vector store (2-3 days), AutoResearch KVQuant integration (3-5 days). MEDIUM: FORGE context compression (4-6 hrs), QuantMarketData polar signal cache (1 day), SportsBettingSwarm polar normalization (4-6 hrs).</div>
+  </div>
+  
+  
+</div>
+
+
+<hr class="section-divider">
+
+<!-- Project Applicability -->
+<div class="section">
+  <div class="section-title">Project Applicability<span class="section-tag">analysis</span></div>
+  <div class="section-body">
+    
+    <p>The two developments with direct bearing on this stack are MemoryAgentBench and the Cursor Automations event-driven pattern — and they hit opposite ends of the same problem. On the memory side: MarketSwarm, SportsBettingSwarm, and the Kalshi trader all run as stateful multi-session agents, but there has been no rigorous way to measure whether they are actually retaining and applying context across rounds. MemoryAgentBench from ICLR 2026 is the first standardized yardstick for exactly that capability gap. The AlgoSwarm IS/OOS gap — 36.2% structural divergence — is partly a regime-awareness problem; agents that fail to carry forward learned context about market conditions across sessions will keep overfitting. Running the swarm workflows against MemoryAgentBench-style evaluation tasks would expose where memory is degrading and give a concrete score to optimize against, rather than inferring it indirectly from backtest drift. On the event-driven side: the DailyBriefing pipeline and KalshiTrader both still depend on Windows Task Scheduler for triggering — a polling model that forces fixed cadence regardless of whether anything meaningful has changed. The Cursor Automations pattern (fire on external webhook, price event, or platform notification) is exactly what a market-reactive Kalshi agent needs. A price threshold crossed, a new market listed, or a settlement event should trigger the trading logic directly, not wait for the next scheduled poll. The pattern is now validated at production scale by Cursor and Sourcegraph — the infrastructure to receive those event payloads already exists via the MCP message bus.</p>
+    
+  </div>
+  
+  <div class="insights-label">Recommendations</div>
+  
+  <div class="insight-item">Benchmark MarketSwarm and SportsBettingSwarm memory handling against MemoryAgentBench evaluation tasks — the ICLR 2026 paper is the first rigorous yardstick for cross-session context retention, and the IS/OOS structural gap in AlgoSwarm is a plausible symptom of agents losing regime context between rounds. Run the benchmark before the next swarm optimization pass so improvements have a measurable target rather than relying on backtest delta as a proxy.</div>
+  
+  <div class="insight-item">Replace Windows Task Scheduler triggers in KalshiTrader with event-driven execution — wire the existing MCP message bus or FastMCP layer to fire on market events (new listing, price threshold crossed, settlement) rather than polling on a fixed cron. The Cursor Automations architecture is now production-validated; the infrastructure is already in place.</div>
+  
+  <div class="insight-item">Evaluate Qwen 3.5 Small as the scoring and classification worker in SportsBettingSwarm and the bracket prediction pipeline — it targets exactly the inference tier where Haiku currently sits in the model stratification policy, and as an open-weight model it would eliminate per-token cost on high-volume classification calls like game outcome scoring and spread estimation.</div>
+  
+  <div class="insight-item">Track LangGraph v1.0 as a candidate runtime for the next MarketSwarm architecture revision — it is now the default for LangChain enterprise deployments and its graph-based state machine maps cleanly onto the round-based swarm pattern already in use. The framework selection question is settled enough that a time-boxed spike comparing it against the custom WAT framework is worth scheduling before the next major swarm refactor.</div>
+  
+  
+</div>
+
+
+<hr class="section-divider">
+
+<!-- Claude Code Intel -->
+<div class="section">
+  <div class="section-title">Claude Code Intel<span class="section-tag"></span></div>
+  
+  <div class="section-body">
+    
+    <p>The YouTube signal this week points to a significant Anthropic release cycle — the title 'Anthropic Went Crazy This Week' suggests a cluster of announcements rather than a single drop, likely spanning model updates, API capabilities, or Claude Code tooling. Without transcript access, the specific content is unknown, but release-cluster weeks from Anthropic have historically coincided with expanded context windows, new tool use primitives, or agent SDK updates. Any of these would have direct downstream implications for agent swarm orchestration and multi-model pipeline design. Worth monitoring the Anthropic changelog and community threads directly to catch anything that affects the MCP message bus, tool use schemas, or subagent invocation patterns before they surface in breaking changes.</p>
+    
+  </div>
+  
+  <div class="insights-label">Key Takeaways</div>
+  
+  <div class="insight-item">A high-volume Anthropic week likely means new model capabilities or API surface changes — audit the Anthropic changelog for updates to tool use, context limits, or the agent SDK that could affect swarm worker routing or MCP server compatibility.</div>
+  
+  <div class="insight-item">Release-cluster weeks are a good forcing function to pin dependency versions in automated pipelines — if claude-code CLI or the Anthropic SDK updated, verify that swarm worker agents and the DailyBriefing Claude CLI backend still behave correctly before the next trading session.</div>
+  
+  
+  
+  
+</div>
+
+
+<hr class="section-divider">
+
+<!-- Action Items — pending work only -->
+<div class="section">
+  <div class="section-title">Action Items<span class="section-tag">11 findings</span></div>
+  
+  
+  
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff8e6; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #bf8700;">IHTC</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">1 pending item(s)</div>
+  </div>
+  
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff8e6; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #bf8700;">FORGE</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">3 open item(s)</div>
+  </div>
+  
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff8e6; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #bf8700;">FORGE</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">2 pending item(s)</div>
+  </div>
+  
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff8e6; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #bf8700;">FORGE</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">9 strategies ready to launch — awaiting decision</div>
+  </div>
+  
+  
+  
+  <div style="font-size: 12px; color: #666666; margin-top: 8px; font-style: italic;">+ 7 lower-priority items (paused projects, ideas, documented next steps)</div>
+  
+</div>
+
+
+
+<hr class="section-divider">
+
+<!-- Inactive Projects -->
+<div class="inactive-section">
+  <div class="section-title" style="color: #666; font-size: 14px;">Inactive Projects<span class="section-tag">2 projects</span></div>
+  <div style="margin-top: 10px;">
+  
+  <div class="inactive-row">
+    <div class="inactive-project-name">AutoResearch</div>
+    <div class="inactive-detail">No activity in 10 days</div>
+  </div>
+  
+  <div class="inactive-row">
+    <div class="inactive-project-name">BookSummarizer</div>
+    <div class="inactive-detail">No activity in 10 days</div>
+  </div>
+  
+  </div>
+</div>
+
+
+<hr class="section-divider">
+
+<!-- Project Status -->
+<div class="section">
+  <div class="section-title">Project Status</div>
+  <div class="section-subtitle">7 active</div>
+  
+  <div class="project-row">
+    <div class="status-dot status-active"></div>
+    <div class="project-info">
+      <div class="project-name">Sports Betting Swarm</div>
+      <div class="project-summary">Current baseline score: 0.915337</div>
+      
+      <div class="metric-row">
+        
+        <span class="metric"><strong>Runs:</strong> 0</span>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="project-row">
+    <div class="status-dot status-idle"></div>
+    <div class="project-info">
+      <div class="project-name">March Madness Swarm</div>
+      <div class="project-summary">No recent activity</div>
+      
+      <div class="metric-row">
+        
+        <span class="metric"><strong>Experiments:</strong> 0</span>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="project-row">
+    <div class="status-dot status-idle"></div>
+    <div class="project-info">
+      <div class="project-name">AutoResearch</div>
+      <div class="project-summary">No recent activity</div>
+      
+    </div>
+  </div>
+  
+  <div class="project-row">
+    <div class="status-dot status-active"></div>
+    <div class="project-info">
+      <div class="project-name">FORGE</div>
+      <div class="project-summary">Current phase: All strategies fully built</div>
+      
+    </div>
+  </div>
+  
+  <div class="project-row">
+    <div class="status-dot status-active"></div>
+    <div class="project-info">
+      <div class="project-name">MarketSwarm (AlgoSwarm)</div>
+      <div class="project-summary">Current baseline CAGR (IS): 74.30%</div>
+      
+      <div class="metric-row">
+        
+        <span class="metric"><strong>Round:</strong> 8</span>
+        
+        <span class="metric"><strong>Baseline:</strong> 74.3</span>
+        
+        <span class="metric"><strong>Oos Score:</strong> 47.42</span>
+        
+        <span class="metric"><strong>Is Oos Divergence Pct:</strong> 36.2</span>
+        
+        <span class="metric"><strong>Safeguards Active:</strong> True</span>
+        
+        <span class="metric"><strong>Status:</strong> complete</span>
+        
+        <span class="metric"><strong>Note:</strong> Round 6 was a safeguard reset: holdout split (4/11 OOS), risk floors, correlation guard, volume-adaptive slippage. Rounds 7-8 found no improvement over 74.30% IS CAGR baseline.</span>
+        
+        <span class="metric"><strong>Positions:</strong> 16</span>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="project-row">
+    <div class="status-dot status-active"></div>
+    <div class="project-info">
+      <div class="project-name">QuantMarketData (Kalshi)</div>
+      <div class="project-summary">Phase: Paper Trading (Phase 3)</div>
+      
+    </div>
+  </div>
+  
+  <div class="project-row">
+    <div class="status-dot status-active"></div>
+    <div class="project-info">
+      <div class="project-name">KalshiTrader (Paper V2)</div>
+      <div class="project-summary">Phase: **Paper Trading V2 Active** (7W-0L, $3.58 PnL on $100 bankroll)</div>
+      
+      <div class="metric-row">
+        
+        <span class="metric"><strong>Balance:</strong> 96.29</span>
+        
+        <span class="metric"><strong>P&L:</strong> -3.71</span>
+        
+        <span class="metric"><strong>ROI:</strong> -0.06</span>
+        
+        <span class="metric"><strong>Fills:</strong> 16</span>
+        
+        <span class="metric"><strong>Settled:</strong> 13</span>
+        
+        <span class="metric"><strong>Win Rate:</strong> 0.85</span>
+        
+        <span class="metric"><strong>Open Pos:</strong> 0</span>
+        
+        <span class="metric"><strong>Resting:</strong> 0</span>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+</div>
+
+<div class="footer">
+  Brain System · Saturday, March 28, 2026 · Full details indexed in AI_Brain vault
+</div>
+
+</div>
+</body>
+</html>

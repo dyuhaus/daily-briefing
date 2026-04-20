@@ -1,0 +1,64 @@
+{
+  "date": "2026-03-31",
+  "scan_time": "2026-03-31T07:39:32.585356+00:00",
+  "total_scraped": 88,
+  "after_dedup": 37,
+  "after_filter": 5,
+  "items": [
+    {
+      "title": "What is Overfitting in Trading? - AlgoTrading101 Blog",
+      "url": "https://algotrading101.com/learn/what-is-overfitting-in-trading/",
+      "source": "gemini_grounded",
+      "author": "algotrading101.com",
+      "snippet": "The r/algotrading community consistently highlights the gap between backtest performance and live trading results as the central challenge for retail algo traders. Recurring themes include overfitting (curve fitting) to historical data — a 2014 study cited across the community found 44% of published trading strategies failed to replicate results on new data. Community members frequently share backtests showing inflated returns (some claiming 3000%+), while experienced members caution these are a",
+      "timestamp": "2026-03-31T07:31:01.680185+00:00",
+      "relevance_score": 0.8,
+      "content_hash": "9d3ca0ebf6468f1f",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Curve Fitting In Trading: What is it? | QuantifiedStrategies",
+      "url": "https://www.quantifiedstrategies.com/curve-fitting-trading/",
+      "source": "gemini_grounded",
+      "author": "www.quantifiedstrategies.com",
+      "snippet": "The r/algotrading community consistently highlights the gap between backtest performance and live trading results as the central challenge for retail algo traders. Recurring themes include overfitting (curve fitting) to historical data — a 2014 study cited across the community found 44% of published trading strategies failed to replicate results on new data. Community members frequently share backtests showing inflated returns (some claiming 3000%+), while experienced members caution these are a",
+      "timestamp": "2026-03-31T07:31:01.680189+00:00",
+      "relevance_score": 0.8,
+      "content_hash": "56cfb08956bc4506",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Bridging the Gap: Why Backtested Strategies Fail in Live Trading",
+      "url": "https://impactwealth.org/bridging-the-gap-why-backtested-strategies-fail-in-live-trading/",
+      "source": "gemini_grounded",
+      "author": "impactwealth.org",
+      "snippet": "The r/algotrading community consistently highlights the gap between backtest performance and live trading results as the central challenge for retail algo traders. Recurring themes include overfitting (curve fitting) to historical data — a 2014 study cited across the community found 44% of published trading strategies failed to replicate results on new data. Community members frequently share backtests showing inflated returns (some claiming 3000%+), while experienced members caution these are a",
+      "timestamp": "2026-03-31T07:31:01.680196+00:00",
+      "relevance_score": 0.8,
+      "content_hash": "4ae46eb56d1d5e62",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "GitHub - nkaz001/algotrading-example: backtest using order book imbalances",
+      "url": "https://github.com/nkaz001/algotrading-example",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "The r/algotrading community consistently highlights the gap between backtest performance and live trading results as the central challenge for retail algo traders. Recurring themes include overfitting (curve fitting) to historical data — a 2014 study cited across the community found 44% of published trading strategies failed to replicate results on new data. Community members frequently share backtests showing inflated returns (some claiming 3000%+), while experienced members caution these are a",
+      "timestamp": "2026-03-31T07:31:01.680200+00:00",
+      "relevance_score": 0.8,
+      "content_hash": "4c91e88eaa6ee5f2",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Microservices Based Algorithmic Trading System - Medium",
+      "url": "https://usquant349.medium.com/microservices-based-algorithmic-trading-system-83a534c3f132",
+      "source": "gemini_grounded",
+      "author": "usquant349.medium.com",
+      "snippet": "Automated trading system architecture discussions across r/algotrading and r/quant consistently converge on a modular, event-driven design with four core layers: market data ingestion, signal generation, risk management, and order execution. The dominant pattern in 2025-2026 is decoupling these components via an event bus (e.g., Redis pub/sub or Kafka), so each subsystem reacts to market events asynchronously without tight coupling. Popular open-source implementations like NautilusTrader (Rust-n",
+      "timestamp": "2026-03-31T07:31:51.544573+00:00",
+      "relevance_score": 0.6,
+      "content_hash": "ea4963c046788c95",
+      "freshness_window": "24h"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "date": "2026-04-18",
+  "company": "openai",
+  "scan_time": "2026-04-18T07:37:10.585399+00:00",
+  "total_scraped": 40,
+  "after_dedup": 9,
+  "after_filter": 9,
+  "items": [
+    {
+      "title": "OpenAI Release Notes - April 2026 | Releasebot",
+      "url": "https://releasebot.io/updates/openai",
+      "source": "gemini_grounded",
+      "author": "releasebot.io",
+      "snippet": "OpenAI has been actively releasing major updates in April 2026. Key announcements include GPT-Rosalind, a life sciences reasoning model optimized for biology, drug discovery, and translational medicine, with a Codex research plugin connecting scientists to 50+ tools and data sources. OpenAI also released a major Codex update expanding the product well beyond coding into computer use, web workflows, image generation, persistent memory, and automations. Additionally, the next evolution of the Agen",
+      "timestamp": "2026-04-18T07:34:03.571963+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.85,
+      "content_hash": "d862b8280af2172b"
+    },
+    {
+      "title": "OpenAI Extends the Responses API to Serve as a Foundation for Autonomous Agents - InfoQ",
+      "url": "https://www.infoq.com/news/2026/03/openai-responses-api-agents/",
+      "source": "gemini_grounded",
+      "author": "www.infoq.com",
+      "snippet": "OpenAI has been actively updating its API platform in early 2026. Key model releases include GPT-5.4 mini and GPT-5.4 nano added to the Chat Completions and Responses API, targeting high-volume workloads and cost-efficient use cases. Additionally, models like gpt-4o-search-preview and computer-use-preview have been introduced, alongside GPT-Rosalind — a life sciences reasoning model for biology and drug discovery. The Codex changelog has also seen ongoing updates for developers using the coding-",
+      "timestamp": "2026-04-18T07:36:13.272255+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.85,
+      "content_hash": "33695286ef6dada1"
+    },
+    {
+      "title": "Trusted access for the next era of cyber defense | OpenAI",
+      "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI has been actively releasing major updates in April 2026. Key announcements include GPT-Rosalind, a life sciences reasoning model optimized for biology, drug discovery, and translational medicine, with a Codex research plugin connecting scientists to 50+ tools and data sources. OpenAI also released a major Codex update expanding the product well beyond coding into computer use, web workflows, image generation, persistent memory, and automations. Additionally, the next evolution of the Agen",
+      "timestamp": "2026-04-18T07:34:03.571949+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.8,
+      "content_hash": "473254c00afa86bc"
+    },
+    {
+      "title": "OpenAI rolls out tiered access to advanced AI cyber models | Axios",
+      "url": "https://www.axios.com/2026/04/14/openai-model-cyber-program-release",
+      "source": "gemini_grounded",
+      "author": "www.axios.com",
+      "snippet": "As of April 2026, OpenAI's most recent flagship release is GPT-5.4, described as its most capable and efficient frontier model for professional and agentic work. GPT-5.4 introduces native computer-use capabilities (first in a general-purpose OpenAI model), supports up to 1 million tokens of context, and achieves state-of-the-art performance on GDPval — matching or exceeding industry professionals in 83% of comparisons. It is also notably more token-efficient than its predecessor GPT-5.2. The mod",
+      "timestamp": "2026-04-18T07:35:32.764143+00:00",
+      "company": "openai",
+      "category": "general",
+      "relevance_score": 0.8,
+      "content_hash": "3243725950fd12a4"
+    },
+    {
+      "title": "OpenAI on X — Codex Pro tier announcement",
+      "url": "https://x.com/OpenAI/status/2042295688323875316",
+      "source": "gemini_grounded",
+      "author": "x.com",
+      "snippet": "OpenAI has made several major announcements in April 2026. The company introduced GPT-Rosalind, a frontier reasoning model designed for life sciences research across biology, drug discovery, and translational medicine, along with a Codex research plugin connecting scientists to 50+ tools and data sources. Additionally, OpenAI released a major Codex update expanding its capabilities beyond coding into computer use, web workflows, image generation, memory, and automations with deeper developer too",
+      "timestamp": "2026-04-18T07:36:56.747143+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.8,
+      "content_hash": "57fcf39490991e83"
+    },
+    {
+      "title": "OpenAI Releases Cyber Model to Limited Group in Race With Mythos | Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-14/openai-releases-cyber-model-to-limited-group-in-race-with-mythos",
+      "source": "gemini_grounded",
+      "author": "www.bloomberg.com",
+      "snippet": "As of April 2026, OpenAI's most recent flagship release is GPT-5.4, described as its most capable and efficient frontier model for professional and agentic work. GPT-5.4 introduces native computer-use capabilities (first in a general-purpose OpenAI model), supports up to 1 million tokens of context, and achieves state-of-the-art performance on GDPval — matching or exceeding industry professionals in 83% of comparisons. It is also notably more token-efficient than its predecessor GPT-5.2. The mod",
+      "timestamp": "2026-04-18T07:35:32.764147+00:00",
+      "company": "openai",
+      "category": "general",
+      "relevance_score": 0.75,
+      "content_hash": "e0c31ab8881b9ea7"
+    },
+    {
+      "title": "Update on the OpenAI Foundation | OpenAI",
+      "url": "https://openai.com/index/update-on-the-openai-foundation/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI has made several major announcements in April 2026. The company introduced GPT-Rosalind, a frontier reasoning model designed for life sciences research across biology, drug discovery, and translational medicine, along with a Codex research plugin connecting scientists to 50+ tools and data sources. Additionally, OpenAI released a major Codex update expanding its capabilities beyond coding into computer use, web workflows, image generation, memory, and automations with deeper developer too",
+      "timestamp": "2026-04-18T07:36:56.747192+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.75,
+      "content_hash": "b5805e9d42b67670"
+    },
+    {
+      "title": "OpenAI's Secret Weapon Has a Codename: 'Spud' — LumiChats Blog",
+      "url": "https://lumichats.com/blog/gpt-5-5-spud-openai-release-date-features-april-2026-complete-guide",
+      "source": "gemini_grounded",
+      "author": "lumichats.com",
+      "snippet": "As of April 2026, OpenAI's most recent flagship release is GPT-5.4, described as its most capable and efficient frontier model for professional and agentic work. GPT-5.4 introduces native computer-use capabilities (first in a general-purpose OpenAI model), supports up to 1 million tokens of context, and achieves state-of-the-art performance on GDPval — matching or exceeding industry professionals in 83% of comparisons. It is also notably more token-efficient than its predecessor GPT-5.2. The mod",
+      "timestamp": "2026-04-18T07:35:32.764152+00:00",
+      "company": "openai",
+      "category": "product",
+      "relevance_score": 0.6,
+      "content_hash": "f2bcb2a79d54aaa1"
+    },
+    {
+      "title": "AI Dispatch | 10–16 April 2026 - MIT Sloan Management Review Middle East",
+      "url": "https://www.mitsloanme.com/article/ai-dispatch-10-16-april-2026/",
+      "source": "gemini_grounded",
+      "author": "www.mitsloanme.com",
+      "snippet": "OpenAI has made several major announcements in April 2026. The company introduced GPT-Rosalind, a frontier reasoning model designed for life sciences research across biology, drug discovery, and translational medicine, along with a Codex research plugin connecting scientists to 50+ tools and data sources. Additionally, OpenAI released a major Codex update expanding its capabilities beyond coding into computer use, web workflows, image generation, memory, and automations with deeper developer too",
+      "timestamp": "2026-04-18T07:36:56.747197+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.5,
+      "content_hash": "a4e0deede0ee28c7"
+    }
+  ]
+}

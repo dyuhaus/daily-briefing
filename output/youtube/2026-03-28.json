@@ -1,0 +1,24 @@
+{
+  "date": "2026-03-28",
+  "scan_time": "2026-03-28T10:01:22.649483+00:00",
+  "total_found": 120,
+  "unique_new": 4,
+  "with_transcripts": 3,
+  "after_filter": 1,
+  "items": [
+    {
+      "video_id": "OYyS0Gu5xj8",
+      "title": "AI News: Anthropic Went Crazy This Week!",
+      "channel": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=OYyS0Gu5xj8",
+      "upload_date": "",
+      "duration_seconds": 1913.0,
+      "description": "... Claude AI Dispatch Demo: https://x.com/claudeai/status/2035025492617961704 Claude Code Auto Mode: ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.58,
+      "content_hash": "20998bc00b3b608f",
+      "transcript_length": 0
+    }
+  ]
+}

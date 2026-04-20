@@ -1,0 +1,106 @@
+{
+  "date": "2026-04-04",
+  "company": "openai",
+  "scan_time": "2026-04-04T07:36:52.133981+00:00",
+  "total_scraped": 38,
+  "after_dedup": 8,
+  "after_filter": 8,
+  "items": [
+    {
+      "title": "AI Models in April 2026: Every Major Release, Leak, and What Comes Next",
+      "url": "https://renovateqr.com/blog/ai-models-april-2026",
+      "source": "gemini_grounded",
+      "author": "renovateqr.com",
+      "snippet": "OpenAI has been active with major announcements heading into April 2026. On the model front, the company released the GPT-5.4 series including GPT-5.4 Thinking (designed for complex reasoning with test-time compute) and GPT-5.4 Pro, alongside GPT-5.3 Instant for fast everyday tasks. Earlier in 2026, OpenAI introduced GPT-5.3-Codex (February 5) and its smaller sibling GPT-5.3-Codex-Spark (February 12), both aimed at real-time coding workflows. Codex also moved to pay-as-you-go pricing for teams a",
+      "timestamp": "2026-04-04T07:34:07.810458+00:00",
+      "company": "openai",
+      "category": "api_update",
+      "relevance_score": 1.0,
+      "content_hash": "a7c6790c053844ad"
+    },
+    {
+      "title": "OpenAI releases GPT-5.4 mini and nano, its 'most capable small models yet' - 9to5Mac",
+      "url": "https://9to5mac.com/2026/03/17/openai-releases-gpt-5-4-mini-and-nano-its-most-capable-small-models-yet/",
+      "source": "gemini_grounded",
+      "author": "9to5mac.com",
+      "snippet": "OpenAI has made several significant model releases in early 2026. On March 5, 2026, OpenAI launched GPT-5.4, described as its most powerful model for enterprise and agentic work. GPT-5.4 consolidates advances in reasoning, coding, and agentic workflows into a single frontier model, incorporating capabilities from GPT-5.3-Codex. It is 33% less likely to produce false claims and 18% less likely to contain errors compared to GPT-5.2, making it OpenAI's most factual model to date. The release also i",
+      "timestamp": "2026-04-04T07:35:10.510926+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 1.0,
+      "content_hash": "d7b804c646b1fa4e"
+    },
+    {
+      "title": "Everything We Know About OpenAI's New GPT-5.4 Thinking Model",
+      "url": "https://www.vice.com/en/article/release-gpt54-thinking/",
+      "source": "gemini_grounded",
+      "author": "www.vice.com",
+      "snippet": "OpenAI has made several significant model releases in early 2026. On March 5, 2026, OpenAI launched GPT-5.4, described as its most powerful model for enterprise and agentic work. GPT-5.4 consolidates advances in reasoning, coding, and agentic workflows into a single frontier model, incorporating capabilities from GPT-5.3-Codex. It is 33% less likely to produce false claims and 18% less likely to contain errors compared to GPT-5.2, making it OpenAI's most factual model to date. The release also i",
+      "timestamp": "2026-04-04T07:35:10.510933+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 1.0,
+      "content_hash": "9a2330e76a3187cc"
+    },
+    {
+      "title": "AI News Briefs BULLETIN BOARD for April 2026 | Radical Data Science",
+      "url": "https://radicaldatascience.wordpress.com/2026/04/03/ai-news-briefs-bulletin-board-for-april-2026/",
+      "source": "gemini_grounded",
+      "author": "radicaldatascience.wordpress.com",
+      "snippet": "OpenAI made several major announcements in early April 2026. Most notably, the company raised $122 billion in a new funding round on April 2, 2026, backed by investors including SoftBank, Andreessen Horowitz, and Fidelity, aimed at accelerating the next phase of AI development. The company also announced new model releases, with GPT-5.4 Thinking and GPT-5.4 Pro rolling out in ChatGPT, and GPT-5.4 becoming available via the API and Codex.\n\nOn the product side, OpenAI expanded Codex with pay-as-yo",
+      "timestamp": "2026-04-04T07:36:22.319024+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 1.0,
+      "content_hash": "c14207691c2c5b39"
+    },
+    {
+      "title": "OpenAI Research Overview",
+      "url": "https://openai.com/research/index/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI has been actively publishing research in early 2026 across several fronts. A notable release is 'AI as a Scientific Collaborator' (January 2026), which compiles early case studies across math, physics, biology, computer science, astronomy, and materials science where GPT-5 helped researchers synthesize results, conduct literature reviews, accelerate computations, and generate novel proofs. A companion blog post, 'Early experiments in accelerating science with GPT-5,' co-authored with Vand",
+      "timestamp": "2026-04-04T07:34:38.062859+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.8,
+      "content_hash": "d5bf640dfdbfee72"
+    },
+    {
+      "title": "ChatGPT by OpenAI - Release Notes - April 2026 Latest Updates - Releasebot",
+      "url": "https://releasebot.io/updates/openai/chatgpt",
+      "source": "gemini_grounded",
+      "author": "releasebot.io",
+      "snippet": "OpenAI has been actively updating its API platform in early 2026. Key model releases include GPT-5.4 mini and GPT-5.4 nano, added to both the Chat Completions and Responses APIs — mini targets high-volume workloads requiring GPT-5.4-class capability, while nano is optimized for speed and cost efficiency at scale. Earlier, o3-mini was launched as a small reasoning model focused on science, math, and coding tasks, and search-preview variants (gpt-4o-search-preview, gpt-4o-mini-search-preview) were",
+      "timestamp": "2026-04-04T07:35:54.410234+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.8,
+      "content_hash": "cf9a3a91fd3bf99f"
+    },
+    {
+      "title": "AI as a Scientific Collaborator — January 2026 (PDF)",
+      "url": "https://cdn.openai.com/pdf/f4b4a5da-b2de-418d-9fcd-6b293e9dc157/oai_ai-as-a-scientific-collaborator_jan-2026.pdf",
+      "source": "gemini_grounded",
+      "author": "cdn.openai.com",
+      "snippet": "OpenAI has been actively publishing research in early 2026 across several fronts. A notable release is 'AI as a Scientific Collaborator' (January 2026), which compiles early case studies across math, physics, biology, computer science, astronomy, and materials science where GPT-5 helped researchers synthesize results, conduct literature reviews, accelerate computations, and generate novel proofs. A companion blog post, 'Early experiments in accelerating science with GPT-5,' co-authored with Vand",
+      "timestamp": "2026-04-04T07:34:38.062818+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.7,
+      "content_hash": "e7767d840c391508"
+    },
+    {
+      "title": "Open AI News | April, 2026 (STARTUP EDITION)",
+      "url": "https://blog.mean.ceo/open-ai-news-april-2026/",
+      "source": "gemini_grounded",
+      "author": "blog.mean.ceo",
+      "snippet": "OpenAI made several major announcements in early April 2026. Most notably, the company raised $122 billion in a new funding round on April 2, 2026, backed by investors including SoftBank, Andreessen Horowitz, and Fidelity, aimed at accelerating the next phase of AI development. The company also announced new model releases, with GPT-5.4 Thinking and GPT-5.4 Pro rolling out in ChatGPT, and GPT-5.4 becoming available via the API and Codex.\n\nOn the product side, OpenAI expanded Codex with pay-as-yo",
+      "timestamp": "2026-04-04T07:36:22.319019+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.7,
+      "content_hash": "f6cc334285a5e56c"
+    }
+  ]
+}

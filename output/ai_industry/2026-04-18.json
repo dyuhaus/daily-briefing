@@ -1,0 +1,262 @@
+{
+  "date": "2026-04-18",
+  "scan_time": "2026-04-18T07:37:38.630798+00:00",
+  "total_scraped": 92,
+  "after_dedup": 23,
+  "after_filter": 23,
+  "items": [
+    {
+      "title": "Trending repositories on GitHub today · GitHub",
+      "url": "https://github.com/trending",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "The week of April 13-18, 2026 has seen explosive growth in AI agent repositories on GitHub. Leading the pack is NousResearch/hermes-agent, which gained 7,454+ new stars in a single week following its v0.8.0 release that merged 209 pull requests. Other major gainers include google/adk-python (Google's Agent Development Kit, 8,200+ total stars), meta-llama/llama-stack (6,400+ stars), openai/codex-cli (5,800+ stars), and huggingface/smolagents (4,100+ stars). A notable cluster of Claude Code optimi",
+      "timestamp": "2026-04-18T07:34:08.339822+00:00",
+      "category": "github",
+      "relevance_score": 0.85,
+      "content_hash": "43713172b6385d1f"
+    },
+    {
+      "title": "GitHub - QwenLM/Qwen3.6",
+      "url": "https://github.com/QwenLM/Qwen3.6",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "The open source AI model ecosystem is experiencing significant momentum in April 2026, with several major releases across Chinese and Western organizations. Alibaba's Qwen team released the Qwen3 batch (Qwen3-2504), a collection of dense and MoE models ranging from 4B to 235B parameters, including Qwen3.6-35B-A3B focused on agentic coding. DeepSeek followed with DeepSeek-V3.2, which combines frontier reasoning with improved efficiency for long-context and tool-use scenarios, released under the p",
+      "timestamp": "2026-04-18T07:36:51.328679+00:00",
+      "category": "github",
+      "relevance_score": 0.85,
+      "content_hash": "e25af05fa143034a"
+    },
+    {
+      "title": "Your stack, your rules: Introducing custom agents in GitHub Copilot - The GitHub Blog",
+      "url": "https://github.blog/news-insights/product-news/your-stack-your-rules-introducing-custom-agents-in-github-copilot-for-observability-iac-and-security/",
+      "source": "gemini_grounded",
+      "author": "github.blog",
+      "snippet": "GitHub has made a series of major AI agent announcements for GitHub Copilot over the past year. In late 2025, GitHub launched 'Agent HQ,' a unified interface across GitHub, VS Code, mobile, and CLI that lets users direct and manage AI-driven tasks. The platform opened up to coding agents from Anthropic, OpenAI, Google, Cognition, xAI, and others — all accessible within a paid GitHub Copilot subscription. Alongside this, GitHub introduced custom agents for observability, infrastructure-as-code, a",
+      "timestamp": "2026-04-18T07:31:06.916093+00:00",
+      "category": "startup",
+      "relevance_score": 0.8,
+      "content_hash": "b9cac22f663e497c"
+    },
+    {
+      "title": "📈 AI Open Source Trends 2026-04-13 · Issue #545 · duanyytop/agents-radar",
+      "url": "https://github.com/duanyytop/agents-radar/issues/545",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "The week of April 13-18, 2026 has seen explosive growth in AI agent repositories on GitHub. Leading the pack is NousResearch/hermes-agent, which gained 7,454+ new stars in a single week following its v0.8.0 release that merged 209 pull requests. Other major gainers include google/adk-python (Google's Agent Development Kit, 8,200+ total stars), meta-llama/llama-stack (6,400+ stars), openai/codex-cli (5,800+ stars), and huggingface/smolagents (4,100+ stars). A notable cluster of Claude Code optimi",
+      "timestamp": "2026-04-18T07:34:08.339866+00:00",
+      "category": "github",
+      "relevance_score": 0.8,
+      "content_hash": "8cb63ff0331b87c2"
+    },
+    {
+      "title": "Open LLM Leaderboard — Hugging Face Space",
+      "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
+      "source": "gemini_grounded",
+      "author": "huggingface.co",
+      "snippet": "April 2026 has been the most competitive month in open-source AI history, with six major labs releasing flagship models simultaneously. Google launched Gemma 4 on April 2, 2026, with four variants (2.3B to 31B parameters) under Apache 2.0, featuring multimodal support and remarkable benchmark jumps — the 31B Dense model scores 89.2% on AIME 2026, 80.0% on LiveCodeBench v6, and a Codeforces ELO of 2,150. Meta released Llama 4 in two MoE flavors (Scout at 17B active/109B total, Maverick at 17B act",
+      "timestamp": "2026-04-18T07:35:01.405109+00:00",
+      "category": "startup",
+      "relevance_score": 0.8,
+      "content_hash": "bedb01fa2e0402a1"
+    },
+    {
+      "title": "Microsoft releases open-source toolkit to govern autonomous AI agents - Help Net Security",
+      "url": "https://www.helpnetsecurity.com/2026/04/03/microsoft-ai-agent-governance-toolkit/",
+      "source": "gemini_grounded",
+      "author": "www.helpnetsecurity.com",
+      "snippet": "The AI agent framework ecosystem in 2026 has entered a maturation phase, with major consolidation and new governance tooling. Microsoft has deprecated AutoGen and Semantic Kernel as active development projects, moving them to maintenance-only mode, while launching a unified Microsoft Agent Framework that reached GA in Q1 2026. AutoGen's successor absorbs both projects and introduces a more structured multi-agent runtime. On the LangChain side, the framework itself stabilized at v1.0 in late 2025",
+      "timestamp": "2026-04-18T07:37:26.210835+00:00",
+      "category": "startup",
+      "relevance_score": 0.8,
+      "content_hash": "ba05cfe7d0b2a1a5"
+    },
+    {
+      "title": "Build an agent into any app with the GitHub Copilot SDK - The GitHub Blog",
+      "url": "https://github.blog/news-insights/company-news/build-an-agent-into-any-app-with-the-github-copilot-sdk/",
+      "source": "gemini_grounded",
+      "author": "github.blog",
+      "snippet": "GitHub has made a series of major AI agent announcements for GitHub Copilot over the past year. In late 2025, GitHub launched 'Agent HQ,' a unified interface across GitHub, VS Code, mobile, and CLI that lets users direct and manage AI-driven tasks. The platform opened up to coding agents from Anthropic, OpenAI, Google, Cognition, xAI, and others — all accessible within a paid GitHub Copilot subscription. Alongside this, GitHub introduced custom agents for observability, infrastructure-as-code, a",
+      "timestamp": "2026-04-18T07:31:06.916099+00:00",
+      "category": "startup",
+      "relevance_score": 0.75,
+      "content_hash": "748675929580ae6a"
+    },
+    {
+      "title": "📈 AI Open Source Trends 2026-04-12 · Issue #531 · duanyytop/agents-radar",
+      "url": "https://github.com/duanyytop/agents-radar/issues/531",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "The week of April 13-18, 2026 has seen explosive growth in AI agent repositories on GitHub. Leading the pack is NousResearch/hermes-agent, which gained 7,454+ new stars in a single week following its v0.8.0 release that merged 209 pull requests. Other major gainers include google/adk-python (Google's Agent Development Kit, 8,200+ total stars), meta-llama/llama-stack (6,400+ stars), openai/codex-cli (5,800+ stars), and huggingface/smolagents (4,100+ stars). A notable cluster of Claude Code optimi",
+      "timestamp": "2026-04-18T07:34:08.339880+00:00",
+      "category": "github",
+      "relevance_score": 0.75,
+      "content_hash": "f76fa65b5e163b2f"
+    },
+    {
+      "title": "10 Best Open-Source LLM Models (Llama 4, Qwen 3, DeepSeek R1) — Hugging Face Blog",
+      "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
+      "source": "gemini_grounded",
+      "author": "huggingface.co",
+      "snippet": "April 2026 has been the most competitive month in open-source AI history, with six major labs releasing flagship models simultaneously. Google launched Gemma 4 on April 2, 2026, with four variants (2.3B to 31B parameters) under Apache 2.0, featuring multimodal support and remarkable benchmark jumps — the 31B Dense model scores 89.2% on AIME 2026, 80.0% on LiveCodeBench v6, and a Codeforces ELO of 2,150. Meta released Llama 4 in two MoE flavors (Scout at 17B active/109B total, Maverick at 17B act",
+      "timestamp": "2026-04-18T07:35:01.405156+00:00",
+      "category": "startup",
+      "relevance_score": 0.75,
+      "content_hash": "d534a8e594f7708c"
+    },
+    {
+      "title": "This startup is betting tokenmaxxing will create the next compute giant | TechCrunch",
+      "url": "https://techcrunch.com/2026/04/15/parasail-raises-32m-to-feed-tokenmaxxing-ai-developers/",
+      "source": "gemini_grounded",
+      "author": "techcrunch.com",
+      "snippet": "AI startup funding in 2026 has shattered records, with Q1 alone surpassing all prior benchmarks. The headline deal is OpenAI's staggering $122 billion raise at an $852 billion valuation — one of the largest private funding rounds in history — including a $3 billion retail investor tranche. Anthropic followed with a $30 billion Series G at a $380 billion valuation, and xAI secured a $20 billion Series E led by Valor Equity Partners, Fidelity, and the Qatar Investment Authority.\n\nBeyond the mega-r",
+      "timestamp": "2026-04-18T07:33:19.149214+00:00",
+      "category": "startup",
+      "relevance_score": 0.7,
+      "content_hash": "cb533c63976b71d9"
+    },
+    {
+      "title": "The Agent Memory Race of 2026: 5 Repos, 4 Architectures, 1 Unsolved Problem | OSS Insight",
+      "url": "https://ossinsight.io/blog/agent-memory-race-2026",
+      "source": "gemini_grounded",
+      "author": "ossinsight.io",
+      "snippet": "The week of April 13-18, 2026 has seen explosive growth in AI agent repositories on GitHub. Leading the pack is NousResearch/hermes-agent, which gained 7,454+ new stars in a single week following its v0.8.0 release that merged 209 pull requests. Other major gainers include google/adk-python (Google's Agent Development Kit, 8,200+ total stars), meta-llama/llama-stack (6,400+ stars), openai/codex-cli (5,800+ stars), and huggingface/smolagents (4,100+ stars). A notable cluster of Claude Code optimi",
+      "timestamp": "2026-04-18T07:34:08.339886+00:00",
+      "category": "major_org",
+      "relevance_score": 0.7,
+      "content_hash": "df3808f59edde304"
+    },
+    {
+      "title": "Open LLM Leaderboard Best Models Collection",
+      "url": "https://huggingface.co/collections/open-llm-leaderboard/open-llm-leaderboard-best-models",
+      "source": "gemini_grounded",
+      "author": "huggingface.co",
+      "snippet": "April 2026 has been the most competitive month in open-source AI history, with six major labs releasing flagship models simultaneously. Google launched Gemma 4 on April 2, 2026, with four variants (2.3B to 31B parameters) under Apache 2.0, featuring multimodal support and remarkable benchmark jumps — the 31B Dense model scores 89.2% on AIME 2026, 80.0% on LiveCodeBench v6, and a Codeforces ELO of 2,150. Meta released Llama 4 in two MoE flavors (Scout at 17B active/109B total, Maverick at 17B act",
+      "timestamp": "2026-04-18T07:35:01.405139+00:00",
+      "category": "startup",
+      "relevance_score": 0.7,
+      "content_hash": "7513029740a2a651"
+    },
+    {
+      "title": "Open-dLLM: Open Diffusion Language Model for Code Generation — GitHub",
+      "url": "https://github.com/pengzhangzhi/Open-dLLM",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "April 2026 has been the most competitive month in open-source AI history, with six major labs releasing flagship models simultaneously. Google launched Gemma 4 on April 2, 2026, with four variants (2.3B to 31B parameters) under Apache 2.0, featuring multimodal support and remarkable benchmark jumps — the 31B Dense model scores 89.2% on AIME 2026, 80.0% on LiveCodeBench v6, and a Codeforces ELO of 2,150. Meta released Llama 4 in two MoE flavors (Scout at 17B active/109B total, Maverick at 17B act",
+      "timestamp": "2026-04-18T07:35:01.405166+00:00",
+      "category": "github",
+      "relevance_score": 0.7,
+      "content_hash": "c446d771dad11400"
+    },
+    {
+      "title": "nvidia/NitroGen on Hugging Face",
+      "url": "https://huggingface.co/nvidia/NitroGen",
+      "source": "gemini_grounded",
+      "author": "huggingface.co",
+      "snippet": "The open source AI model ecosystem is experiencing significant momentum in April 2026, with several major releases across Chinese and Western organizations. Alibaba's Qwen team released the Qwen3 batch (Qwen3-2504), a collection of dense and MoE models ranging from 4B to 235B parameters, including Qwen3.6-35B-A3B focused on agentic coding. DeepSeek followed with DeepSeek-V3.2, which combines frontier reasoning with improved efficiency for long-context and tool-use scenarios, released under the p",
+      "timestamp": "2026-04-18T07:36:51.328683+00:00",
+      "category": "github",
+      "relevance_score": 0.7,
+      "content_hash": "281d5a56ab97b951"
+    },
+    {
+      "title": "The Zero-Human Company Wave: GitHub's Most Ambitious Bet of 2026 | OSS Insight",
+      "url": "https://ossinsight.io/blog/zero-human-company-2026",
+      "source": "gemini_grounded",
+      "author": "ossinsight.io",
+      "snippet": "The week of April 13-18, 2026 has seen explosive growth in AI agent repositories on GitHub. Leading the pack is NousResearch/hermes-agent, which gained 7,454+ new stars in a single week following its v0.8.0 release that merged 209 pull requests. Other major gainers include google/adk-python (Google's Agent Development Kit, 8,200+ total stars), meta-llama/llama-stack (6,400+ stars), openai/codex-cli (5,800+ stars), and huggingface/smolagents (4,100+ stars). A notable cluster of Claude Code optimi",
+      "timestamp": "2026-04-18T07:34:08.339891+00:00",
+      "category": "major_org",
+      "relevance_score": 0.65,
+      "content_hash": "f2768d9ba3dd39d0"
+    },
+    {
+      "title": "LLM Performance Leaderboard — Artificial Analysis on Hugging Face",
+      "url": "https://huggingface.co/spaces/ArtificialAnalysis/LLM-Performance-Leaderboard",
+      "source": "gemini_grounded",
+      "author": "huggingface.co",
+      "snippet": "April 2026 has been the most competitive month in open-source AI history, with six major labs releasing flagship models simultaneously. Google launched Gemma 4 on April 2, 2026, with four variants (2.3B to 31B parameters) under Apache 2.0, featuring multimodal support and remarkable benchmark jumps — the 31B Dense model scores 89.2% on AIME 2026, 80.0% on LiveCodeBench v6, and a Codeforces ELO of 2,150. Meta released Llama 4 in two MoE flavors (Scout at 17B active/109B total, Maverick at 17B act",
+      "timestamp": "2026-04-18T07:35:01.405145+00:00",
+      "category": "startup",
+      "relevance_score": 0.65,
+      "content_hash": "6f974beb94981ae8"
+    },
+    {
+      "title": "Qwen 3.6 vs Gemma 4 vs Llama 4 vs GLM-5.1 vs DeepSeek V4 Comparison",
+      "url": "https://lushbinary.com/blog/qwen-3-6-vs-gemma-4-llama-4-glm-5-1-deepseek-v4-open-source-comparison/",
+      "source": "gemini_grounded",
+      "author": "lushbinary.com",
+      "snippet": "April 2026 has been the most competitive month in open-source AI history, with six major labs releasing flagship models simultaneously. Google launched Gemma 4 on April 2, 2026, with four variants (2.3B to 31B parameters) under Apache 2.0, featuring multimodal support and remarkable benchmark jumps — the 31B Dense model scores 89.2% on AIME 2026, 80.0% on LiveCodeBench v6, and a Codeforces ELO of 2,150. Meta released Llama 4 in two MoE flavors (Scout at 17B active/109B total, Maverick at 17B act",
+      "timestamp": "2026-04-18T07:35:01.405170+00:00",
+      "category": "startup",
+      "relevance_score": 0.6,
+      "content_hash": "d18878ced4363981"
+    },
+    {
+      "title": "Changes to Cody Free, Pro, and Enterprise Starter plans | Sourcegraph",
+      "url": "https://sourcegraph.com/blog/changes-to-cody-free-pro-and-enterprise-starter-plans",
+      "source": "gemini_grounded",
+      "author": "sourcegraph.com",
+      "snippet": "Cursor has been actively shipping updates in early 2026, most recently releasing interactive canvases on April 15, 2026, which allow users to build dashboards and custom interfaces with tables, diagrams, and charts. On April 8, Cursor updated Bugbot with real-time self-improvement, MCP support, and improved Autofix capabilities. In late March, Cursor added support for self-hosted cloud agents that keep code, build outputs, and secrets entirely within a user's own network.\n\nCodeium's Windsurf rel",
+      "timestamp": "2026-04-18T07:35:31.795474+00:00",
+      "category": "general",
+      "relevance_score": 0.55,
+      "content_hash": "5c5298d36e80b64b"
+    },
+    {
+      "title": "LangGraph vs CrewAI vs AutoGen: Complete AI Agent Framework Comparison 2026",
+      "url": "https://devops.gheware.com/blog/posts/langgraph-vs-crewai-vs-autogen-comparison-2026.html",
+      "source": "gemini_grounded",
+      "author": "devops.gheware.com",
+      "snippet": "The AI agent framework ecosystem in 2026 has entered a maturation phase, with major consolidation and new governance tooling. Microsoft has deprecated AutoGen and Semantic Kernel as active development projects, moving them to maintenance-only mode, while launching a unified Microsoft Agent Framework that reached GA in Q1 2026. AutoGen's successor absorbs both projects and introduces a more structured multi-agent runtime. On the LangChain side, the framework itself stabilized at v1.0 in late 2025",
+      "timestamp": "2026-04-18T07:37:26.210847+00:00",
+      "category": "startup",
+      "relevance_score": 0.55,
+      "content_hash": "f469f3b4fa2dfb74"
+    },
+    {
+      "title": "Agent mode 101: All about GitHub Copilot's powerful mode - The GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/agent-mode-101-all-about-github-copilots-powerful-mode/",
+      "source": "gemini_grounded",
+      "author": "github.blog",
+      "snippet": "GitHub has made a series of major AI agent announcements for GitHub Copilot over the past year. In late 2025, GitHub launched 'Agent HQ,' a unified interface across GitHub, VS Code, mobile, and CLI that lets users direct and manage AI-driven tasks. The platform opened up to coding agents from Anthropic, OpenAI, Google, Cognition, xAI, and others — all accessible within a paid GitHub Copilot subscription. Alongside this, GitHub introduced custom agents for observability, infrastructure-as-code, a",
+      "timestamp": "2026-04-18T07:31:06.916106+00:00",
+      "category": "startup",
+      "relevance_score": 0.5,
+      "content_hash": "dfb76c1bf0ba741f"
+    },
+    {
+      "title": "Is LangChain Still Relevant in 2026? The Honest Answer for AI Agent Developers",
+      "url": "https://docs.bswen.com/blog/2026-04-16-langchain-relevant-2026/",
+      "source": "gemini_grounded",
+      "author": "docs.bswen.com",
+      "snippet": "The AI agent framework ecosystem in 2026 has entered a maturation phase, with major consolidation and new governance tooling. Microsoft has deprecated AutoGen and Semantic Kernel as active development projects, moving them to maintenance-only mode, while launching a unified Microsoft Agent Framework that reached GA in Q1 2026. AutoGen's successor absorbs both projects and introduces a more structured multi-agent runtime. On the LangChain side, the framework itself stabilized at v1.0 in late 2025",
+      "timestamp": "2026-04-18T07:37:26.210842+00:00",
+      "category": "startup",
+      "relevance_score": 0.5,
+      "content_hash": "7b673d580ba984c6"
+    },
+    {
+      "title": "Latest AI Regulations Update: What Enterprises Need to Know in 2026",
+      "url": "https://www.credo.ai/blog/latest-ai-regulations-update-what-enterprises-need-to-know",
+      "source": "gemini_grounded",
+      "author": "www.credo.ai",
+      "snippet": "The EU AI Act continues its phased rollout in 2026, with full applicability set for August 2, 2026. This includes transparency rules and the requirement for each EU Member State to establish at least one AI regulatory sandbox. Prohibited AI practices and AI literacy obligations took effect February 2025, while governance rules for general-purpose AI models applied from August 2025. The Act represents the world's most comprehensive binding AI regulatory framework to date.\n\nIn the United States, t",
+      "timestamp": "2026-04-18T07:36:06.919600+00:00",
+      "category": "framework",
+      "relevance_score": 0.45,
+      "content_hash": "b2d8d542bdbf9c94"
+    },
+    {
+      "title": "[2604.11243] Knowledge Compounding: Empirical Economic Analysis of Self-Evolving Knowledge Wikis under the Agentic ROI Framework",
+      "url": "https://arxiv.org/abs/2604.11243",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "This week on arXiv, AI agent and LLM research continues across several fronts. A notable April 2026 paper (2604.11243) introduces 'knowledge compounding' — an empirical economic framework for measuring ROI of self-evolving knowledge wikis in multi-agent systems, validated using an industrial C# multi-agent framework. Another fresh paper (2604.01487) debuts AgentSocialBench, the first benchmark explicitly measuring privacy risks in human-centered agentic social networks, reflecting growing concer",
+      "timestamp": "2026-04-18T07:32:50.182337+00:00",
+      "category": "framework",
+      "relevance_score": 0.4,
+      "content_hash": "16c4d4f1c9f22304"
+    }
+  ]
+}

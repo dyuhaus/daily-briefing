@@ -1,0 +1,80 @@
+{
+  "date": "2026-04-10",
+  "scan_time": "2026-04-10T07:31:08.721363+00:00",
+  "total_found": 120,
+  "unique_new": 12,
+  "with_transcripts": 3,
+  "after_filter": 5,
+  "items": [
+    {
+      "video_id": "HMUL5CdFOj4",
+      "title": "How to Use Claude Code Agent Teams (Real World Example)",
+      "channel": "Ryan Doser",
+      "url": "https://www.youtube.com/watch?v=HMUL5CdFOj4",
+      "upload_date": "",
+      "duration_seconds": 612.0,
+      "description": "This video shows how to use Claude Code Agent Teams to have multiple AI agents collaborate on tasks together. This ten minute ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.7799999999999999,
+      "content_hash": "8e56b9963e07f694",
+      "transcript_length": 0
+    },
+    {
+      "video_id": "eQ_RxS_fh64",
+      "title": "Claude Code vs Managed Agents (Wrong Choice will Cost You)",
+      "channel": "Jack Roberts",
+      "url": "https://www.youtube.com/watch?v=eQ_RxS_fh64",
+      "upload_date": "",
+      "duration_seconds": 1092.0,
+      "description": "ALL Systems: https://bit.ly/4kol0y5 Type with your voice: https://glaido.com 🎙️ My Goofy pod: https://bit.ly/46nLQ3U Claude ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.5,
+      "content_hash": "97c10f5fec31e4b2",
+      "transcript_length": 0
+    },
+    {
+      "video_id": "Ob5Vu-gD3mo",
+      "title": "Claude Managed Agents Just Dropped, And It Kills No-Code",
+      "channel": "Nick Saraev",
+      "url": "https://www.youtube.com/watch?v=Ob5Vu-gD3mo",
+      "upload_date": "",
+      "duration_seconds": 991.0,
+      "description": "Work with my AI consulting team: https://dub.sh/work-with-me-pkg Watch my NEW 2026 Claude Code course: ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.5,
+      "content_hash": "bab3376a65c274bd",
+      "transcript_length": 0
+    },
+    {
+      "video_id": "zIWnwUgzAgs",
+      "title": "What the Claude Code Leak Revealed",
+      "channel": "ThePrimeagenHighlights",
+      "url": "https://www.youtube.com/watch?v=zIWnwUgzAgs",
+      "upload_date": "",
+      "duration_seconds": 1885.0,
+      "description": "Live At: https://twitch.tv/ThePrimeagen Wanna Become a Backend Dev & Support me at the SAME TIME??? https://boot.dev/prime.",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.5,
+      "content_hash": "c566687db95be988",
+      "transcript_length": 0
+    },
+    {
+      "video_id": "3wArVlPvqAk",
+      "title": "Master Claude Code MCP in 13 minutes (Beginner’s Guide)",
+      "channel": "Michele Torti",
+      "url": "https://www.youtube.com/watch?v=3wArVlPvqAk",
+      "upload_date": "",
+      "duration_seconds": 821.0,
+      "description": "Get my 1-1 support to Start and Scale your AI Agency: https://bit.ly/4tzRLvE Join my FREE Webinar: ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.5,
+      "content_hash": "0a9e7364dfab8d1b",
+      "transcript_length": 0
+    }
+  ]
+}

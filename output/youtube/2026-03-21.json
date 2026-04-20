@@ -1,0 +1,108 @@
+{
+  "date": "2026-03-21",
+  "scan_time": "2026-03-21T20:36:46.291601+00:00",
+  "total_found": 120,
+  "unique_new": 5,
+  "with_transcripts": 3,
+  "after_filter": 5,
+  "items": [
+    {
+      "video_id": "1JeDsxnX1nY",
+      "title": "How I use Claude Code Agent Teams (Meta Staff Engineer Tips)",
+      "channel": "John Kim",
+      "url": "https://www.youtube.com/watch?v=1JeDsxnX1nY",
+      "upload_date": "",
+      "duration_seconds": 1677.0,
+      "description": "Most people use Claude Code as a single agent. But when you need to coordinate multiple tasks across different domains, agent ...",
+      "transcript": "",
+      "extracted_patterns": [
+        "One leader (orchestrator) + many teammates model â€” create composition for each workflow (e.g., architecture+backend+frontend, research+editing+writing)",
+        "Task list as coordination mechanism â€” use plan mode to create discrete tasks, then spawn agents to work on them in parallel",
+        "Message-based context sharing â€” agents communicate via messages, not full context duplication; send explicit context if agents lack information",
+        "Colored text identification â€” spawned sub-agents display with colored text in Claude Code UI for visual distinction",
+        "Dynamic teammate direction â€” can message any teammate directly, not just the orchestrator; leader can control/redirect any sub-agent",
+        "Context isolation principle â€” unlike sub-agents (which only see seeded initial context), agent teams share a common task list and coordinate via messages",
+        "Task batching for visibility â€” create 5 tasks at a time to get clear picture of parallel work; avoid overwhelming the orchestrator",
+        "Context insufficiency handling â€” if sub-agent lacks context, either have orchestrator send additional context or embed more detail in task definitions",
+        "Shared task coordination â€” agents work on common task set and communicate progress/blockers to each other and orchestrator",
+        "Use agent teams over raw sub-agents for: shared state, inter-agent coordination, and complex workflows requiring multiple specialized roles"
+      ],
+      "relevance_score": 0.92,
+      "content_hash": "0576e7a19ff44f4e",
+      "transcript_length": 15000
+    },
+    {
+      "video_id": "MN0A9N1tJT4",
+      "title": "Build Powerful AI Agents: An Introduction to the Claude Agent SDK by Anthropic",
+      "channel": "OpenRopic",
+      "url": "https://www.youtube.com/watch?v=MN0A9N1tJT4",
+      "upload_date": "",
+      "duration_seconds": 203.0,
+      "description": "Ready to build truly powerful and reliable AI agents? Discover the Claude Agent SDK, the official developer toolkit from Anthropic.",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.85,
+      "content_hash": "da413b8fc408770d",
+      "transcript_length": 0
+    },
+    {
+      "video_id": "WdD6uD_kupY",
+      "title": "The greatest Claude Code workflow ever (10x your speed)",
+      "channel": "Alex Finn",
+      "url": "https://www.youtube.com/watch?v=WdD6uD_kupY",
+      "upload_date": "",
+      "duration_seconds": 1034.0,
+      "description": "This is the best Claude Code workflow ever. Here's how to use Ghostty and the Claude Code CLI to get maximum productivity.",
+      "transcript": "",
+      "extracted_patterns": [
+        "Use Ghosty terminal instead of VS Code/Cursor for Claude Codeâ€”eliminates performance degradation from multiple IDE instances",
+        "Activate plan mode immediately (Shift+Tab twice) when starting Claude Code sessions",
+        "Split Ghosty terminals to run servers and Claude Code side-by-side simultaneously",
+        "Use Ghosty tabs for efficient multitasking across multiple Claude Code projects without memory overhead",
+        "Monitor that CLI version receives feature updates before extension/desktop app versions",
+        "Run hundreds of concurrent Claude Code terminal instances without system slowdown",
+        "Customize Ghosty with themes/colorways for optimized developer experience",
+        "Install Claude Code CLI via command line, sign up for Claude subscription",
+        "Access Claude Code by typing 'claude' in Ghosty terminal"
+      ],
+      "relevance_score": 0.72,
+      "content_hash": "0fbaabe35f277004",
+      "transcript_length": 15000
+    },
+    {
+      "video_id": "ISk-rcDJYso",
+      "title": "5 Useful Tips For Building with Claude Code (2025)",
+      "channel": "Supabase",
+      "url": "https://www.youtube.com/watch?v=ISk-rcDJYso",
+      "upload_date": "",
+      "duration_seconds": 190.0,
+      "description": "Anthropic is leading the AI Industry with models - like Sonnet and Opus - and developer tools - like Claude Code. In this video, Jon ...",
+      "transcript": "",
+      "extracted_patterns": [
+        "Plan-driven development: Request explicit detailed plans with phases, review before committing, zoom into one phase at a time with commit gates between phases",
+        "Confidence-gated clarification: Instruct Claude to ask clarifying questions when <90% confident to prevent over-engineering and unnecessary changes",
+        "Multi-option exploration: Ask Claude to research and provide 2-3 different solution approaches before committing to implementation",
+        "Progressive commitment: Strict cycle of Build â†’ Review â†’ Commit before advancing to next phase (prevents accumulating unfixed problems)",
+        "Early exit strategy: Stop execution immediately when Claude diverges, provide targeted clarification, resume (saves tokens and reduces churn)",
+        "Context feeding for debugging: Supply images, error messages, and structured data as inline context to improve Claude's analysis"
+      ],
+      "relevance_score": 0.72,
+      "content_hash": "0970413c740ed535",
+      "transcript_length": 2995
+    },
+    {
+      "video_id": "XpXImenrSPI",
+      "title": "Claude Code in Slack",
+      "channel": "Anthropic",
+      "url": "https://www.youtube.com/watch?v=XpXImenrSPI",
+      "upload_date": "",
+      "duration_seconds": 42.0,
+      "description": "Delegate tasks to Claude Code directly from Slack, making it easy to move context from Slack conversations to coding sessions.",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.5,
+      "content_hash": "6d07f6d3fccb9dec",
+      "transcript_length": 0
+    }
+  ]
+}

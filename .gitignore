@@ -1,0 +1,56 @@
+# --- Credentials — NEVER commit ---
+.env
+.env.*
+!.env.example
+credentials.env
+*credentials.env
+*.key
+*.pem
+*.p12
+*.pfx
+*secret*
+*token*
+# YouTube cookies (used by yt-dlp to authenticate for age-restricted content)
+config/youtube_cookies.txt
+config/www.youtube.com_cookies.txt
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+.mypy_cache/
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+.coverage
+htmlcov/
+
+# --- Node.js ---
+node_modules/
+package-lock.json
+yarn.lock
+.npm/
+
+# --- Pipeline outputs — audio + logs are regenerable + noisy ---
+output/audio/
+output/*.log
+output/**/*.log
+output/usage_log.jsonl
+
+# --- OS artifacts ---
+Thumbs.db
+.DS_Store
+desktop.ini
+*.tmp
+
+# --- IDE / local settings ---
+.vscode/
+.idea/
+.vs/
+.claude/
+*.swp
+*.swo
+*~

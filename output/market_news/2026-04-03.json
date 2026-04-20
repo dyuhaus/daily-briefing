@@ -1,0 +1,108 @@
+{
+  "date": "2026-04-03",
+  "scan_time": "2026-04-03T07:39:10.430346+00:00",
+  "total_scraped": 93,
+  "after_dedup": 43,
+  "after_filter": 9,
+  "items": [
+    {
+      "title": "Market Making on Kalshi (Official Blog)",
+      "url": "https://kalshi.com/blog/article/market-making-on-kalshi",
+      "source": "gemini_grounded",
+      "author": "kalshi.com",
+      "snippet": "Automated trading strategies on prediction markets like Kalshi, Polymarket, and Manifold have grown significantly in 2025-2026 alongside explosive market volumes. Key strategies include cross-platform arbitrage (exploiting price discrepancies between Kalshi and Polymarket for the same event, typically yielding 0.5-3% returns), automated market making (using limit orders and the Kalshi API to quote bid/ask spreads and collect the spread without directional opinion), and AI-driven mispricing detec",
+      "timestamp": "2026-04-03T07:32:13.017228+00:00",
+      "relevance_score": 1.0,
+      "content_hash": "863cc693b0b2fda6",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Is algorithmic trading still profitable in 2025, or is it too competitive? - Quora",
+      "url": "https://www.quora.com/Is-algorithmic-trading-still-profitable-in-2025-or-is-it-too-competitive",
+      "source": "gemini_grounded",
+      "author": "www.quora.com",
+      "snippet": "Discussion across r/algotrading and r/quant communities in 2025-2026 shows a mix of skepticism and selective success stories regarding live automated trading edge. Community members frequently distinguish between backtested performance and live results, with many posts noting that strategies with strong historical returns often degrade significantly in production due to overfitting, transaction costs, and market regime changes. Notable live result posts include traders claiming 50-60% returns wi",
+      "timestamp": "2026-04-03T07:31:24.362463+00:00",
+      "relevance_score": 0.9,
+      "content_hash": "c2d3b6355b2c84a1",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Best Algorithmic Trading Software for 2026 - QuantVPS",
+      "url": "https://www.quantvps.com/blog/best-algorithmic-trading-software",
+      "source": "gemini_grounded",
+      "author": "www.quantvps.com",
+      "snippet": "Discussion across r/algotrading and r/quant communities in 2025-2026 shows a mix of skepticism and selective success stories regarding live automated trading edge. Community members frequently distinguish between backtested performance and live results, with many posts noting that strategies with strong historical returns often degrade significantly in production due to overfitting, transaction costs, and market regime changes. Notable live result posts include traders claiming 50-60% returns wi",
+      "timestamp": "2026-04-03T07:31:24.362473+00:00",
+      "relevance_score": 0.85,
+      "content_hash": "4409bff2b9ccb572",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Why 2026 Will Be The Year Algorithmic Trading Goes Mainstream - Medium",
+      "url": "https://medium.com/@algorithmictradingstrategies/why-2026-will-be-the-year-algorithmic-trading-goes-mainstream-and-why-you-should-start-now-6932055d2944",
+      "source": "gemini_grounded",
+      "author": "medium.com",
+      "snippet": "Discussion across r/algotrading and r/quant communities in 2025-2026 shows a mix of skepticism and selective success stories regarding live automated trading edge. Community members frequently distinguish between backtested performance and live results, with many posts noting that strategies with strong historical returns often degrade significantly in production due to overfitting, transaction costs, and market regime changes. Notable live result posts include traders claiming 50-60% returns wi",
+      "timestamp": "2026-04-03T07:31:24.362468+00:00",
+      "relevance_score": 0.8,
+      "content_hash": "f8b941fd2585f4d1",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Algorithmic Trading Reddit - AlgoTradingLib",
+      "url": "https://algotradinglib.com/en/pedia/a/algorithmic_trading_reddit.html",
+      "source": "gemini_grounded",
+      "author": "algotradinglib.com",
+      "snippet": "Discussion across r/algotrading and r/quant communities in 2025-2026 shows a mix of skepticism and selective success stories regarding live automated trading edge. Community members frequently distinguish between backtested performance and live results, with many posts noting that strategies with strong historical returns often degrade significantly in production due to overfitting, transaction costs, and market regime changes. Notable live result posts include traders claiming 50-60% returns wi",
+      "timestamp": "2026-04-03T07:31:24.362478+00:00",
+      "relevance_score": 0.75,
+      "content_hash": "0c738957ac5690fc",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "GitHub - Awesome-Prediction-Market-Tools",
+      "url": "https://github.com/aarora4/Awesome-Prediction-Market-Tools",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "Automated trading strategies on prediction markets like Kalshi, Polymarket, and Manifold have grown significantly in 2025-2026 alongside explosive market volumes. Key strategies include cross-platform arbitrage (exploiting price discrepancies between Kalshi and Polymarket for the same event, typically yielding 0.5-3% returns), automated market making (using limit orders and the Kalshi API to quote bid/ask spreads and collect the spread without directional opinion), and AI-driven mispricing detec",
+      "timestamp": "2026-04-03T07:32:13.017240+00:00",
+      "relevance_score": 0.65,
+      "content_hash": "36200a2772b1cec8",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "r/algotrading - Subreddit Stats & Analysis",
+      "url": "https://gummysearch.com/r/algotrading/",
+      "source": "gemini_grounded",
+      "author": "gummysearch.com",
+      "snippet": "Discussion across r/algotrading and r/quant communities in 2025-2026 shows a mix of skepticism and selective success stories regarding live automated trading edge. Community members frequently distinguish between backtested performance and live results, with many posts noting that strategies with strong historical returns often degrade significantly in production due to overfitting, transaction costs, and market regime changes. Notable live result posts include traders claiming 50-60% returns wi",
+      "timestamp": "2026-04-03T07:31:24.362423+00:00",
+      "relevance_score": 0.6,
+      "content_hash": "4fdc9f86839f6b78",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Paradigm Building Prediction Markets Trading Terminal (Fortune, April 2026)",
+      "url": "https://fortune.com/2026/04/01/paradigm-prediction-markets-trading-terminal-arjun-balaji-kalshi-polymarket/",
+      "source": "gemini_grounded",
+      "author": "fortune.com",
+      "snippet": "Automated trading strategies on prediction markets like Kalshi, Polymarket, and Manifold have grown significantly in 2025-2026 alongside explosive market volumes. Key strategies include cross-platform arbitrage (exploiting price discrepancies between Kalshi and Polymarket for the same event, typically yielding 0.5-3% returns), automated market making (using limit orders and the Kalshi API to quote bid/ask spreads and collect the spread without directional opinion), and AI-driven mispricing detec",
+      "timestamp": "2026-04-03T07:32:13.017255+00:00",
+      "relevance_score": 0.55,
+      "content_hash": "c981c50f6871c72c",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "6 best quant trading platforms in 2026: Boost your returns with AI trading bots - AMBCrypto",
+      "url": "https://ambcrypto.com/6-best-quant-trading-platforms-in-2026-boost-your-returns-with-ai-trading-bots/",
+      "source": "gemini_grounded",
+      "author": "ambcrypto.com",
+      "snippet": "Reddit's r/algotrading community remains one of the most active forums for quantitative traders sharing live strategy performance in 2026. Discussions center on backtested vs. live performance gaps, with many traders reporting challenges maintaining IS/OOS consistency once strategies go live. Common themes include momentum and mean-reversion strategies underperforming expectations due to increased market efficiency and algo saturation, while machine learning-driven approaches continue to attract",
+      "timestamp": "2026-04-03T07:30:38.905800+00:00",
+      "relevance_score": 0.3,
+      "content_hash": "d8b33dfad824d924",
+      "freshness_window": "24h"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "date": "2026-04-04",
+  "scan_time": "2026-04-04T07:39:54.390021+00:00",
+  "total_scraped": 95,
+  "after_dedup": 53,
+  "after_filter": 18,
+  "items": [
+    {
+      "title": "A Hybrid AI-Driven Trading System Integrating Technical Analysis - arXiv",
+      "url": "https://arxiv.org/pdf/2601.19504",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "Recent research from arXiv and SSRN (2025-2026) reflects a maturing field where machine learning trading strategies are being scrutinized not just for raw performance but for robustness, generalizability, and explainability. A major theme is combating overfitting: papers like 'GT-Score' (arXiv, Jan 2026) propose new objective functions specifically designed to reduce spurious pattern learning in historical price data, a critical failure mode for data-driven financial models. Similarly, finance-g",
+      "timestamp": "2026-04-04T07:34:30.942774+00:00",
+      "relevance_score": 0.9,
+      "content_hash": "58154fcc9d0bf034",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "From Deep Learning to LLMs: A Survey of AI in Quantitative Investment - arXiv",
+      "url": "https://arxiv.org/html/2503.21422v1",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "Recent research from arXiv and SSRN (2025-2026) reflects a maturing field where machine learning trading strategies are being scrutinized not just for raw performance but for robustness, generalizability, and explainability. A major theme is combating overfitting: papers like 'GT-Score' (arXiv, Jan 2026) propose new objective functions specifically designed to reduce spurious pattern learning in historical price data, a critical failure mode for data-driven financial models. Similarly, finance-g",
+      "timestamp": "2026-04-04T07:34:30.942762+00:00",
+      "relevance_score": 0.8,
+      "content_hash": "ebfa0ccd0c42f907",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "GT-Score: Robust Objective Function for Reducing Overfitting - arXiv",
+      "url": "https://arxiv.org/pdf/2602.00080",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "Recent research from arXiv and SSRN (2025-2026) reflects a maturing field where machine learning trading strategies are being scrutinized not just for raw performance but for robustness, generalizability, and explainability. A major theme is combating overfitting: papers like 'GT-Score' (arXiv, Jan 2026) propose new objective functions specifically designed to reduce spurious pattern learning in historical price data, a critical failure mode for data-driven financial models. Similarly, finance-g",
+      "timestamp": "2026-04-04T07:34:30.942769+00:00",
+      "relevance_score": 0.8,
+      "content_hash": "0bfcee979279a4a8",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Strategy Performance Review: October 2025 — January 2026 (Quant Trading) | SetupAlpha | Medium",
+      "url": "https://medium.com/@setupalpha.capital/strategy-performance-review-october-2025-january-2026-quant-trading-b25a6c9a92bb",
+      "source": "gemini_grounded",
+      "author": "medium.com",
+      "snippet": "Reddit's r/algotrading community is not directly crawlable, but broader web sources covering quantitative trading live performance in 2026 reveal several key themes. A strategy performance review covering October 2025 through January 2026 documents real results from systematic strategies navigating post-election momentum, year-end positioning, and tariff-driven volatility in January 2026. Strategies employing mean reversion and momentum approaches showed divergent performance during this period,",
+      "timestamp": "2026-04-04T07:30:41.264779+00:00",
+      "relevance_score": 0.7,
+      "content_hash": "bd072554c12eb154",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Kalshi API - Kalshi Help Center",
+      "url": "https://help.kalshi.com/en/articles/13823854-kalshi-api",
+      "source": "gemini_grounded",
+      "author": "help.kalshi.com",
+      "snippet": "Alpaca has been recognized as 'Best Broker for Algorithmic Trading in 2026' by BrokerChooser and has rolled out several notable API enhancements. New capabilities include a DMA Gateway for routing orders directly to specific exchanges (NASDAQ, ARCA, NYSE), new algorithmic order types for minimizing market impact, and an MCP Server enabling natural-language trading. The Broker API also gained two new features: Company Overview endpoints and User Account Closure workflows to help partners manage a",
+      "timestamp": "2026-04-04T07:33:54.290754+00:00",
+      "relevance_score": 0.7,
+      "content_hash": "4b61911aa1393b62",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "6 Best Quant Trading Platforms in 2026 - AMBCrypto",
+      "url": "https://ambcrypto.com/6-best-quant-trading-platforms-in-2026-boost-your-returns-with-ai-trading-bots/",
+      "source": "gemini_grounded",
+      "author": "ambcrypto.com",
+      "snippet": "Reddit's r/algotrading community is not directly crawlable, but broader web sources covering quantitative trading live performance in 2026 reveal several key themes. A strategy performance review covering October 2025 through January 2026 documents real results from systematic strategies navigating post-election momentum, year-end positioning, and tariff-driven volatility in January 2026. Strategies employing mean reversion and momentum approaches showed divergent performance during this period,",
+      "timestamp": "2026-04-04T07:30:41.264869+00:00",
+      "relevance_score": 0.6,
+      "content_hash": "b4cf34959995130e",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Top Algo Trading Strategies & How They Work (2026 Guide) - VPS Forex Trader",
+      "url": "https://www.vpsforextrader.com/blog/algo-trading-strategies/",
+      "source": "gemini_grounded",
+      "author": "www.vpsforextrader.com",
+      "snippet": "Reddit's r/algotrading community is not directly crawlable, but broader web sources covering quantitative trading live performance in 2026 reveal several key themes. A strategy performance review covering October 2025 through January 2026 documents real results from systematic strategies navigating post-election momentum, year-end positioning, and tariff-driven volatility in January 2026. Strategies employing mean reversion and momentum approaches showed divergent performance during this period,",
+      "timestamp": "2026-04-04T07:30:41.264873+00:00",
+      "relevance_score": 0.6,
+      "content_hash": "c3b00962e11ee0a0",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Quantiacs - Leading Platform for Quantitative Trading and Algorithmic Strategy Development",
+      "url": "https://quantiacs.com/",
+      "source": "gemini_grounded",
+      "author": "quantiacs.com",
+      "snippet": "Reddit's r/algotrading community is not directly crawlable, but broader web sources covering quantitative trading live performance in 2026 reveal several key themes. A strategy performance review covering October 2025 through January 2026 documents real results from systematic strategies navigating post-election momentum, year-end positioning, and tariff-driven volatility in January 2026. Strategies employing mean reversion and momentum approaches showed divergent performance during this period,",
+      "timestamp": "2026-04-04T07:30:41.264878+00:00",
+      "relevance_score": 0.6,
+      "content_hash": "63e0e852cb548ec5",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "r/algotrading – Subreddit Stats & Analysis",
+      "url": "https://gummysearch.com/r/algotrading/",
+      "source": "gemini_grounded",
+      "author": "gummysearch.com",
+      "snippet": "Discussions on r/algotrading and r/quant consistently highlight the challenge of translating backtested edge into live trading results. Community members report that the most common pitfalls are overfitting (strategies tuned too tightly to historical data that fail to generalize), slippage and fill quality eating into theoretical alpha, and data quality issues causing backtest-to-live divergence. Traders who post live results tend to show significant performance degradation versus backtest — oft",
+      "timestamp": "2026-04-04T07:31:34.564483+00:00",
+      "relevance_score": 0.6,
+      "content_hash": "e8e11b9b67595a9f",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Heading To 2026 With 5 Quant Trading Systems (+23% to +74% Annual Return)",
+      "url": "https://angusslq.substack.com/p/heading-to-2026-with-5-quant-trading",
+      "source": "gemini_grounded",
+      "author": "angusslq.substack.com",
+      "snippet": "Discussions on r/algotrading and r/quant consistently highlight the challenge of translating backtested edge into live trading results. Community members report that the most common pitfalls are overfitting (strategies tuned too tightly to historical data that fail to generalize), slippage and fill quality eating into theoretical alpha, and data quality issues causing backtest-to-live divergence. Traders who post live results tend to show significant performance degradation versus backtest — oft",
+      "timestamp": "2026-04-04T07:31:34.564491+00:00",
+      "relevance_score": 0.6,
+      "content_hash": "573f9a4c2b4cc629",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "The Quant Edge in Crypto Trading Bots 2026 - NFT Plazas",
+      "url": "https://nftplazas.com/the-quant-edge-in-crypto-trading-bots-what-is-leading-crypto-trading-bot-in-2026/",
+      "source": "gemini_grounded",
+      "author": "nftplazas.com",
+      "snippet": "Discussions on r/algotrading and r/quant consistently highlight the challenge of translating backtested edge into live trading results. Community members report that the most common pitfalls are overfitting (strategies tuned too tightly to historical data that fail to generalize), slippage and fill quality eating into theoretical alpha, and data quality issues causing backtest-to-live divergence. Traders who post live results tend to show significant performance degradation versus backtest — oft",
+      "timestamp": "2026-04-04T07:31:34.564508+00:00",
+      "relevance_score": 0.6,
+      "content_hash": "6eb06295f250c9a0",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Meet Your Market Maker - The Oracle by Polymarket",
+      "url": "https://news.polymarket.com/p/meet-your-market-maker",
+      "source": "gemini_grounded",
+      "author": "news.polymarket.com",
+      "snippet": "Prediction market automated trading strategies have matured significantly across Kalshi, Polymarket, and Manifold. On Kalshi, multiple open-source frameworks have emerged for algorithmic trading via their REST and WebSocket APIs. Key strategies include mean reversion, momentum, Kelly-sized event-driven bets, and statistical arbitrage. The Kalshi API supports RSA-authenticated order execution with ~50–200ms latency, making it suitable for medium-frequency event-driven strategies. AI-native bots (",
+      "timestamp": "2026-04-04T07:32:29.310781+00:00",
+      "relevance_score": 0.6,
+      "content_hash": "e3dfec9192b31be4",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "GitHub - yllvar/Kalshi-Quant-TeleBot",
+      "url": "https://github.com/yllvar/Kalshi-Quant-TeleBot",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "Prediction market automated trading strategies have matured significantly across Kalshi, Polymarket, and Manifold. On Kalshi, multiple open-source frameworks have emerged for algorithmic trading via their REST and WebSocket APIs. Key strategies include mean reversion, momentum, Kelly-sized event-driven bets, and statistical arbitrage. The Kalshi API supports RSA-authenticated order execution with ~50–200ms latency, making it suitable for medium-frequency event-driven strategies. AI-native bots (",
+      "timestamp": "2026-04-04T07:32:29.310798+00:00",
+      "relevance_score": 0.6,
+      "content_hash": "90e94f3499812704",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Finance-Grounded Optimization For Algorithmic Trading - arXiv",
+      "url": "https://www.arxiv.org/pdf/2509.04541",
+      "source": "gemini_grounded",
+      "author": "www.arxiv.org",
+      "snippet": "Recent research from arXiv and SSRN (2025-2026) reflects a maturing field where machine learning trading strategies are being scrutinized not just for raw performance but for robustness, generalizability, and explainability. A major theme is combating overfitting: papers like 'GT-Score' (arXiv, Jan 2026) propose new objective functions specifically designed to reduce spurious pattern learning in historical price data, a critical failure mode for data-driven financial models. Similarly, finance-g",
+      "timestamp": "2026-04-04T07:34:30.942779+00:00",
+      "relevance_score": 0.6,
+      "content_hash": "075a5a3251d2653d",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "The Rise of AI in Sports Betting: Trends Shaping 2026 | VegasInsider",
+      "url": "https://www.vegasinsider.com/sportsbooks/sports-betting-news/rise-of-ai-in-sports-betting/",
+      "source": "gemini_grounded",
+      "author": "www.vegasinsider.com",
+      "snippet": "Reddit communities like r/sportsbook and r/sportsbetting are active hubs for quantitative sports betting methodology discussions. The dominant framework discussed is Expected Value (EV) modeling — building probability estimates for game outcomes and comparing them against implied sportsbook probabilities to identify edges. Practitioners typically start with regression-based or Elo-style power ratings, then layer in situational variables (rest days, travel, weather, line movement) to refine raw w",
+      "timestamp": "2026-04-04T07:33:14.012190+00:00",
+      "relevance_score": 0.5,
+      "content_hash": "b3ba658571b9202f",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "My Sports Betting Algorithm Might Be Bringing In Serious Dollars | Quant-Galore",
+      "url": "https://www.quant-galore.com/p/my-sports-betting-algorithm-is-bringing",
+      "source": "gemini_grounded",
+      "author": "www.quant-galore.com",
+      "snippet": "Reddit communities like r/sportsbook and r/sportsbetting are active hubs for quantitative sports betting methodology discussions. The dominant framework discussed is Expected Value (EV) modeling — building probability estimates for game outcomes and comparing them against implied sportsbook probabilities to identify edges. Practitioners typically start with regression-based or Elo-style power ratings, then layer in situational variables (rest days, travel, weather, line movement) to refine raw w",
+      "timestamp": "2026-04-04T07:33:14.012160+00:00",
+      "relevance_score": 0.4,
+      "content_hash": "7a773c1637dba3b3",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Quantum-Enhanced Forecasting for Deep Reinforcement Learning in Algorithmic Trading - arXiv",
+      "url": "https://arxiv.org/html/2509.09176",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "Recent research from arXiv and SSRN (2025-2026) reflects a maturing field where machine learning trading strategies are being scrutinized not just for raw performance but for robustness, generalizability, and explainability. A major theme is combating overfitting: papers like 'GT-Score' (arXiv, Jan 2026) propose new objective functions specifically designed to reduce spurious pattern learning in historical price data, a critical failure mode for data-driven financial models. Similarly, finance-g",
+      "timestamp": "2026-04-04T07:34:30.942784+00:00",
+      "relevance_score": 0.4,
+      "content_hash": "a941fdc10fb888a9",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "What's Easier to Beat: A Sportsbook or a Quant Trader? | BettorEdge",
+      "url": "https://www.bettoredge.com/post/sportsbook-vs-quant-trader-easier-to-beat",
+      "source": "gemini_grounded",
+      "author": "www.bettoredge.com",
+      "snippet": "Reddit communities like r/sportsbook and r/sportsbetting are active hubs for quantitative sports betting methodology discussions. The dominant framework discussed is Expected Value (EV) modeling — building probability estimates for game outcomes and comparing them against implied sportsbook probabilities to identify edges. Practitioners typically start with regression-based or Elo-style power ratings, then layer in situational variables (rest days, travel, weather, line movement) to refine raw w",
+      "timestamp": "2026-04-04T07:33:14.012180+00:00",
+      "relevance_score": 0.3,
+      "content_hash": "fe9e2d30646ce7d3",
+      "freshness_window": "24h"
+    }
+  ]
+}

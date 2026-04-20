@@ -1,0 +1,574 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daily Briefing — Saturday, April 18, 2026</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #ffffff; color: #1a1a1a; line-height: 1.7; padding: 20px; }
+  .container { max-width: 680px; margin: 0 auto; }
+
+  /* Header */
+  .header { text-align: center; margin-bottom: 32px; padding: 24px 0; border-bottom: 1px solid #e0e0e0; }
+  .header h1 { font-size: 22px; color: #1a1a1a; font-weight: 700; letter-spacing: 0.3px; }
+  .header .date { color: #666666; font-size: 13px; margin-top: 4px; }
+
+  /* Betting Banner */
+  .betting-banner { background: #f7f7f7; border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px 24px; margin-bottom: 32px; }
+  .betting-banner-title { font-size: 11px; text-transform: uppercase; letter-spacing: 1.2px; color: #666666; font-weight: 600; margin-bottom: 14px; }
+  .betting-hero { display: flex; align-items: baseline; gap: 16px; flex-wrap: wrap; margin-bottom: 6px; }
+  .betting-hero-main { font-size: 24px; font-weight: 700; color: #1a1a1a; }
+  .betting-hero-stat { font-size: 14px; color: #666666; }
+  .betting-hero-stat .val { color: #1a1a1a; font-weight: 600; }
+  .betting-narrative { font-size: 13px; color: #444444; line-height: 1.65; margin-top: 10px; }
+
+  /* Sections */
+  .section { margin-bottom: 32px; }
+  .section-title { font-size: 16px; font-weight: 600; color: #1a1a1a; margin-bottom: 2px; }
+  .section-subtitle { font-size: 13px; color: #666666; font-style: italic; margin-bottom: 14px; }
+  .section-tag { float: right; font-size: 11px; color: #666666; font-style: italic; font-weight: 400; }
+  .section-body { font-size: 14px; color: #1a1a1a; line-height: 1.75; }
+  .section-body p { margin-bottom: 12px; }
+  .section-divider { border: none; border-top: 1px solid #e0e0e0; margin: 24px 0; }
+
+  /* Insights */
+  .insights-label { font-size: 12px; color: #666666; font-weight: 600; margin-top: 16px; margin-bottom: 8px; }
+  .insight-item { font-size: 13px; color: #1a1a1a; line-height: 1.65; margin-bottom: 8px; padding-left: 16px; position: relative; }
+  .insight-item::before { content: ""; position: absolute; left: 0; top: 8px; width: 6px; height: 6px; border-radius: 50%; background: #2da44e; }
+
+  /* Project Status */
+  .project-row { display: flex; align-items: flex-start; padding: 10px 0; border-bottom: 1px solid #e0e0e0; gap: 10px; }
+  .project-row:last-child { border-bottom: none; }
+  .status-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; margin-top: 6px; }
+  .status-active { background: #2da44e; }
+  .status-idle { background: #bf8700; }
+  .status-error { background: #cf222e; }
+  .project-info { flex: 1; }
+  .project-name { font-weight: 600; color: #1a1a1a; font-size: 13px; }
+  .project-summary { color: #666666; font-size: 12px; margin-top: 2px; }
+  .metric-row { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 4px; }
+  .metric { font-size: 11px; color: #0969da; }
+  .metric strong { color: #1a1a1a; }
+
+  /* Inactive Projects */
+  .inactive-section { margin-bottom: 32px; }
+  .inactive-row { padding: 8px 14px; background: #f9f9f9; border-left: 3px solid #999; border-radius: 0 6px 6px 0; margin-bottom: 6px; }
+  .inactive-project-name { font-size: 13px; font-weight: 600; color: #555; }
+  .inactive-detail { font-size: 12px; color: #888; margin-top: 2px; }
+
+  .empty-state { color: #666666; font-style: italic; padding: 16px 0; font-size: 13px; }
+  .footer { text-align: center; color: #999999; font-size: 11px; padding: 20px; letter-spacing: 0.3px; }
+</style>
+</head>
+<body>
+<div class="container">
+
+<div class="header">
+  <h1>Daily Briefing</h1>
+  <div class="date">Saturday, April 18, 2026 · 04:48 AM ET</div>
+</div>
+
+
+<!-- KalshiTrader Paper Trading — Timing Strategy -->
+<div class="betting-banner" style="border-left: 3px solid #8250df;">
+  <div class="betting-banner-title">Kalshi Paper Trader — Timing Strategy</div>
+  <div class="betting-hero">
+    <div class="betting-hero-main">33W / 4L</div>
+    <div class="betting-hero-stat"><span class="val">+$61.34</span> Paper P&L</div>
+    <div class="betting-hero-stat"><span class="val">89%</span> Win Rate</div>
+    <div class="betting-hero-stat"><span class="val">19.3%</span> ROI</div>
+  </div>
+  <div class="betting-narrative">
+    $126.97 bankroll · 42 fills (5 pending)
+    
+    <br>
+    
+    <span style="display: inline-block; background: #f0e6ff; color: #8250df; padding: 1px 8px; border-radius: 3px; margin: 2px 4px 2px 0; font-size: 12px;">NBA: 30W/4L +$50.49</span>
+    
+    <span style="display: inline-block; background: #f0e6ff; color: #8250df; padding: 1px 8px; border-radius: 3px; margin: 2px 4px 2px 0; font-size: 12px;">NCAAM: 3W/0L +$10.85</span>
+    
+    
+  </div>
+  
+  
+</div>
+
+
+<hr class="section-divider">
+
+<!-- Market News -->
+<div class="section">
+  <div class="section-title">Market News</div>
+  
+  <div class="section-body">
+    
+    <p>The rally that crossed 7,000 on April 15 has continued without pause. The S&P 500 closed today at 7,125 — up another 1.2% — with the Dow adding 1.79% to 49,447 and the Nasdaq gaining 1.52%. The catalyst hardening today is Iran's formal declaration that the Strait of Hormuz is 'completely open' for commercial traffic, moving the story from peace-deal speculation to a concrete operational fact. WTI crude pulled back further on the news, and Treasuries rallied as oil-driven inflation risk recedes. The Hormuz declaration matters beyond the headline: roughly 20% of global seaborne oil transits that chokepoint, and its reopening directly reduces the supply-shock premium that had been baked into energy and shipping names since the conflict escalated.</p>
+    
+    <p>Two countercurrents worth watching. First, the IMF's April 2026 World Economic Outlook cut global growth to 3.1% for 2026 — a meaningful downgrade that reflects the cumulative drag from the trade war earlier in the year and conflict disruptions, even as equity markets price in a soft landing. The gap between IMF macro pessimism and equity market euphoria is historically a late-cycle signal. Second, reporting flagged that the Fed is internally debating an April rate hike — described as 'unthinkable' months ago — because tariff-driven goods inflation has not fully unwound despite the U.S.-China truce. If the FOMC actually moves in April, it would be the first hike into a geopolitical shock since 1994 and would reprice the entire risk rally instantly. A third dynamic: retail traders have surged back into equities, Bloomberg reporting they are driving outsized intraday moves in individual names. High retail participation at record index levels is a known liquidity amplifier on both the upside and any sudden reversal.</p>
+    
+  </div>
+  
+  <div class="insights-label">Key Developments</div>
+  
+  <div class="insight-item">The Strait of Hormuz 'completely open' declaration is a concrete bullish catalyst, not just sentiment — watch tanker ETFs and oil volatility (OVX) for confirmation that the risk premium is fully unwinding. A sustained WTI move below $90 would suggest the market believes it.</div>
+  
+  <div class="insight-item">Fed April hike risk is not priced. If this materializes, bonds and rate-sensitive equities reprice hard and fast. On Kalshi, any 'Fed hikes in April' contract is likely mispriced given how little attention this scenario is getting in equity land.</div>
+  
+  <div class="insight-item">The IMF's 3.1% global growth forecast versus S&P 7,125 creates a widening credibility gap. The IMF has historically lagged turning points, but when the gap is this large it tends to resolve via market correction rather than IMF upgrade — size positions accordingly.</div>
+  
+  <div class="insight-item">Retail trader re-entry at all-time highs historically compresses the remaining upside window before a consolidation. Momentum strategies that have worked for 12 consecutive Nasdaq sessions may be entering diminishing-returns territory; consider tighter trailing stops on trend-following positions.</div>
+  
+  
+  
+</div>
+
+<hr class="section-divider">
+
+<!-- Anthropic News -->
+<div class="section">
+  <div class="section-title">Anthropic News</div>
+  
+  <div class="section-body">
+    
+    <p>With Opus 4.7 already reported, the genuinely new developments today cluster around three distinct fronts. Anthropic quietly launched Claude Design alongside Opus 4.7 — a visual work tool aimed at designers and brand teams, signaling a push into creative workflows beyond pure engineering. On the enterprise side, Anthropic restructured its seat-based pricing by ejecting bundled tokens from enterprise deals, meaning organizations will now pay for compute separately rather than receiving an included token allocation with each seat — a shift that will raise effective costs for heavy API users on enterprise contracts. Finally, Anthropic's board expanded with the addition of Vas Narasimhan, CEO of Novartis, joining through the Long-Term Benefit Trust structure the company uses to align governance with its safety mission rather than pure shareholder returns.</p>
+    
+    <p>For agent builders, the pricing restructuring is the most operationally relevant item today. If you are running Claude through an enterprise agreement, the unbundling of tokens means your cost model changes — usage that previously felt absorbed into the seat fee now hits a separate metered line. Claude Design is largely consumer-facing, but it does suggest Anthropic is investing in multimodal output generation, which could surface as API capabilities for image-centric agents down the road. The board addition of a pharma CEO signals Anthropic is deepening its pitch to regulated industries, which tends to precede enterprise product investments in compliance and audit tooling.</p>
+    
+  </div>
+  
+  <div class="insights-label">Key Developments</div>
+  
+  <div class="insight-item">Claude Design launched — Anthropic introduced a visual work tool targeting designers and brand workflows, its first product aimed explicitly at creative professionals rather than developers or knowledge workers.</div>
+  
+  <div class="insight-item">Enterprise token unbundling — Anthropic removed bundled token allocations from enterprise seat deals; API-heavy teams on enterprise contracts will now pay separately for compute, effectively raising costs for high-volume users.</div>
+  
+  <div class="insight-item">Board expansion via Long-Term Benefit Trust — Novartis CEO Vas Narasimhan joined Anthropic's board through the LBT governance structure, a signal of growing enterprise and regulated-industry ambitions.</div>
+  
+  <div class="insight-item">Claude Haiku 3 deprecation in motion — API release notes confirm claude-3-haiku is being wound down as the 2026 model lineup consolidates around the 4.x series, relevant for any agent pipelines still routing cheap tasks to Haiku 3.</div>
+  
+  
+  
+</div>
+
+<hr class="section-divider">
+
+<!-- OpenAI News -->
+<div class="section">
+  <div class="section-title">OpenAI News</div>
+  
+  <div class="section-body">
+    
+    <p>The two genuinely new threads today are on the API and security sides. OpenAI has formally extended the Responses API to serve as the foundation for autonomous agent workflows, adding GPT-5.4 mini and GPT-5.4 nano to both Chat Completions and Responses API endpoints — these are targeted at high-volume, cost-sensitive agentic pipelines where running full GPT-5.4 would be wasteful. Several computer-use preview models are being deprecated in the same cycle, signaling OpenAI is consolidating its agentic surface area around the Responses API rather than maintaining parallel tracks. Separately, OpenAI is rolling out tiered access to a specialized cyber defense model to a limited group, described as a race with a competitor codenamed Mythos — the Bloomberg framing suggests this is a capability-gated rollout rather than a public release, with access tied to vetting criteria around defensive use. A product codename 'Spud' has also surfaced in reporting, though details remain thin.</p>
+    
+  </div>
+  
+  <div class="insights-label">Key Developments</div>
+  
+  <div class="insight-item">GPT-5.4 mini and GPT-5.4 nano are now in the Responses API — these are the cost-efficient tiers for high-volume agentic pipelines, and their arrival signals the Responses API is becoming the primary build surface for agent developers rather than Chat Completions.</div>
+  
+  <div class="insight-item">Computer-use preview models are being deprecated as GPT-5.4 absorbs native computer-use natively — consolidation that simplifies the stack but forces migration for anyone on preview endpoints.</div>
+  
+  <div class="insight-item">OpenAI is running a tiered, vetting-gated rollout for a cyber defense model — framed as a race with Mythos — suggesting a controlled enterprise channel separate from public API access is becoming a standard release pattern for sensitive capability areas.</div>
+  
+  <div class="insight-item">A product codenamed Spud has appeared in reporting with no public specs yet — worth monitoring as a potential next flagship or specialized model release.</div>
+  
+  
+  
+</div>
+
+<hr class="section-divider">
+
+<!-- Google News -->
+<div class="section">
+  <div class="section-title">Google News</div>
+  
+  <div class="section-body">
+    
+    <p>The most notable development today is the Gemini app's arrival on macOS, marking the first native desktop client outside of web access — relevant for developers who want Gemini integrated into their local workflow without a browser tab. Alongside this, Gemini 3.1 Pro has moved from preview into general rollout inside the Gemini consumer app, meaning the improved reasoning and benchmark gains are now live for end users rather than just API testers. On the tooling side, the Gemini CLI has been in an active patching sprint, shipping versions 0.38.1 and 0.38.2 on April 16 and 17 respectively — the pace suggests either rapid stabilization work or active feature follow-up from last week's 0.37.x series. Separately, DeepMind and Google AI announced an AGI Evaluation Kaggle Hackathon, which is worth watching as a signal of how Google is thinking about measuring general capability — evaluation methodology tends to foreshadow what the next model generation will be optimized for. Gemini 3.1 Flash-Lite is confirmed as rolling out through both Vertex AI and Google AI Studio, positioning it as the cost-optimized tier for high-volume agentic workloads where latency and per-call cost matter more than peak reasoning depth.</p>
+    
+  </div>
+  
+  <div class="insights-label">Key Developments</div>
+  
+  <div class="insight-item">Gemini app on macOS — Google shipped a native Mac client for the Gemini app, giving developers a dedicated desktop surface outside the browser for the first time.</div>
+  
+  <div class="insight-item">Gemini CLI 0.38.x patch sprint — versions 0.38.1 and 0.38.2 shipped on consecutive days (April 16-17), indicating active stabilization of the CLI toolchain after recent feature additions.</div>
+  
+  <div class="insight-item">Gemini 3.1 Flash-Lite on Vertex AI and AI Studio — the cost-optimized Flash-Lite tier is now confirmed live on both platforms, making it the practical default for high-volume agentic pipelines where you want Gemini-class reasoning at reduced cost.</div>
+  
+  <div class="insight-item">AGI Evaluation Kaggle Hackathon — DeepMind opened a public hackathon focused on AGI evaluation methodology, a leading indicator of what capability benchmarks the next model generation will be designed around.</div>
+  
+  
+  
+</div>
+
+<hr class="section-divider">
+
+<!-- General AI Industry Updates -->
+<div class="section">
+  <div class="section-title">General AI Industry Updates</div>
+  
+  
+  <div class="section-subtitle">Busy day</div>
+  
+  <div class="section-body">
+    
+    <p>The agent tooling layer is consolidating fast this week. Microsoft made a significant structural move by deprecating both AutoGen and Semantic Kernel as active development projects, shifting them to maintenance-only mode and replacing them with a unified Microsoft Agent Framework that bundles governance tooling for autonomous agents. This is a notable signal — two of the most widely adopted agent scaffolding libraries in enterprise settings are effectively being retired in favor of a single, governance-first successor. For teams building production agent systems, this is a forced migration decision to plan around.</p>
+    
+    <p>On the open-source side, NousResearch's hermes-agent is the standout GitHub story of the week, gaining over 7,400 stars in a single week following its v0.8.0 release — a substantial drop that merged 209 pull requests. The repository represents one of the most active community-driven agent memory and tool-use frameworks outside of the major labs. Alongside it, the broader agent memory problem is drawing serious attention: multiple competing architectures are being actively developed across at least five notable repos, but no consensus pattern has emerged yet for persistent, reliable agent memory across sessions.</p>
+    
+    <p>On the coding assistant front, Cursor shipped interactive canvases on April 15 — a feature that lets users build dashboards, diagrams, and custom interfaces directly inside the IDE. Separately, GitHub officially released a Copilot SDK that lets developers embed Copilot agent behavior into any application, extending beyond the IDE. Sourcegraph's Cody also restructured its Free, Pro, and Enterprise Starter tiers this week, suggesting the coding assistant market is entering a pricing and packaging maturation phase. A quieter but technically interesting release is Open-dLLM, a diffusion-based language model architecture specifically targeting code generation — an experimental departure from the autoregressive norm that is worth watching if it gains traction.</p>
+    
+  </div>
+  
+  <div class="insights-label">Key Developments</div>
+  
+  <div class="insight-item">Microsoft deprecated AutoGen and Semantic Kernel as active projects, consolidating into a unified Microsoft Agent Framework with governance tooling — a forced migration signal for enterprise agent builders currently on either library.</div>
+  
+  <div class="insight-item">NousResearch hermes-agent v0.8.0 merged 209 pull requests and gained 7,400+ GitHub stars in one week, making it the fastest-rising community agent framework this month.</div>
+  
+  <div class="insight-item">Cursor released interactive canvases on April 15, enabling in-editor dashboard and diagram building — the most substantial UX expansion to the product since its multi-file edit features launched.</div>
+  
+  <div class="insight-item">GitHub released a Copilot SDK for embedding agent behavior into any application, moving Copilot from an IDE-only tool to a platform-level capability.</div>
+  
+  <div class="insight-item">Open-dLLM launched on GitHub as a diffusion-architecture language model targeting code generation — an architectural alternative to autoregressive models that has no major production precedent yet.</div>
+  
+  
+  
+  
+  <div class="insights-label">Editorial</div>
+  
+  <div class="insight-item">
+    <a href="https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/" style="font-weight:600;">TurboQuant: Redefining AI Efficiency with Extreme Compression (Google Research)</a>
+     <span style="color:#888;font-size:0.85em;">— Google Research</span>
+    <div style="margin-top:4px;color:#444;">Google Research published TurboQuant (ICLR 2026), a two-stage vector compression achieving 3-bit KV cache quantization with ZERO accuracy loss. PolarQuant converts vectors to polar coordinates; QJL adds 1-bit error correction. Results: 6x KV memory reduction, 8x throughput on H100s. No open-source release yet. PROJECT APPLICABILITY: AutoResearch (KVQuant near-term), MarketSwarm (regime fingerprints), QuantMarketData (belief compression), SportsBettingSwarm (polar normalization), FORGE (context compression).</div>
+  </div>
+  
+  <div class="insight-item">
+    <strong>Action Items: TurboQuant Implementation Proposals</strong>
+     <span style="color:#888;font-size:0.85em;">— Internal</span>
+    <div style="margin-top:4px;color:#444;">HIGH: MarketSwarm regime fingerprint vector store (2-3 days), AutoResearch KVQuant integration (3-5 days). MEDIUM: FORGE context compression (4-6 hrs), QuantMarketData polar signal cache (1 day), SportsBettingSwarm polar normalization (4-6 hrs).</div>
+  </div>
+  
+  
+</div>
+
+
+<hr class="section-divider">
+
+<!-- Project Applicability -->
+<div class="section">
+  <div class="section-title">Project Applicability<span class="section-tag">analysis</span></div>
+  <div class="section-body">
+    
+    <p>The most directly applicable development this week is the agent memory problem drawing serious research attention — five competing architectures are now in active development, with NousResearch hermes-agent emerging as the community frontrunner. This maps directly onto a structural weakness in the current swarm architecture: SportsBettingSwarm, MarketSwarm, and the Kalshi autonomous trader all operate without persistent cross-session memory, meaning each run starts cold. The hermes-agent v0.8.0 release — 209 PRs merged, architecture focused on tool use and persistent memory — is worth a direct technical evaluation against the WAT framework and the MCP message bus. The memory layer is the missing piece that would let swarm agents accumulate pattern knowledge across market sessions rather than rediscovering it each time.</p>
+    
+    <p>The Microsoft AutoGen and Semantic Kernel deprecation is the more strategic signal. The current stack is already insulated — Claude Code plus MCP servers is the orchestration layer, not AutoGen — but this is a significant consulting opportunity for IHTC. Enterprise clients currently on AutoGen or Semantic Kernel face a forced migration with no obvious landing spot yet, and the Microsoft Agent Framework's governance tooling emphasis suggests a compliance and auditability angle that enterprises will pay to have sorted out. This is a timely wedge for an AI consulting pitch in the next 60 days before the migration decisions solidify elsewhere.</p>
+    
+  </div>
+  
+  <div class="insights-label">Recommendations</div>
+  
+  <div class="insight-item">Evaluate hermes-agent v0.8.0 as a persistent memory layer candidate for MarketSwarm and SportsBettingSwarm — clone the repo and map its session memory architecture against the current WAT framework round-state model. The concrete gain is swarm agents that retain discovered correlations and failed strategy signals across multiple trading days instead of resetting.</div>
+  
+  <div class="insight-item">Design a Kalshi autonomous trader memory module using whichever agent memory pattern proves most compatible with FastMCP — the goal is storing market microstructure observations (spread patterns, resolution timing, liquidity windows) across sessions so the agent compounds knowledge rather than re-learning it each session.</div>
+  
+  <div class="insight-item">Build an IHTC consulting pitch around the AutoGen and Semantic Kernel deprecation — target mid-size enterprise clients who adopted either library in the last 18 months. The pitch angle is migration assessment plus governance-ready agent architecture design, timed before the Microsoft Agent Framework stabilizes and the migration path becomes obvious.</div>
+  
+  <div class="insight-item">Flag Open-dLLM for the LLM training domain — it is too early for production use, but if the diffusion architecture shows competitive code generation benchmarks in the next 2-3 months, it could become a relevant fine-tuning architecture target. Set a calendar reminder to re-evaluate when v0.2.0 drops.</div>
+  
+  
+</div>
+
+
+<hr class="section-divider">
+
+<!-- Claude Code Intel -->
+<div class="section">
+  <div class="section-title">Claude Code Intel<span class="section-tag"></span></div>
+  
+  <div class="section-body">
+    
+    <p>Two signals worth tracking this week in the Claude Code ecosystem. One video is focusing on Claude's design capabilities — likely covering agentic UI generation, Figma integration, or visual output quality from Claude, which has been a recurring theme as developers push Claude Code beyond pure text tasks. The more operationally interesting signal is a plugin claiming to dramatically accelerate Claude Code workflows. Plugin and MCP server quality is now the primary competitive surface in the Claude Code ecosystem — the gap between a well-configured Claude Code environment and a bare one is widening fast, and whoever finds the right MCP composition for their domain wins disproportionate leverage.</p>
+    
+    <p>For an operator running agent swarms and autonomous trading pipelines, the plugin signal matters more than the design signal. Claude Code's extensibility via MCP is still underexploited in most setups, and a high-leverage plugin — whether it is a better shell executor, a structured memory layer, or a smarter task router — could meaningfully compress the iteration loop on swarm development, briefing pipelines, and Kalshi strategy testing.</p>
+    
+  </div>
+  
+  <div class="insights-label">Key Takeaways</div>
+  
+  <div class="insight-item">MCP plugin quality is now the primary leverage point in Claude Code workflows — a single well-chosen plugin can restructure the entire agent execution loop</div>
+  
+  <div class="insight-item">Claude's design and visual generation capabilities are maturing, which is relevant for any frontend deliverables or consulting artifacts that currently require manual assembly</div>
+  
+  <div class="insight-item">The Claude Code ecosystem is bifurcating between power users who compose custom MCP stacks and baseline users — staying on the power-user side requires active plugin evaluation</div>
+  
+  <div class="insight-item">Agentic design tooling (Figma MCP, visual generation) is converging with code generation, which could accelerate game development and consulting deliverable production</div>
+  
+  
+  
+  <div class="insights-label" style="margin-top: 20px;">New Workflows</div>
+  
+  <div style="margin-bottom: 12px; padding: 10px 14px; background: #f7f7f7; border-left: 3px solid #0969da; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #1a1a1a;">MCP Plugin Audit and Stack Composition</div>
+    <div style="font-size: 12px; color: #444444; margin-top: 4px;">Systematically evaluate newly released MCP plugins against your active workflow bottlenecks — swarm coordination, data ingestion, and briefing compilation. Benchmark each plugin on a real task from your pipeline before committing it to the permanent stack. The goal is to find the one or two plugins that eliminate a manual step entirely rather than incrementally improving one.</div>
+    
+    <div style="font-size: 11px; color: #666666; margin-top: 6px;">
+      
+      <span style="display: inline-block; background: #e8f0fe; color: #0969da; padding: 1px 6px; border-radius: 3px; margin-right: 4px; margin-bottom: 2px;">Identify a plugin that can replace manual Kalshi market polling with a structured event-driven trigger</span>
+      
+      <span style="display: inline-block; background: #e8f0fe; color: #0969da; padding: 1px 6px; border-radius: 3px; margin-right: 4px; margin-bottom: 2px;">Find a memory or task-routing plugin that reduces round-trip latency in SportsBettingSwarm agent coordination</span>
+      
+    </div>
+    
+  </div>
+  
+  <div style="margin-bottom: 12px; padding: 10px 14px; background: #f7f7f7; border-left: 3px solid #0969da; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #1a1a1a;">Claude Visual Output for Consulting Deliverables</div>
+    <div style="font-size: 12px; color: #444444; margin-top: 4px;">Leverage Claude's improving design and visual generation capabilities to produce client-facing artifacts — reports, dashboards, and strategy summaries — directly from agent output rather than requiring manual post-processing. Connect Claude Code output to Figma MCP or HTML template rendering to close the gap between raw analysis and polished deliverable.</div>
+    
+    <div style="font-size: 11px; color: #666666; margin-top: 6px;">
+      
+      <span style="display: inline-block; background: #e8f0fe; color: #0969da; padding: 1px 6px; border-radius: 3px; margin-right: 4px; margin-bottom: 2px;">Auto-generate strategy performance summaries for IHTC consulting clients from FORGE backtest outputs</span>
+      
+      <span style="display: inline-block; background: #e8f0fe; color: #0969da; padding: 1px 6px; border-radius: 3px; margin-right: 4px; margin-bottom: 2px;">Render daily briefing HTML with richer visual layout using Claude-assisted template generation</span>
+      
+    </div>
+    
+  </div>
+  
+  
+  
+</div>
+
+
+<hr class="section-divider">
+
+<!-- Action Items — pending work only -->
+<div class="section">
+  <div class="section-title">Action Items<span class="section-tag">16 findings</span></div>
+  
+  
+  
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff8e6; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #bf8700;">IHTC</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">1 pending item(s)</div>
+  </div>
+  
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff8e6; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #bf8700;">FORGE</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">3 open item(s)</div>
+  </div>
+  
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff8e6; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #bf8700;">FORGE</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">2 pending item(s)</div>
+  </div>
+  
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff8e6; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #bf8700;">MemoryAgentBench</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">Missing Brain files: architecture, requirements, decisions, changelog</div>
+  </div>
+  
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff8e6; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #bf8700;">GameCreationPlatform</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">In planning for 28+ days</div>
+  </div>
+  
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff8e6; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #bf8700;">TwitterAIScraper</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">Idea untouched for 31+ days</div>
+  </div>
+  
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff8e6; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #bf8700;">YouTubeClaudeScanner</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">Idea untouched for 31+ days</div>
+  </div>
+  
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff8e6; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #bf8700;">InsiderTradeSignals</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">Idea untouched for 30+ days</div>
+  </div>
+  
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff8e6; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #bf8700;">FORGE</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">9 strategies ready to launch — awaiting decision</div>
+  </div>
+  
+  
+  
+  <div style="font-size: 12px; color: #666666; margin-top: 8px; font-style: italic;">+ 7 lower-priority items (paused projects, ideas, documented next steps)</div>
+  
+</div>
+
+
+
+<hr class="section-divider">
+
+<!-- Inactive Projects -->
+<div class="inactive-section">
+  <div class="section-title" style="color: #666; font-size: 14px;">Inactive Projects<span class="section-tag">7 projects</span></div>
+  <div style="margin-top: 10px;">
+  
+  <div class="inactive-row">
+    <div class="inactive-project-name">IHTC</div>
+    <div class="inactive-detail">No activity in 21 days</div>
+  </div>
+  
+  <div class="inactive-row">
+    <div class="inactive-project-name">SportsBettingSwarm</div>
+    <div class="inactive-detail">No activity in 19 days</div>
+  </div>
+  
+  <div class="inactive-row">
+    <div class="inactive-project-name">FORGE</div>
+    <div class="inactive-detail">No activity in 19 days</div>
+  </div>
+  
+  <div class="inactive-row">
+    <div class="inactive-project-name">MarketSwarm</div>
+    <div class="inactive-detail">No activity in 19 days</div>
+  </div>
+  
+  <div class="inactive-row">
+    <div class="inactive-project-name">QuantMarketData</div>
+    <div class="inactive-detail">No activity in 23 days</div>
+  </div>
+  
+  <div class="inactive-row">
+    <div class="inactive-project-name">KalshiTestLab</div>
+    <div class="inactive-detail">No activity in 23 days</div>
+  </div>
+  
+  <div class="inactive-row">
+    <div class="inactive-project-name">BookSummarizer</div>
+    <div class="inactive-detail">No activity in 31 days</div>
+  </div>
+  
+  </div>
+</div>
+
+
+<hr class="section-divider">
+
+<!-- Project Status -->
+<div class="section">
+  <div class="section-title">Project Status</div>
+  <div class="section-subtitle">6 active</div>
+  
+  <div class="project-row">
+    <div class="status-dot status-active"></div>
+    <div class="project-info">
+      <div class="project-name">Sports Betting Swarm</div>
+      <div class="project-summary">Current baseline score: 0.915337</div>
+      
+      <div class="metric-row">
+        
+        <span class="metric"><strong>Runs:</strong> 0</span>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="project-row">
+    <div class="status-dot status-idle"></div>
+    <div class="project-info">
+      <div class="project-name">March Madness Swarm</div>
+      <div class="project-summary">No recent activity</div>
+      
+      <div class="metric-row">
+        
+        <span class="metric"><strong>Experiments:</strong> 0</span>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="project-row">
+    <div class="status-dot status-active"></div>
+    <div class="project-info">
+      <div class="project-name">FORGE</div>
+      <div class="project-summary">Current phase: All strategies fully built</div>
+      
+    </div>
+  </div>
+  
+  <div class="project-row">
+    <div class="status-dot status-active"></div>
+    <div class="project-info">
+      <div class="project-name">MarketSwarm (AlgoSwarm)</div>
+      <div class="project-summary">Current baseline CAGR (IS): 74.30%</div>
+      
+      <div class="metric-row">
+        
+        <span class="metric"><strong>Round:</strong> 8</span>
+        
+        <span class="metric"><strong>Baseline:</strong> 74.3</span>
+        
+        <span class="metric"><strong>Oos Score:</strong> 47.42</span>
+        
+        <span class="metric"><strong>Is Oos Divergence Pct:</strong> 36.2</span>
+        
+        <span class="metric"><strong>Safeguards Active:</strong> True</span>
+        
+        <span class="metric"><strong>Status:</strong> complete</span>
+        
+        <span class="metric"><strong>Note:</strong> Round 6 was a safeguard reset: holdout split (4/11 OOS), risk floors, correlation guard, volume-adaptive slippage. Rounds 7-8 found no improvement over 74.30% IS CAGR baseline.</span>
+        
+        <span class="metric"><strong>Positions:</strong> 12</span>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="project-row">
+    <div class="status-dot status-active"></div>
+    <div class="project-info">
+      <div class="project-name">QuantMarketData (Kalshi)</div>
+      <div class="project-summary">Phase: Paper Trading (Phase 3)</div>
+      
+    </div>
+  </div>
+  
+  <div class="project-row">
+    <div class="status-dot status-active"></div>
+    <div class="project-info">
+      <div class="project-name">KalshiTrader (Paper V2)</div>
+      <div class="project-summary">Phase: **Paper Trading V2 Active** (7W-0L, $3.58 PnL on $100 bankroll)</div>
+      
+      <div class="metric-row">
+        
+        <span class="metric"><strong>Balance:</strong> 126.97</span>
+        
+        <span class="metric"><strong>P&L:</strong> 61.34</span>
+        
+        <span class="metric"><strong>ROI:</strong> 0.19</span>
+        
+        <span class="metric"><strong>Fills:</strong> 42</span>
+        
+        <span class="metric"><strong>Settled:</strong> 37</span>
+        
+        <span class="metric"><strong>Win Rate:</strong> 0.89</span>
+        
+        <span class="metric"><strong>Open Pos:</strong> 7</span>
+        
+        <span class="metric"><strong>Resting:</strong> 0</span>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+</div>
+
+<div class="footer">
+  Brain System · Saturday, April 18, 2026 · Full details indexed in AI_Brain vault
+</div>
+
+</div>
+</body>
+</html>

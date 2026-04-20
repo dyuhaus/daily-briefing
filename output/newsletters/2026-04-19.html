@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daily Briefing — Sunday, April 19, 2026</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #ffffff; color: #1a1a1a; line-height: 1.7; padding: 20px; }
+  .container { max-width: 680px; margin: 0 auto; }
+
+  /* Header */
+  .header { text-align: center; margin-bottom: 32px; padding: 24px 0; border-bottom: 1px solid #e0e0e0; }
+  .header h1 { font-size: 22px; color: #1a1a1a; font-weight: 700; letter-spacing: 0.3px; }
+  .header .date { color: #666666; font-size: 13px; margin-top: 4px; }
+
+  /* Betting Banner */
+  .betting-banner { background: #f7f7f7; border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px 24px; margin-bottom: 32px; }
+  .betting-banner-title { font-size: 11px; text-transform: uppercase; letter-spacing: 1.2px; color: #666666; font-weight: 600; margin-bottom: 14px; }
+  .betting-hero { display: flex; align-items: baseline; gap: 16px; flex-wrap: wrap; margin-bottom: 6px; }
+  .betting-hero-main { font-size: 24px; font-weight: 700; color: #1a1a1a; }
+  .betting-hero-stat { font-size: 14px; color: #666666; }
+  .betting-hero-stat .val { color: #1a1a1a; font-weight: 600; }
+  .betting-narrative { font-size: 13px; color: #444444; line-height: 1.65; margin-top: 10px; }
+
+  /* Sections */
+  .section { margin-bottom: 32px; }
+  .section-title { font-size: 16px; font-weight: 600; color: #1a1a1a; margin-bottom: 2px; }
+  .section-subtitle { font-size: 13px; color: #666666; font-style: italic; margin-bottom: 14px; }
+  .section-tag { float: right; font-size: 11px; color: #666666; font-style: italic; font-weight: 400; }
+  .section-body { font-size: 14px; color: #1a1a1a; line-height: 1.75; }
+  .section-body p { margin-bottom: 12px; }
+  .section-divider { border: none; border-top: 1px solid #e0e0e0; margin: 24px 0; }
+
+  /* Insights */
+  .insights-label { font-size: 12px; color: #666666; font-weight: 600; margin-top: 16px; margin-bottom: 8px; }
+  .insight-item { font-size: 13px; color: #1a1a1a; line-height: 1.65; margin-bottom: 8px; padding-left: 16px; position: relative; }
+  .insight-item::before { content: ""; position: absolute; left: 0; top: 8px; width: 6px; height: 6px; border-radius: 50%; background: #2da44e; }
+
+  /* Project Status */
+  .project-row { display: flex; align-items: flex-start; padding: 10px 0; border-bottom: 1px solid #e0e0e0; gap: 10px; }
+  .project-row:last-child { border-bottom: none; }
+  .status-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; margin-top: 6px; }
+  .status-active { background: #2da44e; }
+  .status-idle { background: #bf8700; }
+  .status-error { background: #cf222e; }
+  .project-info { flex: 1; }
+  .project-name { font-weight: 600; color: #1a1a1a; font-size: 13px; }
+  .project-summary { color: #666666; font-size: 12px; margin-top: 2px; }
+  .metric-row { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 4px; }
+  .metric { font-size: 11px; color: #0969da; }
+  .metric strong { color: #1a1a1a; }
+
+  /* Inactive Projects */
+  .inactive-section { margin-bottom: 32px; }
+  .inactive-row { padding: 8px 14px; background: #f9f9f9; border-left: 3px solid #999; border-radius: 0 6px 6px 0; margin-bottom: 6px; }
+  .inactive-project-name { font-size: 13px; font-weight: 600; color: #555; }
+  .inactive-detail { font-size: 12px; color: #888; margin-top: 2px; }
+
+  .empty-state { color: #666666; font-style: italic; padding: 16px 0; font-size: 13px; }
+  .footer { text-align: center; color: #999999; font-size: 11px; padding: 20px; letter-spacing: 0.3px; }
+</style>
+</head>
+<body>
+<div class="container">
+
+<div class="header">
+  <h1>Daily Briefing</h1>
+  <div class="date">Sunday, April 19, 2026 · 04:48 AM ET</div>
+</div>
+
+
+<!-- KalshiTrader Paper Trading — Timing Strategy -->
+<div class="betting-banner" style="border-left: 3px solid #8250df;">
+  <div class="betting-banner-title">Kalshi Paper Trader — Timing Strategy</div>
+  <div class="betting-hero">
+    <div class="betting-hero-main">33W / 4L</div>
+    <div class="betting-hero-stat"><span class="val">+$61.34</span> Paper P&L</div>
+    <div class="betting-hero-stat"><span class="val">89%</span> Win Rate</div>
+    <div class="betting-hero-stat"><span class="val">19.3%</span> ROI</div>
+  </div>
+  <div class="betting-narrative">
+    $126.97 bankroll · 42 fills (5 pending)
+    
+    <br>
+    
+    <span style="display: inline-block; background: #f0e6ff; color: #8250df; padding: 1px 8px; border-radius: 3px; margin: 2px 4px 2px 0; font-size: 12px;">NBA: 30W/4L +$50.49</span>
+    
+    <span style="display: inline-block; background: #f0e6ff; color: #8250df; padding: 1px 8px; border-radius: 3px; margin: 2px 4px 2px 0; font-size: 12px;">NCAAM: 3W/0L +$10.85</span>
+    
+    
+  </div>
+  
+  
+</div>
+
+
+<hr class="section-divider">
+
+<!-- Market News -->
+<div class="section">
+  <div class="section-title">Market News</div>
+  
+  <div class="section-body">
+    
+    <p>The dominant new development this weekend is the IMF's Spring 2026 World Economic Outlook, released at the spring meetings, projecting global growth at 3.1% for 2026 and 3.2% for 2027 — with the IMF explicitly framing conditions as the global economy operating 'in the shadow of war.' Risks are described as decisively to the downside, driven by the combination of Middle East conflict spillover, persistent tariff uncertainty, and diverging regional trajectories. Separately, the inflation story is getting more attention than the equity rally narrative suggests it should: Bloomberg analysis flags that underlying inflationary pressures are still building even as oil pulls back on the Strait of Hormuz reopening, and Motley Fool makes the argument that the Fed — not tariffs — is now Wall Street's primary tail risk for the second half of 2026. The March FOMC minutes, released this week, are being read as confirming a Fed that is in no hurry to cut despite market pricing. Wharton and Yale budget labs both published updated tariff effective-rate tracking through April 15, showing cumulative tariff revenues that will complicate any near-term trade deal math.</p>
+    
+    <p>The most actionable infrastructure news is a Tradeweb and Kalshi strategic partnership announced to expand institutional access to prediction markets. This is a material shift — Tradeweb is a major fixed-income and derivatives platform with deep institutional client relationships, and plugging Kalshi into that distribution network would accelerate the pace at which professional capital enters prediction markets. The near-term implication for retail and algo participants is that institutional flow will begin affecting contract pricing and liquidity in ways that differ from the retail-dominated order books seen to date. Spread compression and sharper pricing are likely on high-volume contracts; the edge from being early in thin markets may compress faster than anticipated.</p>
+    
+  </div>
+  
+  <div class="insights-label">Key Developments</div>
+  
+  <div class="insight-item">The IMF's 'shadow of war' framing and 3.1% global growth ceiling sets a ceiling on risk-on momentum — watch for the equity-to-credit spread as a divergence signal if IMF downside scenarios (sub-2.5% growth) start getting priced.</div>
+  
+  <div class="insight-item">The Tradeweb-Kalshi institutional partnership is the most significant prediction market infrastructure event in months — model for tighter spreads and higher volume on macro-linked contracts (Fed rate decisions, CPI, geopolitical events) as institutional desks enter.</div>
+  
+  <div class="insight-item">The Fed risk narrative is re-emerging as the primary H2 2026 equity risk — monitor Fed funds futures pricing and any language shift in May FOMC communications; a hawkish surprise could undo the April rally faster than tariff news did in Q1.</div>
+  
+  <div class="insight-item">Wharton and Yale tariff effective-rate trackers are now live public data sources — useful as leading indicators for trade-deal probability markets on Kalshi, since any negotiated reduction would show up in these models before official announcements.</div>
+  
+  
+  
+</div>
+
+<hr class="section-divider">
+
+<!-- Anthropic News -->
+<div class="section">
+  <div class="section-title">Anthropic News</div>
+  
+  <div class="section-body">
+    
+    <p>Two threads from today stand out as genuinely uncovered ground. Anthropic published a research paper titled 'The Hot Mess of AI' on the alignment blog, which takes an unusual analytical lens to frontier model failures — decomposing errors into bias and variance components and finding that as task difficulty increases, model failures shift from systematic bias toward high variance. The practical implication for agent builders is that harder tasks don't just produce wrong answers more often; they produce wrong answers less predictably, which complicates retry logic and confidence estimation in agentic pipelines. Separately, Anthropic also published a 'Labor Market Impacts of AI' report, though article snippets don't reveal its conclusions in detail.</p>
+    
+    <p>On the corporate side, Anthropic added Novartis CEO Vas Narasimhan to its board — a healthcare executive appointment that pairs directly with a concurrent push into healthcare and life sciences the company appears to be formalizing. The combination of a pharma-sector board member and a dedicated healthcare vertical suggests Anthropic is positioning Claude for clinical and research workflows. For agent builders, the healthcare vertical expansion may open regulated-domain deployment patterns worth watching, particularly around data handling and domain-specific fine-tuning guidance.</p>
+    
+  </div>
+  
+  <div class="insights-label">Key Developments</div>
+  
+  <div class="insight-item">The Hot Mess of AI paper reframes model errors as bias vs. variance — on hard tasks, failures become high-variance rather than systematic, meaning agents fail unpredictably rather than consistently, which breaks simple retry-on-failure strategies.</div>
+  
+  <div class="insight-item">Novartis CEO Vas Narasimhan joins Anthropic's board, paired with a formal healthcare and life sciences push — signals Anthropic is building toward regulated-domain deployments, not just general enterprise.</div>
+  
+  <div class="insight-item">Opus 4.7 carries API breaking changes from 4.6 despite identical pricing ($5/$25 per million tokens) — agent builders upgrading from 4.6 should review the platform release notes before swapping model IDs in production.</div>
+  
+  
+  
+</div>
+
+<hr class="section-divider">
+
+<!-- OpenAI News -->
+<div class="section">
+  <div class="section-title">OpenAI News</div>
+  
+  <div class="section-body">
+    
+    <p>Two genuinely new threads emerged today. First, OpenAI announced a landmark agreement with The Walt Disney Company to integrate Sora into Disney's creative pipeline — marking the first major entertainment studio partnership for Sora and signaling that OpenAI is actively pushing its video generation technology into institutional content production, not just consumer experimentation. The scope of the deal wasn't fully disclosed, but the framing as a 'landmark agreement' suggests it goes beyond a simple API license and likely involves co-development or preferred access arrangements. Second, OpenAI's safety research arm published work on two fronts that are directly relevant to anyone building autonomous agents: a chain-of-thought monitorability paper evaluating misalignment risk in coding agents, and the IH-Challenge — a training approach designed to make models resist prompt injection attacks by establishing a formal instruction hierarchy. For agent builders, the IH-Challenge paper is the more operationally useful of the two, as prompt injection remains one of the primary attack surfaces in agentic pipelines. On the image side, GPT-Image-2 is tracking toward release with five reported capability upgrades, though a firm date hasn't been confirmed.</p>
+    
+  </div>
+  
+  <div class="insights-label">Key Developments</div>
+  
+  <div class="insight-item">Disney-Sora partnership: OpenAI signed a landmark deal with The Walt Disney Company to bring Sora into studio-level content production — the first major entertainment institution to formally adopt Sora, which validates video generation as a professional-grade creative tool rather than a novelty.</div>
+  
+  <div class="insight-item">IH-Challenge safety research: OpenAI published a paper on training models to resist prompt injection via an instruction hierarchy — directly applicable to agentic pipelines where tool outputs and external data are common injection vectors.</div>
+  
+  <div class="insight-item">Chain-of-thought monitorability paper: OpenAI is formally studying misalignment risks in coding agents by evaluating whether internal reasoning chains are auditable — a signal that interpretability for autonomous agents is becoming a research priority, not just a policy talking point.</div>
+  
+  <div class="insight-item">GPT-Image-2 incoming: Five capability upgrades are documented ahead of a still-unconfirmed release date — worth tracking for any pipeline that relies on image generation as a downstream step.</div>
+  
+  
+  
+</div>
+
+<hr class="section-divider">
+
+<!-- Google News -->
+<div class="section">
+  <div class="section-title">Google News</div>
+  
+  <div class="section-body">
+    
+    <p>Today's Google AI articles are heavily recycled — most cover Gemini Robotics-ER 1.6, Firebase Studio's sunset, and AI Studio's full-stack IDE, all reported earlier this week. Two threads worth pulling are genuinely new. First, a specific DeepMind research paper is making rounds in which a Gemini model iteratively rewrites its own game theory algorithms — not just solving problems but modifying the solver itself. This self-improvement loop in a constrained, formal domain is more concrete than the general 'AI accelerates science' framing covered April 13, and has direct implications for anyone building optimization-heavy agent systems. Second, Boston Dynamics has announced commercial integration of Gemini Robotics into the Spot inspection platform — the first major named enterprise deployment of the Gemini Robotics line. This matters less for software agent builders directly, but signals that Google's embodied AI stack is moving from lab demos into production contracts, which accelerates investment and iteration in that model family. On the tooling side, a new gemini-cli-extensions GitHub organization has appeared, indicating the Gemini CLI is beginning to grow a third-party extension ecosystem similar to what VS Code or Raycast have — worth watching as a distribution channel for agent tools built on top of Gemini.</p>
+    
+  </div>
+  
+  <div class="insights-label">Key Developments</div>
+  
+  <div class="insight-item">DeepMind research — a Gemini model was demonstrated rewriting its own game theory optimization algorithms iteratively, a self-modification loop in a formal domain that goes beyond standard few-shot problem solving and is relevant to building self-improving agent architectures.</div>
+  
+  <div class="insight-item">Boston Dynamics deployment — Gemini Robotics has been integrated into the Spot robot inspection platform commercially, the first named enterprise production deployment of the Gemini Robotics model line.</div>
+  
+  <div class="insight-item">gemini-cli-extensions ecosystem — a new GitHub organization for Gemini CLI extensions has appeared, suggesting the terminal agent is beginning to build out a plugin/extension marketplace similar to established developer tools.</div>
+  
+  
+  
+</div>
+
+<hr class="section-divider">
+
+<!-- General AI Industry Updates -->
+<div class="section">
+  <div class="section-title">General AI Industry Updates</div>
+  
+  
+  <div class="section-subtitle">Busy day</div>
+  
+  <div class="section-body">
+    
+    <p>The week's most striking GitHub signal comes from NousResearch, whose Hermes Agent v0.8.0 added over 32,000 stars in a single week — pushing the project past 65,000 total — after shipping closed-loop tool use, persistent memory plugins, and a skill system that integrates directly with Claude Code harnesses. This is the fastest community adoption spike for any agent framework in the April 2026 cycle and signals that the developer base is hungry for opinionated, batteries-included agent runtimes rather than low-level scaffolding. Worth watching whether NousResearch follows up with enterprise governance features given Microsoft's move to retire AutoGen.</p>
+    
+    <p>On the coding assistant front, Cursor continued its aggressive release cadence with a follow-up drop on April 15 adding interactive canvas responses to the parallel multi-agent execution architecture it shipped in Cursor 3 on April 2. Separately, Sourcegraph announced plan restructuring for its Cody assistant, consolidating Free, Pro, and Enterprise Starter tiers — a defensive pricing move that suggests the mid-market coding assistant space is under margin pressure as Cursor and GitHub Copilot expand downmarket. LangGraph is meanwhile consolidating as the de facto stateful agent runtime following LangChain's 1.0 stabilization, with CrewAI and AutoGen still viable but clearly trailing in new project starts.</p>
+    
+    <p>Two items worth flagging for builders: the agent-audit project on GitHub shipped a static security scanner for LLM agents with 49 rules mapped to the OWASP Agentic Top 10 2026 edition — the first serious attempt at codifying agent-specific attack surface coverage into an automated tool. And Technology Innovation Institute out of Abu Dhabi released Falcon-H1-Arabic, a dedicated Arabic-language model on Hugging Face, extending the Falcon family into localized language coverage at a time when most frontier labs remain English-dominant in their open releases.</p>
+    
+  </div>
+  
+  <div class="insights-label">Key Developments</div>
+  
+  <div class="insight-item">NousResearch Hermes Agent v0.8.0 added 32K GitHub stars in one week (now 65K total) after shipping persistent memory, skill plugins, and Claude Code integration — the fastest community adoption spike for any agent framework this month.</div>
+  
+  <div class="insight-item">Cursor shipped an April 15 follow-up to Cursor 3, adding interactive canvas responses on top of its parallel multi-agent execution architecture, while Sourcegraph restructured Cody pricing tiers — signals of intensifying competition and margin pressure in coding assistants.</div>
+  
+  <div class="insight-item">agent-audit launched on GitHub: a static security scanner for LLM agents with 49 rules mapped to the OWASP Agentic Top 10 2026, the first automated tooling to codify agent-specific attack surfaces.</div>
+  
+  <div class="insight-item">LangGraph is emerging as the dominant stateful agent runtime post-LangChain 1.0 stabilization, with the broader framework ecosystem consolidating around it while CrewAI and AutoGen hold but cede momentum.</div>
+  
+  <div class="insight-item">Technology Innovation Institute released Falcon-H1-Arabic on Hugging Face, extending open-weight model coverage into Arabic at a time when most frontier labs remain English-dominant in their open releases.</div>
+  
+  
+  
+  
+  <div class="insights-label">Editorial</div>
+  
+  <div class="insight-item">
+    <a href="https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/" style="font-weight:600;">TurboQuant: Redefining AI Efficiency with Extreme Compression (Google Research)</a>
+     <span style="color:#888;font-size:0.85em;">— Google Research</span>
+    <div style="margin-top:4px;color:#444;">Google Research published TurboQuant (ICLR 2026), a two-stage vector compression achieving 3-bit KV cache quantization with ZERO accuracy loss. PolarQuant converts vectors to polar coordinates; QJL adds 1-bit error correction. Results: 6x KV memory reduction, 8x throughput on H100s. No open-source release yet. PROJECT APPLICABILITY: AutoResearch (KVQuant near-term), MarketSwarm (regime fingerprints), QuantMarketData (belief compression), SportsBettingSwarm (polar normalization), FORGE (context compression).</div>
+  </div>
+  
+  <div class="insight-item">
+    <strong>Action Items: TurboQuant Implementation Proposals</strong>
+     <span style="color:#888;font-size:0.85em;">— Internal</span>
+    <div style="margin-top:4px;color:#444;">HIGH: MarketSwarm regime fingerprint vector store (2-3 days), AutoResearch KVQuant integration (3-5 days). MEDIUM: FORGE context compression (4-6 hrs), QuantMarketData polar signal cache (1 day), SportsBettingSwarm polar normalization (4-6 hrs).</div>
+  </div>
+  
+  
+</div>
+
+
+<hr class="section-divider">
+
+<!-- Project Applicability -->
+<div class="section">
+  <div class="section-title">Project Applicability<span class="section-tag">analysis</span></div>
+  <div class="section-body">
+    
+    <p>Two of today's five developments land directly on active projects. The NousResearch Hermes Agent v0.8.0 surge matters because it shipped a persistent memory plugin architecture that integrates explicitly with Claude Code harnesses — the exact runtime the Brain/Body system, cowork squads, and all swarm agents run on. The 65,000-star signal is not just social proof; it means the pattern of opinionated, batteries-included agent runtimes with native skill registries is being stress-tested at scale right now, and the memory plugin design Hermes chose solves the same cross-round knowledge persistence problem SportsBettingSwarm and MarketSwarm currently patch around manually between agent sessions. Worth pulling the v0.8.0 source to see how they wire memory plugins into tool-use loops — that pattern could replace or tighten the Brain inbox/query cycle for swarm workers. The agent-audit OWASP Agentic Top 10 scanner is a direct operational concern: SportsBettingSwarm, MarketSwarm, and the Kalshi autonomous trader all involve agents making financial decisions via external APIs, and none of those swarms have been evaluated against agent-specific attack surfaces like prompt injection through market data feeds or tool-call hijacking through malformed API responses. Running agent-audit before the Kalshi autonomous trading feature goes live is not optional risk management — it is the baseline. LangGraph's consolidation as the dominant stateful runtime is worth monitoring but not actioning yet; the Claude Code native orchestration patterns already outperform LangGraph for the subscription-cost-zero constraint. Falcon-H1-Arabic and the Cursor canvas update have no near-term applicability to this stack.</p>
+    
+  </div>
+  
+  <div class="insights-label">Recommendations</div>
+  
+  <div class="insight-item">Pull NousResearch Hermes Agent v0.8.0 and audit its memory plugin architecture against the Brain inbox pattern — specifically how it persists tool-use context across agent sessions. SportsBettingSwarm loses cross-round learning between agent invocations; the Hermes skill-and-memory plugin model may offer a cleaner solution than the current file-based Brain query cycle for swarm workers.</div>
+  
+  <div class="insight-item">Run agent-audit against the Kalshi autonomous trader and MarketSwarm before enabling live order execution — the tool ships 49 rules against the OWASP Agentic Top 10 2026 and targets exactly the attack surface these agents expose: external API data as an injection vector, tool-call manipulation, and decision loop hijacking. Financial agents making real trades are the highest-priority target for this scanner.</div>
+  
+  <div class="insight-item">Evaluate whether the Hermes skill registry pattern — where discrete capabilities are registered as plugins rather than baked into agent prompts — maps onto the FORGE strategy module architecture. FORGE currently treats each strategy as a standalone module; a skill registry abstraction could enable the evolutionary optimizer to compose and swap strategy components without full module reloads.</div>
+  
+  <div class="insight-item">Track LangGraph's stateful session primitives for one more release cycle before deciding whether to adopt — LangChain 1.0 stabilization means the API surface is now frozen, which removes the primary adoption risk. If the Kalshi trader needs persistent session state across multi-step order workflows, LangGraph's checkpointing is now a viable drop-in rather than a moving target.</div>
+  
+  
+</div>
+
+
+<hr class="section-divider">
+
+<!-- Claude Code Intel -->
+<div class="section">
+  <div class="section-title">Claude Code Intel<span class="section-tag"></span></div>
+  
+  <div class="empty-state">No new Claude Code workflows discovered in the last 24 hours.</div>
+  
+</div>
+
+
+<hr class="section-divider">
+
+<!-- Action Items — pending work only -->
+<div class="section">
+  <div class="section-title">Action Items<span class="section-tag">16 findings</span></div>
+  
+  
+  
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff8e6; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #bf8700;">IHTC</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">1 pending item(s)</div>
+  </div>
+  
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff8e6; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #bf8700;">FORGE</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">3 open item(s)</div>
+  </div>
+  
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff8e6; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #bf8700;">FORGE</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">2 pending item(s)</div>
+  </div>
+  
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff8e6; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #bf8700;">MemoryAgentBench</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">Missing Brain files: architecture, requirements, decisions, changelog</div>
+  </div>
+  
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff8e6; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #bf8700;">GameCreationPlatform</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">In planning for 29+ days</div>
+  </div>
+  
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff8e6; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #bf8700;">TwitterAIScraper</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">Idea untouched for 32+ days</div>
+  </div>
+  
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff8e6; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #bf8700;">YouTubeClaudeScanner</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">Idea untouched for 32+ days</div>
+  </div>
+  
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff8e6; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #bf8700;">InsiderTradeSignals</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">Idea untouched for 31+ days</div>
+  </div>
+  
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff8e6; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #bf8700;">FORGE</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">9 strategies ready to launch — awaiting decision</div>
+  </div>
+  
+  
+  
+  <div style="font-size: 12px; color: #666666; margin-top: 8px; font-style: italic;">+ 7 lower-priority items (paused projects, ideas, documented next steps)</div>
+  
+</div>
+
+
+
+<hr class="section-divider">
+
+<!-- Inactive Projects -->
+<div class="inactive-section">
+  <div class="section-title" style="color: #666; font-size: 14px;">Inactive Projects<span class="section-tag">7 projects</span></div>
+  <div style="margin-top: 10px;">
+  
+  <div class="inactive-row">
+    <div class="inactive-project-name">IHTC</div>
+    <div class="inactive-detail">No activity in 22 days</div>
+  </div>
+  
+  <div class="inactive-row">
+    <div class="inactive-project-name">SportsBettingSwarm</div>
+    <div class="inactive-detail">No activity in 20 days</div>
+  </div>
+  
+  <div class="inactive-row">
+    <div class="inactive-project-name">FORGE</div>
+    <div class="inactive-detail">No activity in 20 days</div>
+  </div>
+  
+  <div class="inactive-row">
+    <div class="inactive-project-name">MarketSwarm</div>
+    <div class="inactive-detail">No activity in 20 days</div>
+  </div>
+  
+  <div class="inactive-row">
+    <div class="inactive-project-name">QuantMarketData</div>
+    <div class="inactive-detail">No activity in 24 days</div>
+  </div>
+  
+  <div class="inactive-row">
+    <div class="inactive-project-name">KalshiTestLab</div>
+    <div class="inactive-detail">No activity in 24 days</div>
+  </div>
+  
+  <div class="inactive-row">
+    <div class="inactive-project-name">BookSummarizer</div>
+    <div class="inactive-detail">No activity in 32 days</div>
+  </div>
+  
+  </div>
+</div>
+
+
+<hr class="section-divider">
+
+<!-- Project Status -->
+<div class="section">
+  <div class="section-title">Project Status</div>
+  <div class="section-subtitle">6 active</div>
+  
+  <div class="project-row">
+    <div class="status-dot status-active"></div>
+    <div class="project-info">
+      <div class="project-name">Sports Betting Swarm</div>
+      <div class="project-summary">Current baseline score: 0.915337</div>
+      
+      <div class="metric-row">
+        
+        <span class="metric"><strong>Runs:</strong> 0</span>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="project-row">
+    <div class="status-dot status-idle"></div>
+    <div class="project-info">
+      <div class="project-name">March Madness Swarm</div>
+      <div class="project-summary">No recent activity</div>
+      
+      <div class="metric-row">
+        
+        <span class="metric"><strong>Experiments:</strong> 0</span>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="project-row">
+    <div class="status-dot status-active"></div>
+    <div class="project-info">
+      <div class="project-name">FORGE</div>
+      <div class="project-summary">Current phase: All strategies fully built</div>
+      
+    </div>
+  </div>
+  
+  <div class="project-row">
+    <div class="status-dot status-active"></div>
+    <div class="project-info">
+      <div class="project-name">MarketSwarm (AlgoSwarm)</div>
+      <div class="project-summary">Current baseline CAGR (IS): 74.30%</div>
+      
+      <div class="metric-row">
+        
+        <span class="metric"><strong>Round:</strong> 8</span>
+        
+        <span class="metric"><strong>Baseline:</strong> 74.3</span>
+        
+        <span class="metric"><strong>Oos Score:</strong> 47.42</span>
+        
+        <span class="metric"><strong>Is Oos Divergence Pct:</strong> 36.2</span>
+        
+        <span class="metric"><strong>Safeguards Active:</strong> True</span>
+        
+        <span class="metric"><strong>Status:</strong> complete</span>
+        
+        <span class="metric"><strong>Note:</strong> Round 6 was a safeguard reset: holdout split (4/11 OOS), risk floors, correlation guard, volume-adaptive slippage. Rounds 7-8 found no improvement over 74.30% IS CAGR baseline.</span>
+        
+        <span class="metric"><strong>Positions:</strong> 12</span>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="project-row">
+    <div class="status-dot status-active"></div>
+    <div class="project-info">
+      <div class="project-name">QuantMarketData (Kalshi)</div>
+      <div class="project-summary">Phase: Paper Trading (Phase 3)</div>
+      
+    </div>
+  </div>
+  
+  <div class="project-row">
+    <div class="status-dot status-active"></div>
+    <div class="project-info">
+      <div class="project-name">KalshiTrader (Paper V2)</div>
+      <div class="project-summary">Phase: **Paper Trading V2 Active** (7W-0L, $3.58 PnL on $100 bankroll)</div>
+      
+      <div class="metric-row">
+        
+        <span class="metric"><strong>Balance:</strong> 126.97</span>
+        
+        <span class="metric"><strong>P&L:</strong> 61.34</span>
+        
+        <span class="metric"><strong>ROI:</strong> 0.19</span>
+        
+        <span class="metric"><strong>Fills:</strong> 42</span>
+        
+        <span class="metric"><strong>Settled:</strong> 37</span>
+        
+        <span class="metric"><strong>Win Rate:</strong> 0.89</span>
+        
+        <span class="metric"><strong>Open Pos:</strong> 7</span>
+        
+        <span class="metric"><strong>Resting:</strong> 0</span>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+</div>
+
+<div class="footer">
+  Brain System · Sunday, April 19, 2026 · Full details indexed in AI_Brain vault
+</div>
+
+</div>
+</body>
+</html>

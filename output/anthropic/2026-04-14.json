@@ -1,0 +1,106 @@
+{
+  "date": "2026-04-14",
+  "company": "anthropic",
+  "scan_time": "2026-04-14T07:33:30.778615+00:00",
+  "total_scraped": 39,
+  "after_dedup": 9,
+  "after_filter": 8,
+  "items": [
+    {
+      "title": "Expanding Our Use of Google Cloud TPUs and Services",
+      "url": "https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services",
+      "source": "gemini_grounded",
+      "author": "www.anthropic.com",
+      "snippet": "Anthropic has been active with major announcements in early 2026. The most significant recent release is Claude Mythos Preview (announced April 7, 2026), a new general-purpose model that demonstrates exceptional capability in computer security tasks. In response to its power, Anthropic launched Project Glasswing — an initiative using Mythos Preview to help secure critical software infrastructure. Earlier in 2026, Claude Opus 4.6 was released (February 5, 2026), noted for its improved ability to ",
+      "timestamp": "2026-04-14T07:30:37.017714+00:00",
+      "company": "anthropic",
+      "category": "model_release",
+      "relevance_score": 1.0,
+      "content_hash": "54a581972d1b1bb3"
+    },
+    {
+      "title": "Trustworthy Agents in Practice (via Research index)",
+      "url": "https://www.anthropic.com/research",
+      "source": "gemini_grounded",
+      "author": "www.anthropic.com",
+      "snippet": "Anthropic has published several notable research papers and reports in early 2026. On the alignment and safety front, they released 'Natural Emergent Misalignment from Reward Hacking in Production RL,' which examines how misalignment can emerge naturally from reward hacking during reinforcement learning. They also published work on 'The Hot Mess of AI: How Does Misalignment Scale with Model Intelligence and Task Complexity?' on their alignment blog, and a paper showing that 'Reasoning Models Don",
+      "timestamp": "2026-04-14T07:31:16.002105+00:00",
+      "company": "anthropic",
+      "category": "research",
+      "relevance_score": 1.0,
+      "content_hash": "5e5fd963078cd90d"
+    },
+    {
+      "title": "Claude Mythos Preview",
+      "url": "https://red.anthropic.com/2026/mythos-preview/",
+      "source": "gemini_grounded",
+      "author": "red.anthropic.com",
+      "snippet": "Anthropic has published several notable research papers and reports in early 2026. On the alignment and safety front, they released 'Natural Emergent Misalignment from Reward Hacking in Production RL,' which examines how misalignment can emerge naturally from reward hacking during reinforcement learning. They also published work on 'The Hot Mess of AI: How Does Misalignment Scale with Model Intelligence and Task Complexity?' on their alignment blog, and a paper showing that 'Reasoning Models Don",
+      "timestamp": "2026-04-14T07:31:16.002118+00:00",
+      "company": "anthropic",
+      "category": "model_release",
+      "relevance_score": 1.0,
+      "content_hash": "187332049151e70e"
+    },
+    {
+      "title": "Claude Platform API Release Notes",
+      "url": "https://platform.claude.com/docs/en/release-notes/overview",
+      "source": "gemini_grounded",
+      "author": "platform.claude.com",
+      "snippet": "Anthropic has been on an aggressive release cadence in early 2026, launching major model upgrades and platform features. On February 5, 2026, Anthropic officially released Claude Opus 4.6 and Claude Sonnet 4.6, both featuring a 1-million-token context window (in beta), stronger coding and reasoning capabilities, improved financial analysis (top rank on the Finance Agent benchmark), and a 14.5-hour task completion time horizon for long-running agentic work. Claude Sonnet 4.6 received broad capabi",
+      "timestamp": "2026-04-14T07:31:48.464778+00:00",
+      "company": "anthropic",
+      "category": "model_release",
+      "relevance_score": 1.0,
+      "content_hash": "ae6a4622a9321909"
+    },
+    {
+      "title": "Claude Mythos Preview | red.anthropic.com",
+      "url": "https://red.anthropic.com/2026/mythos-preview/",
+      "source": "gemini_grounded",
+      "author": "red.anthropic.com",
+      "snippet": "Anthropic's most significant April 2026 announcement is the debut of Claude Mythos Preview, unveiled on April 7th as part of a new cybersecurity initiative called Project Glasswing. Mythos is described as the most capable model Anthropic has ever built, but it will not be released publicly — instead, it is being deployed in a gated research preview with 12 partner organizations focused exclusively on defensive cybersecurity work. The model has demonstrated the ability to find high-severity vulne",
+      "timestamp": "2026-04-14T07:33:09.747868+00:00",
+      "company": "anthropic",
+      "category": "model_release",
+      "relevance_score": 1.0,
+      "content_hash": "1d108c2917cc9c93"
+    },
+    {
+      "title": "Anthropic's Mythos Model Heralds New Era for AI Releases - Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-04-09/anthropic-s-mythos-model-heralds-new-era-for-ai-releases",
+      "source": "gemini_grounded",
+      "author": "www.bloomberg.com",
+      "snippet": "Anthropic's most significant April 2026 announcement is the debut of Claude Mythos Preview, unveiled on April 7th as part of a new cybersecurity initiative called Project Glasswing. Mythos is described as the most capable model Anthropic has ever built, but it will not be released publicly — instead, it is being deployed in a gated research preview with 12 partner organizations focused exclusively on defensive cybersecurity work. The model has demonstrated the ability to find high-severity vulne",
+      "timestamp": "2026-04-14T07:33:09.747873+00:00",
+      "company": "anthropic",
+      "category": "model_release",
+      "relevance_score": 1.0,
+      "content_hash": "2a2924d9029c4517"
+    },
+    {
+      "title": "Anthropic's Explosive Start to 2026 - Medium",
+      "url": "https://fazal-sec.medium.com/anthropics-explosive-start-to-2026-everything-claude-has-launched-and-why-it-s-shaking-up-the-668788c2c9de",
+      "source": "gemini_grounded",
+      "author": "fazal-sec.medium.com",
+      "snippet": "Anthropic has been on an aggressive release cadence in early 2026, launching major model upgrades and platform features. On February 5, 2026, Anthropic officially released Claude Opus 4.6 and Claude Sonnet 4.6, both featuring a 1-million-token context window (in beta), stronger coding and reasoning capabilities, improved financial analysis (top rank on the Finance Agent benchmark), and a 14.5-hour task completion time horizon for long-running agentic work. Claude Sonnet 4.6 received broad capabi",
+      "timestamp": "2026-04-14T07:31:48.464787+00:00",
+      "company": "anthropic",
+      "category": "model_release",
+      "relevance_score": 0.8,
+      "content_hash": "0855cac5fbd2895d"
+    },
+    {
+      "title": "anthropic-sdk-python Releases - GitHub",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "Anthropic has released several major API updates through early 2026. Key highlights include the launch of Claude Managed Agents in public beta — a fully managed agent harness with secure sandboxing, built-in tools, and server-sent event streaming (requires the `managed-agents-2026-04-01` beta header). Structured Outputs reached general availability for Claude Sonnet 4.5, Opus 4.5, and Haiku 4.5, with expanded schema support and no beta header required. The web search tool and programmatic tool c",
+      "timestamp": "2026-04-14T07:32:31.801728+00:00",
+      "company": "anthropic",
+      "category": "model_release",
+      "relevance_score": 0.7,
+      "content_hash": "88cbe1a0b18d2120"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "active_stacks": {
+    "languages": ["Python", "Node.js", "JavaScript", "TypeScript", "C#"],
+    "frameworks": ["PyTorch", "Streamlit", "Vite", "React", "FastMCP", "Express"],
+    "tools": ["Claude Code", "MCP servers", "yt-dlp", "Firecrawl", "Git", "Windows Task Scheduler"],
+    "ai_patterns": ["agent swarms", "evolutionary optimization", "autoresearch", "WAT framework", "multi-agent orchestration", "Bayesian inference", "LLM-based scoring"],
+    "domains": ["stock trading", "prediction markets", "sports betting", "bracket prediction", "LLM training", "quantitative finance", "consulting", "game development"],
+    "apis": ["Anthropic Claude", "FMP", "Kalshi", "Alpha Vantage", "FRED", "Firecrawl", "Tiingo", "NOAA"],
+    "infrastructure": ["MCP message bus", "WebSocket", "SMTP email", "Jinja2 templates", "SQLite", "Redis"]
+  },
+  "current_priorities": [
+    "Improve swarm algorithm performance (SportsBettingSwarm score, MarchMadness accuracy)",
+    "Autonomous trading on Kalshi prediction markets",
+    "Evolving trading strategies via competitive optimization",
+    "Knowledge extraction and pattern discovery",
+    "Claude Code agent orchestration and workflow optimization",
+    "Daily automated intelligence gathering"
+  ]
+}

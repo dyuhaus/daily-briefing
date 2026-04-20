@@ -1,0 +1,130 @@
+{
+  "date": "2026-04-14",
+  "company": "openai",
+  "scan_time": "2026-04-14T07:36:32.371776+00:00",
+  "total_scraped": 39,
+  "after_dedup": 10,
+  "after_filter": 10,
+  "items": [
+    {
+      "title": "The next phase of enterprise AI",
+      "url": "https://openai.com/index/next-phase-of-enterprise-ai/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI has made several major announcements in early 2026. On the model front, three new GPT-5 family models were released in March 2026: GPT-5.3 Instant for fast everyday tasks, GPT-5.4 Thinking for complex professional workflows, and GPT-5.4 Pro for the most demanding use cases. GPT-5.3-Codex was introduced in February 2026 and is now available in the Responses API, with Codex pay-as-you-go pricing for teams launching in April 2026.\n\nOn the business and enterprise side, OpenAI raised $122 bill",
+      "timestamp": "2026-04-14T07:33:57.843983+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 1.0,
+      "content_hash": "687eb1865ec3739d"
+    },
+    {
+      "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+      "url": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI has made several major announcements in early 2026. On the model front, three new GPT-5 family models were released in March 2026: GPT-5.3 Instant for fast everyday tasks, GPT-5.4 Thinking for complex professional workflows, and GPT-5.4 Pro for the most demanding use cases. GPT-5.3-Codex was introduced in February 2026 and is now available in the Responses API, with Codex pay-as-you-go pricing for teams launching in April 2026.\n\nOn the business and enterprise side, OpenAI raised $122 bill",
+      "timestamp": "2026-04-14T07:33:57.843993+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 1.0,
+      "content_hash": "528ae2729dd76cb0"
+    },
+    {
+      "title": "AI as a Scientific Collaborator — OpenAI (January 2026)",
+      "url": "https://cdn.openai.com/pdf/f4b4a5da-b2de-418d-9fcd-6b293e9dc157/oai_ai-as-a-scientific-collaborator_jan-2026.pdf",
+      "source": "gemini_grounded",
+      "author": "cdn.openai.com",
+      "snippet": "OpenAI has been actively publishing research in early 2026, with a strong focus on scientific acceleration and AI safety. Notable recent work includes early experiments with GPT-5 accelerating scientific discovery — such as deriving new results in theoretical physics and lowering the cost of cell-free protein synthesis. OpenAI also introduced Prism, a LaTeX-native research workspace powered by GPT-5.2, designed to help scientists write, collaborate, and reason in one place.\n\nOn the AI safety fro",
+      "timestamp": "2026-04-14T07:34:24.992292+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 1.0,
+      "content_hash": "eb8648b434c055d0"
+    },
+    {
+      "title": "OpenAI Models by OpenAI - Release Notes - March 2026 Latest Updates - Releasebot",
+      "url": "https://releasebot.io/updates/openai/openai-models",
+      "source": "gemini_grounded",
+      "author": "releasebot.io",
+      "snippet": "OpenAI has been on an aggressive model release cadence in early 2026. GPT-5.4 launched on March 5, 2026, in two variants — GPT-5.4 Thinking and GPT-5.4 Pro — featuring a 33% reduction in factual errors versus GPT-5.2, built-in computer use, improved deep research, and stronger agentic coding and workflow capabilities across professional tools like spreadsheets and presentations. On March 17, OpenAI followed with GPT-5.4 mini and GPT-5.4 nano: mini is available to free-tier ChatGPT users and appr",
+      "timestamp": "2026-04-14T07:34:58.616163+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 1.0,
+      "content_hash": "639316d52d7406c3"
+    },
+    {
+      "title": "Latest AI Models April 2026: Rankings & Features",
+      "url": "https://www.buildfastwithai.com/blogs/latest-ai-models-april-2026",
+      "source": "gemini_grounded",
+      "author": "www.buildfastwithai.com",
+      "snippet": "OpenAI has been active on social media and in the news around April 14, 2026. Key announcements include the release of GPT-5.3 Instant Mini in ChatGPT, which replaces GPT-5 Instant Mini as the fallback model for users who hit rate limits. The new model offers more natural conversation, stronger writing, and improved contextual awareness. OpenAI also announced pay-as-you-go pricing for Codex-only seats in ChatGPT Business and Enterprise workspaces, and a $100/month Pro plan update.\n\nOn the model ",
+      "timestamp": "2026-04-14T07:36:13.632831+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.95,
+      "content_hash": "f60beeb1a425baec"
+    },
+    {
+      "title": "New AI Model Releases News | April, 2026 (STARTUP EDITION)",
+      "url": "https://blog.mean.ceo/new-ai-model-releases-news-april-2026/",
+      "source": "gemini_grounded",
+      "author": "blog.mean.ceo",
+      "snippet": "OpenAI has been active on social media and in the news around April 14, 2026. Key announcements include the release of GPT-5.3 Instant Mini in ChatGPT, which replaces GPT-5 Instant Mini as the fallback model for users who hit rate limits. The new model offers more natural conversation, stronger writing, and improved contextual awareness. OpenAI also announced pay-as-you-go pricing for Codex-only seats in ChatGPT Business and Enterprise workspaces, and a $100/month Pro plan update.\n\nOn the model ",
+      "timestamp": "2026-04-14T07:36:13.632818+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.9,
+      "content_hash": "638cc9bc75d89b4a"
+    },
+    {
+      "title": "OpenAI Spud: GPT-5.5 Pretraining Done, April Release Likely",
+      "url": "https://www.abhs.in/blog/openai-spud-gpt-5-5-release-date-polymarket-april-2026",
+      "source": "gemini_grounded",
+      "author": "www.abhs.in",
+      "snippet": "OpenAI has been active on social media and in the news around April 14, 2026. Key announcements include the release of GPT-5.3 Instant Mini in ChatGPT, which replaces GPT-5 Instant Mini as the fallback model for users who hit rate limits. The new model offers more natural conversation, stronger writing, and improved contextual awareness. OpenAI also announced pay-as-you-go pricing for Codex-only seats in ChatGPT Business and Enterprise workspaces, and a $100/month Pro plan update.\n\nOn the model ",
+      "timestamp": "2026-04-14T07:36:13.632823+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.85,
+      "content_hash": "58d2fd2640164bfa"
+    },
+    {
+      "title": "GPT-5.4 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/GPT-5.4",
+      "source": "gemini_grounded",
+      "author": "en.wikipedia.org",
+      "snippet": "OpenAI has been on an aggressive model release cadence in early 2026. GPT-5.4 launched on March 5, 2026, in two variants — GPT-5.4 Thinking and GPT-5.4 Pro — featuring a 33% reduction in factual errors versus GPT-5.2, built-in computer use, improved deep research, and stronger agentic coding and workflow capabilities across professional tools like spreadsheets and presentations. On March 17, OpenAI followed with GPT-5.4 mini and GPT-5.4 nano: mini is available to free-tier ChatGPT users and appr",
+      "timestamp": "2026-04-14T07:34:58.616173+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.8,
+      "content_hash": "42d0eb7e1273ecfa"
+    },
+    {
+      "title": "Scoop: OpenAI plans new product for cybersecurity use",
+      "url": "https://www.axios.com/2026/04/09/openai-new-model-cyber-mythos-anthopic",
+      "source": "gemini_grounded",
+      "author": "www.axios.com",
+      "snippet": "OpenAI has been active on social media and in the news around April 14, 2026. Key announcements include the release of GPT-5.3 Instant Mini in ChatGPT, which replaces GPT-5 Instant Mini as the fallback model for users who hit rate limits. The new model offers more natural conversation, stronger writing, and improved contextual awareness. OpenAI also announced pay-as-you-go pricing for Codex-only seats in ChatGPT Business and Enterprise workspaces, and a $100/month Pro plan update.\n\nOn the model ",
+      "timestamp": "2026-04-14T07:36:13.632827+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.75,
+      "content_hash": "aeecb403a356c188"
+    },
+    {
+      "title": "Model Release Notes",
+      "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+      "source": "gemini_grounded",
+      "author": "help.openai.com",
+      "snippet": "OpenAI has made several major announcements in early 2026. On the model front, three new GPT-5 family models were released in March 2026: GPT-5.3 Instant for fast everyday tasks, GPT-5.4 Thinking for complex professional workflows, and GPT-5.4 Pro for the most demanding use cases. GPT-5.3-Codex was introduced in February 2026 and is now available in the Responses API, with Codex pay-as-you-go pricing for teams launching in April 2026.\n\nOn the business and enterprise side, OpenAI raised $122 bill",
+      "timestamp": "2026-04-14T07:33:57.844003+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.7,
+      "content_hash": "ee6fcf18fde8b409"
+    }
+  ]
+}

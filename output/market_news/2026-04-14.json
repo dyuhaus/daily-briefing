@@ -1,0 +1,86 @@
+{
+  "date": "2026-04-14",
+  "scan_time": "2026-04-14T07:40:09.452231+00:00",
+  "total_scraped": 93,
+  "after_dedup": 38,
+  "after_filter": 7,
+  "items": [
+    {
+      "title": "Kalshi Trading Bot Setup Tutorial — Automate Your Prediction Market Trading",
+      "url": "https://tradingvps.io/kalshi-trading-bot-setup-tutorial-automate-your-prediction-market-trading/",
+      "source": "gemini_grounded",
+      "author": "tradingvps.io",
+      "snippet": "Prediction market automated trading has matured significantly heading into 2026, with both Kalshi and Polymarket offering robust API infrastructure for algorithmic strategies. Kalshi, a CFTC-regulated exchange that closed a $1 billion funding round at an $11 billion valuation in late 2025, provides a REST API supporting automated order placement, historical price data retrieval, and full portfolio integration. Multiple open-source frameworks have emerged targeting Kalshi specifically, including ",
+      "timestamp": "2026-04-14T07:32:54.557964+00:00",
+      "relevance_score": 1.0,
+      "content_hash": "cd420a54dab0ed8d",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Trade Backtesting 2025: Why Probability Stacking Beats Traditional Backtesting - Edgeful",
+      "url": "https://www.edgeful.com/blog/posts/trade-backtesting-2025-best-practices",
+      "source": "gemini_grounded",
+      "author": "www.edgeful.com",
+      "snippet": "Discussions in quant and algotrading communities consistently highlight a significant gap between backtested and live trading results. Research cited across these communities — including a notable Quantopian academic paper analyzed by QuantPedia — found that live out-of-sample performance yields roughly 4/5 of in-sample (backtest) performance on average, with very weak correlations between in-sample and out-of-sample metrics like Sharpe ratio and alpha. A frequently cited rule of thumb is that l",
+      "timestamp": "2026-04-14T07:32:02.808820+00:00",
+      "relevance_score": 0.9,
+      "content_hash": "0dc7aed5b454776a",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Backtesting vs Live Trading: Bridging the Gap - PineConnector",
+      "url": "https://www.pineconnector.com/blogs/pico-blog/backtesting-vs-live-trading-bridging-the-gap-between-strategy-and-reality",
+      "source": "gemini_grounded",
+      "author": "www.pineconnector.com",
+      "snippet": "Discussions in quant and algotrading communities consistently highlight a significant gap between backtested and live trading results. Research cited across these communities — including a notable Quantopian academic paper analyzed by QuantPedia — found that live out-of-sample performance yields roughly 4/5 of in-sample (backtest) performance on average, with very weak correlations between in-sample and out-of-sample metrics like Sharpe ratio and alpha. A frequently cited rule of thumb is that l",
+      "timestamp": "2026-04-14T07:32:02.808805+00:00",
+      "relevance_score": 0.8,
+      "content_hash": "894a71da517b653c",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Automated Trading Edge Analysis with Quantpedia - Disruption Banking",
+      "url": "https://www.disruptionbanking.com/2022/09/05/automated-trading-edge-analysis-with-quantpedia/",
+      "source": "gemini_grounded",
+      "author": "www.disruptionbanking.com",
+      "snippet": "Discussions in quant and algotrading communities consistently highlight a significant gap between backtested and live trading results. Research cited across these communities — including a notable Quantopian academic paper analyzed by QuantPedia — found that live out-of-sample performance yields roughly 4/5 of in-sample (backtest) performance on average, with very weak correlations between in-sample and out-of-sample metrics like Sharpe ratio and alpha. A frequently cited rule of thumb is that l",
+      "timestamp": "2026-04-14T07:32:02.808825+00:00",
+      "relevance_score": 0.7,
+      "content_hash": "8add638d37591e74",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "GitHub - OctagonAI/kalshi-trading-bot-cli: AI-native CLI for trading Kalshi prediction markets",
+      "url": "https://github.com/OctagonAI/kalshi-deep-trading-bot",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "Prediction market automated trading has matured significantly heading into 2026, with both Kalshi and Polymarket offering robust API infrastructure for algorithmic strategies. Kalshi, a CFTC-regulated exchange that closed a $1 billion funding round at an $11 billion valuation in late 2025, provides a REST API supporting automated order placement, historical price data retrieval, and full portfolio integration. Multiple open-source frameworks have emerged targeting Kalshi specifically, including ",
+      "timestamp": "2026-04-14T07:32:54.557923+00:00",
+      "relevance_score": 0.6,
+      "content_hash": "b19b0b9561ba1fa3",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Quantopian's Academic Paper About In vs. Out-of-Sample Performance - QuantPedia",
+      "url": "https://quantpedia.com/quantopians-academic-paper-about-in-vs-out-of-sample-performance-of-trading-alg/",
+      "source": "gemini_grounded",
+      "author": "quantpedia.com",
+      "snippet": "Discussions in quant and algotrading communities consistently highlight a significant gap between backtested and live trading results. Research cited across these communities — including a notable Quantopian academic paper analyzed by QuantPedia — found that live out-of-sample performance yields roughly 4/5 of in-sample (backtest) performance on average, with very weak correlations between in-sample and out-of-sample metrics like Sharpe ratio and alpha. A frequently cited rule of thumb is that l",
+      "timestamp": "2026-04-14T07:32:02.808800+00:00",
+      "relevance_score": 0.3,
+      "content_hash": "05f5b815b067f446",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Kelly Criterion Betting Strategy Guide 2026 | Odds Calculators",
+      "url": "https://odds-calculators.com/betting-guides/strategies/kelly-criterion-betting-strategy/",
+      "source": "gemini_grounded",
+      "author": "odds-calculators.com",
+      "snippet": "Quantitative sports betting model methodology, as discussed across Reddit communities like r/sportsbook and r/sportsbetting, centers on three core pillars: probability estimation, expected value (EV) calculation, and optimal bet sizing. Practitioners build statistical models—ranging from simple regression in spreadsheets to machine learning pipelines—that ingest team efficiency ratings, pace metrics, injury reports, home/away factors, and historical matchup data to produce win probability estima",
+      "timestamp": "2026-04-14T07:33:46.008080+00:00",
+      "relevance_score": 0.3,
+      "content_hash": "c1d25e592d410e5e",
+      "freshness_window": "24h"
+    }
+  ]
+}

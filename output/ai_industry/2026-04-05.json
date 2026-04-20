@@ -1,0 +1,240 @@
+{
+  "date": "2026-04-05",
+  "scan_time": "2026-04-05T07:38:20.741741+00:00",
+  "total_scraped": 93,
+  "after_dedup": 22,
+  "after_filter": 21,
+  "items": [
+    {
+      "title": "SAM 3.1: Faster and More Accessible Real-Time Video Detection and Tracking",
+      "url": "https://ai.meta.com/blog/segment-anything-model-3/",
+      "source": "gemini_grounded",
+      "author": "ai.meta.com",
+      "snippet": "Meta released its Llama 4 model family on April 5, 2025, marking a major leap in open-source AI. The release includes two immediately available models: Llama 4 Scout (17B active parameters, 16 experts, 10M token context window) and Llama 4 Maverick (17B active parameters, 128 experts). Both are the first open-weight natively multimodal models built with a mixture-of-experts (MoE) architecture, pre-trained on over 30 trillion tokens spanning text, image, and video. Scout fits on a single H100 GPU",
+      "timestamp": "2026-04-05T07:30:38.224520+00:00",
+      "category": "major_org",
+      "relevance_score": 1.0,
+      "content_hash": "c1616f404718cf15"
+    },
+    {
+      "title": "Unmatched Performance and Efficiency | Llama 4",
+      "url": "https://www.llama.com/models/llama-4/",
+      "source": "gemini_grounded",
+      "author": "www.llama.com",
+      "snippet": "Meta released its Llama 4 model family on April 5, 2025, marking a major leap in open-source AI. The release includes two immediately available models: Llama 4 Scout (17B active parameters, 16 experts, 10M token context window) and Llama 4 Maverick (17B active parameters, 128 experts). Both are the first open-weight natively multimodal models built with a mixture-of-experts (MoE) architecture, pre-trained on over 30 trillion tokens spanning text, image, and video. Scout fits on a single H100 GPU",
+      "timestamp": "2026-04-05T07:30:38.224540+00:00",
+      "category": "major_org",
+      "relevance_score": 1.0,
+      "content_hash": "1123815ae34b6526"
+    },
+    {
+      "title": "Qwen 3.5 vs Llama vs Mistral: China's Open-Source AI Is Catching Up - AI Magicx",
+      "url": "https://www.aimagicx.com/blog/qwen-3-5-vs-llama-vs-mistral-china-open-source-ai-2026",
+      "source": "gemini_grounded",
+      "author": "www.aimagicx.com",
+      "snippet": "The open-source LLM landscape in early April 2026 is marked by intense competition between Western and Chinese model families. Alibaba's Qwen 3.5 series finished rolling out in March 2026, with the flagship Qwen3.5-397B-A17B using a Mixture-of-Experts (MoE) architecture (397B total parameters, 17B active per pass) competing directly with Meta's Llama 4 Maverick. Qwen 3.5-9B leads its parameter class on HumanEval code benchmarks, while Llama 4 Maverick matches or exceeds GPT-5.3 on coding tasks i",
+      "timestamp": "2026-04-05T07:35:15.852520+00:00",
+      "category": "major_org",
+      "relevance_score": 1.0,
+      "content_hash": "1c0e7347b6f2a951"
+    },
+    {
+      "title": "Top 9 Large Language Models as of March 2026 - Shakudo",
+      "url": "https://www.shakudo.io/blog/top-9-large-language-models",
+      "source": "gemini_grounded",
+      "author": "www.shakudo.io",
+      "snippet": "The open-source LLM landscape in early April 2026 is marked by intense competition between Western and Chinese model families. Alibaba's Qwen 3.5 series finished rolling out in March 2026, with the flagship Qwen3.5-397B-A17B using a Mixture-of-Experts (MoE) architecture (397B total parameters, 17B active per pass) competing directly with Meta's Llama 4 Maverick. Qwen 3.5-9B leads its parameter class on HumanEval code benchmarks, while Llama 4 Maverick matches or exceeds GPT-5.3 on coding tasks i",
+      "timestamp": "2026-04-05T07:35:15.852524+00:00",
+      "category": "major_org",
+      "relevance_score": 1.0,
+      "content_hash": "d347e690b2de961d"
+    },
+    {
+      "title": "Welcome GPT OSS, the new open-source model family from OpenAI!",
+      "url": "https://huggingface.co/blog/welcome-openai-gpt-oss",
+      "source": "gemini_grounded",
+      "author": "huggingface.co",
+      "snippet": "The open-source AI model ecosystem continues to accelerate rapidly into 2026. Major highlights include OpenAI's surprise open-weights release 'GPT OSS', comprising two models (gpt-oss-120b at 117B parameters and gpt-oss-20b at 21B), both under Apache 2.0 license and optimized for reasoning and agentic tasks. Google released Gemma 4 in April 2026 in four variants (E2B, E4B, 26B MoE, 31B Dense) also under Apache 2.0. NVIDIA contributed NitroGen, a vision-to-action foundation model trained on 40,00",
+      "timestamp": "2026-04-05T07:37:19.134348+00:00",
+      "category": "major_org",
+      "relevance_score": 1.0,
+      "content_hash": "a13d3fb05cf6847e"
+    },
+    {
+      "title": "mudler/LocalAI: The open-source AI engine · GitHub",
+      "url": "https://github.com/mudler/LocalAI",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "The open-source AI model ecosystem continues to accelerate rapidly into 2026. Major highlights include OpenAI's surprise open-weights release 'GPT OSS', comprising two models (gpt-oss-120b at 117B parameters and gpt-oss-20b at 21B), both under Apache 2.0 license and optimized for reasoning and agentic tasks. Google released Gemma 4 in April 2026 in four variants (E2B, E4B, 26B MoE, 31B Dense) also under Apache 2.0. NVIDIA contributed NitroGen, a vision-to-action foundation model trained on 40,00",
+      "timestamp": "2026-04-05T07:37:19.134372+00:00",
+      "category": "github",
+      "relevance_score": 1.0,
+      "content_hash": "22c0fafe659413ff"
+    },
+    {
+      "title": "12 Best AI Agent Frameworks in 2026",
+      "url": "https://medium.com/data-science-collective/the-best-ai-agent-frameworks-for-2026-tier-list-b3a4362fac0d",
+      "source": "gemini_grounded",
+      "author": "medium.com",
+      "snippet": "This week's GitHub trending landscape for AI agents is headlined by several breakout repositories. The 'Superpowers' framework (github.com/obra/superpowers) surged to 17,000+ stars this week — a Shell-based agentic skills methodology for building intelligent coding agents with composable skills and instincts. An unnamed AI research-synthesis agent gained ~8,600 stars by aggregating Reddit, X, YouTube, Hacker News, Polymarket, and web sources into grounded summaries. OmX (Oh My codeX), a TypeScri",
+      "timestamp": "2026-04-05T07:34:31.472274+00:00",
+      "category": "github",
+      "relevance_score": 0.9,
+      "content_hash": "0c3f3fdf1860e0c1"
+    },
+    {
+      "title": "Top AI GitHub Repositories in 2026",
+      "url": "https://blog.bytebytego.com/p/top-ai-github-repositories-in-2026",
+      "source": "gemini_grounded",
+      "author": "blog.bytebytego.com",
+      "snippet": "This week's GitHub trending landscape for AI agents is headlined by several breakout repositories. The 'Superpowers' framework (github.com/obra/superpowers) surged to 17,000+ stars this week — a Shell-based agentic skills methodology for building intelligent coding agents with composable skills and instincts. An unnamed AI research-synthesis agent gained ~8,600 stars by aggregating Reddit, X, YouTube, Hacker News, Polymarket, and web sources into grounded summaries. OmX (Oh My codeX), a TypeScri",
+      "timestamp": "2026-04-05T07:34:31.472283+00:00",
+      "category": "github",
+      "relevance_score": 0.85,
+      "content_hash": "22fe805d35dee80c"
+    },
+    {
+      "title": "Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG",
+      "url": "https://arxiv.org/abs/2501.09136",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "This week's arxiv research on LLM agents reflects a strong convergence around multi-agent orchestration, reinforcement learning for agent coordination, and agentic reasoning frameworks. Notable April 2026 releases include Agent Q-Mix, which applies reinforcement learning to select optimal topologies in multi-agent LLM systems and achieves 20.8% on Humanity's Last Exam with Gemini-3.1-Flash-Lite — outperforming all comparable frameworks. LangMARL introduces MARL-inspired optimization with languag",
+      "timestamp": "2026-04-05T07:33:16.362378+00:00",
+      "category": "framework",
+      "relevance_score": 0.8,
+      "content_hash": "bd47687386ce4c3d"
+    },
+    {
+      "title": "vLLM 2026: The Open Source LLM Inference Engine Powering Production AI at Scale",
+      "url": "https://www.programming-helper.com/tech/vllm-2026-open-source-llm-inference-engine",
+      "source": "gemini_grounded",
+      "author": "www.programming-helper.com",
+      "snippet": "The open-source AI model ecosystem continues to accelerate rapidly into 2026. Major highlights include OpenAI's surprise open-weights release 'GPT OSS', comprising two models (gpt-oss-120b at 117B parameters and gpt-oss-20b at 21B), both under Apache 2.0 license and optimized for reasoning and agentic tasks. Google released Gemma 4 in April 2026 in four variants (E2B, E4B, 26B MoE, 31B Dense) also under Apache 2.0. NVIDIA contributed NitroGen, a vision-to-action foundation model trained on 40,00",
+      "timestamp": "2026-04-05T07:37:19.134382+00:00",
+      "category": "github",
+      "relevance_score": 0.8,
+      "content_hash": "8cb594be0aa96461"
+    },
+    {
+      "title": "New Cursor Interface · Cursor",
+      "url": "https://cursor.com/changelog/3-0",
+      "source": "gemini_grounded",
+      "author": "cursor.com",
+      "snippet": "Cursor has been on an aggressive release cadence through early 2026. The flagship Cursor 3.0 launched on April 2, introducing a new interface for running many agents in parallel across repositories and environments — locally, in git worktrees, in the cloud, and on remote SSH hosts. Leading up to that, March brought Composer 2 (frontier-level coding performance), 30+ new partner plugins from Atlassian, Datadog, GitLab, Glean, and Hugging Face, and support for always-on automation agents triggered",
+      "timestamp": "2026-04-05T07:35:57.658769+00:00",
+      "category": "startup",
+      "relevance_score": 0.75,
+      "content_hash": "d368be431ae4f156"
+    },
+    {
+      "title": "10 Best Open-Source LLM Models (2026): Llama 4, Qwen 3 and DeepSeek R1",
+      "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
+      "source": "gemini_grounded",
+      "author": "huggingface.co",
+      "snippet": "Recent activity on the Hugging Face blog highlights several notable open-source model releases in early 2026. NVIDIA has been particularly active, releasing Cosmos Reason 2 — an advanced reasoning vision-language model for physical AI — alongside the Nemotron 3 Nano 30B, which uses a hybrid Mamba-Transformer Mixture-of-Experts architecture with a 1M-token context window aimed at efficient agentic workloads. Additionally, Llama Nemotron VL-1B, a compact multimodal embedding model for page-level r",
+      "timestamp": "2026-04-05T07:32:27.528254+00:00",
+      "category": "major_org",
+      "relevance_score": 0.7,
+      "content_hash": "5661d3517a23e81a"
+    },
+    {
+      "title": "GitHub - langchain-ai/langgraph: Build resilient language agents as graphs.",
+      "url": "https://github.com/langchain-ai/langgraph",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "As of April 2026, the AI agent framework landscape has consolidated around several major players with significant recent activity. LangGraph (the graph-based agent runtime from LangChain) released version 1.1.4 on March 31, 2026, following its 1.0 GA milestone in October 2025 — it is now the default runtime for all LangChain agents and supports both Python and JavaScript. LangChain itself holds over 126,000 GitHub stars with 20,000+ forks, remaining the most widely adopted agentic framework by d",
+      "timestamp": "2026-04-05T07:38:00.436081+00:00",
+      "category": "github",
+      "relevance_score": 0.7,
+      "content_hash": "5f1b2dba6b00a2cb"
+    },
+    {
+      "title": "Features · Cursor",
+      "url": "https://cursor.com/features",
+      "source": "gemini_grounded",
+      "author": "cursor.com",
+      "snippet": "Cursor has been on an aggressive release cadence through early 2026. The flagship Cursor 3.0 launched on April 2, introducing a new interface for running many agents in parallel across repositories and environments — locally, in git worktrees, in the cloud, and on remote SSH hosts. Leading up to that, March brought Composer 2 (frontier-level coding performance), 30+ new partner plugins from Atlassian, Datadog, GitLab, Glean, and Hugging Face, and support for always-on automation agents triggered",
+      "timestamp": "2026-04-05T07:35:57.658776+00:00",
+      "category": "startup",
+      "relevance_score": 0.65,
+      "content_hash": "12c3bdc394ab918d"
+    },
+    {
+      "title": "Top 11 AI Agent Frameworks (2026): Expert-Tested & Reviewed | Lindy",
+      "url": "https://www.lindy.ai/blog/best-ai-agent-frameworks",
+      "source": "gemini_grounded",
+      "author": "www.lindy.ai",
+      "snippet": "As of April 2026, the AI agent framework landscape has consolidated around several major players with significant recent activity. LangGraph (the graph-based agent runtime from LangChain) released version 1.1.4 on March 31, 2026, following its 1.0 GA milestone in October 2025 — it is now the default runtime for all LangChain agents and supports both Python and JavaScript. LangChain itself holds over 126,000 GitHub stars with 20,000+ forks, remaining the most widely adopted agentic framework by d",
+      "timestamp": "2026-04-05T07:38:00.436108+00:00",
+      "category": "framework",
+      "relevance_score": 0.65,
+      "content_hash": "f7732a15e6a10c74"
+    },
+    {
+      "title": "Agent Q-Mix: Selecting the Right Action for LLM Multi-Agent Systems through Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2604.00344",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "This week's arxiv research on LLM agents reflects a strong convergence around multi-agent orchestration, reinforcement learning for agent coordination, and agentic reasoning frameworks. Notable April 2026 releases include Agent Q-Mix, which applies reinforcement learning to select optimal topologies in multi-agent LLM systems and achieves 20.8% on Humanity's Last Exam with Gemini-3.1-Flash-Lite — outperforming all comparable frameworks. LangMARL introduces MARL-inspired optimization with languag",
+      "timestamp": "2026-04-05T07:33:16.362332+00:00",
+      "category": "framework",
+      "relevance_score": 0.6,
+      "content_hash": "9cd1bfd3a1c742b2"
+    },
+    {
+      "title": "Difficulty-Aware Agentic Orchestration for Query-Specific Multi-Agent Workflows",
+      "url": "https://arxiv.org/abs/2509.11079",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "This week's arxiv research on LLM agents reflects a strong convergence around multi-agent orchestration, reinforcement learning for agent coordination, and agentic reasoning frameworks. Notable April 2026 releases include Agent Q-Mix, which applies reinforcement learning to select optimal topologies in multi-agent LLM systems and achieves 20.8% on Humanity's Last Exam with Gemini-3.1-Flash-Lite — outperforming all comparable frameworks. LangMARL introduces MARL-inspired optimization with languag",
+      "timestamp": "2026-04-05T07:33:16.362364+00:00",
+      "category": "framework",
+      "relevance_score": 0.6,
+      "content_hash": "6dcc0e3fcbfd0a54"
+    },
+    {
+      "title": "Changelog - CrewAI",
+      "url": "https://docs.crewai.com/en/changelog",
+      "source": "gemini_grounded",
+      "author": "docs.crewai.com",
+      "snippet": "As of April 2026, the AI agent framework landscape has consolidated around several major players with significant recent activity. LangGraph (the graph-based agent runtime from LangChain) released version 1.1.4 on March 31, 2026, following its 1.0 GA milestone in October 2025 — it is now the default runtime for all LangChain agents and supports both Python and JavaScript. LangChain itself holds over 126,000 GitHub stars with 20,000+ forks, remaining the most widely adopted agentic framework by d",
+      "timestamp": "2026-04-05T07:38:00.436099+00:00",
+      "category": "framework",
+      "relevance_score": 0.6,
+      "content_hash": "19ebe776b37f35fc"
+    },
+    {
+      "title": "Windsurf Editor Changelog",
+      "url": "https://codeium.com/changelog/1.4.2",
+      "source": "gemini_grounded",
+      "author": "codeium.com",
+      "snippet": "Cursor has been on an aggressive release cadence through early 2026. The flagship Cursor 3.0 launched on April 2, introducing a new interface for running many agents in parallel across repositories and environments — locally, in git worktrees, in the cloud, and on remote SSH hosts. Leading up to that, March brought Composer 2 (frontier-level coding performance), 30+ new partner plugins from Atlassian, Datadog, GitLab, Glean, and Hugging Face, and support for always-on automation agents triggered",
+      "timestamp": "2026-04-05T07:35:57.658782+00:00",
+      "category": "startup",
+      "relevance_score": 0.55,
+      "content_hash": "1bad404572ff918c"
+    },
+    {
+      "title": "LangMARL: Natural Language Multi-Agent Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2604.00722",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "This week's arxiv research on LLM agents reflects a strong convergence around multi-agent orchestration, reinforcement learning for agent coordination, and agentic reasoning frameworks. Notable April 2026 releases include Agent Q-Mix, which applies reinforcement learning to select optimal topologies in multi-agent LLM systems and achieves 20.8% on Humanity's Last Exam with Gemini-3.1-Flash-Lite — outperforming all comparable frameworks. LangMARL introduces MARL-inspired optimization with languag",
+      "timestamp": "2026-04-05T07:33:16.362358+00:00",
+      "category": "framework",
+      "relevance_score": 0.5,
+      "content_hash": "e4ac8dc5b7ec9e8c"
+    },
+    {
+      "title": "How to integrate LangGraph with AutoGen, CrewAI, and other frameworks",
+      "url": "https://langchain-ai.github.io/langgraph/how-tos/autogen-integration-functional/",
+      "source": "gemini_grounded",
+      "author": "langchain-ai.github.io",
+      "snippet": "As of April 2026, the AI agent framework landscape has consolidated around several major players with significant recent activity. LangGraph (the graph-based agent runtime from LangChain) released version 1.1.4 on March 31, 2026, following its 1.0 GA milestone in October 2025 — it is now the default runtime for all LangChain agents and supports both Python and JavaScript. LangChain itself holds over 126,000 GitHub stars with 20,000+ forks, remaining the most widely adopted agentic framework by d",
+      "timestamp": "2026-04-05T07:38:00.436104+00:00",
+      "category": "framework",
+      "relevance_score": 0.5,
+      "content_hash": "13eeed8e5b8309ad"
+    }
+  ]
+}

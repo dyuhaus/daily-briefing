@@ -1,0 +1,142 @@
+{
+  "date": "2026-04-01",
+  "company": "openai",
+  "scan_time": "2026-04-01T07:37:49.903610+00:00",
+  "total_scraped": 38,
+  "after_dedup": 16,
+  "after_filter": 11,
+  "items": [
+    {
+      "title": "GPT-5.2 derives a new result in theoretical physics | OpenAI",
+      "url": "https://openai.com/index/new-result-theoretical-physics/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI has published several notable research papers and findings in early 2026. Key publications include work on chain-of-thought monitorability (showing that reasoning models struggle to control their CoT, which is framed as a safety feature), improvements to instruction hierarchy in frontier LLMs via the IH-Challenge framework (which trains models to resist prompt injection and prioritize trusted instructions), and a groundbreaking physics result where GPT-5.2 Pro helped derive and verify non",
+      "timestamp": "2026-04-01T07:35:14.678282+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.9,
+      "content_hash": "642a3eda8f27cf3b"
+    },
+    {
+      "title": "openai-python CHANGELOG | GitHub",
+      "url": "https://github.com/openai/openai-python/blob/main/CHANGELOG.md",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "OpenAI has been actively updating its API platform through early 2026, with significant model and feature changes. On the model front, GPT-5.4 mini and GPT-5.4 nano were released to the Chat Completions and Responses API — mini targets high-volume workloads with GPT-5.4-class capabilities including tool search and computer use support, while nano is optimized for simple, cost-sensitive tasks. Older GPT-5.1 model variants (Instant, Thinking, Pro) were deprecated as of March 11, 2026, with existin",
+      "timestamp": "2026-04-01T07:36:34.919602+00:00",
+      "company": "openai",
+      "category": "api_update",
+      "relevance_score": 0.9,
+      "content_hash": "990f1f9e3098bbda"
+    },
+    {
+      "title": "Introducing Aardvark: OpenAI's agentic security researcher | OpenAI",
+      "url": "https://openai.com/index/introducing-aardvark/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI has been active with major model releases in early 2026. In February, they released GPT-5.3-Codex (Feb 5) and GPT-5.3-Codex-Spark (Feb 12), a smaller real-time coding model. February also saw the retirement of GPT-4o, GPT-4.1, GPT-4.1 mini, and o4-mini from ChatGPT on Feb 13. March 2026 brought three new GPT-5 family models: GPT-5.3 Instant for fast everyday tasks, GPT-5.4 Thinking for complex professional workflows, and GPT-5.4 Pro for maximum capability use cases. Additionally, Aardvark",
+      "timestamp": "2026-04-01T07:34:31.704525+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.8,
+      "content_hash": "8dba30886edebbf3"
+    },
+    {
+      "title": "Research | OpenAI",
+      "url": "https://openai.com/research/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI has published several notable research papers and findings in early 2026. Key publications include work on chain-of-thought monitorability (showing that reasoning models struggle to control their CoT, which is framed as a safety feature), improvements to instruction hierarchy in frontier LLMs via the IH-Challenge framework (which trains models to resist prompt injection and prioritize trusted instructions), and a groundbreaking physics result where GPT-5.2 Pro helped derive and verify non",
+      "timestamp": "2026-04-01T07:35:14.678238+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.8,
+      "content_hash": "ed298ef38a1dab92"
+    },
+    {
+      "title": "Improving instruction hierarchy in frontier LLMs | OpenAI",
+      "url": "https://openai.com/index/introducing-prism/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI has published several notable research papers and findings in early 2026. Key publications include work on chain-of-thought monitorability (showing that reasoning models struggle to control their CoT, which is framed as a safety feature), improvements to instruction hierarchy in frontier LLMs via the IH-Challenge framework (which trains models to resist prompt injection and prioritize trusted instructions), and a groundbreaking physics result where GPT-5.2 Pro helped derive and verify non",
+      "timestamp": "2026-04-01T07:35:14.678277+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.8,
+      "content_hash": "f6969fa28cc6f501"
+    },
+    {
+      "title": "OpenAI Newsroom | Research",
+      "url": "https://openai.com/news/research/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI has published several notable research papers and findings in early 2026. Key publications include work on chain-of-thought monitorability (showing that reasoning models struggle to control their CoT, which is framed as a safety feature), improvements to instruction hierarchy in frontier LLMs via the IH-Challenge framework (which trains models to resist prompt injection and prioritize trusted instructions), and a groundbreaking physics result where GPT-5.2 Pro helped derive and verify non",
+      "timestamp": "2026-04-01T07:35:14.678286+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.8,
+      "content_hash": "cfc8e620817b5395"
+    },
+    {
+      "title": "Why language models hallucinate | OpenAI",
+      "url": "https://openai.com/index/why-language-models-hallucinate/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI has published several notable research papers and findings in early 2026. Key publications include work on chain-of-thought monitorability (showing that reasoning models struggle to control their CoT, which is framed as a safety feature), improvements to instruction hierarchy in frontier LLMs via the IH-Challenge framework (which trains models to resist prompt injection and prioritize trusted instructions), and a groundbreaking physics result where GPT-5.2 Pro helped derive and verify non",
+      "timestamp": "2026-04-01T07:35:14.678291+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.8,
+      "content_hash": "d1c0c16ef83d3b9d"
+    },
+    {
+      "title": "Deepening our collaboration with the U.S. Department of Energy - OpenAI",
+      "url": "https://openai.com/index/us-department-of-energy-collaboration/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI's most significant announcement around April 1, 2026 is the completion of a record-breaking $122 billion funding round at an $852 billion valuation. Key investors include Amazon ($50 billion), Nvidia ($30 billion), and SoftBank ($30 billion), with SoftBank and a16z co-leading the round. For the first time, OpenAI also raised over $3 billion from retail investors through bank channels. A portion of Amazon's investment is contingent on OpenAI going public or reaching AGI milestones.\n\nOpenAI",
+      "timestamp": "2026-04-01T07:37:14.264204+00:00",
+      "company": "openai",
+      "category": "partnership",
+      "relevance_score": 0.8,
+      "content_hash": "85f93b2af564e3df"
+    },
+    {
+      "title": "AI as a Scientific Collaborator (Jan 2026) | OpenAI",
+      "url": "https://cdn.openai.com/pdf/f4b4a5da-b2de-418d-9fcd-6b293e9dc157/oai_ai-as-a-scientific-collaborator_jan-2026.pdf",
+      "source": "gemini_grounded",
+      "author": "cdn.openai.com",
+      "snippet": "OpenAI has published several notable research papers and findings in early 2026. Key publications include work on chain-of-thought monitorability (showing that reasoning models struggle to control their CoT, which is framed as a safety feature), improvements to instruction hierarchy in frontier LLMs via the IH-Challenge framework (which trains models to resist prompt injection and prioritize trusted instructions), and a groundbreaking physics result where GPT-5.2 Pro helped derive and verify non",
+      "timestamp": "2026-04-01T07:35:14.678295+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.5,
+      "content_hash": "c1470f8f0c369802"
+    },
+    {
+      "title": "OpenAI sets two-stage Sora shutdown with app closing April 2026 - The Decoder",
+      "url": "https://the-decoder.com/openai-sets-two-stage-sora-shutdown-with-app-closing-april-2026-and-api-following-in-september/",
+      "source": "gemini_grounded",
+      "author": "the-decoder.com",
+      "snippet": "OpenAI's most significant announcement around April 1, 2026 is the completion of a record-breaking $122 billion funding round at an $852 billion valuation. Key investors include Amazon ($50 billion), Nvidia ($30 billion), and SoftBank ($30 billion), with SoftBank and a16z co-leading the round. For the first time, OpenAI also raised over $3 billion from retail investors through bank channels. A portion of Amazon's investment is contingent on OpenAI going public or reaching AGI milestones.\n\nOpenAI",
+      "timestamp": "2026-04-01T07:37:14.264199+00:00",
+      "company": "openai",
+      "category": "blog",
+      "relevance_score": 0.5,
+      "content_hash": "ad0fdf71a054e3c8"
+    },
+    {
+      "title": "OpenAI News - OpenAI Newsroom",
+      "url": "https://openai.com/news/company-announcements/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI's most significant announcement around April 1, 2026 is the completion of a record-breaking $122 billion funding round at an $852 billion valuation. Key investors include Amazon ($50 billion), Nvidia ($30 billion), and SoftBank ($30 billion), with SoftBank and a16z co-leading the round. For the first time, OpenAI also raised over $3 billion from retail investors through bank channels. A portion of Amazon's investment is contingent on OpenAI going public or reaching AGI milestones.\n\nOpenAI",
+      "timestamp": "2026-04-01T07:37:14.264209+00:00",
+      "company": "openai",
+      "category": "blog",
+      "relevance_score": 0.4,
+      "content_hash": "8c2cdcb2a51fb337"
+    }
+  ]
+}

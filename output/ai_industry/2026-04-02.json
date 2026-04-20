@@ -1,0 +1,141 @@
+{
+  "date": "2026-04-02",
+  "scan_time": "2026-04-02T07:38:33.436310+00:00",
+  "total_scraped": 92,
+  "after_dedup": 30,
+  "after_filter": 12,
+  "items": [
+    {
+      "title": "10 Best Open-Source LLM Models (2025 Updated): Llama 4, Qwen 3 and DeepSeek R1 — Hugging Face Blog",
+      "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
+      "source": "gemini_grounded",
+      "author": "huggingface.co",
+      "snippet": "The open-source LLM landscape in early 2026 is dominated by three major model families: Meta's Llama 4, Alibaba's Qwen 3, and DeepSeek V3.2. Meta released Llama 4 in multiple variants (Scout, Maverick, and the upcoming Behemoth), with Scout offering an unprecedented 10M token context window and strong multimodal capabilities. Qwen 3, notably the 80B Qwen3-Coder-Next model (with only ~3B active parameters via MoE architecture), has drawn significant attention for outperforming much larger models ",
+      "timestamp": "2026-04-02T07:35:14.050981+00:00",
+      "category": "major_org",
+      "relevance_score": 1.0,
+      "content_hash": "0ac23976e4bb87a3"
+    },
+    {
+      "title": "Sharing new breakthroughs supporting molecular property prediction, language processing, and neuroscience",
+      "url": "https://ai.meta.com/blog/meta-fair-science-new-open-source-releases/",
+      "source": "gemini_grounded",
+      "author": "ai.meta.com",
+      "snippet": "Meta's most significant recent open source AI release is Llama 4, announced in early 2026. The Llama 4 herd introduces natively multimodal models built on a mixture-of-experts (MoE) architecture. The two flagship models — Llama 4 Scout and Llama 4 Maverick — support unprecedented context lengths, were pre-trained on over 30 trillion tokens (2x more than Llama 3), and include 200+ languages with 10x more multilingual tokens than the prior generation. Both are available as open weights on llama.co",
+      "timestamp": "2026-04-02T07:30:32.806546+00:00",
+      "category": "github",
+      "relevance_score": 0.9,
+      "content_hash": "9d5b8501d53df1f4"
+    },
+    {
+      "title": "OpenAI raises $110B in one of the largest private funding rounds in history",
+      "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
+      "source": "gemini_grounded",
+      "author": "techcrunch.com",
+      "snippet": "AI startup funding in early 2026 has been historic in scale. OpenAI raised $110 billion in one of the largest private funding rounds ever, drawing $50B from Amazon and $30B each from Nvidia and SoftBank at a $730B pre-money valuation. xAI closed a $20B Series E in January, while Humans& — founded by Anthropic, xAI, and Google alumni — raised a remarkable $480M seed round, signaling extreme investor appetite for foundational AI talent. Defense AI unicorn Harmattan AI raised $200M Series B led by ",
+      "timestamp": "2026-04-02T07:33:23.777293+00:00",
+      "category": "startup",
+      "relevance_score": 0.85,
+      "content_hash": "4a20859ad4ed8fe0"
+    },
+    {
+      "title": "LLM-Model-Comparison-2026 Dataset — Hugging Face",
+      "url": "https://huggingface.co/datasets/salttechno/LLM-Model-Comparison-2026",
+      "source": "gemini_grounded",
+      "author": "huggingface.co",
+      "snippet": "The open-source LLM landscape in early 2026 is dominated by three major model families: Meta's Llama 4, Alibaba's Qwen 3, and DeepSeek V3.2. Meta released Llama 4 in multiple variants (Scout, Maverick, and the upcoming Behemoth), with Scout offering an unprecedented 10M token context window and strong multimodal capabilities. Qwen 3, notably the 80B Qwen3-Coder-Next model (with only ~3B active parameters via MoE architecture), has drawn significant attention for outperforming much larger models ",
+      "timestamp": "2026-04-02T07:35:14.050996+00:00",
+      "category": "major_org",
+      "relevance_score": 0.85,
+      "content_hash": "b41f4b55f6c242bd"
+    },
+    {
+      "title": "Multi-Agent LLMs for Adaptive Acquisition in Bayesian Optimization",
+      "url": "https://arxiv.org/abs/2603.28959",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "This week's arXiv activity shows a strong focus on agentic AI systems across multiple domains. A major survey paper (2503.21460) by Luo et al. offers a methodology-centered taxonomy of LLM agent architectures, covering collaboration mechanisms, evolutionary pathways, and applications — serving as a comprehensive reference for the field. On the multi-agent side, two notable papers emerged: one studying LLM-agent interactions in markets with information asymmetries using GPT-5.1 simulations (2603.",
+      "timestamp": "2026-04-02T07:32:51.271695+00:00",
+      "category": "research",
+      "relevance_score": 0.8,
+      "content_hash": "41981ee2eea34a6c"
+    },
+    {
+      "title": "AI video startup Runway raises $315M at $5.3B valuation",
+      "url": "https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/",
+      "source": "gemini_grounded",
+      "author": "techcrunch.com",
+      "snippet": "AI startup funding in early 2026 has been historic in scale. OpenAI raised $110 billion in one of the largest private funding rounds ever, drawing $50B from Amazon and $30B each from Nvidia and SoftBank at a $730B pre-money valuation. xAI closed a $20B Series E in January, while Humans& — founded by Anthropic, xAI, and Google alumni — raised a remarkable $480M seed round, signaling extreme investor appetite for foundational AI talent. Defense AI unicorn Harmattan AI raised $200M Series B led by ",
+      "timestamp": "2026-04-02T07:33:23.777346+00:00",
+      "category": "startup",
+      "relevance_score": 0.75,
+      "content_hash": "608de5e6a328b7bf"
+    },
+    {
+      "title": "Hugging Face – Blog",
+      "url": "https://huggingface.co/blog",
+      "source": "gemini_grounded",
+      "author": "huggingface.co",
+      "snippet": "Recent HuggingFace blog posts highlight several notable model releases in early 2026. NVIDIA has been particularly active, releasing Cosmos Reason 2 — an advanced reasoning vision-language model for physical AI that tops the Physical AI Bench and Physical Reasoning leaderboards as the #1 open model for visual understanding. NVIDIA also launched Nemotron 3 Nano, a 30B parameter model using a hybrid Mamba-Transformer Mixture-of-Experts (MoE) architecture with a 1M-token context window, alongside s",
+      "timestamp": "2026-04-02T07:32:18.210475+00:00",
+      "category": "startup",
+      "relevance_score": 0.7,
+      "content_hash": "741f255f6872d359"
+    },
+    {
+      "title": "Lio raises $30M from Andreessen Horowitz to automate enterprise procurement",
+      "url": "https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/",
+      "source": "gemini_grounded",
+      "author": "techcrunch.com",
+      "snippet": "AI startup funding in early 2026 has been historic in scale. OpenAI raised $110 billion in one of the largest private funding rounds ever, drawing $50B from Amazon and $30B each from Nvidia and SoftBank at a $730B pre-money valuation. xAI closed a $20B Series E in January, while Humans& — founded by Anthropic, xAI, and Google alumni — raised a remarkable $480M seed round, signaling extreme investor appetite for foundational AI talent. Defense AI unicorn Harmattan AI raised $200M Series B led by ",
+      "timestamp": "2026-04-02T07:33:23.777364+00:00",
+      "category": "startup",
+      "relevance_score": 0.65,
+      "content_hash": "a9cc17a064082aea"
+    },
+    {
+      "title": "awesome-ai-agents-2026 — 300+ AI agent resources",
+      "url": "https://github.com/caramaschiHG/awesome-ai-agents-2026",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "As of early April 2026, GitHub's AI agent ecosystem is experiencing explosive growth, with several standout repositories gaining significant weekly stars. Key trending projects include multi-agent orchestration frameworks like OWL (allowing specialized agents to cooperate on tasks), LangChain (recently crossing 100,000 stars), and Langflow (a low-code drag-and-drop platform for RAG and agent workflows). The GitHub Blog highlighted a curated top-10 list of new open-source AI projects spanning MCP",
+      "timestamp": "2026-04-02T07:34:15.965778+00:00",
+      "category": "github",
+      "relevance_score": 0.55,
+      "content_hash": "abec9f5aef4c703b"
+    },
+    {
+      "title": "How to Build AI Agents by Augmenting LLMs with Codified Human Expert Domain Knowledge",
+      "url": "https://arxiv.org/abs/2601.15153v1",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "This week's arXiv activity shows a strong focus on agentic AI systems across multiple domains. A major survey paper (2503.21460) by Luo et al. offers a methodology-centered taxonomy of LLM agent architectures, covering collaboration mechanisms, evolutionary pathways, and applications — serving as a comprehensive reference for the field. On the multi-agent side, two notable papers emerged: one studying LLM-agent interactions in markets with information asymmetries using GPT-5.1 simulations (2603.",
+      "timestamp": "2026-04-02T07:32:51.271706+00:00",
+      "category": "research",
+      "relevance_score": 0.5,
+      "content_hash": "fc6bc28f03d9bf99"
+    },
+    {
+      "title": "awesome-ai-agent-papers — 2026 agent research collection",
+      "url": "https://github.com/VoltAgent/awesome-ai-agent-papers",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "As of early April 2026, GitHub's AI agent ecosystem is experiencing explosive growth, with several standout repositories gaining significant weekly stars. Key trending projects include multi-agent orchestration frameworks like OWL (allowing specialized agents to cooperate on tasks), LangChain (recently crossing 100,000 stars), and Langflow (a low-code drag-and-drop platform for RAG and agent workflows). The GitHub Blog highlighted a curated top-10 list of new open-source AI projects spanning MCP",
+      "timestamp": "2026-04-02T07:34:15.965785+00:00",
+      "category": "github",
+      "relevance_score": 0.45,
+      "content_hash": "02d006874bca1035"
+    },
+    {
+      "title": "500-AI-Agents-Projects — curated agent use cases",
+      "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "As of early April 2026, GitHub's AI agent ecosystem is experiencing explosive growth, with several standout repositories gaining significant weekly stars. Key trending projects include multi-agent orchestration frameworks like OWL (allowing specialized agents to cooperate on tasks), LangChain (recently crossing 100,000 stars), and Langflow (a low-code drag-and-drop platform for RAG and agent workflows). The GitHub Blog highlighted a curated top-10 list of new open-source AI projects spanning MCP",
+      "timestamp": "2026-04-02T07:34:15.965791+00:00",
+      "category": "github",
+      "relevance_score": 0.35,
+      "content_hash": "543e45784f0d7c92"
+    }
+  ]
+}

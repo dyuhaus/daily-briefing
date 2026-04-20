@@ -1,0 +1,142 @@
+{
+  "date": "2026-04-08",
+  "company": "openai",
+  "scan_time": "2026-04-08T07:38:46.898070+00:00",
+  "total_scraped": 37,
+  "after_dedup": 11,
+  "after_filter": 11,
+  "items": [
+    {
+      "title": "OpenAI Newsroom (@OpenAINewsroom) / Posts / X",
+      "url": "https://x.com/OpenAINewsroom",
+      "source": "gemini_grounded",
+      "author": "x.com",
+      "snippet": "OpenAI has made several significant announcements in early April 2026. The company officially retired the GPT-4o model from all plans effective April 3, 2026, and replaced o1-mini with o3-mini as the default reasoning model for ChatGPT Plus subscribers. OpenAI also launched 'Flex compute,' a pricing tier offering o3 at a 30% discount during off-peak hours, and pushed a major update to GPT-5.4 that reduces refusals on benign edge-case requests by 40% while extending context window handling. ChatG",
+      "timestamp": "2026-04-08T07:38:26.157091+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 1.0,
+      "content_hash": "b33abab3fa061504"
+    },
+    {
+      "title": "AI News Briefs BULLETIN BOARD for April 2026 | Radical Data Science",
+      "url": "https://radicaldatascience.wordpress.com/2026/04/07/ai-news-briefs-bulletin-board-for-april-2026/",
+      "source": "gemini_grounded",
+      "author": "radicaldatascience.wordpress.com",
+      "snippet": "OpenAI has made several significant announcements in early April 2026. The company officially retired the GPT-4o model from all plans effective April 3, 2026, and replaced o1-mini with o3-mini as the default reasoning model for ChatGPT Plus subscribers. OpenAI also launched 'Flex compute,' a pricing tier offering o3 at a 30% discount during off-peak hours, and pushed a major update to GPT-5.4 that reduces refusals on benign edge-case requests by 40% while extending context window handling. ChatG",
+      "timestamp": "2026-04-08T07:38:26.157109+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 1.0,
+      "content_hash": "e5662a3fc1ea1d95"
+    },
+    {
+      "title": "OpenAI Retires GPT-4o and Daily AI Updates for April 2026",
+      "url": "https://www.aiandnews.com/blog/breaking-ai-news-april-2026/",
+      "source": "gemini_grounded",
+      "author": "www.aiandnews.com",
+      "snippet": "OpenAI has been active with major model and product releases in early 2026. In March 2026, OpenAI launched three new GPT-5 family models: GPT-5.3 Instant (fast everyday tasks), GPT-5.4 Thinking (complex professional workflows), and GPT-5.4 Pro (highest capability). Earlier in February, they released GPT-5.3-Codex and its smaller real-time coding variant GPT-5.3-Codex-Spark. A security-focused agentic researcher called Aardvark (later rebranded to Codex Security) was rolled out to enterprise cust",
+      "timestamp": "2026-04-08T07:35:56.570234+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.9,
+      "content_hash": "db775b698cbd1a63"
+    },
+    {
+      "title": "GPT-5.5 Is Coming in 2026: Release Date, Features - Panstag",
+      "url": "https://www.panstag.com/2026/04/gpt-5.5-release-date-features-.html",
+      "source": "gemini_grounded",
+      "author": "www.panstag.com",
+      "snippet": "OpenAI has been actively releasing new models in early 2026. The most notable recent launch is GPT-5.3-Codex, their most capable agentic coding model, which combines the Codex and GPT-5 training stacks and is approximately 25% faster while setting new benchmarks on coding tasks. Additionally, GPT-5.4 has been released as OpenAI's newest frontier model for professional work, available via the Chat Completions and Responses API, with a 'pro' variant for more complex problems. GPT-5.4 mini is also ",
+      "timestamp": "2026-04-08T07:37:07.794687+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.85,
+      "content_hash": "27da08a6ae450a62"
+    },
+    {
+      "title": "OpenAI Research Index",
+      "url": "https://openai.com/research/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI's recent research publications in 2026 span several key areas including AI safety, alignment, and scientific collaboration. Notable work includes a study on chain-of-thought monitorability, analyzing real-world coding agent deployments to detect misalignment risks and strengthen safety safeguards. OpenAI also published research on instruction hierarchy (IH-Challenge), training models to prioritize trusted instructions and resist prompt injection attacks. Their Model Spec framework was upd",
+      "timestamp": "2026-04-08T07:36:32.590145+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.8,
+      "content_hash": "8ad57a700ff4b298"
+    },
+    {
+      "title": "Evaluating Chain-of-Thought Monitorability",
+      "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI's recent research publications in 2026 span several key areas including AI safety, alignment, and scientific collaboration. Notable work includes a study on chain-of-thought monitorability, analyzing real-world coding agent deployments to detect misalignment risks and strengthen safety safeguards. OpenAI also published research on instruction hierarchy (IH-Challenge), training models to prioritize trusted instructions and resist prompt injection attacks. Their Model Spec framework was upd",
+      "timestamp": "2026-04-08T07:36:32.590184+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.8,
+      "content_hash": "7076ea74772906d5"
+    },
+    {
+      "title": "Why Language Models Hallucinate",
+      "url": "https://openai.com/index/why-language-models-hallucinate/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI's recent research publications in 2026 span several key areas including AI safety, alignment, and scientific collaboration. Notable work includes a study on chain-of-thought monitorability, analyzing real-world coding agent deployments to detect misalignment risks and strengthen safety safeguards. OpenAI also published research on instruction hierarchy (IH-Challenge), training models to prioritize trusted instructions and resist prompt injection attacks. Their Model Spec framework was upd",
+      "timestamp": "2026-04-08T07:36:32.590188+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.8,
+      "content_hash": "84ad341597653aa2"
+    },
+    {
+      "title": "AI News April 2026 - Latest LLM Announcements & Developments - TokenCalculator.com",
+      "url": "https://tokencalculator.com/ai-news",
+      "source": "gemini_grounded",
+      "author": "tokencalculator.com",
+      "snippet": "OpenAI has made several significant announcements in early April 2026. The company officially retired the GPT-4o model from all plans effective April 3, 2026, and replaced o1-mini with o3-mini as the default reasoning model for ChatGPT Plus subscribers. OpenAI also launched 'Flex compute,' a pricing tier offering o3 at a 30% discount during off-peak hours, and pushed a major update to GPT-5.4 that reduces refusals on benign edge-case requests by 40% while extending context window handling. ChatG",
+      "timestamp": "2026-04-08T07:38:26.157122+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.75,
+      "content_hash": "561eb815ac771924"
+    },
+    {
+      "title": "OpenAI's vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek | TechCrunch",
+      "url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
+      "source": "gemini_grounded",
+      "author": "techcrunch.com",
+      "snippet": "OpenAI has been active with major model and product releases in early 2026. In March 2026, OpenAI launched three new GPT-5 family models: GPT-5.3 Instant (fast everyday tasks), GPT-5.4 Thinking (complex professional workflows), and GPT-5.4 Pro (highest capability). Earlier in February, they released GPT-5.3-Codex and its smaller real-time coding variant GPT-5.3-Codex-Spark. A security-focused agentic researcher called Aardvark (later rebranded to Codex Security) was rolled out to enterprise cust",
+      "timestamp": "2026-04-08T07:35:56.570239+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.7,
+      "content_hash": "3ec375f7f809c459"
+    },
+    {
+      "title": "AI as a Scientific Collaborator (January 2026 PDF)",
+      "url": "https://cdn.openai.com/pdf/f4b4a5da-b2de-418d-9fcd-6b293e9dc157/oai_ai-as-a-scientific-collaborator_jan-2026.pdf",
+      "source": "gemini_grounded",
+      "author": "cdn.openai.com",
+      "snippet": "OpenAI's recent research publications in 2026 span several key areas including AI safety, alignment, and scientific collaboration. Notable work includes a study on chain-of-thought monitorability, analyzing real-world coding agent deployments to detect misalignment risks and strengthen safety safeguards. OpenAI also published research on instruction hierarchy (IH-Challenge), training models to prioritize trusted instructions and resist prompt injection attacks. Their Model Spec framework was upd",
+      "timestamp": "2026-04-08T07:36:32.590193+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.6,
+      "content_hash": "e8a0fce118d9b9e6"
+    },
+    {
+      "title": "AI Progress and Recommendations",
+      "url": "https://openai.com/index/ai-progress-and-recommendations/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI's recent research publications in 2026 span several key areas including AI safety, alignment, and scientific collaboration. Notable work includes a study on chain-of-thought monitorability, analyzing real-world coding agent deployments to detect misalignment risks and strengthen safety safeguards. OpenAI also published research on instruction hierarchy (IH-Challenge), training models to prioritize trusted instructions and resist prompt injection attacks. Their Model Spec framework was upd",
+      "timestamp": "2026-04-08T07:36:32.590197+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.6,
+      "content_hash": "c500d0e985ad9065"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "date": "2026-04-08",
+  "scan_time": "2026-04-08T07:42:49.538588+00:00",
+  "total_scraped": 86,
+  "after_dedup": 43,
+  "after_filter": 9,
+  "items": [
+    {
+      "title": "Machine Learning-Based Pairs Trading Strategy with Multivariate — Figueira & Horta",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4295303",
+      "source": "gemini_grounded",
+      "author": "papers.ssrn.com",
+      "snippet": "Recent research on machine learning trading strategies spans multiple approaches, from hybrid AI systems to deep reinforcement learning and LLM-based frameworks. A 2026 paper (arXiv:2601.19504) proposes a regime-adaptive equity system combining EMA/MACD trend-following, RSI/Bollinger mean-reversion, FinBERT sentiment analysis, and XGBoost signal generation—achieving 135.49% returns over 24 months. A concurrent survey (arXiv:2503.21422) reviews the full arc from deep learning to LLMs in quantitat",
+      "timestamp": "2026-04-08T07:36:35.403547+00:00",
+      "relevance_score": 0.9,
+      "content_hash": "ca8b3982549bd50f",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Paradigm Building Prediction Markets Trading Terminal (Fortune)",
+      "url": "https://fortune.com/2026/04/01/paradigm-prediction-markets-trading-terminal-arjun-balaji-kalshi-polymarket/",
+      "source": "gemini_grounded",
+      "author": "fortune.com",
+      "snippet": "Prediction market automated trading strategies have exploded in sophistication in 2025-2026, driven by the dramatic growth of Kalshi and Polymarket. Kalshi alone hit $50 billion in annualized volume in 2025 (up from $300M the prior year), capturing over 60% of global market share. This liquidity has made automated strategies viable, with three dominant approaches emerging: (1) cross-platform arbitrage between Kalshi and Polymarket, where bots exploit pricing discrepancies for 0.5–3% returns; (2)",
+      "timestamp": "2026-04-08T07:33:57.856531+00:00",
+      "relevance_score": 0.6,
+      "content_hash": "3d4fa01d86c1f389",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Generating Alpha: Hybrid AI-Driven Trading System (ComSIA 2026)",
+      "url": "https://arxiv.org/abs/2601.19504",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "Recent research on machine learning trading strategies spans multiple approaches, from hybrid AI systems to deep reinforcement learning and LLM-based frameworks. A 2026 paper (arXiv:2601.19504) proposes a regime-adaptive equity system combining EMA/MACD trend-following, RSI/Bollinger mean-reversion, FinBERT sentiment analysis, and XGBoost signal generation—achieving 135.49% returns over 24 months. A concurrent survey (arXiv:2503.21422) reviews the full arc from deep learning to LLMs in quantitat",
+      "timestamp": "2026-04-08T07:36:35.403508+00:00",
+      "relevance_score": 0.6,
+      "content_hash": "a23c17db0d3d6b27",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "SAFE Machine Learning in Quantitative Trading — Giudici et al.",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5015984",
+      "source": "gemini_grounded",
+      "author": "papers.ssrn.com",
+      "snippet": "Recent research on machine learning trading strategies spans multiple approaches, from hybrid AI systems to deep reinforcement learning and LLM-based frameworks. A 2026 paper (arXiv:2601.19504) proposes a regime-adaptive equity system combining EMA/MACD trend-following, RSI/Bollinger mean-reversion, FinBERT sentiment analysis, and XGBoost signal generation—achieving 135.49% returns over 24 months. A concurrent survey (arXiv:2503.21422) reviews the full arc from deep learning to LLMs in quantitat",
+      "timestamp": "2026-04-08T07:36:35.403539+00:00",
+      "relevance_score": 0.5,
+      "content_hash": "7a0191a164eceeae",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "5 Algorithmic Trading Strategies 2026 (Backtests, Rules and Settings) - QuantifiedStrategies",
+      "url": "https://www.quantifiedstrategies.com/algorithmic-trading-strategies/",
+      "source": "gemini_grounded",
+      "author": "www.quantifiedstrategies.com",
+      "snippet": "Discussions on r/algotrading and r/quant consistently highlight that demonstrating a genuine, persistent edge in live automated trading is extremely difficult. Community members frequently note that backtested results rarely translate directly to live performance due to overfitting, slippage, market impact, and edge decay as strategies become more widely known. Live performance posts on r/algotrading (a subreddit with 1.8M members) range from modest but consistent equity-curve wins (e.g., 5% max",
+      "timestamp": "2026-04-08T07:33:02.589913+00:00",
+      "relevance_score": 0.3,
+      "content_hash": "e3f0568e3126c36e",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Awesome Prediction Market Tools (GitHub)",
+      "url": "https://github.com/aarora4/Awesome-Prediction-Market-Tools",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "Prediction market automated trading strategies have exploded in sophistication in 2025-2026, driven by the dramatic growth of Kalshi and Polymarket. Kalshi alone hit $50 billion in annualized volume in 2025 (up from $300M the prior year), capturing over 60% of global market share. This liquidity has made automated strategies viable, with three dominant approaches emerging: (1) cross-platform arbitrage between Kalshi and Polymarket, where bots exploit pricing discrepancies for 0.5–3% returns; (2)",
+      "timestamp": "2026-04-08T07:33:57.856560+00:00",
+      "relevance_score": 0.3,
+      "content_hash": "1d322b291a0424d8",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "OctagonAI Kalshi Deep Trading Bot (GitHub)",
+      "url": "https://github.com/OctagonAI/kalshi-deep-trading-bot",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "Prediction market automated trading strategies have exploded in sophistication in 2025-2026, driven by the dramatic growth of Kalshi and Polymarket. Kalshi alone hit $50 billion in annualized volume in 2025 (up from $300M the prior year), capturing over 60% of global market share. This liquidity has made automated strategies viable, with three dominant approaches emerging: (1) cross-platform arbitrage between Kalshi and Polymarket, where bots exploit pricing discrepancies for 0.5–3% returns; (2)",
+      "timestamp": "2026-04-08T07:33:57.856576+00:00",
+      "relevance_score": 0.3,
+      "content_hash": "42f6f412bae76847",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Kalshi AI Trading Bot - Grok-4 + Multi-Agent (GitHub)",
+      "url": "https://github.com/ryanfrigo/kalshi-ai-trading-bot",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "Prediction market automated trading strategies have exploded in sophistication in 2025-2026, driven by the dramatic growth of Kalshi and Polymarket. Kalshi alone hit $50 billion in annualized volume in 2025 (up from $300M the prior year), capturing over 60% of global market share. This liquidity has made automated strategies viable, with three dominant approaches emerging: (1) cross-platform arbitrage between Kalshi and Polymarket, where bots exploit pricing discrepancies for 0.5–3% returns; (2)",
+      "timestamp": "2026-04-08T07:33:57.856580+00:00",
+      "relevance_score": 0.3,
+      "content_hash": "fbd9cee50f84ef66",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Polymarket-Kalshi BTC Arbitrage Bot (GitHub)",
+      "url": "https://github.com/CarlosIbCu/polymarket-kalshi-btc-arbitrage-bot",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "Prediction market automated trading strategies have exploded in sophistication in 2025-2026, driven by the dramatic growth of Kalshi and Polymarket. Kalshi alone hit $50 billion in annualized volume in 2025 (up from $300M the prior year), capturing over 60% of global market share. This liquidity has made automated strategies viable, with three dominant approaches emerging: (1) cross-platform arbitrage between Kalshi and Polymarket, where bots exploit pricing discrepancies for 0.5–3% returns; (2)",
+      "timestamp": "2026-04-08T07:33:57.856583+00:00",
+      "relevance_score": 0.3,
+      "content_hash": "db16da0a56c57c7f",
+      "freshness_window": "24h"
+    }
+  ]
+}

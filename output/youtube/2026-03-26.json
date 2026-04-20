@@ -1,0 +1,99 @@
+{
+  "date": "2026-03-26",
+  "scan_time": "2026-03-26T10:02:05.275424+00:00",
+  "total_found": 120,
+  "unique_new": 9,
+  "with_transcripts": 3,
+  "after_filter": 6,
+  "items": [
+    {
+      "video_id": "pDoBe4qbFPE",
+      "title": "12 Hidden Settings To Enable In Your Claude Code Setup",
+      "channel": "AI LABS",
+      "url": "https://www.youtube.com/watch?v=pDoBe4qbFPE",
+      "upload_date": "",
+      "duration_seconds": 804.0,
+      "description": "Build and deploy your own AI agents with Make → https://www.make.com/en?",
+      "transcript": "",
+      "extracted_patterns": [
+        "Run Claude directly as a named subagent using the --agent flag to skip orchestrator overhead and delegate tasks to specialized agents immediately",
+        "Use path-specific CLAUDE.md rules inside .claude/ folder — rules load only when the matched file path is read, keeping agents focused on relevant instructions and avoiding instruction overload in large codebases",
+        "Split large CLAUDE.md files into path-scoped instruction files (e.g., frontend rules only load when working on React components) to prevent Claude from ignoring buried instructions",
+        "Pass --skill flag when running a subagent to inherit specific skills that subagents do not get by default"
+      ],
+      "relevance_score": 0.82,
+      "content_hash": "91c1676c5daf9328",
+      "transcript_length": 15000
+    },
+    {
+      "video_id": "gmaHRwijOXs",
+      "title": "Everything You Thought About Building AI Agents is Wrong",
+      "channel": "Cole Medin",
+      "url": "https://www.youtube.com/watch?v=gmaHRwijOXs",
+      "upload_date": "",
+      "duration_seconds": 952.0,
+      "description": "... GitHub repo with the examples I show in this video: https://github.com/coleam00/evolution-of-ai-agents - Claude Agent SDK: ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.7799999999999999,
+      "content_hash": "fb5d9ae6afa4d004",
+      "transcript_length": 0
+    },
+    {
+      "video_id": "cq6GGKKZRJE",
+      "title": "Claude Code + OpenRouter = Free UNLIMITED AI Coding (No Local Setup)",
+      "channel": "WorldofAI",
+      "url": "https://www.youtube.com/watch?v=cq6GGKKZRJE",
+      "upload_date": "",
+      "duration_seconds": 576.0,
+      "description": "Learn full-stack & AI with Scrimba - Start FREE and get 20% OFF Pro: https://scrimba.com/fullstack-path-c0fullstack?via=worldofai ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.58,
+      "content_hash": "244bb45fb5a5cc12",
+      "transcript_length": 0
+    },
+    {
+      "video_id": "jhIV97AZ45M",
+      "title": "7 Techniques That Make Claude Code Websites Look $10,000",
+      "channel": "Jono Catliff",
+      "url": "https://www.youtube.com/watch?v=jhIV97AZ45M",
+      "upload_date": "",
+      "duration_seconds": 1091.0,
+      "description": "COMMUNITY https://www.skool.com/automatable/about FREE BLUEPRINT ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.5,
+      "content_hash": "57b94f5d4569ad7c",
+      "transcript_length": 0
+    },
+    {
+      "video_id": "K1CZQlL_xFc",
+      "title": "Claude Cowork 2.0: Claude Just Took Over Your COMPUTER!",
+      "channel": "Universe of AI",
+      "url": "https://www.youtube.com/watch?v=K1CZQlL_xFc",
+      "upload_date": "",
+      "duration_seconds": 533.0,
+      "description": "Claude just shipped computer use inside Cowork and Claude Code — Claude can now open apps, click around, and complete ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.5,
+      "content_hash": "674efec1318e80ae",
+      "transcript_length": 0
+    },
+    {
+      "video_id": "vzCy44o3JwA",
+      "title": "Stop Claude From Burning Your Tokens NOW! jCodeMunch-MCP",
+      "channel": "J. Gravelle",
+      "url": "https://www.youtube.com/watch?v=vzCy44o3JwA",
+      "upload_date": "",
+      "duration_seconds": 498.0,
+      "description": "... Savings Example 07:40 Dollar Impact Breakdown jCodeMunch MCP server Model Context Protocol Claude MCP OpenClaw AI ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.5,
+      "content_hash": "89348c815ba4b8d7",
+      "transcript_length": 0
+    }
+  ]
+}

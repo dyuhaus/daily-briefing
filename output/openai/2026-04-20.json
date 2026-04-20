@@ -1,0 +1,58 @@
+{
+  "date": "2026-04-20",
+  "company": "openai",
+  "scan_time": "2026-04-20T07:37:09.060295+00:00",
+  "total_scraped": 40,
+  "after_dedup": 4,
+  "after_filter": 4,
+  "items": [
+    {
+      "title": "Detecting and reducing scheming in AI models | OpenAI",
+      "url": "https://openai.com/index/detecting-and-reducing-scheming-in-ai-models/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI has published several notable research papers and announcements in early 2026. Key safety-focused research includes work on detecting and reducing scheming in AI models, evaluating chain-of-thought monitorability, and an analysis of AI progress with policy recommendations. On the applied science front, OpenAI released 'AI as a Scientific Collaborator' (January 2026), exploring how frontier models can accelerate scientific workflows including drug discovery and genomics. They also introduc",
+      "timestamp": "2026-04-20T07:35:12.323853+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.9,
+      "content_hash": "cfb5d218ac396b52"
+    },
+    {
+      "title": "Introducing OpenAI o3 and o4-mini | OpenAI",
+      "url": "https://openai.com/index/introducing-o3-and-o4-mini/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI has been actively releasing new models throughout early 2026. The most significant recent release is GPT-5.4, launched in March 2026, which features native computer-use capabilities allowing agents to operate computers and carry out complex workflows across applications. GPT-5.4 set records on benchmarks including OSWorld-Verified, WebArena Verified, and scored 83% on OpenAI's GDPval knowledge-work test. Alongside the flagship model, OpenAI released efficiency-focused variants: GPT-5.4 mi",
+      "timestamp": "2026-04-20T07:35:57.819597+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.9,
+      "content_hash": "6a123a95a057a6f3"
+    },
+    {
+      "title": "OpenAI API Changelog",
+      "url": "https://platform.openai.com/docs/changelog",
+      "source": "gemini_grounded",
+      "author": "platform.openai.com",
+      "snippet": "OpenAI has been actively releasing new models throughout early 2026. The most significant recent release is GPT-5.4, launched in March 2026, which features native computer-use capabilities allowing agents to operate computers and carry out complex workflows across applications. GPT-5.4 set records on benchmarks including OSWorld-Verified, WebArena Verified, and scored 83% on OpenAI's GDPval knowledge-work test. Alongside the flagship model, OpenAI released efficiency-focused variants: GPT-5.4 mi",
+      "timestamp": "2026-04-20T07:35:57.819614+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.85,
+      "content_hash": "fae64860e700ff1c"
+    },
+    {
+      "title": "OpenAI's existential questions | TechCrunch",
+      "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+      "source": "gemini_grounded",
+      "author": "techcrunch.com",
+      "snippet": "OpenAI's most notable Twitter/X announcements in April 2026 center on Codex and subscription tier updates. OpenAI posted to @OpenAI announcing an update to ChatGPT Pro and Plus subscriptions to better support the growing use of Codex, introducing a new $100/month Pro tier that offers 5x more Codex usage than Plus, targeting longer and high-effort Codex sessions. This signals OpenAI's push to monetize developer-focused AI coding tools more aggressively.\n\nBeyond the subscription announcement, Open",
+      "timestamp": "2026-04-20T07:36:53.428175+00:00",
+      "company": "openai",
+      "category": "product",
+      "relevance_score": 0.7,
+      "content_hash": "1b6193747aa230b8"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "date": "2026-04-13",
+  "company": "openai",
+  "scan_time": "2026-04-13T07:37:13.616907+00:00",
+  "total_scraped": 39,
+  "after_dedup": 6,
+  "after_filter": 5,
+  "items": [
+    {
+      "title": "Model Release Notes | OpenAI Help Center",
+      "url": "https://help.openai.com/pt-pt/articles/9624314-model-release-notes",
+      "source": "gemini_grounded",
+      "author": "help.openai.com",
+      "snippet": "OpenAI has made several major announcements in early 2026. On the model front, three new GPT-5 family models were released in March 2026: GPT-5.3 Instant, GPT-5.4 Thinking, and GPT-5.4 Pro. Earlier, in February 2026, OpenAI launched GPT-5.3-Codex along with a dedicated Codex app and GPT-5.2-Codex, expanding their code-focused AI offerings. These releases represent a significant cadence of model updates in the GPT-5 lineage.\n\nOpenAI also made enterprise and safety-focused announcements in April 2",
+      "timestamp": "2026-04-13T07:34:19.076341+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 1.0,
+      "content_hash": "321188035f30b99a"
+    },
+    {
+      "title": "OpenAI Models - Release Notes March 2026 - Releasebot",
+      "url": "https://releasebot.io/updates/openai/openai-models",
+      "source": "gemini_grounded",
+      "author": "releasebot.io",
+      "snippet": "OpenAI has been releasing new GPT models at a rapid pace in 2026. In March 2026, OpenAI released GPT-5.4 across ChatGPT, the API, and Codex, along with a higher-end GPT-5.4 Pro variant for maximum performance and deeper reasoning on complex workloads. GPT-5.4 unites reasoning, coding, and agentic workflows, adds 'Thinking' mode in ChatGPT with upfront planning, and improves long-context web research. A lighter GPT-5.4 mini variant is also rolling out for Free and Go users. Prior to GPT-5.4, Open",
+      "timestamp": "2026-04-13T07:35:33.425343+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 1.0,
+      "content_hash": "65b5b749d8dd4cca"
+    },
+    {
+      "title": "OpenAI's new $100 ChatGPT Pro plan targets Claude Max with five times the Codex access",
+      "url": "https://thenextweb.com/news/openais-new-100-chatgpt-pro-plan-targets-claude-max-with-five-times-the-codex-access",
+      "source": "gemini_grounded",
+      "author": "thenextweb.com",
+      "snippet": "OpenAI has been active on social media and its newsroom in April 2026 with several major announcements. The company launched a new $100/month ChatGPT Pro tier targeting Claude Max's price point, offering 5x more Codex access than Plus, with a 10x launch promotion running through May. OpenAI also released GPT-5.3 Instant Mini as the new fallback model in ChatGPT, replacing GPT-5 Instant Mini, touted for more natural conversation and stronger writing capabilities.\n\nOn the security front, OpenAI is",
+      "timestamp": "2026-04-13T07:36:53.687813+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 1.0,
+      "content_hash": "96bd0bcff81abe7d"
+    },
+    {
+      "title": "OpenAI says to update Mac apps including ChatGPT and Codex as security precaution",
+      "url": "https://9to5mac.com/2026/04/10/openai-says-to-update-mac-apps-including-chatgpt-and-codex-as-security-precaution/",
+      "source": "gemini_grounded",
+      "author": "9to5mac.com",
+      "snippet": "OpenAI has been active on social media and its newsroom in April 2026 with several major announcements. The company launched a new $100/month ChatGPT Pro tier targeting Claude Max's price point, offering 5x more Codex access than Plus, with a 10x launch promotion running through May. OpenAI also released GPT-5.3 Instant Mini as the new fallback model in ChatGPT, replacing GPT-5 Instant Mini, touted for more natural conversation and stronger writing capabilities.\n\nOn the security front, OpenAI is",
+      "timestamp": "2026-04-13T07:36:53.687849+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.7,
+      "content_hash": "dd4c1925a95dbb13"
+    },
+    {
+      "title": "OpenAI says a system downloaded infected Axios software",
+      "url": "https://www.axios.com/2026/04/11/openai-axios-mac-cyberattack",
+      "source": "gemini_grounded",
+      "author": "www.axios.com",
+      "snippet": "OpenAI has been active on social media and its newsroom in April 2026 with several major announcements. The company launched a new $100/month ChatGPT Pro tier targeting Claude Max's price point, offering 5x more Codex access than Plus, with a 10x launch promotion running through May. OpenAI also released GPT-5.3 Instant Mini as the new fallback model in ChatGPT, replacing GPT-5 Instant Mini, touted for more natural conversation and stronger writing capabilities.\n\nOn the security front, OpenAI is",
+      "timestamp": "2026-04-13T07:36:53.687854+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.5,
+      "content_hash": "cf427906ddc54429"
+    }
+  ]
+}

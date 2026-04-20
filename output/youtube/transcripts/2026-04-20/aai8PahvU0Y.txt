@@ -1,0 +1,350 @@
+Well, hello there.
+So it's actually my day off, but Cloud Code
+just released a new product called.
+Cloud Design, and I just had to play around
+with it and learn everything I needed to
+know about it. So this video is
+everything you need to know about the new
+Cloud Design and my takes on whether this
+feature is indeed a Figma and Adobe killer or it's just all hype.
+This video won't have my usual polish
+in videos, but I think the content itself
+speaks for itself. So without
+further ado, let's dive right into the video.
+So right off this, these slides that I
+made this right here, I actually made with Cloud Design.
+I personally think this is one of the
+killer features. The designs are very,
+the slides that it's generated is like
+really amazing. I could go through
+them a little bit, but essentially
+HTML slides. I've been doing this. HTML like
+slides with like reveal.js personally for all of
+my slides, but with Cloud Design, I'm able to do it at a
+very higher fidelity. They've like kind of
+fine tuned and trained this at his heart.
+The Cloud Design is a website at
+the moment, and you could get to it by going
+to this. URL, cloud.ai. And then if you hit this
+button right here, design, it'll take you to
+the preview and notice one thing I immediately
+noticed is that they don't have dark mode
+support yet, but you know, it's okay. I forgive them for that,
+but they have to add that because this is
+blinding me to be honest. So let's get
+right into it. So here's the high level concept.
+So in the AI tool, there is
+a chat, like the chat is moved
+to the left, which is very different than a
+lot of the like standard AI tools,
+which is like the chat is the main and center,
+but the canvas is on the right. So here, when you
+start out, this is kind of the layout. This is
+the very blank wireframe. If you went into this
+experience with nothing involved and
+that you will be like essentially led to here.
+And there's like some starting context that
+you can add. You remember context?
+Yeah. This is King and clock code. All of the
+things that you learned about clock
+code that are like agentic engineering
+and like context engineering.
+I think all of those still apply.
+And rightfully so you start off with
+the context. There's a high level concept of a
+template with a cloud design and all of these four
+ways to start the project, which is
+like a prototype, a slide deck or from templates
+and other, they're technically all just templates.
+You can see it right here up top here,
+where it says prototype slide deck from template.
+And these are essentially high
+level templates that has a bunch of prompts
+like system prompts behind the scenes to
+help guide the AI to do certain
+things correctly. At the end of the day,
+I think they all generate like assets
+that you can export and like bring into
+clock code sessions. But these different
+templates give you a slightly different
+primitives to start with. So we'll start
+with prototyping. In prototyping mode,
+there is wireframes versus high fidelity.
+Now wireframe is like chicken scratch.
+It's the most like open ended like flows that
+you can do. So we'll do a quick example
+project my L. So project my L is like a
+little side app I'm working on where it's
+about like feelings and stuff and tracking
+your feelings. So here you can start
+with like a sketch and, and I'm not really good
+at sketching, but you have all these like
+different options. We're gonna go into it.
+But at a high level, the idea is you can use like a sketch and
+like start drawing something. So my L has to do with
+like feelings. So let's draw like a
+little like a circle here. And then like
+little waves. I don't know, we could
+do that. And the whole idea is if you see here
+on the left, it brings that this wireframe in
+and then I have this like Mac OS
+design system, which I don't want in this
+and say, this is my project called my L it's
+to it's an app that tracks your feelings.
+And I want to design a logo kind of around
+this central point. Central idea of like a
+circle with like pulses. And here's the first
+thing that is kind of interesting about cloud design is that it
+almost every single time I've started
+working on these, it will always give me
+these like wizards. And I think they
+probably spent a lot of time with all of these
+kind of like different options.
+Technically, you don't need any of this.
+But these, these, these are the things
+that are the nice to have here that I see
+some differentiation between other AI design tools. So let's
+just say, Okay, Mark, run, and then let's do
+minimal and Unitarian. And then obviously,
+there's a lot of things you can do. But let's
+just let's just hit continue for the sake
+of this demo. The whole idea is it like doesn't
+assume it tries not to assume and it like preemptive, like if you
+did a regular clock session,
+you would probably go through these wizards
+as well. Like, you know, Claude asks you questions,
+but here it kind of preemptively asked you
+all those questions up front. And I think
+that's the point. That's the that's one of
+the powers of these templates. So here's the the logos,
+this is kind of cool, like it, it kind of got
+what I was thinking a little bit. And you can like tweak it a
+little bit here. So that's wireframe.
+But let's try high fidelity,
+or high fidelity, the docs recommend that you
+kind of blend it with a design system that you
+already have. Now, I already have one that
+I've injected. And that's something that we're
+going to get into about like, adding your
+own design system. But let's create like a water drinking tracker
+right now water tracking app all right so if you saw
+earlier at this Pomodoro Mac OS
+design system this is something I imported
+earlier it's a figma file with all of my all
+of the. Mac OS kind of like design language
+like liquid glass liquid glass and things
+like that. I want you to design
+three screens where it tracks my water
+drinking consumption and it's basically the
+main screen should be the water like bottle that like goes down
+throughout the day as I track the me
+drinking water and then the other
+should be like stat tracking. Now we
+have the questionnaire again the one thing
+that you'll slightly see different here is that
+it has my macOS like Figma, like system design. It's using that
+language to ask me questions about it.
+Like you can see. So here it says, where does this
+app live? I want it to be a dropdown bar, like basically
+something that happens on the top bar.
+That would be really cool. Probably a settings
+and a goal reminder. Auto, okay, this is
+pretty cool. I kind of like, kind of
+like this. Ah, okay, let's do that
+one for now. I kind of want two to three
+layouts to try. Just like any clock
+code thing, it takes a while for these things to go.
+So I always recommend you guys to be doing
+multitasking or doing other things. But honestly, so, so far my high level
+take is that these are, these are just
+fundamentally the best zero to creation,
+zero to design that I've seen so far.
+The designs are just, these are just like
+very beautiful. Like fundamentally,
+especially this high fidelity one. And especially if you
+have good Figma's to port in. Overall,
+it's pretty good. I think this, this needs
+to change. So I'm going to change this
+right now. Fundamentally,
+this water bottle sucks. I want it to be more,
+a lot smaller. And I just want it to be
+like a minimalist like design, more just with
+SVG lines, rather than like an actual
+representation of the water. I kind of really
+like this. I think fundamentally it's
+pretty good. I think the colors are a little off, but i could see myself
+building this this is really cool and the stats stats are very
+apple-esque i see a bunch of little issues
+uh like like the padding here there's no padding here
+like we need padding for this okay i'm already just like
+ended up i already ended up just
+like starting to see bugs and like working
+on this like work work this is just the curse
+of being an engineer who cares about all of
+this stuff I just see bugs everywhere and
+just like visual visual like
+inconsistencies everywhere and this happens to me
+in every single app I think I feel like bugs
+chase me around and anytime I open any app
+I'll find I'm like it's like I can guarantee
+you that I'll find a bug or like some something
+that's visually off or some ux issue like it's
+just it's like it's a sickness like i i feel
+like i'm just always working all the time
+when i'm on my phone okay but the water
+needs to be way smaller it should almost be
+like an icon like with maybe
+a visual like horizontal
+progress bar on the right so one of the cool
+things about this research demo that
+Anthropic dropped is that they actually had
+these like nine demos shipped with
+the preview. And I'm going to show
+you these. To get there, you just go from
+your right, like projects list, and then you
+hit designs. And then these are
+essentially all of the, these are
+essentially like the nine previews. And then
+you can kind of get an idea of what is possible
+with this particular tool. Now, one of the really
+cool things that I found was animations.
+I'm a YouTube content creator. So I
+really wanted to test out these animations
+because I could see a world where I generate,
+generate some of these like transitions and
+animations that I will want in my videos in this. This is the
+default like thing, but I want to add my Mac OS Pomodoro like
+design system and see if it makes it. Mac-ish. Behind the scene,
+it uses like JavaScript. And there is
+something called. Remotion. I don't know
+if they're using Remotion, but the
+nice thing about all of these things is that
+because at the end of the day, the product, the end,
+like output is all code, like even the slides
+and even like, they're all code. That's like one thing
+I realized. So you could always like take it to
+clock code and then further like change it
+and modify it. And to me, that's like
+such a big deal. Okay,
+here's the animation. This is pretty cool. I can see a lot of
+interesting things happening. I can see a lot of
+interesting things that I could build
+with this. Um this makes me kind of
+want to build an entire pipeline where i could generate
+these kind of animations um i might i might work
+on it okay all of these different
+examples i recommend you guys to kind of like
+dig into it on your own but they're they're
+just like a good way to like get your creative
+juices going in my opinion all right so
+once you have your initial design
+has created. The next thing to do is to be able
+to tweak it and edit it. And the cloud
+design tool has abundant ways to
+do it. There's many different ways.
+There's like six different ways to make your
+additional changes. Now to show some of
+these canvas mode, I made this like little
+Pomodoro like design. And the whole idea of
+this Pomodoro app, like I always like using
+Pomodoros because it's such a widely
+known app. It has like timers and
+moving elements. So it's always like good
+to test these things out. That's why I
+usually use Pomodoros. First important thing is
+that if you have tweaks enabled, you're able to change
+the color live and these like other
+essential controls. So not all designs will
+have this, but some of them when they have it,
+you're able to just tweak it without
+having to change or change the code.
+And the way this is possible is because
+this is actually just a HTML page. And all of these are
+probably just like parameters behind
+the scene. And you're able to
+change all of these. So that's the first way
+to change things. The second thing is
+to draw. So all of the controls are
+right here. And basically when you
+do draw, you get these like
+little things like that, right? So let's say that we
+want to change this right here, where we say this is a
+little too... Little too close,
+little too like the words feel a
+little tight. Hey, the words feel a little
+tight here. Can you add padding? And you can see on the left
+side that it took my drawing
+and then it took the screenshot
+of the word. It's actually
+really interesting. I think they're using
+multimodal here rather than injecting
+the word in. Now, the other way to
+do it is with edit. And with edit,
+you're allowed, you can just like select
+any element that you want. It's kind of
+like tweaks, but it's just a lot more.
+So let's just do something like 8 here, for example. And that gives me a lot
+more padding, right? And here, I don't really
+like the font, let's say. Let's change the
+font here. So as you can see,
+this is just a way to edit the HTML directly.
+So that's another way. The next way is really
+around comments, which is here. So I want to take a
+quick moment and talk about comments,
+because I think comments is probably
+the most important thing in something like this.
+The reason why I say this is because that's
+how engineers and designers
+actually work, right? Though oftentimes,
+a typical workflow for designing and
+engineering is you'll select different parts
+of the elements. Like, this is a bug, actually. Let's lower this a
+little bit. Let's make it like 100%. So you'll say
+something like, you could
+select elements and say something like, I would love this to be
+a horizontal progress bar rather than a
+circular progress bar. Something like that. So you would
+comment this, and then you could say
+something like, this should be like a
+live indicator, so the dot should pulse. For example. So this is
+a typical workflow. And the nice
+thing here, the thing that's really cool is,
+on the left side, you could select whichever
+comments that you want and just send it
+to Claude. And that just queues up all
+the changes. And then that will,
+fundamentally, go through and
+change the. HTMLs. So I feel like this is a
+really cool feature, and I'm surprised Figma
+and these other tools have not created it.
+I think Pencil has this feature,
+from my understanding.
+But this is such a killer feature,
+in my opinion. And then, as you
+can see, it changed the progress bar. One major feedback
+that I have right now is that it doesn't
+hot-reload your changes live. You have to click
+this button. But yeah, now the
+pulse right there, the pulse is here, too. And then I already
+showed off kind of like zooming in and out,
+and you can do this. And then you could
+also like present it. So you could go to
+a full tab, and you could do
+full screen. You could do like in a
+new tab. So there's all these
+different ways to like play with it. So these
+are the different like canvas modes and how
+you can really like play around with
+the canvas. I still think there's some bugs, but it's a preview. Now, one additional
+thing about comments that I think is really
+important is that it is collaborative.
+You can invite like a group of people into
+your Claude design. You can see here,
+there's like an organization thing,
+and this is my organization.
+Basically, anyone in your organization can
+like comment here on various things,
+and there's all the comments,
+and then like send or queue all of them up,
+which I think is really important. Now, I think they still
+need a ton of features here. Like if t

@@ -1,0 +1,262 @@
+{
+  "date": "2026-04-20",
+  "scan_time": "2026-04-20T07:40:39.438038+00:00",
+  "total_scraped": 94,
+  "after_dedup": 35,
+  "after_filter": 23,
+  "items": [
+    {
+      "title": "War Darkens Global Economic Outlook and Reshapes Policy Priorities — IMF Blog",
+      "url": "https://www.imf.org/en/blogs/articles/2026/04/14/war-darkens-global-economic-outlook-and-reshapes-policy-priorities",
+      "source": "gemini_grounded",
+      "author": "www.imf.org",
+      "snippet": "Global financial markets on April 20, 2026 are navigating a complex environment shaped by geopolitical tensions, tariff uncertainty, and shifting monetary policy expectations. The IMF's April 2026 World Economic Outlook warns that war in the Middle East has darkened the global growth picture, projecting a slowdown to 3.1% growth in 2026, with rising energy prices stoking renewed inflationary pressures. Bond yields have risen and equity prices had been under pressure, though some relief came as c",
+      "timestamp": "2026-04-20T07:37:58.375596+00:00",
+      "relevance_score": 0.9,
+      "content_hash": "5a158dbaee197358",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "An Unqualified Good Year For Stocks - Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-04-17/an-unqualified-good-year-for-stocks",
+      "source": "gemini_grounded",
+      "author": "www.bloomberg.com",
+      "snippet": "Global markets in mid-to-late April 2026 have been buoyed by a combination of geopolitical relief and strong corporate earnings. A US-Iran ceasefire deal triggered a broad risk-on rally, pushing the S&P 500 up roughly 2.5% and sending oil prices lower — US crude settled below $95 — easing fears of an energy crisis and reviving Fed rate-cut expectations. Stocks extended gains through mid-April, with the S&P 500 and Nasdaq 100 both closing at record highs as earnings season delivered upside surpri",
+      "timestamp": "2026-04-20T07:37:04.960334+00:00",
+      "relevance_score": 0.85,
+      "content_hash": "c24525954ed9471d",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Global Financial Stability Report, April 2026 — IMF",
+      "url": "https://www.imf.org/en/publications/gfsr/issues/2026/04/14/global-financial-stability-report-april-2026",
+      "source": "gemini_grounded",
+      "author": "www.imf.org",
+      "snippet": "Global financial markets on April 20, 2026 are navigating a complex environment shaped by geopolitical tensions, tariff uncertainty, and shifting monetary policy expectations. The IMF's April 2026 World Economic Outlook warns that war in the Middle East has darkened the global growth picture, projecting a slowdown to 3.1% growth in 2026, with rising energy prices stoking renewed inflationary pressures. Bond yields have risen and equity prices had been under pressure, though some relief came as c",
+      "timestamp": "2026-04-20T07:37:58.375587+00:00",
+      "relevance_score": 0.85,
+      "content_hash": "158289fb8c801e3f",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Economic Outlook April 2026 | Bell Bank",
+      "url": "https://bell.bank/business/insights/2026/04/economic-outlook-april-2026",
+      "source": "gemini_grounded",
+      "author": "bell.bank",
+      "snippet": "US equity markets are under mild pressure on April 20, 2026, with the S&P 500 (US500) down roughly 0.61% to ~7,083 points, while Dow and Nasdaq futures also posted modest declines. The broad driver is a combination of tariff uncertainty and a weakening US dollar — the Dollar Index has shed roughly 10% from its January peak as markets reprice the global trade outlook. President Trump launched fresh Section 301 investigations against over a dozen trading partners and imposed a 10% 'universal' tari",
+      "timestamp": "2026-04-20T07:39:00.784468+00:00",
+      "relevance_score": 0.85,
+      "content_hash": "4c176256adfd7985",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "When Does the Fed Meet Next and What Could Markets Expect | EBC Financial Group",
+      "url": "https://www.ebc.com/forex/fed-meeting-next-april-2026",
+      "source": "gemini_grounded",
+      "author": "www.ebc.com",
+      "snippet": "US equity markets are under mild pressure on April 20, 2026, with the S&P 500 (US500) down roughly 0.61% to ~7,083 points, while Dow and Nasdaq futures also posted modest declines. The broad driver is a combination of tariff uncertainty and a weakening US dollar — the Dollar Index has shed roughly 10% from its January peak as markets reprice the global trade outlook. President Trump launched fresh Section 301 investigations against over a dozen trading partners and imposed a 10% 'universal' tari",
+      "timestamp": "2026-04-20T07:39:00.784500+00:00",
+      "relevance_score": 0.85,
+      "content_hash": "bf096460cfdcb2b5",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "United States Stock Market Index | Trading Economics",
+      "url": "https://tradingeconomics.com/united-states/stock-market",
+      "source": "gemini_grounded",
+      "author": "tradingeconomics.com",
+      "snippet": "US equity markets are under mild pressure on April 20, 2026, with the S&P 500 (US500) down roughly 0.61% to ~7,083 points, while Dow and Nasdaq futures also posted modest declines. The broad driver is a combination of tariff uncertainty and a weakening US dollar — the Dollar Index has shed roughly 10% from its January peak as markets reprice the global trade outlook. President Trump launched fresh Section 301 investigations against over a dozen trading partners and imposed a 10% 'universal' tari",
+      "timestamp": "2026-04-20T07:39:00.784533+00:00",
+      "relevance_score": 0.85,
+      "content_hash": "7128c6e65937a71b",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "The Great Tariff-Inflation Tug-of-War: Why the Fed's 2% Target Remains Elusive in 2026",
+      "url": "https://markets.financialcontent.com/wral/article/marketminute-2026-1-14-the-great-tariff-inflation-tug-of-war-why-the-feds-2-target-remains-elusive-in-2026",
+      "source": "gemini_grounded",
+      "author": "markets.financialcontent.com",
+      "snippet": "Global markets and the broader economy are navigating a complex environment as of April 20, 2026. The IMF's latest World Economic Outlook projects global growth to slow to 3.1% in 2026 and 3.2% in 2027, with the outlook clouded by ongoing geopolitical conflict and persistent trade tensions. Global headline inflation is expected to tick modestly higher in 2026 before resuming its decline toward central bank targets. The U.S. Federal Reserve remains constrained, with tariff-driven price pressures ",
+      "timestamp": "2026-04-20T07:39:51.948591+00:00",
+      "relevance_score": 0.85,
+      "content_hash": "962259818874b12d",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "US Stocks Erase 2026 Gains on Tariff Fears, Global Bond Rout — Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-20/us-stock-futures-drop-as-greenland-threats-stoke-trade-worries",
+      "source": "gemini_grounded",
+      "author": "www.bloomberg.com",
+      "snippet": "Global financial markets on April 20, 2026 are navigating a complex environment shaped by geopolitical tensions, tariff uncertainty, and shifting monetary policy expectations. The IMF's April 2026 World Economic Outlook warns that war in the Middle East has darkened the global growth picture, projecting a slowdown to 3.1% growth in 2026, with rising energy prices stoking renewed inflationary pressures. Bond yields have risen and equity prices had been under pressure, though some relief came as c",
+      "timestamp": "2026-04-20T07:37:58.375620+00:00",
+      "relevance_score": 0.8,
+      "content_hash": "c435f476382fb637",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "International Monetary Fund | April 2026 Global Prospects and Policies",
+      "url": "https://www.imf.org/-/media/files/publications/weo/2026/april/english/ch1.pdf",
+      "source": "gemini_grounded",
+      "author": "www.imf.org",
+      "snippet": "US equity markets are under mild pressure on April 20, 2026, with the S&P 500 (US500) down roughly 0.61% to ~7,083 points, while Dow and Nasdaq futures also posted modest declines. The broad driver is a combination of tariff uncertainty and a weakening US dollar — the Dollar Index has shed roughly 10% from its January peak as markets reprice the global trade outlook. President Trump launched fresh Section 301 investigations against over a dozen trading partners and imposed a 10% 'universal' tari",
+      "timestamp": "2026-04-20T07:39:00.784521+00:00",
+      "relevance_score": 0.8,
+      "content_hash": "7639517bab687a78",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "AI's Token Economy Revolution Creates New China Tech Winners - Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/ai-s-token-economy-revolution-creates-new-china-tech-winners",
+      "source": "gemini_grounded",
+      "author": "www.bloomberg.com",
+      "snippet": "Global markets in mid-to-late April 2026 have been buoyed by a combination of geopolitical relief and strong corporate earnings. A US-Iran ceasefire deal triggered a broad risk-on rally, pushing the S&P 500 up roughly 2.5% and sending oil prices lower — US crude settled below $95 — easing fears of an energy crisis and reviving Fed rate-cut expectations. Stocks extended gains through mid-April, with the S&P 500 and Nasdaq 100 both closing at record highs as earnings season delivered upside surpri",
+      "timestamp": "2026-04-20T07:37:04.960330+00:00",
+      "relevance_score": 0.75,
+      "content_hash": "5f2b79e3f3bc2395",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Stock market today: Live updates — April 15, 2026",
+      "url": "https://www.cnbc.com/2026/04/15/stock-market-today-live-updates.html",
+      "source": "gemini_grounded",
+      "author": "www.cnbc.com",
+      "snippet": "Global markets and the broader economy are navigating a complex environment as of April 20, 2026. The IMF's latest World Economic Outlook projects global growth to slow to 3.1% in 2026 and 3.2% in 2027, with the outlook clouded by ongoing geopolitical conflict and persistent trade tensions. Global headline inflation is expected to tick modestly higher in 2026 before resuming its decline toward central bank targets. The U.S. Federal Reserve remains constrained, with tariff-driven price pressures ",
+      "timestamp": "2026-04-20T07:39:51.948597+00:00",
+      "relevance_score": 0.75,
+      "content_hash": "e20c262ac6bd8a70",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "2026 Trade Outlook: A Herculean Effort",
+      "url": "https://kpmg.com/us/en/articles/2026/global-trade-outlook-2026.html",
+      "source": "gemini_grounded",
+      "author": "kpmg.com",
+      "snippet": "Global markets and the broader economy are navigating a complex environment as of April 20, 2026. The IMF's latest World Economic Outlook projects global growth to slow to 3.1% in 2026 and 3.2% in 2027, with the outlook clouded by ongoing geopolitical conflict and persistent trade tensions. Global headline inflation is expected to tick modestly higher in 2026 before resuming its decline toward central bank targets. The U.S. Federal Reserve remains constrained, with tariff-driven price pressures ",
+      "timestamp": "2026-04-20T07:39:51.948605+00:00",
+      "relevance_score": 0.75,
+      "content_hash": "c8846687c0880fb4",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Agent Inspired Trading Using Recurrent RL and LSTM — arXiv 1707.07338",
+      "url": "https://arxiv.org/abs/1707.07338",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "Recent research and open-source development in reinforcement learning (RL) for trading agents continues to be active in 2025–2026. On the theoretical side, ensemble strategies combining multiple actor-critic algorithms (PPO, A2C, DDPG) have shown superior risk-adjusted returns versus single-algorithm baselines, with the Sharpe ratio as the key performance benchmark. A newer line of work, QTMRL, integrates multi-dimensional technical indicators directly into the RL reward signal for more adaptive",
+      "timestamp": "2026-04-20T07:36:38.026533+00:00",
+      "relevance_score": 0.7,
+      "content_hash": "6018a59d83c1449a",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "AI Agents in Prediction Markets: How Bots Beat Humans",
+      "url": "https://newyorkcityservers.com/blog/ai-agents-prediction-market-trading",
+      "source": "gemini_grounded",
+      "author": "newyorkcityservers.com",
+      "snippet": "Automated trading strategies on prediction markets like Kalshi and Polymarket have grown significantly in 2025-2026, with combined monthly volumes hitting ~$10 billion. AI bots now dominate performance leaderboards: on Polymarket, 14 of the top 20 most profitable wallets are bots, and AI agents represent over 30% of wallet activity with 37%+ reporting positive P&L—versus only 7-13% of human traders. The market infrastructure has matured to the point where sophisticated multi-agent systems can op",
+      "timestamp": "2026-04-20T07:33:08.315807+00:00",
+      "relevance_score": 0.65,
+      "content_hash": "7abc6391e4c8df82",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Two-Layer AI System Trading Polymarket and Kalshi",
+      "url": "https://blog.devgenius.io/just-built-a-two-layer-ai-system-that-trades-polymarket-and-kalshi-while-i-sleep-heres-the-aa59ead275f6",
+      "source": "gemini_grounded",
+      "author": "blog.devgenius.io",
+      "snippet": "Automated trading strategies on prediction markets like Kalshi and Polymarket have grown significantly in 2025-2026, with combined monthly volumes hitting ~$10 billion. AI bots now dominate performance leaderboards: on Polymarket, 14 of the top 20 most profitable wallets are bots, and AI agents represent over 30% of wallet activity with 37%+ reporting positive P&L—versus only 7-13% of human traders. The market infrastructure has matured to the point where sophisticated multi-agent systems can op",
+      "timestamp": "2026-04-20T07:33:08.315815+00:00",
+      "relevance_score": 0.65,
+      "content_hash": "a4335cfd6f545dd8",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "GitHub - poly-maker: Automated Market Making Bot for Polymarket",
+      "url": "https://github.com/warproxxx/poly-maker",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "Automated trading strategies on prediction markets like Kalshi and Polymarket have grown significantly in 2025-2026, with combined monthly volumes hitting ~$10 billion. AI bots now dominate performance leaderboards: on Polymarket, 14 of the top 20 most profitable wallets are bots, and AI agents represent over 30% of wallet activity with 37%+ reporting positive P&L—versus only 7-13% of human traders. The market infrastructure has matured to the point where sophisticated multi-agent systems can op",
+      "timestamp": "2026-04-20T07:33:08.315802+00:00",
+      "relevance_score": 0.6,
+      "content_hash": "31138d57bed06496",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "GitHub - octavi42/prediction-market-maker: Market-making strategy, #2 in Paradigm's Prediction Market Challenge",
+      "url": "https://github.com/octavi42/prediction-market-maker",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "Market making strategy implementations on GitHub span classical quantitative models, reinforcement learning approaches, and platform-specific bots. The most referenced classical model is the Avellaneda-Stoikov framework, implemented in repositories like mmssss/hft-market-making (HFT backtesting with Binance Futures data) and rodlaf/KalshiMarketMaker (Kalshi prediction markets with per-market workers computing reservation prices, asymmetric quotes, and inventory-adjusted order sizes). The BitMEX ",
+      "timestamp": "2026-04-20T07:36:04.311525+00:00",
+      "relevance_score": 0.55,
+      "content_hash": "2c17475736e5d127",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "GitHub - kalshi-ai-trading-bot: Advanced AI-powered trading system",
+      "url": "https://github.com/ryanfrigo/kalshi-ai-trading-bot",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "Automated trading strategies on prediction markets like Kalshi and Polymarket have grown significantly in 2025-2026, with combined monthly volumes hitting ~$10 billion. AI bots now dominate performance leaderboards: on Polymarket, 14 of the top 20 most profitable wallets are bots, and AI agents represent over 30% of wallet activity with 37%+ reporting positive P&L—versus only 7-13% of human traders. The market infrastructure has matured to the point where sophisticated multi-agent systems can op",
+      "timestamp": "2026-04-20T07:33:08.315820+00:00",
+      "relevance_score": 0.4,
+      "content_hash": "4c774d5420312893",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Best Polymarket Trading Bots for Automated Prediction Market Strategies in 2026",
+      "url": "https://medium.com/@stevenn.hansen/best-polymarket-trading-bots-for-automated-prediction-market-strategies-in-2026-bf06df02823b",
+      "source": "gemini_grounded",
+      "author": "medium.com",
+      "snippet": "Automated trading strategies on prediction markets like Kalshi and Polymarket have grown significantly in 2025-2026, with combined monthly volumes hitting ~$10 billion. AI bots now dominate performance leaderboards: on Polymarket, 14 of the top 20 most profitable wallets are bots, and AI agents represent over 30% of wallet activity with 37%+ reporting positive P&L—versus only 7-13% of human traders. The market infrastructure has matured to the point where sophisticated multi-agent systems can op",
+      "timestamp": "2026-04-20T07:33:08.315824+00:00",
+      "relevance_score": 0.35,
+      "content_hash": "9fc37ed859f5090a",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "SAFE Machine Learning in Quantitative Trading",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5015984",
+      "source": "gemini_grounded",
+      "author": "papers.ssrn.com",
+      "snippet": "Recent machine learning trading strategy research spans hybrid AI systems, deep reinforcement learning, and LLM-driven quantitative methods. A 2026 ComSIA paper proposes combining EMA/MACD trend-following, RSI/Bollinger mean-reversion, FinBERT sentiment analysis, and XGBoost signal generation with market regime filtering — achieving 135% returns over 24 months. Separately, an LSTM model applied to Bitcoin technical analysis achieved ~65% cumulative returns in under a year, outperforming traditio",
+      "timestamp": "2026-04-20T07:35:30.327095+00:00",
+      "relevance_score": 0.35,
+      "content_hash": "6c3d4d012da59dc6",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "March 2026 Algo Insights Report",
+      "url": "https://algorand.co/blog/march-2026-algo-insights-report",
+      "source": "gemini_grounded",
+      "author": "algorand.co",
+      "snippet": "In 2026, the r/algotrading community on Reddit remains one of the most active forums for algorithmic and quantitative trading discussion, though Reddit's content is not directly crawlable. Based on adjacent sources and community aggregators, discussions in early 2026 center on live performance benchmarks for systematic strategies, with practitioners reporting realistic live returns in the range of 8–18% annualized for well-validated mean-reversion and momentum systems. A commonly cited combined-",
+      "timestamp": "2026-04-20T07:31:09.974337+00:00",
+      "relevance_score": 0.3,
+      "content_hash": "a63c086656a10e4e",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Algorithmic Trading Market Growth Analysis 2026-2030 — Technavio",
+      "url": "https://www.technavio.com/report/algorithmic-trading-market-industry-analysis",
+      "source": "gemini_grounded",
+      "author": "www.technavio.com",
+      "snippet": "Discussions in quantitative and algorithmic trading communities in 2025-2026 center on a persistent gap between backtested performance and live trading results. Community members frequently highlight that a genuine statistical edge is rare, difficult to maintain, and tends to decay as strategies become crowded or market regimes shift. Walk-forward testing, out-of-sample validation, and strict overfitting controls are repeatedly cited as the minimum bar before committing real capital. The consens",
+      "timestamp": "2026-04-20T07:32:11.656501+00:00",
+      "relevance_score": 0.3,
+      "content_hash": "c00143f64246d91e",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "GitHub - gianlucamazza/solana-mmaker: Solana Market Maker Bot via Jupiter",
+      "url": "https://github.com/gianlucamazza/solana-mmaker",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "Market making strategy implementations on GitHub span classical quantitative models, reinforcement learning approaches, and platform-specific bots. The most referenced classical model is the Avellaneda-Stoikov framework, implemented in repositories like mmssss/hft-market-making (HFT backtesting with Binance Futures data) and rodlaf/KalshiMarketMaker (Kalshi prediction markets with per-market workers computing reservation prices, asymmetric quotes, and inventory-adjusted order sizes). The BitMEX ",
+      "timestamp": "2026-04-20T07:36:04.311556+00:00",
+      "relevance_score": 0.3,
+      "content_hash": "c5e797e093492640",
+      "freshness_window": "24h"
+    }
+  ]
+}

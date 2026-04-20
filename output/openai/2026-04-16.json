@@ -1,0 +1,70 @@
+{
+  "date": "2026-04-16",
+  "company": "openai",
+  "scan_time": "2026-04-16T07:37:18.597263+00:00",
+  "total_scraped": 39,
+  "after_dedup": 5,
+  "after_filter": 5,
+  "items": [
+    {
+      "title": "OpenAI rolls out tiered access to advanced AI cyber models",
+      "url": "https://www.axios.com/2026/04/14/openai-model-cyber-program-release",
+      "source": "gemini_grounded",
+      "author": "www.axios.com",
+      "snippet": "As of April 2026, OpenAI has transitioned its model lineup to the GPT-5 series, retiring earlier models including GPT-4o, GPT-4.1, o3, and o4-mini from ChatGPT. The company has simplified its model picker to three primary tiers: Instant, Thinking, and Pro. GPT-5.3 Instant serves as the default model across all plans including free users, while GPT-5.4 (released March 5, 2026) is OpenAI's flagship frontier model with record benchmark scores on GDPval (83%) and computer-use benchmarks OSWorld-Veri",
+      "timestamp": "2026-04-16T07:35:43.006638+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 1.0,
+      "content_hash": "0d5a9367c415ee5b"
+    },
+    {
+      "title": "OpenAI Release Notes - April 2026 Latest Updates | Releasebot",
+      "url": "https://releasebot.io/updates/openai",
+      "source": "gemini_grounded",
+      "author": "releasebot.io",
+      "snippet": "OpenAI has been active on social media and in the news throughout April 2026, with several major announcements. The company closed a record-breaking $122 billion funding round and has surpassed $25 billion in annualized revenue, with enterprise revenue now accounting for over 40% of total revenue. OpenAI is also reportedly taking early steps toward a potential public listing as soon as late 2026, and will be included in ARK Invest ETFs.\n\nOn the product side, OpenAI released GPT-5.4, described as",
+      "timestamp": "2026-04-16T07:36:58.011682+00:00",
+      "company": "openai",
+      "category": "product",
+      "relevance_score": 1.0,
+      "content_hash": "a1df105fb8c70bd9"
+    },
+    {
+      "title": "GPT-6 Release Date: April 14 Bust, New Window | FindSkill.ai",
+      "url": "https://findskill.ai/blog/gpt-6-release-date/",
+      "source": "gemini_grounded",
+      "author": "findskill.ai",
+      "snippet": "OpenAI has been active on social media and in the news throughout April 2026, with several major announcements. The company closed a record-breaking $122 billion funding round and has surpassed $25 billion in annualized revenue, with enterprise revenue now accounting for over 40% of total revenue. OpenAI is also reportedly taking early steps toward a potential public listing as soon as late 2026, and will be included in ARK Invest ETFs.\n\nOn the product side, OpenAI released GPT-5.4, described as",
+      "timestamp": "2026-04-16T07:36:58.011677+00:00",
+      "company": "openai",
+      "category": "blog",
+      "relevance_score": 0.9,
+      "content_hash": "de9e59b7853a61a2"
+    },
+    {
+      "title": "Scoop: OpenAI plans new product for cybersecurity use | Axios",
+      "url": "https://www.axios.com/2026/04/09/openai-new-model-cyber-mythos-anthopic",
+      "source": "gemini_grounded",
+      "author": "www.axios.com",
+      "snippet": "OpenAI has been active on social media and in the news throughout April 2026, with several major announcements. The company closed a record-breaking $122 billion funding round and has surpassed $25 billion in annualized revenue, with enterprise revenue now accounting for over 40% of total revenue. OpenAI is also reportedly taking early steps toward a potential public listing as soon as late 2026, and will be included in ARK Invest ETFs.\n\nOn the product side, OpenAI released GPT-5.4, described as",
+      "timestamp": "2026-04-16T07:36:58.011672+00:00",
+      "company": "openai",
+      "category": "blog",
+      "relevance_score": 0.8,
+      "content_hash": "5760ba10e70ba01e"
+    },
+    {
+      "title": "New AI Model Releases News | April 2026",
+      "url": "https://blog.mean.ceo/new-ai-model-releases-news-april-2026/",
+      "source": "gemini_grounded",
+      "author": "blog.mean.ceo",
+      "snippet": "OpenAI has been active on social media and in the news throughout April 2026, with several major announcements. The company closed a record-breaking $122 billion funding round and has surpassed $25 billion in annualized revenue, with enterprise revenue now accounting for over 40% of total revenue. OpenAI is also reportedly taking early steps toward a potential public listing as soon as late 2026, and will be included in ARK Invest ETFs.\n\nOn the product side, OpenAI released GPT-5.4, described as",
+      "timestamp": "2026-04-16T07:36:58.011687+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.7,
+      "content_hash": "ef9e235b20c6f3b7"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "date": "2026-03-22",
+  "scan_time": "2026-03-22T10:02:01.880625+00:00",
+  "total_found": 120,
+  "unique_new": 6,
+  "with_transcripts": 3,
+  "after_filter": 4,
+  "items": [
+    {
+      "video_id": "y9IYtWELMHw",
+      "title": "How to Use Claude Code Agent Teams in 13 Mins (Opus 4.6)",
+      "channel": "Simon Scrapes",
+      "url": "https://www.youtube.com/watch?v=y9IYtWELMHw",
+      "upload_date": "",
+      "duration_seconds": 793.0,
+      "description": "Build agentic systems that run your business: https://skool.com/scrapes Don't miss the next build ...",
+      "transcript": "",
+      "extracted_patterns": [
+        "Use agent teams instead of single agents for projects where context window degradation becomes critical (>95% fill causes compression and information loss)",
+        "Decompose complex work into specialized sub-agents to improve output quality (hire specialists, not generalists) and reduce token cost",
+        "Execute non-dependent tasks in parallel using separate agent instances instead of sequential execution",
+        "Avoid hub-and-spoke architecture (main agent as bottleneck) by using agent teams with shared task lists enabling peer-to-peer agent communication",
+        "Spawn autonomous teammate agents from a coordinator that manages a shared task list, allowing agents to claim and complete work independently",
+        "Use sub-agents for single-direction reporting; use agent teams when agents need to communicate and iterate with each other (e.g., researcher â†’ reviewer â†’ writer)",
+        "Each agent in a team maintains its own context window, preventing context bleeding and improving focus on domain-specific work",
+        "Task lists act as the coordination layerâ€”agents pull work, update status, and unblock dependent tasks without routing through a central orchestrator"
+      ],
+      "relevance_score": 0.88,
+      "content_hash": "2dac171248058efc",
+      "transcript_length": 15000
+    },
+    {
+      "video_id": "gDa1VzVPrwI",
+      "title": "Claude Stitch (Design Mode): Anthropic just CRUSHED Google with their DESIGN AGENT!",
+      "channel": "AICodeKing",
+      "url": "https://www.youtube.com/watch?v=gDa1VzVPrwI",
+      "upload_date": "",
+      "duration_seconds": 549.0,
+      "description": "In this video, I'll be talking about whether you really need Google Stitch to build great UIs, or whether Verdent plus Claude Opus ...",
+      "transcript": "",
+      "extracted_patterns": [
+        "Use plan-first mode for UI builds: Have the model think through structure, components, responsive strategy, and typography before generating code",
+        "Design direction via three-part specification: Provide visual thesis (premium/editorial/technical/playful/calm/dense/sparse), content plan (sections and purposes), and interaction thesis (2-3 motion ideas) before requesting builds",
+        "Iterative refinement over regeneration: Instead of discarding and starting over, give incremental feedback to refine results (e.g., 'remove cards, make hero more imageled, reduce copy 30%, calmer accent')",
+        "Leverage codebase context: Use model's access to actual project structure, existing components, and constraints to make design decisions that fit the product instead of generic patterns",
+        "Model selection by task: Claude Opus 4.6 for production UI code (not for quick mockupsâ€”use Stitch for that)",
+        "Skill-based art direction: Use front-end design skill as an art direction layer that biases toward strong composition, hierarchy, sparse copy, and prevents common failures (generic cards, cluttered heroes, weak branding)"
+      ],
+      "relevance_score": 0.65,
+      "content_hash": "6a948a42feed24ad",
+      "transcript_length": 9290
+    },
+    {
+      "video_id": "rMek_0daOLU",
+      "title": "Claude Code Masterclass: Every Secret That 99% of Developers Don't Know",
+      "channel": "Peace Of Code",
+      "url": "https://www.youtube.com/watch?v=rMek_0daOLU",
+      "upload_date": "",
+      "duration_seconds": 3906.0,
+      "description": "claudecode #aicoding #claudecodemasterclass I started with an EMPTY FOLDER and built a complete app using only AI agents.",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.58,
+      "content_hash": "3ecbf1537283b883",
+      "transcript_length": 0
+    },
+    {
+      "video_id": "OIKTsVjTVJE",
+      "title": "Why are top engineers DITCHING MCP Servers? (3 PROVEN Solutions)",
+      "channel": "IndyDevDan",
+      "url": "https://www.youtube.com/watch?v=OIKTsVjTVJE",
+      "upload_date": "",
+      "duration_seconds": 1922.0,
+      "description": "Are your MCP server is BLEEDING context tokens before your AI agent even starts working? There's a better way - three proven ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.58,
+      "content_hash": "f2bb44f3815acb44",
+      "transcript_length": 0
+    }
+  ]
+}

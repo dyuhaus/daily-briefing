@@ -1,0 +1,86 @@
+{
+  "date": "2026-04-16",
+  "scan_time": "2026-04-16T07:39:58.147998+00:00",
+  "total_scraped": 94,
+  "after_dedup": 45,
+  "after_filter": 7,
+  "items": [
+    {
+      "title": "Kalshi now controls 89% of the U.S. prediction market as regulated trading takes over",
+      "url": "https://www.coindesk.com/markets/2026/04/09/kalshi-now-controls-89-of-the-u-s-prediction-market-as-regulated-trading-takes-over",
+      "source": "gemini_grounded",
+      "author": "www.coindesk.com",
+      "snippet": "Prediction market automated trading has matured significantly heading into 2026, with a rich ecosystem of bots, APIs, and strategies spanning Kalshi, Polymarket, and Manifold. Kalshi now dominates U.S. regulated prediction markets with ~89% market share and offers a full REST + WebSocket API (docs.kalshi.com) that enables automated market making, arbitrage, and event-driven strategies. Polymarket, operating as a decentralized CLOB on Polygon, provides deep API access favored by quant traders for",
+      "timestamp": "2026-04-16T07:32:39.622876+00:00",
+      "relevance_score": 1.0,
+      "content_hash": "f356837deac1ee93",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Paradigm is building its own prediction markets trading terminal | Fortune",
+      "url": "https://fortune.com/2026/04/01/paradigm-prediction-markets-trading-terminal-arjun-balaji-kalshi-polymarket/",
+      "source": "gemini_grounded",
+      "author": "fortune.com",
+      "snippet": "Prediction market automated trading has matured significantly heading into 2026, with a rich ecosystem of bots, APIs, and strategies spanning Kalshi, Polymarket, and Manifold. Kalshi now dominates U.S. regulated prediction markets with ~89% market share and offers a full REST + WebSocket API (docs.kalshi.com) that enables automated market making, arbitrage, and event-driven strategies. Polymarket, operating as a decentralized CLOB on Polygon, provides deep API access favored by quant traders for",
+      "timestamp": "2026-04-16T07:32:39.622910+00:00",
+      "relevance_score": 1.0,
+      "content_hash": "2b0c77b5a0523cc0",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Algo Trading for Quant: AI Strategies & Tools (2026) — Digiqt",
+      "url": "https://digiqt.com/blog/algo-trading-for-quant/",
+      "source": "gemini_grounded",
+      "author": "digiqt.com",
+      "snippet": "Community discussions on r/algotrading and r/quant consistently highlight a significant gap between backtested and live trading performance, often called 'edge decay.' Practitioners note that strategies showing strong Sharpe ratios in backtests frequently underperform live due to overfitting, market microstructure changes, latency, and slippage not captured in simulations. Walk-forward testing and out-of-sample validation are considered table stakes for serious quant traders, and the consensus i",
+      "timestamp": "2026-04-16T07:31:46.041162+00:00",
+      "relevance_score": 0.7,
+      "content_hash": "dedd8f2e57f06313",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "LiveTradeBench: Seeking Real-World Alpha with Large Language Models (arXiv)",
+      "url": "https://arxiv.org/html/2511.03628v1",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "Community discussions on r/algotrading and r/quant consistently highlight a significant gap between backtested and live trading performance, often called 'edge decay.' Practitioners note that strategies showing strong Sharpe ratios in backtests frequently underperform live due to overfitting, market microstructure changes, latency, and slippage not captured in simulations. Walk-forward testing and out-of-sample validation are considered table stakes for serious quant traders, and the consensus i",
+      "timestamp": "2026-04-16T07:31:46.041128+00:00",
+      "relevance_score": 0.6,
+      "content_hash": "d6fd5e1fc8f06070",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Live Trading Stats — AlgoTrading Space",
+      "url": "https://algotradingspace.com/trading-stats/live",
+      "source": "gemini_grounded",
+      "author": "algotradingspace.com",
+      "snippet": "Community discussions on r/algotrading and r/quant consistently highlight a significant gap between backtested and live trading performance, often called 'edge decay.' Practitioners note that strategies showing strong Sharpe ratios in backtests frequently underperform live due to overfitting, market microstructure changes, latency, and slippage not captured in simulations. Walk-forward testing and out-of-sample validation are considered table stakes for serious quant traders, and the consensus i",
+      "timestamp": "2026-04-16T07:31:46.041096+00:00",
+      "relevance_score": 0.5,
+      "content_hash": "9cf2da2008591a31",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Algo Trading Bot & Prediction Market Development Guide 2026",
+      "url": "https://ericaai.tech.blog/2026/04/15/algo-trading-bot-and-prediction-market-development-guide/",
+      "source": "gemini_grounded",
+      "author": "ericaai.tech.blog",
+      "snippet": "Discussions on r/algotrading in 2026 reflect a community actively sharing live performance data, with traders focusing on risk-adjusted metrics like Sharpe ratio, maximum drawdown, and expectancy rather than raw returns. Trend-following and mean-reversion hybrid systems continue to dominate shared results, with many traders noting that 2026's elevated volatility environment (driven by macro uncertainty, Fed policy shifts, and AI-driven liquidity fragmentation) has favored adaptive strategies ove",
+      "timestamp": "2026-04-16T07:30:56.799986+00:00",
+      "relevance_score": 0.4,
+      "content_hash": "1b1e13a0083ec1be",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "What is the current performance of your algo trading? — Quora",
+      "url": "https://www.quora.com/What-is-the-current-performance-of-your-algo-trading",
+      "source": "gemini_grounded",
+      "author": "www.quora.com",
+      "snippet": "Community discussions on r/algotrading and r/quant consistently highlight a significant gap between backtested and live trading performance, often called 'edge decay.' Practitioners note that strategies showing strong Sharpe ratios in backtests frequently underperform live due to overfitting, market microstructure changes, latency, and slippage not captured in simulations. Walk-forward testing and out-of-sample validation are considered table stakes for serious quant traders, and the consensus i",
+      "timestamp": "2026-04-16T07:31:46.041167+00:00",
+      "relevance_score": 0.3,
+      "content_hash": "d345b4ae2cdb51b6",
+      "freshness_window": "24h"
+    }
+  ]
+}

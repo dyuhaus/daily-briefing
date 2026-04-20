@@ -1,0 +1,130 @@
+{
+  "date": "2026-04-10",
+  "scan_time": "2026-04-10T07:39:05.589311+00:00",
+  "total_scraped": 94,
+  "after_dedup": 36,
+  "after_filter": 11,
+  "items": [
+    {
+      "title": "GitHub Copilot coding agent 101: Getting started with agentic workflows - The GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-coding-agent-101-getting-started-with-agentic-workflows-on-github/",
+      "source": "gemini_grounded",
+      "author": "github.blog",
+      "snippet": "GitHub has made a series of major AI agent announcements centered on GitHub Copilot. In May 2025, GitHub introduced the Copilot Coding Agent — a background agent capable of implementing issues and tasks autonomously using GitHub Actions. This was followed in October 2025 by the announcement of Agent HQ, which positions GitHub as an open ecosystem hub for third-party agents from Anthropic, OpenAI, Google, Cognition, xAI, and others, all accessible within a paid Copilot subscription. The platform ",
+      "timestamp": "2026-04-10T07:31:04.564345+00:00",
+      "category": "major_org",
+      "relevance_score": 1.0,
+      "content_hash": "fe5a0e1c1a5a9071"
+    },
+    {
+      "title": "GitHub Trending Repositories",
+      "url": "https://github.com/trending",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "As of April 2026, the GitHub AI agent ecosystem continues to see explosive growth in both established frameworks and new entrants. The standout story is OpenClaw, which surged from ~9,000 to over 210,000 stars since going viral in late January 2026, making it arguably the fastest-growing open-source project in GitHub history. It spans developer workflow automation, browser automation, personal productivity, and proactive scheduling. Meanwhile, visual builder frameworks dominate in star count: La",
+      "timestamp": "2026-04-10T07:34:27.423304+00:00",
+      "category": "github",
+      "relevance_score": 1.0,
+      "content_hash": "998901a57ed06c85"
+    },
+    {
+      "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+      "url": "https://huggingface.co/blog/gemma4",
+      "source": "gemini_grounded",
+      "author": "huggingface.co",
+      "snippet": "Hugging Face's blog in early April 2026 highlights several significant model releases. The most prominent is Gemma 4, Google DeepMind's new family of frontier multimodal models released on April 2, 2026. Gemma 4 supports image, text, and audio inputs, features Apache 2 licensing, and is designed to run efficiently on-device while delivering top scores on reasoning, coding, vision, and long-context benchmarks. Meta's Llama 4 series also made waves with two variants: Llama 4 Maverick (17B active /",
+      "timestamp": "2026-04-10T07:32:15.322536+00:00",
+      "category": "startup",
+      "relevance_score": 0.95,
+      "content_hash": "b5b6f8a64bb2dd56"
+    },
+    {
+      "title": "AI at Meta: Products, Models and Research",
+      "url": "https://ai.meta.com/",
+      "source": "gemini_grounded",
+      "author": "ai.meta.com",
+      "snippet": "Meta's most significant recent open source release is the Llama 4 herd, announced in early 2026. Llama 4 Scout and Llama 4 Maverick are Meta's first natively multimodal open-weight models, built on a mixture-of-experts (MoE) architecture. Trained on over 30 trillion tokens — more than double the Llama 3 pre-training mixture — these models support unprecedented context lengths and multimodal inputs including text, images, and video. They are available on llama.com and Hugging Face, as well as maj",
+      "timestamp": "2026-04-10T07:30:32.757523+00:00",
+      "category": "github",
+      "relevance_score": 0.9,
+      "content_hash": "36711316317b7711"
+    },
+    {
+      "title": "Spain's Xoople raises $130 million Series B to map the Earth for AI | TechCrunch",
+      "url": "https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/",
+      "source": "gemini_grounded",
+      "author": "techcrunch.com",
+      "snippet": "AI startup funding in 2026 has shattered all previous records, with Q1 2026 marking unprecedented capital deployment across the sector. The most headline-grabbing round was OpenAI's $110 billion raise — one of the largest private funding rounds in history — valuing the company at $852 billion. Elon Musk's xAI also opened the year strong with a $20 billion Series E in January, while Anthropic closed a $30 billion Series G in February at a $380 billion valuation. A 'human-centric' AI startup calle",
+      "timestamp": "2026-04-10T07:33:40.018762+00:00",
+      "category": "startup",
+      "relevance_score": 0.9,
+      "content_hash": "6e1981badebfe909"
+    },
+    {
+      "title": "Microsoft Build 2025: The age of AI agents and building the open agentic web",
+      "url": "https://blogs.microsoft.com/blog/2025/05/19/microsoft-build-2025-the-age-of-ai-agents-and-building-the-open-agentic-web/",
+      "source": "gemini_grounded",
+      "author": "blogs.microsoft.com",
+      "snippet": "Microsoft has been rapidly expanding its Copilot AI capabilities across 2025 and 2026. Recent announcements include 'Deep Research' for multi-step complex research tasks, persistent memory so Copilot learns user preferences over time, and 'Copilot Vision on Mobile' which allows the assistant to see and respond to what the user sees in real time. The March 2026 'Frontier Suite' announcement introduced expanded model diversity with Claude and next-gen OpenAI models available in Microsoft 365, alon",
+      "timestamp": "2026-04-10T07:31:37.630220+00:00",
+      "category": "major_org",
+      "relevance_score": 0.85,
+      "content_hash": "5ab7979a728d22bc"
+    },
+    {
+      "title": "Open Source AI - Meta AI",
+      "url": "https://ai.meta.com/open/",
+      "source": "gemini_grounded",
+      "author": "ai.meta.com",
+      "snippet": "Meta's most significant recent open source release is the Llama 4 herd, announced in early 2026. Llama 4 Scout and Llama 4 Maverick are Meta's first natively multimodal open-weight models, built on a mixture-of-experts (MoE) architecture. Trained on over 30 trillion tokens — more than double the Llama 3 pre-training mixture — these models support unprecedented context lengths and multimodal inputs including text, images, and video. They are available on llama.com and Hugging Face, as well as maj",
+      "timestamp": "2026-04-10T07:30:32.757519+00:00",
+      "category": "github",
+      "relevance_score": 0.8,
+      "content_hash": "6ced3183869ab857"
+    },
+    {
+      "title": "Introducing Microsoft 365 Copilot – your copilot for work",
+      "url": "https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/",
+      "source": "gemini_grounded",
+      "author": "blogs.microsoft.com",
+      "snippet": "Microsoft has been rapidly expanding its Copilot AI capabilities across 2025 and 2026. Recent announcements include 'Deep Research' for multi-step complex research tasks, persistent memory so Copilot learns user preferences over time, and 'Copilot Vision on Mobile' which allows the assistant to see and respond to what the user sees in real time. The March 2026 'Frontier Suite' announcement introduced expanded model diversity with Claude and next-gen OpenAI models available in Microsoft 365, alon",
+      "timestamp": "2026-04-10T07:31:37.630224+00:00",
+      "category": "major_org",
+      "relevance_score": 0.8,
+      "content_hash": "1bc439029b1fd87f"
+    },
+    {
+      "title": "Introducing Muse Spark: Scaling Towards Personal Superintelligence",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-msl",
+      "source": "gemini_grounded",
+      "author": "ai.meta.com",
+      "snippet": "Meta's most significant recent open source release is the Llama 4 herd, announced in early 2026. Llama 4 Scout and Llama 4 Maverick are Meta's first natively multimodal open-weight models, built on a mixture-of-experts (MoE) architecture. Trained on over 30 trillion tokens — more than double the Llama 3 pre-training mixture — these models support unprecedented context lengths and multimodal inputs including text, images, and video. They are available on llama.com and Hugging Face, as well as maj",
+      "timestamp": "2026-04-10T07:30:32.757514+00:00",
+      "category": "github",
+      "relevance_score": 0.7,
+      "content_hash": "289ea5c2604faf36"
+    },
+    {
+      "title": "MAR: Multi-Agent Reflexion Improves Reasoning Abilities in LLMs",
+      "url": "https://arxiv.org/abs/2512.20845",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "This week on arXiv, research into LLM-based agents continues at a rapid pace across several fronts. A standout paper, 'AgentSocialBench: Evaluating Privacy Risks in Human-Centered Agentic Social Networks' (April 2026), introduces a new benchmark for assessing privacy vulnerabilities in persistent multi-agent systems serving users across social domains—reflecting growing concern about agentic deployments at scale. Meanwhile, 'From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review' off",
+      "timestamp": "2026-04-10T07:33:06.134603+00:00",
+      "category": "research",
+      "relevance_score": 0.4,
+      "content_hash": "0b54c033a2df5277"
+    },
+    {
+      "title": "AgentSocialBench: Evaluating Privacy Risks in Human-Centered Agentic Social Networks",
+      "url": "https://arxiv.org/abs/2604.01487",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "This week on arXiv, research into LLM-based agents continues at a rapid pace across several fronts. A standout paper, 'AgentSocialBench: Evaluating Privacy Risks in Human-Centered Agentic Social Networks' (April 2026), introduces a new benchmark for assessing privacy vulnerabilities in persistent multi-agent systems serving users across social domains—reflecting growing concern about agentic deployments at scale. Meanwhile, 'From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review' off",
+      "timestamp": "2026-04-10T07:33:06.134546+00:00",
+      "category": "research",
+      "relevance_score": 0.3,
+      "content_hash": "c1b5f1f26608e762"
+    }
+  ]
+}

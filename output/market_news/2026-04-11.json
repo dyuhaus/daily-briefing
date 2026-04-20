@@ -1,0 +1,185 @@
+{
+  "date": "2026-04-11",
+  "scan_time": "2026-04-11T07:40:25.917262+00:00",
+  "total_scraped": 94,
+  "after_dedup": 43,
+  "after_filter": 16,
+  "items": [
+    {
+      "title": "GitHub - prediction-market-backtesting: Nautilus Trader fork with Polymarket and Kalshi adapters",
+      "url": "https://github.com/evan-kolberg/prediction-market-backtesting",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "Prediction market automated trading has matured significantly into 2026, with a growing ecosystem of bots, APIs, and AI-powered tools targeting Kalshi, Polymarket, and Manifold Markets. Core strategies being pursued include market making (placing bid/ask orders to capture the spread), cross-platform arbitrage (buying YES on one platform and NO on another for the same event outcome when prices diverge), and news-driven event trading (automatically reacting to breaking data before manual traders c",
+      "timestamp": "2026-04-11T07:32:25.768739+00:00",
+      "relevance_score": 1.0,
+      "content_hash": "76e0a3d633bebda9",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "GT-Score: Robust Objective Function for Algorithmic Trading (arXiv 2602.00080)",
+      "url": "https://arxiv.org/pdf/2602.00080",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "Recent research at the intersection of machine learning and algorithmic trading is advancing rapidly across multiple fronts. A March 2025 survey on arXiv comprehensively reviews the progression from deep learning to LLMs in quantitative investment, highlighting how neural networks now jointly handle parameter estimation and portfolio construction, while reinforcement learning models achieve competitive market performance through end-to-end optimization. Complementary work introduces hybrid syste",
+      "timestamp": "2026-04-11T07:35:17.477763+00:00",
+      "relevance_score": 1.0,
+      "content_hash": "26815fe555d4a7df",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "GitHub - OctoBot-Prediction-Market: Polymarket open source trading bot",
+      "url": "https://github.com/Drakkar-Software/OctoBot-Prediction-Market",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "Prediction market automated trading has matured significantly into 2026, with a growing ecosystem of bots, APIs, and AI-powered tools targeting Kalshi, Polymarket, and Manifold Markets. Core strategies being pursued include market making (placing bid/ask orders to capture the spread), cross-platform arbitrage (buying YES on one platform and NO on another for the same event outcome when prices diverge), and news-driven event trading (automatically reacting to breaking data before manual traders c",
+      "timestamp": "2026-04-11T07:32:25.768728+00:00",
+      "relevance_score": 0.9,
+      "content_hash": "e034e7b8a53fd05b",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Deep Reinforcement Learning for Optimal Trading with Partial Information (arxiv 2511.00190)",
+      "url": "https://arxiv.org/html/2511.00190v1",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "Reinforcement learning (RL) trading agents remain an active research area heading into 2026, with several notable papers and open-source frameworks advancing the field. A prominent line of work centers on ensemble deep RL strategies—combining PPO, A2C, and DDPG actor-critic algorithms—to maximize risk-adjusted returns (Sharpe ratio) over individual agents. The FinRL ecosystem (AI4Finance-Foundation) has evolved into FinRL-X, a modular, LLM-era full-stack platform supporting ML-based stock select",
+      "timestamp": "2026-04-11T07:36:23.874946+00:00",
+      "relevance_score": 0.9,
+      "content_hash": "d776a9e0f214492b",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "GitHub - prediction-market-arbitrage-bot: Detects and executes arbitrage between Polymarket and Kalshi",
+      "url": "https://github.com/realfishsam/prediction-market-arbitrage-bot",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "Prediction market automated trading has matured significantly into 2026, with a growing ecosystem of bots, APIs, and AI-powered tools targeting Kalshi, Polymarket, and Manifold Markets. Core strategies being pursued include market making (placing bid/ask orders to capture the spread), cross-platform arbitrage (buying YES on one platform and NO on another for the same event outcome when prices diverge), and news-driven event trading (automatically reacting to breaking data before manual traders c",
+      "timestamp": "2026-04-11T07:32:25.768734+00:00",
+      "relevance_score": 0.85,
+      "content_hash": "1622614ff687bdbb",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Is AI Trading Profitable in 2026? Costs, Metrics & Reality Checks — Stoic AI",
+      "url": "https://stoic.ai/blog/is-ai-trading-profitable/",
+      "source": "gemini_grounded",
+      "author": "stoic.ai",
+      "snippet": "Discussion across quant and algo trading communities in 2025-2026 consistently highlights the difficulty of maintaining a live trading edge. The core challenge practitioners report is that backtested results rarely translate cleanly to live execution due to data leakage, survivorship bias, unrealistic fill assumptions, and regime shifts. AI and automated systems trained on 2020-2022 data often underperform or fail entirely in 2023-2026 market conditions. Edge decay is described as inevitable — e",
+      "timestamp": "2026-04-11T07:31:28.263095+00:00",
+      "relevance_score": 0.8,
+      "content_hash": "71c59be761767935",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Market Making in Short-Term Alpha (Cartea, Jaimungal, Penalva) · GitHub Gist",
+      "url": "https://gist.github.com/sebjai/c6ff3850dea37d28d3fa7d3aef59722b",
+      "source": "gemini_grounded",
+      "author": "gist.github.com",
+      "snippet": "GitHub hosts a rich ecosystem of market making strategy implementations spanning classical quantitative models, crypto-native bots, and reinforcement learning approaches. The most academically rigorous implementations center on the Avellaneda-Stoikov framework — a continuous-time stochastic control model that optimizes bid/ask spread placement based on inventory risk and volatility. The mmssss/hft-market-making repo provides a full HFT backtesting simulator built around this model, while a GitHu",
+      "timestamp": "2026-04-11T07:35:49.731510+00:00",
+      "relevance_score": 0.8,
+      "content_hash": "4ab4e647a77a2624",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "GitHub - kalshi-ai-trading-bot: AI-powered trading system with Grok-4 and multi-agent decision making",
+      "url": "https://github.com/ryanfrigo/kalshi-ai-trading-bot",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "Prediction market automated trading has matured significantly into 2026, with a growing ecosystem of bots, APIs, and AI-powered tools targeting Kalshi, Polymarket, and Manifold Markets. Core strategies being pursued include market making (placing bid/ask orders to capture the spread), cross-platform arbitrage (buying YES on one platform and NO on another for the same event outcome when prices diverge), and news-driven event trading (automatically reacting to breaking data before manual traders c",
+      "timestamp": "2026-04-11T07:32:25.768744+00:00",
+      "relevance_score": 0.75,
+      "content_hash": "2ba0373a579b360b",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Machine Learning Enhanced Multi-Factor Quantitative Trading",
+      "url": "https://www.arxiv.org/pdf/2507.07107",
+      "source": "gemini_grounded",
+      "author": "www.arxiv.org",
+      "snippet": "Recent research at the intersection of machine learning and algorithmic trading is advancing rapidly across multiple fronts. A March 2025 survey on arXiv comprehensively reviews the progression from deep learning to LLMs in quantitative investment, highlighting how neural networks now jointly handle parameter estimation and portfolio construction, while reinforcement learning models achieve competitive market performance through end-to-end optimization. Complementary work introduces hybrid syste",
+      "timestamp": "2026-04-11T07:35:17.477791+00:00",
+      "relevance_score": 0.7,
+      "content_hash": "f84e732a56bbe332",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "GitHub - OctagonAI kalshi-deep-trading-bot: Kelly sizing and 5-gate risk engine CLI",
+      "url": "https://github.com/OctagonAI/kalshi-deep-trading-bot",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "Prediction market automated trading has matured significantly into 2026, with a growing ecosystem of bots, APIs, and AI-powered tools targeting Kalshi, Polymarket, and Manifold Markets. Core strategies being pursued include market making (placing bid/ask orders to capture the spread), cross-platform arbitrage (buying YES on one platform and NO on another for the same event outcome when prices diverge), and news-driven event trading (automatically reacting to breaking data before manual traders c",
+      "timestamp": "2026-04-11T07:32:25.768747+00:00",
+      "relevance_score": 0.65,
+      "content_hash": "19bad5b6e3d43000",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Edge in Trading — Professional Guide to Trading Edges — Build Alpha",
+      "url": "https://www.buildalpha.com/edge-in-trading/",
+      "source": "gemini_grounded",
+      "author": "www.buildalpha.com",
+      "snippet": "Discussion across quant and algo trading communities in 2025-2026 consistently highlights the difficulty of maintaining a live trading edge. The core challenge practitioners report is that backtested results rarely translate cleanly to live execution due to data leakage, survivorship bias, unrealistic fill assumptions, and regime shifts. AI and automated systems trained on 2020-2022 data often underperform or fail entirely in 2023-2026 market conditions. Edge decay is described as inevitable — e",
+      "timestamp": "2026-04-11T07:31:28.263090+00:00",
+      "relevance_score": 0.6,
+      "content_hash": "fc04f5fe68b856b3",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "GitHub - nirajdsouza/market-making-strategy-simulation",
+      "url": "https://github.com/nirajdsouza/market-making-strategy-simulation",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "GitHub hosts a rich ecosystem of market making strategy implementations spanning classical quantitative models, crypto-native bots, and reinforcement learning approaches. The most academically rigorous implementations center on the Avellaneda-Stoikov framework — a continuous-time stochastic control model that optimizes bid/ask spread placement based on inventory risk and volatility. The mmssss/hft-market-making repo provides a full HFT backtesting simulator built around this model, while a GitHu",
+      "timestamp": "2026-04-11T07:35:49.731506+00:00",
+      "relevance_score": 0.6,
+      "content_hash": "aece81575b7951fe",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Kalshi API Python Tutorial: Build Your First Trading Bot in 2026",
+      "url": "https://www.alphascope.app/blog/kalshi-api-python",
+      "source": "gemini_grounded",
+      "author": "www.alphascope.app",
+      "snippet": "Prediction market automated trading has matured significantly into 2026, with a growing ecosystem of bots, APIs, and AI-powered tools targeting Kalshi, Polymarket, and Manifold Markets. Core strategies being pursued include market making (placing bid/ask orders to capture the spread), cross-platform arbitrage (buying YES on one platform and NO on another for the same event outcome when prices diverge), and news-driven event trading (automatically reacting to breaking data before manual traders c",
+      "timestamp": "2026-04-11T07:32:25.768751+00:00",
+      "relevance_score": 0.55,
+      "content_hash": "3e76acd7dac3264b",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Fully Automated Trading Strategies — Edgeful Algos",
+      "url": "https://www.edgeful.com/features/algos",
+      "source": "gemini_grounded",
+      "author": "www.edgeful.com",
+      "snippet": "Discussion across quant and algo trading communities in 2025-2026 consistently highlights the difficulty of maintaining a live trading edge. The core challenge practitioners report is that backtested results rarely translate cleanly to live execution due to data leakage, survivorship bias, unrealistic fill assumptions, and regime shifts. AI and automated systems trained on 2020-2022 data often underperform or fail entirely in 2023-2026 market conditions. Edge decay is described as inevitable — e",
+      "timestamp": "2026-04-11T07:31:28.263085+00:00",
+      "relevance_score": 0.5,
+      "content_hash": "2474b23bd242f4b1",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Positive Expected Value Explained | OddsShopper",
+      "url": "https://www.oddsshopper.com/articles/betting-101/positive-expected-value-explained",
+      "source": "gemini_grounded",
+      "author": "www.oddsshopper.com",
+      "snippet": "Reddit communities like r/sportsbook and r/sportsbetting frequently discuss quantitative sports betting model methodology, with a strong emphasis on Expected Value (EV) as the foundational framework. The consensus approach involves building probability models for game outcomes using statistical inputs—team efficiency ratings, player availability/usage, home/away splits, weather, and historical matchup data—then comparing model-implied probabilities against sportsbook-implied probabilities derive",
+      "timestamp": "2026-04-11T07:33:47.252113+00:00",
+      "relevance_score": 0.45,
+      "content_hash": "20cd29b29063bdad",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Positive Expected Value (EV) Bets | OddsJam",
+      "url": "https://oddsjam.com/betting-tools/positive-ev",
+      "source": "gemini_grounded",
+      "author": "oddsjam.com",
+      "snippet": "Reddit communities like r/sportsbook and r/sportsbetting frequently discuss quantitative sports betting model methodology, with a strong emphasis on Expected Value (EV) as the foundational framework. The consensus approach involves building probability models for game outcomes using statistical inputs—team efficiency ratings, player availability/usage, home/away splits, weather, and historical matchup data—then comparing model-implied probabilities against sportsbook-implied probabilities derive",
+      "timestamp": "2026-04-11T07:33:47.252118+00:00",
+      "relevance_score": 0.35,
+      "content_hash": "edcf82b64a974f9c",
+      "freshness_window": "24h"
+    }
+  ]
+}

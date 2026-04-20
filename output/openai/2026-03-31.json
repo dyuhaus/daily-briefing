@@ -1,0 +1,130 @@
+{
+  "date": "2026-03-31",
+  "company": "openai",
+  "scan_time": "2026-03-31T07:37:21.836895+00:00",
+  "total_scraped": 39,
+  "after_dedup": 10,
+  "after_filter": 10,
+  "items": [
+    {
+      "title": "OpenAI Newsroom | Product Releases | OpenAI",
+      "url": "https://openai.com/news/product-releases/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI has been active with announcements throughout early 2026. In March 2026, the company introduced GPT-5.4 mini and nano (announced March 17–24), expanding access to Free and Go users via the 'Thinking' feature. Additional product updates include expanded shopping capabilities in ChatGPT with visual product discovery and a Walmart in-ChatGPT integration, plus location-sharing controls rolling out on iOS and web. Safety and governance featured prominently as well, with the launch of an OpenAI",
+      "timestamp": "2026-03-31T07:34:27.162629+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 1.0,
+      "content_hash": "a9307cf2aa809c0c"
+    },
+    {
+      "title": "OpenAI Research | Release | OpenAI",
+      "url": "https://openai.com/research/index/release/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI has been active with announcements throughout early 2026. In March 2026, the company introduced GPT-5.4 mini and nano (announced March 17–24), expanding access to Free and Go users via the 'Thinking' feature. Additional product updates include expanded shopping capabilities in ChatGPT with visual product discovery and a Walmart in-ChatGPT integration, plus location-sharing controls rolling out on iOS and web. Safety and governance featured prominently as well, with the launch of an OpenAI",
+      "timestamp": "2026-03-31T07:34:27.162635+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 1.0,
+      "content_hash": "79bf9f4148794f65"
+    },
+    {
+      "title": "OpenAI Research | Publication | OpenAI",
+      "url": "https://openai.com/research/index/publication/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI published several notable research papers in March 2026, spanning AI safety, model capabilities, and scientific applications. Key safety-focused publications include 'Evaluating chain-of-thought monitorability' (Mar 5), which introduces CoT-Control and finds that reasoning models struggle to control their chains of thought — a property OpenAI views as a positive safety safeguard for monitorability. On Mar 10, they released research on 'Improving instruction hierarchy in frontier LLMs' via",
+      "timestamp": "2026-03-31T07:35:10.661342+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 1.0,
+      "content_hash": "3593173a8f25aee3"
+    },
+    {
+      "title": "Improving instruction hierarchy in frontier LLMs | OpenAI",
+      "url": "https://openai.com/index/frontierscience/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI published several notable research papers in March 2026, spanning AI safety, model capabilities, and scientific applications. Key safety-focused publications include 'Evaluating chain-of-thought monitorability' (Mar 5), which introduces CoT-Control and finds that reasoning models struggle to control their chains of thought — a property OpenAI views as a positive safety safeguard for monitorability. On Mar 10, they released research on 'Improving instruction hierarchy in frontier LLMs' via",
+      "timestamp": "2026-03-31T07:35:10.661376+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 1.0,
+      "content_hash": "e37437413c3bf1a9"
+    },
+    {
+      "title": "AI as a Scientific Collaborator (Jan 2026 PDF)",
+      "url": "https://cdn.openai.com/pdf/f4b4a5da-b2de-418d-9fcd-6b293e9dc157/oai_ai-as-a-scientific-collaborator_jan-2026.pdf",
+      "source": "gemini_grounded",
+      "author": "cdn.openai.com",
+      "snippet": "OpenAI published several notable research papers in March 2026, spanning AI safety, model capabilities, and scientific applications. Key safety-focused publications include 'Evaluating chain-of-thought monitorability' (Mar 5), which introduces CoT-Control and finds that reasoning models struggle to control their chains of thought — a property OpenAI views as a positive safety safeguard for monitorability. On Mar 10, they released research on 'Improving instruction hierarchy in frontier LLMs' via",
+      "timestamp": "2026-03-31T07:35:10.661391+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 1.0,
+      "content_hash": "3543e674f379760f"
+    },
+    {
+      "title": "AI progress and recommendations | OpenAI",
+      "url": "https://openai.com/index/ai-progress-and-recommendations/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI published several notable research papers in March 2026, spanning AI safety, model capabilities, and scientific applications. Key safety-focused publications include 'Evaluating chain-of-thought monitorability' (Mar 5), which introduces CoT-Control and finds that reasoning models struggle to control their chains of thought — a property OpenAI views as a positive safety safeguard for monitorability. On Mar 10, they released research on 'Improving instruction hierarchy in frontier LLMs' via",
+      "timestamp": "2026-03-31T07:35:10.661400+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 1.0,
+      "content_hash": "d30a252622d3847c"
+    },
+    {
+      "title": "Codex by OpenAI - Release Notes - March 2026 - Releasebot",
+      "url": "https://releasebot.io/updates/openai/codex",
+      "source": "gemini_grounded",
+      "author": "releasebot.io",
+      "snippet": "OpenAI has been active with API updates through early 2026, releasing several new model variants and expanding existing APIs. Key highlights include the release of GPT-5.4 mini and GPT-5.4 nano to the Chat Completions and Responses API — mini targets high-volume workloads with GPT-5.4-class capabilities at greater efficiency, while nano is optimized for simple, high-speed, cost-sensitive tasks. The Sora video generation API also received significant expansion, including reusable character refere",
+      "timestamp": "2026-03-31T07:36:23.252065+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.9,
+      "content_hash": "3146db3b9e03724c"
+    },
+    {
+      "title": "OpenAI Just Laid Out Its 2026 Roadmap - eWeek",
+      "url": "https://www.eweek.com/news/openai-laid-out-2026-roadmap-neuron/",
+      "source": "gemini_grounded",
+      "author": "www.eweek.com",
+      "snippet": "OpenAI has been active on Twitter/X in late March 2026 with several major announcements. The most notable releases include GPT-5.4 Thinking and GPT-5.4 Pro rolling out in ChatGPT, with GPT-5.4 also available via API and Codex. GPT-5.1 model variants (Instant, Thinking, Pro) were retired as of March 11, 2026, with users automatically migrated to GPT-5.3/5.4 equivalents. OpenAI also laid out its broader 2026 roadmap, signaling continued focus on agentic workflows and frontier model capabilities.\n\n",
+      "timestamp": "2026-03-31T07:37:04.791515+00:00",
+      "company": "openai",
+      "category": "blog",
+      "relevance_score": 0.85,
+      "content_hash": "0a1f1acc6e44b8ab"
+    },
+    {
+      "title": "GPT-5 Release 2026: Dates, GPT-5.3 Updates | Emerging Tech Daily",
+      "url": "https://www.emergingtechdaily.com/post/gpt-5-release-2026-dates-gpt-5-3-updates",
+      "source": "gemini_grounded",
+      "author": "www.emergingtechdaily.com",
+      "snippet": "OpenAI has been on an aggressive model release cadence in early 2026. The flagship release is GPT-5.4, launched on March 5, 2026, described as the most capable and efficient frontier model for professional work. It features a 1 million token context window in API and Codex, native computer-use capabilities, a 33% reduction in factual errors versus GPT-5.2, and improved token efficiency. It is positioned as the first mainline reasoning model to incorporate frontier coding capabilities. OpenAI als",
+      "timestamp": "2026-03-31T07:35:54.576508+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.8,
+      "content_hash": "a39b251f2e3fcc86"
+    },
+    {
+      "title": "12 AI Models Released in One Week: March 2026 Developer Guide",
+      "url": "https://www.digitalapplied.com/blog/12-ai-models-released-one-week-march-2026-developer-guide",
+      "source": "gemini_grounded",
+      "author": "www.digitalapplied.com",
+      "snippet": "OpenAI has been active on Twitter/X in late March 2026 with several major announcements. The most notable releases include GPT-5.4 Thinking and GPT-5.4 Pro rolling out in ChatGPT, with GPT-5.4 also available via API and Codex. GPT-5.1 model variants (Instant, Thinking, Pro) were retired as of March 11, 2026, with users automatically migrated to GPT-5.3/5.4 equivalents. OpenAI also laid out its broader 2026 roadmap, signaling continued focus on agentic workflows and frontier model capabilities.\n\n",
+      "timestamp": "2026-03-31T07:37:04.791519+00:00",
+      "company": "openai",
+      "category": "blog",
+      "relevance_score": 0.75,
+      "content_hash": "c3cc99a3dd574268"
+    }
+  ]
+}

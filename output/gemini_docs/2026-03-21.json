@@ -1,0 +1,53 @@
+{
+  "date": "2026-03-21",
+  "scan_time": "2026-03-21T20:38:36.177251+00:00",
+  "total_scraped": 42,
+  "after_dedup": 19,
+  "after_filter": 4,
+  "items": [
+    {
+      "title": "谷歌推出最新大模型 Gemini 2.0，开放 Deep Research 新功能，有哪些 …",
+      "url": "https://www.zhihu.com/question/6633411738",
+      "source": "duckduckgo",
+      "snippet": "先简单看一下谷歌官方的公告吧 [1] [2] [3]： 今天起，Gemini 2.0 Flash 实验模型将面向所有 Gemini 用户开放。 谷歌还推出了一个名为深度研究的新功能，它利用先进的推理和长上下文能力，充当研究助手，探索复 …",
+      "timestamp": "2026-03-21T20:38:05.800251+00:00",
+      "content_type": "article",
+      "relevance_score": 0.95,
+      "content_hash": "be0110aeec07d318",
+      "freshness_window": "3d_fallback"
+    },
+    {
+      "title": "国内如何使用Gemini？ - 知乎",
+      "url": "https://www.zhihu.com/question/1980596374903993722",
+      "source": "duckduckgo",
+      "snippet": "目前官网对于 Gemini 3 的使用存在一定限制。 为了体验满血版的 3.0 Pro 能力，你需要手动将模式调整为 Thinking模式。 在这个模式下，模型会进行更深度的逻辑推理，类似于思维链，回答质量更高，但目前每 …",
+      "timestamp": "2026-03-21T20:38:05.799630+00:00",
+      "content_type": "article",
+      "relevance_score": 0.85,
+      "content_hash": "419ddf8aaef88873",
+      "freshness_window": "3d_fallback"
+    },
+    {
+      "title": "Experience AI in our products and experimental tools — Google AI",
+      "url": "https://ai.google/products/",
+      "source": "duckduckgo",
+      "snippet": "How anyone can experience the AI in Google products and services, and discover the latest experimental AI tools and technology.",
+      "timestamp": "2026-03-21T20:38:10.858115+00:00",
+      "content_type": "article",
+      "relevance_score": 0.55,
+      "content_hash": "bd4cd625206f8b27",
+      "freshness_window": "3d_fallback"
+    },
+    {
+      "title": "Gemini显示“出了点问题”？ - 知乎",
+      "url": "https://www.zhihu.com/question/1916203992091964465",
+      "source": "duckduckgo",
+      "snippet": "无论是用手机还是电脑端打开都会出现同样的页面出错的情况。 那么如何才能用上谷歌Gemini呢？ Gemini登陆出现问题的原因分析 经过这几天的努力，总算找到了成功使用Gemini的注册方法，下面是我成功打 …",
+      "timestamp": "2026-03-21T20:38:05.800265+00:00",
+      "content_type": "article",
+      "relevance_score": 0.45,
+      "content_hash": "dbfd56909f57b1e2",
+      "freshness_window": "3d_fallback"
+    }
+  ]
+}

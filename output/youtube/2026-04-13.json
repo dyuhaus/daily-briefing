@@ -1,0 +1,52 @@
+{
+  "date": "2026-04-13",
+  "scan_time": "2026-04-13T07:31:07.824930+00:00",
+  "total_found": 120,
+  "unique_new": 8,
+  "with_transcripts": 3,
+  "after_filter": 3,
+  "items": [
+    {
+      "video_id": "m3fqyXZ4k4I",
+      "title": "Build BEAUTIFUL Diagrams with Claude Code (Full Workflow)",
+      "channel": "Cole Medin",
+      "url": "https://www.youtube.com/watch?v=m3fqyXZ4k4I",
+      "upload_date": "",
+      "duration_seconds": 593.0,
+      "description": "Most AI coding tools can generate diagrams, but they look terrible (wrong spacing, overlapping elements, no visual hierarchy, etc.)",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.58,
+      "content_hash": "f584fb152b5196aa",
+      "transcript_length": 0
+    },
+    {
+      "video_id": "MXZ9cfkYuRI",
+      "title": "Claude Opus 4.7 Leaked, Anthropic Full Stack App, New GPT Model, M2.7, Claude Code Update! AI NEWS",
+      "channel": "WorldofAI",
+      "url": "https://www.youtube.com/watch?v=MXZ9cfkYuRI",
+      "upload_date": "",
+      "duration_seconds": 771.0,
+      "description": "This week in AI is absolutely packed from leaked model signals to major platform upgrades and new releases across OpenAI, ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.58,
+      "content_hash": "683aad3a0235c2d8",
+      "transcript_length": 0
+    },
+    {
+      "video_id": "OZej8sdVCP0",
+      "title": "This Workflow Makes Claude Code 10x More Powerful",
+      "channel": "Sean Matthew",
+      "url": "https://www.youtube.com/watch?v=OZej8sdVCP0",
+      "upload_date": "",
+      "duration_seconds": 454.0,
+      "description": "Learn how to build apps that actually work with Claude Code - stop making the mistakes that cause 99% of projects to fail.",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.5,
+      "content_hash": "83c0311958e8ecd1",
+      "transcript_length": 0
+    }
+  ]
+}

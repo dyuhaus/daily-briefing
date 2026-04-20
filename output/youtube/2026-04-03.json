@@ -1,0 +1,66 @@
+{
+  "date": "2026-04-03",
+  "scan_time": "2026-04-03T07:31:08.670241+00:00",
+  "total_found": 120,
+  "unique_new": 9,
+  "with_transcripts": 3,
+  "after_filter": 4,
+  "items": [
+    {
+      "video_id": "IxDvlrhfpHo",
+      "title": "Claude's leaked source code is absolutely UNHINGED!",
+      "channel": "Sabrina Ramonov 🍄",
+      "url": "https://www.youtube.com/watch?v=IxDvlrhfpHo",
+      "upload_date": "",
+      "duration_seconds": 876.0,
+      "description": "Anthropic leaks Claude's source code - Analyzing Claude Code source code leak - I analyzed the leaked Claude Code ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.58,
+      "content_hash": "526e28deeed0ebcb",
+      "transcript_length": 0
+    },
+    {
+      "video_id": "Z5tgXcn3eWw",
+      "title": "Don't be 10x Engineer: Lessons from Claude Code Leak by Anthropic..",
+      "channel": "Singh in USA",
+      "url": "https://www.youtube.com/watch?v=Z5tgXcn3eWw",
+      "upload_date": "",
+      "duration_seconds": 688.0,
+      "description": "Claude Code leak broken down!! Create LLC with Business in Box (Taxes everything) 10% off using the code ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.58,
+      "content_hash": "c4d4f8c0d893062d",
+      "transcript_length": 0
+    },
+    {
+      "video_id": "eR167BCL-4g",
+      "title": "Claude Code just went Open Source",
+      "channel": "Wes Roth",
+      "url": "https://www.youtube.com/watch?v=eR167BCL-4g",
+      "upload_date": "",
+      "duration_seconds": 1492.0,
+      "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.5,
+      "content_hash": "4a261b4df913489e",
+      "transcript_length": 0
+    },
+    {
+      "video_id": "ESwH-_xFS_M",
+      "title": "So Claude Code's Source Code Was Just Leaked...",
+      "channel": "ForrestKnight",
+      "url": "https://www.youtube.com/watch?v=ESwH-_xFS_M",
+      "upload_date": "",
+      "duration_seconds": 1757.0,
+      "description": "Check out Greptile, the best AI code reviewer I've ever used: https://jetty.to/greptile So Claude Code's source code has been ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.5,
+      "content_hash": "db0f2ce0c1e9e046",
+      "transcript_length": 0
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+Well hello there so back in
+january the creator of cloud code boris chenry he
+actually posted about his entire workflow and i
+actually had a chance to meet with him and ask him
+a bunch of questions and i personally found his
+personal workflow very enlightening and i've been
+trying to replicate a lot of his workflows directly
+into mine so today i thought it'd be
+fun to go over this chain of thread posts that he made
+and also kind of show you physically what it actually
+looks like in practice. Now, I have a few
+local projects. They're nothing really in
+terms of complexity as my projects for work, but I
+thought it would actually work pretty well to kind of
+showcase some of these and kind of like interact with
+some of them right here. So as usual, I created a little
+slide deck, so let's get right into it. So this is
+Boris Chenry. For each of these, I'm just going to
+read it out really quick, show you each of the tips.
+Hi, I'm Boris and I created Cloud Code. Lots of people
+have asked how I use Cloud Code, so. I wanted to
+show off my setup a bit. My setup might be
+surprisingly vanilla. Cloud Code works great out
+of the box, so I personally don't customize it much.
+There is no one correct way to use
+Cloud Code. We intentionally build it in a way that you
+can use it, customize it, and hack it however
+you like. Each person on Cloud Code team uses it
+very differently, so here goes. I really like how he set up
+here that Cloud. Code can be customized. I personally
+have been customizing the hell out of it, and at some
+point I'll probably share my own personal setup as well,
+but I really like how it starts out here. So let's get to the first tip.
+The first tip is around running clouds in parallel.
+I run five clouds in parallel in my terminal. I numbered my
+tabs one through five and use system notifications to
+know when a cloud needs input. So look at this.
+I will open up my terminal. All right, so it looks like what
+he does is he creates a cloud like this. And then he has one that is
+just for like, just a terminal for bash. So it looks like this is
+a setup. And then he has multiple
+tabs like this. And then he probably replicates this cloud tab system for all of them, right? Now I
+actually work very similarly like this. I'll have one
+instance here, one instance there. I'm using
+like hotkeys. For iTerms it's command two,
+command three, command four to
+switch between. And then you could switch in between
+the tabs by doing command left bracket or
+right bracket. Now one additional tip here that I
+like to do to keep things like in my mental context is to
+like rename it. So this could be like local one, or maybe the project that
+I'm working on local. This is push to prod app, for example. And then here,
+maybe instead of this, I work on my anime
+Pomodoro app, for example. And because I did that, I will
+name this local anime. Now you could imagine that
+you would have like SSH or some kind of on-demand
+stuff as well. And this is exactly what I do at work.
+So that's tip number one. It also looks like he uses
+light mode. I am not going to switch my dark mode to
+light mode. Okay. Tip number two is five to 10
+web clods. So I also run five to 10 clods on
+clod.ai slash code in parallel with my local clods. As I
+code in my terminal, I will often hand off local sessions
+to web. And I will manually kick off
+sessions in Chrome. And sometimes I will teleport
+back and forth. I also start a few sessions for
+my phone from the clod iOS app every morning and
+throughout the day and check in on them later.
+So this is clod.ai and I actually haven't done the
+teleport feature, but let's try the teleport.
+I don't know if it will work, but for my push to prod app, let's work
+on some of the printify integrations. Give me
+a plan. So it looks like it's whatever sessions are
+on here. It just maintains here, but let me
+see if. I can do a slash teleport. I'm just going
+to try. Can you, can you push to the web? I shall teleport. I'm just going to try this.
+Okay. This is taking a long time. I'm just going to
+cancel this and create to dues for print to
+buy integrations. Okay. So it looks like it's creating a
+background task. Look at this right here.
+So you just hit and like this and then, um, it creates a
+session and then you can basically open the session
+like so, and it's going right here.
+That's really cool. I actually haven't been using this, but I
+can imagine doing this, especially when I'm like
+ready to go off for the day or something like that. And it's synced to
+your phone. If you look at this, it's synced. So, so you can start new
+sessions here. So I actually didn't know
+about this, but this is actually mind blowing to me. That's awesome. I'm going to
+start using this all the time. Okay. Next tip. Tip number three
+is Opus with thinking always. I use Opus 4.5 with thinking
+for everything. It's the best coding model I've ever used.
+And even though it's bigger and slower than Snonit,
+since you have to steer it less and it's better at
+tool use, it's almost always faster than using a smaller
+model in the end. Now he posted this before Opus 4.6
+came out. So I wonder what he's thinking about it now,
+because Opus is like known to be a lot slower. So one thing you can do is
+you can switch though, like this. Oh, so using slash model and I actually also just
+default to 4.6. They got rid of ultra think, which used to have this little
+like animation thing, but, and if you have like just
+multiple like sessions of cloud code going, then it doesn't
+matter if it's that slow in my opinion, right?
+Tip number four is share your cloud.md. One cloud.md for the whole
+team checked into the Git. Update multiple times
+a week. Okay. Our team shares a single cloud.md for
+the cloud code repo. We check it into Git and the
+whole team contributes multiple times a week.
+Anytime we see cloud do it,
+do something incorrectly, we add it to the cloud.md. So cloud knows not to do
+it next. Our team maintains their own cloud.mds. It's, it is
+each team's job to keep theirs up to date. Now I
+actually asked Boris what his personal cloud.md is.
+And he said, there's basically like two lines and it just
+points to, um, using the cloud.md. And so, so the whole idea is
+that they're doing compound engineering and then context
+engineering right within the code base. I have a video
+coming up around this on agentic engineering, but, but yeah,
+it's very simple. I also am doing this now where, for example, like this Pomodoro app, I have
+the cloud.md directly here. And it's kind of like things about my code base
+for iOS, the navigation flow, the design patterns and
+things like that. A lot of this stuff you can just create
+using slash init. But yeah, Like this is like very
+straightforward stuff. All right. Tip number five is add Claude in code reviews. So during code review, I will
+often tag add Claude on my coworkers PRs and add
+something to Claude.md as part of the PR. We use Claude code, get up
+action slash install get up action for this. It's our
+version of at. Dan shippers compound engineering. Now, so I actually kind of
+set this up. So you can see that like right there,
+Claude's there in this workflow. Um, let me try, try making
+a quick PR, write me a quick PR on some of these to do's and
+push it as a separate branch. So the
+whole idea is that you should theoretically, once this
+pushes do an at, and then do a review. Now,
+obviously this is like not a good example that I'm doing
+because it's just to do's. But theoretically the whole
+idea is you develop a system so that it automatically uses
+Claude to review your diffs or do other actions. Tip number six is plan
+mode first. Most sessions start in
+plan mode, shift tap twice. If my goal is to write a
+pull request, I use plan mode and go back and forth with
+Claude until I like his plan. From there, I switch it into
+auto accept edits mode and Claude can usually
+one-shot it. A good plan is really important. So I, I also do plan mode all
+the time as well. So for example, here, I want
+to create a new live activity for my anime Pomodoro app,
+where it keeps tracks of the timer in
+my like live activity and also dynamic Island. All right.
+There's something definitely wrong with this UI here, but it's going. So I really like
+plan mode, because it's a way to really analyze and deep dive into
+your code base before you actually make any changes.
+Someone asked me recently, why do you even have
+multiple cloud instances? What are you doing? A lot of times, if I'm not
+using Git work trees, or like some way to do multiple
+coding executions, I'm actually doing a lot of
+deep dives using plan mode for like different parts of
+the code base. So maybe I have like some kind of
+performance optimization project I want to do on
+media viewer, maybe I want to do look into app in it
+or app star, whatever I'm trying
+to investigate, I actually use plan mode. And also for
+like investigating. SEVs or investigating like
+random bugs, I'll also start with plan mode to
+start investigating. And plan mode is essentially a way for
+you to create prompts like
+gigantic prompts, like really good prompts. And I talked about
+context engineering and things like that. But plan
+mode is where you do the orchestration to be
+able to bring all the context that you need into that
+Cloud instance so that the agent can execute correctly.
+All right, tip number seven, slash commands
+for everything. I use slash commands for
+every inner loop workflow that I do many times a day. This saves me from repeated
+prompting and makes it so Cloud can use these
+workflows too. Commands are checked into
+the Git and live in .cloud slash commands. For example, Cloud and I use
+a slash commit dash push dash PR slash command
+every day. The command uses inline bash to precompute Git status to
+make the command run quickly and avoid back and
+forth with the model. Okay, so if you ever wonder how
+you want to make a slash command, it's very,
+very easy to do. So let's just go here and say
+I want to create a commit dash push dash PR skill.
+And this skill needs to format my code and then
+add everything that I just did in the session and then
+commit the code with a good
+commit message. I always want to push it as a PR
+rather than directly as main so that I can review the
+code online, something like that.
+And these days, actually, slash commands and skills
+are basically the same. So Cloud will usually create
+the same thing now. You know, the thing about
+making these videos is that it just takes a long
+time because. Cloud takes a long time to run. I probably should have ran
+this on Sonnet, but it's okay. Opus is fine. But you can see here that
+it's exploring the skills first so that it's not remaking the
+same thing. And I love the fact that Cloud Code and Codex, they ask questions rather
+than just assuming. And I think this is like a big
+change between like, I don't know. I haven't used
+Cursor in a bit. Maybe I should give it a try. But I remember it just like
+kind of did stuff without it. Always just
+made assumptions, which and it always turned
+out like not great. All right. It decided to name it
+slash ship, which is fine to me as well. But yeah,
+that's how you create skills. It's very easy. You remember
+all you need to do to make skills or slash commands or
+subagents or install MCPs. It's just leverage Cloud Code
+to ask you to do it. All right. Tip number eight from Boris
+is custom subagents. I use a few
+subagents regularly. Code Simplifier simplifies the
+code after Cloud is done working. Verify app has
+detailed instructions for testing Cloud code end to
+end and so on. Similar to slash commands.
+I think subagents is automating the most
+common workflows that I do for most PRs. Now, one thing
+about subagents I want to say is that it's really to
+protect the context. Subagents are really useful if
+you want to do like side effects or if you want to just have
+the result of that like Cloud instance running. You don't
+really care how it got there, but you just want
+the output. That's really good
+for subagents. There's a new thing. This that just
+came out with Opus 4.6 called Agent Swarm or
+Agent Teams. And I'll probably do a video on this,
+but it's the idea of subagents that have actually
+different roles and they share context with
+each other. And there's like a master orchestrator.
+I think in my other video, I show what a subagent is,
+but I should have some
+subagents here. Agents you can see here.
+I actually have I created the same ones that
+Boris made because I thought it was
+very interesting. Yeah, so I could just say right here in
+another instance. Can you run my code architecture
+subagent to verify the integrity of my build or integrity of my app? I don't
+know about you guys, but I run out of RAM all the time
+at work. I think one, my code base is
+extremely large. And then I also have like five
+or so cloud instances running all the time. Um, I had to give up running
+Android studio completely or like I just had my
+terminal up. I don't even have Chrome up sometimes
+when I'm running out of memory. So yeah. So you can see that it's
+running two agents here. Let's do control O to expand
+it and just see what it's doing. Yeah.
+Code architecture is reviewing. I don't know. All of this stuff
+is so cool to me. Okay so while that's all going
+let's go back all right post tool use hooks i don't know
+why it's hard to say but we use a post tool use hook to
+format cloud codes cloud usually generates well
+formatted code out of the box and the hook handles
+the last 10 to avoid formatting errors in ci later
+this one there's not much to show you can create one
+just saying post tool use and it's very similar to like
+pre-commit hooks. It's nothing new here. All right, slash permissions
+and not dangerously skip. Number 10, I don't use dangerously
+skip permissions. Instead, I use slash permissions to
+pre-allow common bash commands that I know are
+safe in my environment. To avoid unnecessary
+permission problems, most of these are checked into .cloud slash settings.json and shared with
+this team. This is what I talk about like in compound
+engineering where this you need to like start putting things like this into the code base and share
+with the team. A team needs to be like AI native first and
+everyone has to kind of start agreeing on some of
+these these like ways that we need to work and that's
+how you really move quickly. But yeah, so quickly showing
+you guys you can do slash permissions here and then yeah
+slash permissions. There's a bunch of things here and. I would just say
+you can update this manually, right?
+Can you update my permissions list so that all
+bash scripts are okay to run? For example, you could do
+that like I keep saying this but don't
+manage your clock code instance manually, you know, just have clock
+code do it and then after you do this, you can always
+push all of this directly into the code base. You see it's
+trying to change the settings right now. All right, while that's going,
+tip number 11, MCP for all tools. Slack, entry, cloud uses your tools,
+not your

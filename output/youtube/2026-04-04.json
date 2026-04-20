@@ -1,0 +1,38 @@
+{
+  "date": "2026-04-04",
+  "scan_time": "2026-04-04T07:31:10.031655+00:00",
+  "total_found": 120,
+  "unique_new": 6,
+  "with_transcripts": 3,
+  "after_filter": 2,
+  "items": [
+    {
+      "video_id": "BZ1hs2ZcnJc",
+      "title": "AI News: Anthropic Leak is Bigger Than You Think",
+      "channel": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=BZ1hs2ZcnJc",
+      "upload_date": "",
+      "duration_seconds": 1865.0,
+      "description": "... From Today's Video: Claude Code Leak: https://x.com/fried_rice/status/2038894956459290963 Claude Code Leak Discussion: ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.58,
+      "content_hash": "3583ffc71cf33e2b",
+      "transcript_length": 0
+    },
+    {
+      "video_id": "FEDiAHzS0zw",
+      "title": "Claude Code on your phone in 10 minutes",
+      "channel": "NetworkChuck",
+      "url": "https://www.youtube.com/watch?v=FEDiAHzS0zw",
+      "upload_date": "",
+      "duration_seconds": 582.0,
+      "description": "Set up your own FOREVER TERMINAL with Hostinger: https://hostinger.com/networkchuck (Use code NETWORKCHUCK for a ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.5,
+      "content_hash": "3589848364678ee9",
+      "transcript_length": 0
+    }
+  ]
+}

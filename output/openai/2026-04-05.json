@@ -1,0 +1,118 @@
+{
+  "date": "2026-04-05",
+  "company": "openai",
+  "scan_time": "2026-04-05T07:36:26.156905+00:00",
+  "total_scraped": 39,
+  "after_dedup": 9,
+  "after_filter": 9,
+  "items": [
+    {
+      "title": "OpenAI Newsroom | Product | OpenAI",
+      "url": "https://openai.com/news/product-releases/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI has been active with major announcements heading into April 2026. Most notably, the company closed a record $122 billion funding round on April 2, 2026, which it plans to use to accelerate the next phase of AI development — focusing on deep integration into science, industry, and everyday work. On the product side, Codex now offers pay-as-you-go pricing for teams, and ChatGPT received updated integrations with Box, Notion, Linear, and Dropbox, adding new write-capable actions.\n\nOn the mod",
+      "timestamp": "2026-04-05T07:34:03.931326+00:00",
+      "company": "openai",
+      "category": "api_update",
+      "relevance_score": 1.0,
+      "content_hash": "c496c076e6c6fc3b"
+    },
+    {
+      "title": "OpenAI Maps the Next Phase of AI Growth After Record $122 Billion Raise",
+      "url": "https://medium.com/@impactnews-wire/openai-maps-the-next-phase-of-ai-growth-after-record-122-billion-raise-60b5d31b86cf",
+      "source": "gemini_grounded",
+      "author": "medium.com",
+      "snippet": "OpenAI has been active with major announcements heading into April 2026. Most notably, the company closed a record $122 billion funding round on April 2, 2026, which it plans to use to accelerate the next phase of AI development — focusing on deep integration into science, industry, and everyday work. On the product side, Codex now offers pay-as-you-go pricing for teams, and ChatGPT received updated integrations with Box, Notion, Linear, and Dropbox, adding new write-capable actions.\n\nOn the mod",
+      "timestamp": "2026-04-05T07:34:03.931330+00:00",
+      "company": "openai",
+      "category": "api_update",
+      "relevance_score": 1.0,
+      "content_hash": "057430eaad556a3d"
+    },
+    {
+      "title": "OpenAI Just Laid Out Its 2026 Roadmap",
+      "url": "https://www.eweek.com/news/openai-laid-out-2026-roadmap-neuron/",
+      "source": "gemini_grounded",
+      "author": "www.eweek.com",
+      "snippet": "OpenAI has been active with major announcements heading into April 2026. Most notably, the company closed a record $122 billion funding round on April 2, 2026, which it plans to use to accelerate the next phase of AI development — focusing on deep integration into science, industry, and everyday work. On the product side, Codex now offers pay-as-you-go pricing for teams, and ChatGPT received updated integrations with Box, Notion, Linear, and Dropbox, adding new write-capable actions.\n\nOn the mod",
+      "timestamp": "2026-04-05T07:34:03.931335+00:00",
+      "company": "openai",
+      "category": "api_update",
+      "relevance_score": 1.0,
+      "content_hash": "96bae13465bbfad7"
+    },
+    {
+      "title": "ChatGPT in 2026: Pricing, Models and Features That Actually Matter",
+      "url": "https://www.gend.co/blog/chatgpt-2026-latest-features",
+      "source": "gemini_grounded",
+      "author": "www.gend.co",
+      "snippet": "OpenAI has been actively releasing new models and features in early 2026. The most notable recent release is GPT-5.3-Codex, described as their most capable agentic coding model, combining Codex and GPT-5 training stacks for best-in-class code generation, reasoning, and general-purpose intelligence — approximately 25% faster and setting new benchmark highs. Additionally, GPT-5.4 mini and GPT-5.4 nano were released to the Chat Completions and Responses API, targeting high-volume workloads with fas",
+      "timestamp": "2026-04-05T07:35:08.673536+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 1.0,
+      "content_hash": "f43c18c6c26aaa84"
+    },
+    {
+      "title": "ChatGPT Release Notes - April 2026 Latest Updates - Releasebot",
+      "url": "https://releasebot.io/updates/openai/chatgpt",
+      "source": "gemini_grounded",
+      "author": "releasebot.io",
+      "snippet": "OpenAI has released several significant API updates in early 2026. On the model side, GPT-5.4 mini and GPT-5.4 nano were introduced to the Chat Completions and Responses API, bringing high-capability models optimized for speed and cost efficiency in high-volume workloads. The inference stack for existing models (GPT-5.2 and GPT-5.2-Codex) was also optimized, running approximately 40% faster for API customers. Additionally, the Sora video API was expanded with reusable character references, longe",
+      "timestamp": "2026-04-05T07:35:35.295707+00:00",
+      "company": "openai",
+      "category": "api_update",
+      "relevance_score": 1.0,
+      "content_hash": "f24b914f5441228d"
+    },
+    {
+      "title": "OpenAI Retires GPT-4o and Daily AI Updates for April 2026 - AI and News",
+      "url": "https://www.aiandnews.com/blog/breaking-ai-news-april-2026/",
+      "source": "gemini_grounded",
+      "author": "www.aiandnews.com",
+      "snippet": "OpenAI has been active on Twitter/X in early April 2026 with several major announcements. Most notably, the company announced it raised $122 billion to accelerate the next phase of AI development, and announced Codex now offers pay-as-you-go pricing for teams. OpenAI also officially retired the GPT-4o model from all plans effective April 3, 2026, while rolling out GPT-5.4 Thinking and GPT-5.4 Pro to ChatGPT users with advances in reasoning, coding, and agentic workflows.\n\nOn the product integrat",
+      "timestamp": "2026-04-05T07:36:11.981903+00:00",
+      "company": "openai",
+      "category": "api_update",
+      "relevance_score": 1.0,
+      "content_hash": "b4a0cd39412c6e57"
+    },
+    {
+      "title": "Advancing science and math with GPT-5.2",
+      "url": "https://openai.com/index/gpt-5-2-for-science-and-math/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI has published several notable research papers and initiatives in early 2026. Key safety-focused work includes CoT-Control (March 5, 2026), studying how reasoning models struggle to control their chains of thought and reinforcing monitorability as an AI safety mechanism, and IH-Challenge (March 10, 2026), which trains models to prioritize trusted instructions to improve resistance to prompt injection attacks. OpenAI also published research on using chain-of-thought monitoring to detect mis",
+      "timestamp": "2026-04-05T07:34:40.785528+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.7,
+      "content_hash": "f7b4816af626878d"
+    },
+    {
+      "title": "GPT-5.2 derives a new result in theoretical physics",
+      "url": "https://openai.com/index/new-result-theoretical-physics/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI has published several notable research papers and initiatives in early 2026. Key safety-focused work includes CoT-Control (March 5, 2026), studying how reasoning models struggle to control their chains of thought and reinforcing monitorability as an AI safety mechanism, and IH-Challenge (March 10, 2026), which trains models to prioritize trusted instructions to improve resistance to prompt injection attacks. OpenAI also published research on using chain-of-thought monitoring to detect mis",
+      "timestamp": "2026-04-05T07:34:40.785534+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.7,
+      "content_hash": "45e421f89b8dee4f"
+    },
+    {
+      "title": "Early experiments in accelerating science with GPT-5",
+      "url": "https://openai.com/index/accelerating-science-gpt-5/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI has published several notable research papers and initiatives in early 2026. Key safety-focused work includes CoT-Control (March 5, 2026), studying how reasoning models struggle to control their chains of thought and reinforcing monitorability as an AI safety mechanism, and IH-Challenge (March 10, 2026), which trains models to prioritize trusted instructions to improve resistance to prompt injection attacks. OpenAI also published research on using chain-of-thought monitoring to detect mis",
+      "timestamp": "2026-04-05T07:34:40.785543+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.7,
+      "content_hash": "615aea2c601ef48e"
+    }
+  ]
+}

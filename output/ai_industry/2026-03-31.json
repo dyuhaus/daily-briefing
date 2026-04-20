@@ -1,0 +1,97 @@
+{
+  "date": "2026-03-31",
+  "scan_time": "2026-03-31T07:39:09.440456+00:00",
+  "total_scraped": 92,
+  "after_dedup": 34,
+  "after_filter": 8,
+  "items": [
+    {
+      "title": "LLM Agents for Combinatorial Efficient Frontiers: Investment Portfolio Optimization",
+      "url": "https://arxiv.org/abs/2601.00770",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "This week's arxiv activity shows a strong focus on LLM agent methodology, protocols, and real-world applications. A major survey (2503.21460) systematically examines how LLM agents with goal-driven behaviors and dynamic adaptation represent a critical pathway toward AGI, covering architecture, tool use, and multi-agent coordination. Complementary work includes a retrieval-augmented approach (2603.18272) that combines LoRA fine-tuning with memory-augmented generation to help agents learn from exp",
+      "timestamp": "2026-03-31T07:33:14.974958+00:00",
+      "category": "research",
+      "relevance_score": 0.9,
+      "content_hash": "9eb1cfe931a10a8b"
+    },
+    {
+      "title": "AI startups are eating the venture industry and the returns, so far, are good | TechCrunch",
+      "url": "https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/",
+      "source": "gemini_grounded",
+      "author": "techcrunch.com",
+      "snippet": "AI startup funding activity in early 2026 has been extraordinary, with several mega-rounds reshaping the venture landscape. OpenAI closed a historic $110 billion private funding round — one of the largest in history — backed by Amazon, Nvidia, and SoftBank. xAI raised $20 billion in a Series E led by a consortium including Nvidia, Cisco, and Qatar Investment Authority. A new 'human-centric' AI startup called Humans&, founded by alumni from Anthropic, xAI, and Google, raised a staggering $480 mil",
+      "timestamp": "2026-03-31T07:33:49.219344+00:00",
+      "category": "startup",
+      "relevance_score": 0.9,
+      "content_hash": "8306deeeb738c153"
+    },
+    {
+      "title": "Meta's new Llama 4 AI models aren't open source -- despite what Mark Zuckerberg says",
+      "url": "https://www.forkable.io/p/metas-new-llama-4-ai-models-arent",
+      "source": "gemini_grounded",
+      "author": "www.forkable.io",
+      "snippet": "Meta's most significant recent open-source AI release is the Llama 4 model family, announced in April 2025. The Llama 4 herd introduces natively multimodal, mixture-of-experts (MoE) architecture models, with Llama 4 Scout (17B active parameters) and Llama 4 Maverick (17B active parameters, 128 experts) released publicly on llama.com and Hugging Face. These models support text and image input, are multilingual across 12+ languages, and were pre-trained on 10x more multilingual tokens than Llama 3",
+      "timestamp": "2026-03-31T07:30:55.193167+00:00",
+      "category": "github",
+      "relevance_score": 0.8,
+      "content_hash": "1bba0fc55f766492"
+    },
+    {
+      "title": "Bringing the full power of Copilot to more people and businesses",
+      "url": "https://blogs.microsoft.com/blog/2024/01/15/bringing-the-full-power-of-copilot-to-more-people-and-businesses/",
+      "source": "gemini_grounded",
+      "author": "blogs.microsoft.com",
+      "snippet": "Microsoft has been advancing its Copilot AI platform significantly into 2026. In March 2026, the company announced major updates including 'Wave 3' of Microsoft 365 Copilot, featuring expanded model diversity with support for Claude and next-generation OpenAI models. Microsoft also unveiled a new 'Frontier Suite' (Microsoft 365 E7) launching May 1 at $99/user, and Agent 365 reaching general availability at $15/user — signaling a major push into agentic enterprise AI. A separate leadership update",
+      "timestamp": "2026-03-31T07:32:11.098609+00:00",
+      "category": "startup",
+      "relevance_score": 0.8,
+      "content_hash": "871956ae54314f6c"
+    },
+    {
+      "title": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines",
+      "url": "https://huggingface.co/blog/modular-diffusers",
+      "source": "gemini_grounded",
+      "author": "huggingface.co",
+      "snippet": "Hugging Face's blog in early 2026 has highlighted several significant model releases. The most prominent is Meta's Llama 4, which introduces a new auto-regressive Mixture-of-Experts (MoE) architecture with two variants: Llama 4 Maverick (17B active / ~400B total parameters) and Llama 4 Scout (17B active / ~109B total parameters). Both models feature native multimodality via early fusion, enabling simultaneous processing of text and image inputs, and are now available on Hugging Face Hub.\n\nBeyond",
+      "timestamp": "2026-03-31T07:32:39.846676+00:00",
+      "category": "major_org",
+      "relevance_score": 0.8,
+      "content_hash": "67bc93a3b947f3bc"
+    },
+    {
+      "title": "Celebrating the first year of Copilot with significant new innovations",
+      "url": "https://blogs.microsoft.com/blog/2023/12/05/celebrating-the-first-year-of-copilot-with-significant-new-innovations/",
+      "source": "gemini_grounded",
+      "author": "blogs.microsoft.com",
+      "snippet": "Microsoft has been advancing its Copilot AI platform significantly into 2026. In March 2026, the company announced major updates including 'Wave 3' of Microsoft 365 Copilot, featuring expanded model diversity with support for Claude and next-generation OpenAI models. Microsoft also unveiled a new 'Frontier Suite' (Microsoft 365 E7) launching May 1 at $99/user, and Agent 365 reaching general availability at $15/user — signaling a major push into agentic enterprise AI. A separate leadership update",
+      "timestamp": "2026-03-31T07:32:11.098618+00:00",
+      "category": "startup",
+      "relevance_score": 0.7,
+      "content_hash": "7947dbe36a369bb8"
+    },
+    {
+      "title": "Agentic AI for Human Resources: LLM-Driven Candidate Assessment",
+      "url": "https://arxiv.org/abs/2603.26710",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "This week's arxiv activity shows a strong focus on LLM agent methodology, protocols, and real-world applications. A major survey (2503.21460) systematically examines how LLM agents with goal-driven behaviors and dynamic adaptation represent a critical pathway toward AGI, covering architecture, tool use, and multi-agent coordination. Complementary work includes a retrieval-augmented approach (2603.18272) that combines LoRA fine-tuning with memory-augmented generation to help agents learn from exp",
+      "timestamp": "2026-03-31T07:33:14.974950+00:00",
+      "category": "research",
+      "relevance_score": 0.6,
+      "content_hash": "7a45031a3b3e758e"
+    },
+    {
+      "title": "Llama (language model) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Llama_(language_model)",
+      "source": "gemini_grounded",
+      "author": "en.wikipedia.org",
+      "snippet": "Meta's most significant recent open-source AI release is the Llama 4 model family, announced in April 2025. The Llama 4 herd introduces natively multimodal, mixture-of-experts (MoE) architecture models, with Llama 4 Scout (17B active parameters) and Llama 4 Maverick (17B active parameters, 128 experts) released publicly on llama.com and Hugging Face. These models support text and image input, are multilingual across 12+ languages, and were pre-trained on 10x more multilingual tokens than Llama 3",
+      "timestamp": "2026-03-31T07:30:55.193172+00:00",
+      "category": "major_org",
+      "relevance_score": 0.3,
+      "content_hash": "bab9b87f82b0b9ae"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "date": "2026-04-04",
+  "company": "anthropic",
+  "scan_time": "2026-04-04T07:33:26.295209+00:00",
+  "total_scraped": 40,
+  "after_dedup": 9,
+  "after_filter": 8,
+  "items": [
+    {
+      "title": "Claude Code by Anthropic - Release Notes - April 2026 - Releasebot",
+      "url": "https://releasebot.io/updates/anthropic/claude-code",
+      "source": "gemini_grounded",
+      "author": "releasebot.io",
+      "snippet": "Anthropic has had an active start to 2026 with several major Claude model releases. On February 5, 2026, Anthropic released Claude Opus 4.6, followed by Claude Sonnet 4.6 on February 17, 2026 at the same price point as Sonnet 4.5. Opus 4.6 features a 1-million-token context window, significantly enhanced coding, computer use, long-context reasoning, agent planning, and a remarkable 14.5-hour task completion time horizon. Sonnet 4.6 delivers near-Opus-level performance on coding, document compreh",
+      "timestamp": "2026-04-04T07:31:49.211677+00:00",
+      "company": "anthropic",
+      "category": "model_release",
+      "relevance_score": 1.0,
+      "content_hash": "ea89d1406aedd68a"
+    },
+    {
+      "title": "Claude Platform - Claude API Docs",
+      "url": "https://docs.anthropic.com/en/release-notes/overview",
+      "source": "gemini_grounded",
+      "author": "docs.anthropic.com",
+      "snippet": "Anthropic has shipped several significant API updates in early 2026. On the model side, Claude Haiku 3 (claude-3-haiku-20240307) has been deprecated with retirement scheduled for April 19, 2026, and users are advised to migrate to Claude Haiku 4.5. The 1M token context window beta for Claude Sonnet 4.5 and Claude Sonnet 4 is being retired on April 30, 2026 — after that date the context-1m-2025-08-07 beta header will have no effect and requests exceeding the 200k standard window will error. Claud",
+      "timestamp": "2026-04-04T07:32:29.183362+00:00",
+      "company": "anthropic",
+      "category": "api_update",
+      "relevance_score": 1.0,
+      "content_hash": "af5969b594ad7f88"
+    },
+    {
+      "title": "Claude Code by Anthropic - Release Notes - April 2026 Latest Updates - Releasebot",
+      "url": "https://releasebot.io/updates/anthropic/claude-code",
+      "source": "gemini_grounded",
+      "author": "releasebot.io",
+      "snippet": "Anthropic has shipped several significant API updates in early 2026. On the model side, Claude Haiku 3 (claude-3-haiku-20240307) has been deprecated with retirement scheduled for April 19, 2026, and users are advised to migrate to Claude Haiku 4.5. The 1M token context window beta for Claude Sonnet 4.5 and Claude Sonnet 4 is being retired on April 30, 2026 — after that date the context-1m-2025-08-07 beta header will have no effect and requests exceeding the 200k standard window will error. Claud",
+      "timestamp": "2026-04-04T07:32:29.183380+00:00",
+      "company": "anthropic",
+      "category": "api_update",
+      "relevance_score": 1.0,
+      "content_hash": "69442d72ed9aa30a"
+    },
+    {
+      "title": "Anthropic's next model Mythos and cybersecurity concerns | CNN Business",
+      "url": "https://edition.cnn.com/2026/04/03/tech/anthropic-mythos-ai-cybersecurity",
+      "source": "gemini_grounded",
+      "author": "edition.cnn.com",
+      "snippet": "Anthropic's most notable recent Twitter/X announcements in early April 2026 include the acquisition of AI biotech startup Coefficient Bio for approximately $400 million, signaling a major push into biological research AI. Around the same time, Anthropic posted a statement from CEO Dario Amodei regarding discussions with the Department of Defense (formerly the Department of War), drawing attention given the company's prior public stance on avoiding military applications. Anthropic also announced ",
+      "timestamp": "2026-04-04T07:33:03.518166+00:00",
+      "company": "anthropic",
+      "category": "research",
+      "relevance_score": 0.9,
+      "content_hash": "cbeee59355747295"
+    },
+    {
+      "title": "Anthropic ramps up its political activities with a new PAC | TechCrunch",
+      "url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
+      "source": "gemini_grounded",
+      "author": "techcrunch.com",
+      "snippet": "Anthropic's most notable recent Twitter/X announcements in early April 2026 include the acquisition of AI biotech startup Coefficient Bio for approximately $400 million, signaling a major push into biological research AI. Around the same time, Anthropic posted a statement from CEO Dario Amodei regarding discussions with the Department of Defense (formerly the Department of War), drawing attention given the company's prior public stance on avoiding military applications. Anthropic also announced ",
+      "timestamp": "2026-04-04T07:33:03.518162+00:00",
+      "company": "anthropic",
+      "category": "research",
+      "relevance_score": 0.8,
+      "content_hash": "a112a466c46f7dfd"
+    },
+    {
+      "title": "Anthropic on X: $30B Funding at $380B Valuation",
+      "url": "https://x.com/AnthropicAI/status/2022023155423002867",
+      "source": "gemini_grounded",
+      "author": "x.com",
+      "snippet": "Anthropic's most notable recent Twitter/X announcements in early April 2026 include the acquisition of AI biotech startup Coefficient Bio for approximately $400 million, signaling a major push into biological research AI. Around the same time, Anthropic posted a statement from CEO Dario Amodei regarding discussions with the Department of Defense (formerly the Department of War), drawing attention given the company's prior public stance on avoiding military applications. Anthropic also announced ",
+      "timestamp": "2026-04-04T07:33:03.518154+00:00",
+      "company": "anthropic",
+      "category": "research",
+      "relevance_score": 0.7,
+      "content_hash": "ea9b287bfdd2279b"
+    },
+    {
+      "title": "Anthropic on X: Statement from Dario Amodei on Department of War",
+      "url": "https://x.com/AnthropicAI/status/2027150818575528261",
+      "source": "gemini_grounded",
+      "author": "x.com",
+      "snippet": "Anthropic's most notable recent Twitter/X announcements in early April 2026 include the acquisition of AI biotech startup Coefficient Bio for approximately $400 million, signaling a major push into biological research AI. Around the same time, Anthropic posted a statement from CEO Dario Amodei regarding discussions with the Department of Defense (formerly the Department of War), drawing attention given the company's prior public stance on avoiding military applications. Anthropic also announced ",
+      "timestamp": "2026-04-04T07:33:03.518159+00:00",
+      "company": "anthropic",
+      "category": "research",
+      "relevance_score": 0.6,
+      "content_hash": "ed72baae290a79af"
+    },
+    {
+      "title": "Anthropic on X: Office in Bengaluru, India",
+      "url": "https://x.com/AnthropicAI/status/1975727761622028614",
+      "source": "gemini_grounded",
+      "author": "x.com",
+      "snippet": "Anthropic's most notable recent Twitter/X announcements in early April 2026 include the acquisition of AI biotech startup Coefficient Bio for approximately $400 million, signaling a major push into biological research AI. Around the same time, Anthropic posted a statement from CEO Dario Amodei regarding discussions with the Department of Defense (formerly the Department of War), drawing attention given the company's prior public stance on avoiding military applications. Anthropic also announced ",
+      "timestamp": "2026-04-04T07:33:03.518148+00:00",
+      "company": "anthropic",
+      "category": "research",
+      "relevance_score": 0.4,
+      "content_hash": "fb32909323b50083"
+    }
+  ]
+}

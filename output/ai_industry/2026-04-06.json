@@ -1,0 +1,251 @@
+{
+  "date": "2026-04-06",
+  "scan_time": "2026-04-06T07:38:51.340182+00:00",
+  "total_scraped": 92,
+  "after_dedup": 24,
+  "after_filter": 22,
+  "items": [
+    {
+      "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
+      "url": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
+      "source": "gemini_grounded",
+      "author": "techcrunch.com",
+      "snippet": "AI startup funding activity in early 2026 has been characterized by record-breaking rounds, particularly at the top of the market. OpenAI leads all announcements, having closed a staggering $122 billion raise at an $852 billion valuation in late March 2026, with SoftBank, Andreessen Horowitz, Amazon, Nvidia, and Microsoft among the participants. This followed a separate $110 billion round announced in late February. xAI, Elon Musk's AI company, kicked off the year with a $20 billion Series E in ",
+      "timestamp": "2026-04-06T07:33:16.213312+00:00",
+      "category": "startup",
+      "relevance_score": 0.9,
+      "content_hash": "72045513198770d8"
+    },
+    {
+      "title": "New Old Llamas",
+      "url": "https://huggingface.co/blog/mike-ravkine/new-old-llamas",
+      "source": "gemini_grounded",
+      "author": "huggingface.co",
+      "snippet": "As of early April 2026, Hugging Face's blog highlights several notable model releases. The most prominent is Meta's Llama 4 family, which introduces two Mixture-of-Experts models: Llama 4 Maverick (17B active / ~400B total parameters, 128 experts) and Llama 4 Scout (17B active / ~109B total, 16 experts). Both are now available on Hugging Face with full integration support. Another significant release is Waypoint-1 from Overworld, a real-time interactive video diffusion model that allows text, mo",
+      "timestamp": "2026-04-06T07:32:05.075699+00:00",
+      "category": "major_org",
+      "relevance_score": 0.8,
+      "content_hash": "d4af419afcb6db86"
+    },
+    {
+      "title": "Releases · huggingface/transformers · GitHub",
+      "url": "https://github.com/huggingface/transformers/releases",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "The open-source AI model ecosystem has seen explosive growth in early 2026. Hugging Face now hosts over 2 million public models and 13 million users, reflecting a near-doubling of the platform's scale. Notable April 2026 releases include NVIDIA's NitroGen, Boson AI's Higgs Audio V2 (pretrained on 10M+ hours of audio for expressive voice generation and zero-shot cloning), Mistral AI's VoxtralRealtime (streaming low-latency ASR), and Ai2's OLMo Hybrid (combining transformer and linear attention la",
+      "timestamp": "2026-04-06T07:37:16.553841+00:00",
+      "category": "github",
+      "relevance_score": 0.8,
+      "content_hash": "460b202d7f12a363"
+    },
+    {
+      "title": "Sharing new research, models, and datasets from Meta FAIR",
+      "url": "https://ai.meta.com/blog/meta-fair-research-new-releases/",
+      "source": "gemini_grounded",
+      "author": "ai.meta.com",
+      "snippet": "Meta's most significant recent open source model release is the Llama 4 herd, announced in early 2026 as the beginning of a new era of natively multimodal AI innovation. The Llama 4 series includes Llama 4 Scout and Llama 4 Maverick, which are the first open-weight natively multimodal models featuring a mixture-of-experts (MoE) architecture and support for unprecedented context lengths. These models are pre-trained on 200 languages with 10x more multilingual tokens than Llama 3, and are availabl",
+      "timestamp": "2026-04-06T07:30:31.834038+00:00",
+      "category": "github",
+      "relevance_score": 0.7,
+      "content_hash": "b1f6080d0f83e91e"
+    },
+    {
+      "title": "10 Best Open-Source LLM Models (2025/2026): Llama 4, Qwen 3 and DeepSeek R1 - Hugging Face Blog",
+      "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
+      "source": "gemini_grounded",
+      "author": "huggingface.co",
+      "snippet": "As of April 2026, the open source LLM landscape has seen significant activity from Chinese AI labs, with Zhipu AI's GLM-5 (Reasoning) topping BenchLM.ai's leaderboard at a score of 82, followed by Alibaba's Qwen3.5 397B (Reasoning) at 77. GLM-4.7 leads in practical coding tasks with a HumanEval score of 94.2. Chinese labs — Zhipu AI, Alibaba, Moonshot AI (Kimi K2.5), MiniMax, and DeepSeek — dominate the top open-weight model rankings, with Google's Gemma 4 31B as a notable Western entrant in the",
+      "timestamp": "2026-04-06T07:34:52.175465+00:00",
+      "category": "github",
+      "relevance_score": 0.7,
+      "content_hash": "1201c4b556f14e12"
+    },
+    {
+      "title": "LangChain vs CrewAI vs AutoGen vs Dify: The Complete AI Agent Framework Comparison [2026]",
+      "url": "https://dev.to/agdex_ai/langchain-vs-crewai-vs-autogen-vs-dify-the-complete-ai-agent-framework-comparison-2026-4j8j",
+      "source": "gemini_grounded",
+      "author": "dev.to",
+      "snippet": "In 2026, the AI agent framework landscape has matured significantly. LangChain's LangGraph reached v1.0 in late 2025 and has become the default runtime for all LangChain agents, with the team noting three generations of agent evolution: RAG → agentic workflows → autonomous tool-calling agents. Microsoft merged AutoGen and Semantic Kernel into a unified Microsoft Agent Framework (v0.4+), adding OpenTelemetry observability, cross-language support (Python/.NET), AutoGen Studio for no-code prototypi",
+      "timestamp": "2026-04-06T07:37:46.242771+00:00",
+      "category": "major_org",
+      "relevance_score": 0.7,
+      "content_hash": "bcd70af2c6dfa117"
+    },
+    {
+      "title": "awesome-ai-agent-papers: Curated 2026 AI Agent Research Papers",
+      "url": "https://github.com/VoltAgent/awesome-ai-agent-papers",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "This week on arXiv, research on AI agents and LLMs continues at a high pace. Key themes include comprehensive surveys of LLM agent architectures — covering memory, planning, tool use, and multi-agent collaboration — with papers like 'Large Language Model Agent: A Survey on Methodology, Applications and Challenges' (2503.21460) and 'From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review' (2504.19678) synthesizing the state of the field. Agentic RAG is also prominent, with the updated ",
+      "timestamp": "2026-04-06T07:32:43.369899+00:00",
+      "category": "github",
+      "relevance_score": 0.6,
+      "content_hash": "892a4b3ac1be938a"
+    },
+    {
+      "title": "ai-agent-papers: Biweekly AI Agents paper collection",
+      "url": "https://github.com/masamasa59/ai-agent-papers",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "The trending AI agent repositories on GitHub in early April 2026 reflect an ecosystem rapidly maturing around multi-agent orchestration, visual workflow builders, and browser/web automation agents. The biggest movers include Browser Use (78K+ stars), which enables LLM-powered browser control with an 89% benchmark success rate, and OpenClaw, which went viral in January 2026 and has surpassed 210K stars — one of the fastest-growing open-source projects in GitHub history. LangGraph, AutoGen (Micros",
+      "timestamp": "2026-04-06T07:34:11.363850+00:00",
+      "category": "github",
+      "relevance_score": 0.6,
+      "content_hash": "311d8de8e72925f7"
+    },
+    {
+      "title": "LLM-Model-Comparison-2026 - GitHub (salttechno)",
+      "url": "https://github.com/salttechno/LLM-Model-Comparison-2026",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "As of April 2026, the open source LLM landscape has seen significant activity from Chinese AI labs, with Zhipu AI's GLM-5 (Reasoning) topping BenchLM.ai's leaderboard at a score of 82, followed by Alibaba's Qwen3.5 397B (Reasoning) at 77. GLM-4.7 leads in practical coding tasks with a HumanEval score of 94.2. Chinese labs — Zhipu AI, Alibaba, Moonshot AI (Kimi K2.5), MiniMax, and DeepSeek — dominate the top open-weight model rankings, with Google's Gemma 4 31B as a notable Western entrant in the",
+      "timestamp": "2026-04-06T07:34:52.175472+00:00",
+      "category": "github",
+      "relevance_score": 0.6,
+      "content_hash": "6996546b2bc1d657"
+    },
+    {
+      "title": "MemoryAgentBench - ICLR 2026 Paper (GitHub)",
+      "url": "https://github.com/HUST-AI-HYZ/MemoryAgentBench",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "As of April 2026, the open source LLM landscape has seen significant activity from Chinese AI labs, with Zhipu AI's GLM-5 (Reasoning) topping BenchLM.ai's leaderboard at a score of 82, followed by Alibaba's Qwen3.5 397B (Reasoning) at 77. GLM-4.7 leads in practical coding tasks with a HumanEval score of 94.2. Chinese labs — Zhipu AI, Alibaba, Moonshot AI (Kimi K2.5), MiniMax, and DeepSeek — dominate the top open-weight model rankings, with Google's Gemma 4 31B as a notable Western entrant in the",
+      "timestamp": "2026-04-06T07:34:52.175476+00:00",
+      "category": "github",
+      "relevance_score": 0.6,
+      "content_hash": "b9a9bda0dd5a9cfb"
+    },
+    {
+      "title": "Best Open Source LLM in 2026: Rankings & Benchmarks - BenchLM.ai",
+      "url": "https://benchlm.ai/blog/posts/best-open-source-llm",
+      "source": "gemini_grounded",
+      "author": "benchlm.ai",
+      "snippet": "As of April 2026, the open source LLM landscape has seen significant activity from Chinese AI labs, with Zhipu AI's GLM-5 (Reasoning) topping BenchLM.ai's leaderboard at a score of 82, followed by Alibaba's Qwen3.5 397B (Reasoning) at 77. GLM-4.7 leads in practical coding tasks with a HumanEval score of 94.2. Chinese labs — Zhipu AI, Alibaba, Moonshot AI (Kimi K2.5), MiniMax, and DeepSeek — dominate the top open-weight model rankings, with Google's Gemma 4 31B as a notable Western entrant in the",
+      "timestamp": "2026-04-06T07:34:52.175485+00:00",
+      "category": "github",
+      "relevance_score": 0.6,
+      "content_hash": "9360b7a9121d0f9d"
+    },
+    {
+      "title": "Open LLM Leaderboard 2026 - llm-stats.com",
+      "url": "https://llm-stats.com/leaderboards/open-llm-leaderboard",
+      "source": "gemini_grounded",
+      "author": "llm-stats.com",
+      "snippet": "As of April 2026, the open source LLM landscape has seen significant activity from Chinese AI labs, with Zhipu AI's GLM-5 (Reasoning) topping BenchLM.ai's leaderboard at a score of 82, followed by Alibaba's Qwen3.5 397B (Reasoning) at 77. GLM-4.7 leads in practical coding tasks with a HumanEval score of 94.2. Chinese labs — Zhipu AI, Alibaba, Moonshot AI (Kimi K2.5), MiniMax, and DeepSeek — dominate the top open-weight model rankings, with Google's Gemma 4 31B as a notable Western entrant in the",
+      "timestamp": "2026-04-06T07:34:52.175491+00:00",
+      "category": "github",
+      "relevance_score": 0.6,
+      "content_hash": "420dd560f87364e5"
+    },
+    {
+      "title": "Open-Source LLMs Compared 2026 – Till Freitag",
+      "url": "https://till-freitag.com/en/blog/open-source-llm-comparison",
+      "source": "gemini_grounded",
+      "author": "till-freitag.com",
+      "snippet": "The open-source AI model ecosystem has seen explosive growth in early 2026. Hugging Face now hosts over 2 million public models and 13 million users, reflecting a near-doubling of the platform's scale. Notable April 2026 releases include NVIDIA's NitroGen, Boson AI's Higgs Audio V2 (pretrained on 10M+ hours of audio for expressive voice generation and zero-shot cloning), Mistral AI's VoxtralRealtime (streaming low-latency ASR), and Ai2's OLMo Hybrid (combining transformer and linear attention la",
+      "timestamp": "2026-04-06T07:37:16.553833+00:00",
+      "category": "major_org",
+      "relevance_score": 0.6,
+      "content_hash": "5fe959b1fb7da0c1"
+    },
+    {
+      "title": "Best Open-Source LLMs in 2026: A Practical Guide by Use Case",
+      "url": "https://mljourney.com/best-open-source-llms-in-2026-a-practical-guide-by-use-case/",
+      "source": "gemini_grounded",
+      "author": "mljourney.com",
+      "snippet": "The open-source AI model ecosystem has seen explosive growth in early 2026. Hugging Face now hosts over 2 million public models and 13 million users, reflecting a near-doubling of the platform's scale. Notable April 2026 releases include NVIDIA's NitroGen, Boson AI's Higgs Audio V2 (pretrained on 10M+ hours of audio for expressive voice generation and zero-shot cloning), Mistral AI's VoxtralRealtime (streaming low-latency ASR), and Ai2's OLMo Hybrid (combining transformer and linear attention la",
+      "timestamp": "2026-04-06T07:37:16.553837+00:00",
+      "category": "major_org",
+      "relevance_score": 0.6,
+      "content_hash": "c732b8f7b89cbe64"
+    },
+    {
+      "title": "The Evolution of Agentic AI in Cybersecurity: From Single LLM Reasoners to Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2512.06659",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "This week on arXiv, research on AI agents and LLMs continues at a high pace. Key themes include comprehensive surveys of LLM agent architectures — covering memory, planning, tool use, and multi-agent collaboration — with papers like 'Large Language Model Agent: A Survey on Methodology, Applications and Challenges' (2503.21460) and 'From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review' (2504.19678) synthesizing the state of the field. Agentic RAG is also prominent, with the updated ",
+      "timestamp": "2026-04-06T07:32:43.369895+00:00",
+      "category": "research",
+      "relevance_score": 0.5,
+      "content_hash": "1cf095dcfffeac11"
+    },
+    {
+      "title": "500-AI-Agents-Projects: Curated AI agent use cases",
+      "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "The trending AI agent repositories on GitHub in early April 2026 reflect an ecosystem rapidly maturing around multi-agent orchestration, visual workflow builders, and browser/web automation agents. The biggest movers include Browser Use (78K+ stars), which enables LLM-powered browser control with an 89% benchmark success rate, and OpenClaw, which went viral in January 2026 and has surpassed 210K stars — one of the fastest-growing open-source projects in GitHub history. LangGraph, AutoGen (Micros",
+      "timestamp": "2026-04-06T07:34:11.363854+00:00",
+      "category": "github",
+      "relevance_score": 0.5,
+      "content_hash": "421767cf062d442e"
+    },
+    {
+      "title": "LLM News Today (April 2026) - llm-stats.com",
+      "url": "https://llm-stats.com/ai-news",
+      "source": "gemini_grounded",
+      "author": "llm-stats.com",
+      "snippet": "As of April 2026, the open source LLM landscape has seen significant activity from Chinese AI labs, with Zhipu AI's GLM-5 (Reasoning) topping BenchLM.ai's leaderboard at a score of 82, followed by Alibaba's Qwen3.5 397B (Reasoning) at 77. GLM-4.7 leads in practical coding tasks with a HumanEval score of 94.2. Chinese labs — Zhipu AI, Alibaba, Moonshot AI (Kimi K2.5), MiniMax, and DeepSeek — dominate the top open-weight model rankings, with Google's Gemma 4 31B as a notable Western entrant in the",
+      "timestamp": "2026-04-06T07:34:52.175495+00:00",
+      "category": "github",
+      "relevance_score": 0.5,
+      "content_hash": "31da9d4d86834062"
+    },
+    {
+      "title": "EU AI Act - EU council agrees approach to streamline AI rules - Burges Salmon",
+      "url": "https://www.burges-salmon.com/articles/102mn85/eu-ai-act-eu-council-agrees-approach-to-streamline-ai-rules/",
+      "source": "gemini_grounded",
+      "author": "www.burges-salmon.com",
+      "snippet": "The EU AI Act remains the most significant active regulatory development in 2026. On March 13, 2026, the EU Council agreed on a position to streamline the AI Act, bringing greater legal certainty and more proportionate rules. Key changes include extended timelines — high-risk AI systems now face application dates of December 2027 (stand-alone) and August 2028 (embedded in products) — and new prohibitions on AI-generated non-consensual intimate images and CSAM. The Council's mandate will now ente",
+      "timestamp": "2026-04-06T07:36:20.540080+00:00",
+      "category": "general",
+      "relevance_score": 0.5,
+      "content_hash": "458957f9b35d3da6"
+    },
+    {
+      "title": "MEPs Adopt Joint Position on Proposed Digital Omnibus on AI - Global Policy Watch",
+      "url": "https://www.globalpolicywatch.com/2026/03/meps-adopt-joint-position-on-proposed-digital-omnibus-on-ai/",
+      "source": "gemini_grounded",
+      "author": "www.globalpolicywatch.com",
+      "snippet": "The EU AI Act remains the most significant active regulatory development in 2026. On March 13, 2026, the EU Council agreed on a position to streamline the AI Act, bringing greater legal certainty and more proportionate rules. Key changes include extended timelines — high-risk AI systems now face application dates of December 2027 (stand-alone) and August 2028 (embedded in products) — and new prohibitions on AI-generated non-consensual intimate images and CSAM. The Council's mandate will now ente",
+      "timestamp": "2026-04-06T07:36:20.540086+00:00",
+      "category": "general",
+      "relevance_score": 0.4,
+      "content_hash": "446ef9a582dece29"
+    },
+    {
+      "title": "2026 AI Laws Update: Key Regulations and Practical Guidance - Gunderson Dettmer",
+      "url": "https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance/",
+      "source": "gemini_grounded",
+      "author": "www.gunder.com",
+      "snippet": "The EU AI Act remains the most significant active regulatory development in 2026. On March 13, 2026, the EU Council agreed on a position to streamline the AI Act, bringing greater legal certainty and more proportionate rules. Key changes include extended timelines — high-risk AI systems now face application dates of December 2027 (stand-alone) and August 2028 (embedded in products) — and new prohibitions on AI-generated non-consensual intimate images and CSAM. The Council's mandate will now ente",
+      "timestamp": "2026-04-06T07:36:20.540090+00:00",
+      "category": "general",
+      "relevance_score": 0.4,
+      "content_hash": "64c9150480312f09"
+    },
+    {
+      "title": "Global AI Law and Policy Tracker - IAPP",
+      "url": "https://iapp.org/news/a/global-ai-law-and-policy-tracker-highlights-and-takeaways",
+      "source": "gemini_grounded",
+      "author": "iapp.org",
+      "snippet": "The EU AI Act remains the most significant active regulatory development in 2026. On March 13, 2026, the EU Council agreed on a position to streamline the AI Act, bringing greater legal certainty and more proportionate rules. Key changes include extended timelines — high-risk AI systems now face application dates of December 2027 (stand-alone) and August 2028 (embedded in products) — and new prohibitions on AI-generated non-consensual intimate images and CSAM. The Council's mandate will now ente",
+      "timestamp": "2026-04-06T07:36:20.540101+00:00",
+      "category": "general",
+      "relevance_score": 0.3,
+      "content_hash": "857296ec22150735"
+    },
+    {
+      "title": "AI Act | Shaping Europe's digital future - European Commission",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "source": "gemini_grounded",
+      "author": "digital-strategy.ec.europa.eu",
+      "snippet": "The EU AI Act remains the most significant active regulatory development in 2026. On March 13, 2026, the EU Council agreed on a position to streamline the AI Act, bringing greater legal certainty and more proportionate rules. Key changes include extended timelines — high-risk AI systems now face application dates of December 2027 (stand-alone) and August 2028 (embedded in products) — and new prohibitions on AI-generated non-consensual intimate images and CSAM. The Council's mandate will now ente",
+      "timestamp": "2026-04-06T07:36:20.540104+00:00",
+      "category": "framework",
+      "relevance_score": 0.3,
+      "content_hash": "42597762b811f6f8"
+    }
+  ]
+}

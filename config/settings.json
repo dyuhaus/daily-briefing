@@ -1,0 +1,186 @@
+{
+  "action_pipeline": {
+    "enabled": true,
+    "max_items_per_day": 10,
+    "research_model": "sonnet",
+    "execution_model_simple": "sonnet",
+    "execution_model_complex": "sonnet",
+    "complexity_threshold_lines": 200
+  },
+  "llm": {
+    "backend": "claude-cli",
+    "cli_model": "sonnet",
+    "api_model": "claude-haiku-4-5-20251001",
+    "note": "Set backend to 'ollama-local' for full local, or use ollama.purpose_routing for selective offloading"
+  },
+  "ollama": {
+    "base_url": "http://localhost:11434",
+    "model": "qwen2.5:7b",
+    "scoring_model": "phi4-mini",
+    "llama4_scout_model": "llama4:scout",
+    "llama4_maverick_model": "llama4:maverick",
+    "multimodal_model": "llama4:scout",
+    "multimodal_purposes": [],
+    "purpose_routing": [
+      "twitter-scoring",
+      "ai-industry-scoring",
+      "gemini-docs-scoring",
+      "market-news-scoring",
+      "anthropic-scoring",
+      "openai-scoring",
+      "google_ai-scoring",
+      "anthropic-news-synthesis",
+      "openai-news-synthesis",
+      "google-ai-news-synthesis",
+      "ai-industry-synthesis",
+      "market-news-synthesis",
+      "claude-workflow-synthesis",
+      "project-applicability-synthesis"
+    ],
+    "note": "Purposes listed in purpose_routing go to Ollama; all others stay on Claude CLI. Remove a purpose to send it back to Claude."
+  },
+  "schedule": {
+    "youtube_scanner": "06:00",
+    "ai_industry_scanner": "06:15",
+    "trading_scanner": "06:30",
+    "briefing_compile": "07:30",
+    "timezone": "US/Eastern"
+  },
+  "ai_industry": {
+    "search_queries": [
+      "site:ai.meta.com blog new model release open source",
+      "site:github.blog AI agent copilot announcement",
+      "site:blogs.microsoft.com AI copilot new features",
+      "site:huggingface.co blog new model release",
+      "site:arxiv.org abs AI agent LLM new paper this week",
+      "AI startup funding round series announcement site:techcrunch.com OR site:venturebeat.com",
+      "trending AI agent repositories site:github.com stars this week",
+      "new open source LLM model release benchmark site:huggingface.co OR site:github.com",
+      "AI coding assistant release update site:cursor.com OR site:codeium.com OR site:sourcegraph.com",
+      "AI policy regulation government bill EU US announcement 2026",
+      "open source AI model release community site:huggingface.co OR site:github.com OR site:reddit.com",
+      "AI agent framework new release site:github.com langchain crewai autogen 2026"
+    ],
+    "min_relevance_score": 0.3
+  },
+  "anthropic_news": {
+    "search_queries": [
+      "site:anthropic.com blog announcement release",
+      "site:anthropic.com research new paper",
+      "Anthropic Claude new model release features update",
+      "Anthropic changelog API update",
+      "Anthropic twitter announcement @AnthropicAI"
+    ],
+    "min_relevance_score": 0.3
+  },
+  "openai_news": {
+    "search_queries": [
+      "site:openai.com blog announcement release",
+      "site:openai.com research new paper",
+      "OpenAI GPT new model release features update",
+      "OpenAI changelog API update",
+      "OpenAI twitter announcement @OpenAI"
+    ],
+    "min_relevance_score": 0.3
+  },
+  "google_ai_news": {
+    "search_queries": [
+      "site:blog.google AI Gemini announcement update",
+      "site:deepmind.google research new paper",
+      "Google AI twitter announcement @GoogleAI @GoogleDeepMind",
+      "site:ai.google.dev docs Gemini API new update changelog",
+      "site:cloud.google.com blog AI Gemini announcement",
+      "site:firebase.google.com docs genkit guide tutorial",
+      "site:github.com google-gemini new release",
+      "Google AI Studio Antigravity new features update site:ai.google.dev OR site:blog.google",
+      "Gemini API structured output function calling guide site:ai.google.dev",
+      "Imagen 4 API generation guide site:ai.google.dev OR site:cloud.google.com",
+      "Genkit AI agent framework tutorial site:firebase.google.com OR site:github.com firebase/genkit",
+      "Google AI Studio vibe coding full stack app site:ai.google.dev OR site:medium.com",
+      "Firebase Studio game development tutorial site:firebase.google.com OR site:youtube.com"
+    ],
+    "min_relevance_score": 0.3
+  },
+  "market_news": {
+    "search_queries": [
+      "quantitative trading strategy live performance 2026 site:reddit.com/r/algotrading",
+      "automated trading live results edge site:reddit.com/r/quant OR site:reddit.com/r/algotrading",
+      "prediction market automated strategy site:kalshi.com OR site:polymarket.com OR site:manifold.markets",
+      "quantitative sports betting model methodology site:reddit.com/r/sportsbook OR site:reddit.com/r/sportsbetting",
+      "new trading API features site:alpaca.markets OR site:interactivebrokers.com OR site:kalshi.com",
+      "machine learning trading strategy paper site:arxiv.org OR site:ssrn.com",
+      "market making strategy implementation site:github.com OR site:quantconnect.com",
+      "reinforcement learning trading agent site:arxiv.org OR site:github.com",
+      "site:bloomberg.com markets economy breaking news today",
+      "site:ft.com markets economy news today",
+      "site:wsj.com markets economy news today",
+      "site:reuters.com business markets economy news today"
+    ],
+    "nitter_instances": [
+      "https://nitter.cz",
+      "https://nitter.poast.org"
+    ],
+    "max_results_per_query": 20,
+    "min_relevance_score": 0.3
+  },
+  "youtube": {
+    "search_queries": [
+      "Claude Code tutorial",
+      "Claude Code workflow",
+      "Claude Code tips",
+      "claude agent coding",
+      "anthropic claude code",
+      "claude code MCP server",
+      "claude code hooks",
+      "claude code agent SDK"
+    ],
+    "max_results_per_query": 15,
+    "min_relevance_score": 0.5,
+    "max_transcript_age_hours": 48
+  },
+  "briefing": {
+    "max_ai_industry_items": 15,
+    "max_trading_items": 10,
+    "max_youtube_items": 8,
+    "delivery": {
+      "email": true,
+      "html_file": true
+    },
+    "email": {
+      "to": "your-email@example.com",
+      "from": "your-email@example.com",
+      "subject_prefix": "[Daily Briefing]"
+    }
+  },
+  "project_status_sources": {
+    "SportsBettingSwarm": {
+      "path": "<workspace>/SportsBettingSwarm",
+      "metrics_file": "docs/old-tests.md",
+      "type": "swarm"
+    },
+    "MarchMadnessSwarm": {
+      "path": "<workspace>/MarchMadnessSwarm/march-madness-swarm",
+      "metrics_file": "docs/old_tests.md",
+      "type": "swarm"
+    },
+    "FORGE": {
+      "path": "<workspace>/FORGE/forge-implementation",
+      "metrics_file": "old-tests.md",
+      "type": "swarm"
+    },
+    "MarketSwarm": {
+      "path": "<workspace>/MarketSwarm/algoswarm",
+      "metrics_file": "results/swarm_status.json",
+      "type": "swarm"
+    },
+    "QuantMarketData": {
+      "path": "<workspace>/QuantMarketData",
+      "type": "trading"
+    },
+    "KalshiTrader": {
+      "path": "<workspace>/KalshiTrader",
+      "metrics_file": "logs/paper_v2/reports",
+      "type": "paper_trading"
+    }
+  }
+}

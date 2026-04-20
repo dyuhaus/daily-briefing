@@ -1,0 +1,141 @@
+{
+  "date": "2026-04-12",
+  "scan_time": "2026-04-12T07:40:08.325278+00:00",
+  "total_scraped": 95,
+  "after_dedup": 44,
+  "after_filter": 12,
+  "items": [
+    {
+      "title": "Overview - Polymarket Documentation",
+      "url": "https://docs.polymarket.com",
+      "source": "gemini_grounded",
+      "author": "docs.polymarket.com",
+      "snippet": "Automated trading strategies for prediction markets have matured significantly by 2026. On Polymarket, traders have built systems that collect historical price data, calculate volatility metrics, estimate expected rewards, rank markets by risk-adjusted return potential, and place orders automatically. A documented case study showed a bot earning $200–$800/day by exploiting Polymarket's liquidity rewards program, which pays bonuses for two-sided market making. Polymarket provides APIs, SDKs, and ",
+      "timestamp": "2026-04-12T07:32:10.597370+00:00",
+      "relevance_score": 1.0,
+      "content_hash": "eb997f384773e9c4",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "5 Algorithmic Trading Strategies 2026 — QuantifiedStrategies.com",
+      "url": "https://www.quantifiedstrategies.com/algorithmic-trading-strategies/",
+      "source": "gemini_grounded",
+      "author": "www.quantifiedstrategies.com",
+      "snippet": "Discussion on Reddit's r/algotrading and r/quant communities (not directly crawlable) consistently centers on a few key themes around live automated trading results and edge. A recurring finding from broader quant/algotrading communities is that backtested edges rarely survive live deployment at the same magnitude — edge decay is real, driven by overfitting, market regime shifts, increased competition from faster participants, and liquidity fragmentation. Community consensus leans toward walk-fo",
+      "timestamp": "2026-04-12T07:31:32.743654+00:00",
+      "relevance_score": 0.9,
+      "content_hash": "85390705d4c8f4e8",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "7 Best Algo Trading Software for 2026 — ForexBrokers.com",
+      "url": "https://www.forexbrokers.com/guides/algo-trading",
+      "source": "gemini_grounded",
+      "author": "www.forexbrokers.com",
+      "snippet": "Discussion on Reddit's r/algotrading and r/quant communities (not directly crawlable) consistently centers on a few key themes around live automated trading results and edge. A recurring finding from broader quant/algotrading communities is that backtested edges rarely survive live deployment at the same magnitude — edge decay is real, driven by overfitting, market regime shifts, increased competition from faster participants, and liquidity fragmentation. Community consensus leans toward walk-fo",
+      "timestamp": "2026-04-12T07:31:32.743667+00:00",
+      "relevance_score": 0.85,
+      "content_hash": "74b4b04dd4f444a9",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Why 2026 Will Be The Year Algorithmic Trading Goes Mainstream — Medium",
+      "url": "https://medium.com/@algorithmictradingstrategies/why-2026-will-be-the-year-algorithmic-trading-goes-mainstream-and-why-you-should-start-now-6932055d2944",
+      "source": "gemini_grounded",
+      "author": "medium.com",
+      "snippet": "Discussion on Reddit's r/algotrading and r/quant communities (not directly crawlable) consistently centers on a few key themes around live automated trading results and edge. A recurring finding from broader quant/algotrading communities is that backtested edges rarely survive live deployment at the same magnitude — edge decay is real, driven by overfitting, market regime shifts, increased competition from faster participants, and liquidity fragmentation. Community consensus leans toward walk-fo",
+      "timestamp": "2026-04-12T07:31:32.743660+00:00",
+      "relevance_score": 0.8,
+      "content_hash": "89a2d5d7bad93e35",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "The Quant Edge in Crypto Trading Bots 2026 — NFT Plazas",
+      "url": "https://nftplazas.com/the-quant-edge-in-crypto-trading-bots-what-is-leading-crypto-trading-bot-in-2026/",
+      "source": "gemini_grounded",
+      "author": "nftplazas.com",
+      "snippet": "Discussion on Reddit's r/algotrading and r/quant communities (not directly crawlable) consistently centers on a few key themes around live automated trading results and edge. A recurring finding from broader quant/algotrading communities is that backtested edges rarely survive live deployment at the same magnitude — edge decay is real, driven by overfitting, market regime shifts, increased competition from faster participants, and liquidity fragmentation. Community consensus leans toward walk-fo",
+      "timestamp": "2026-04-12T07:31:32.743673+00:00",
+      "relevance_score": 0.75,
+      "content_hash": "7b7efd1e98c8ffa6",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Awesome Quant AI - Curated List of Quant/AI Trading Resources",
+      "url": "https://github.com/leoncuhk/awesome-quant-ai",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "Reddit's r/algotrading community in 2026 remains one of the most active forums for quantitative traders sharing live performance results, strategy discussions, and real-world implementation challenges. Community members frequently post live trading updates covering strategies such as mean reversion, momentum-based systems, and ML-driven models, with ongoing debate about realistic Sharpe ratios and the difficulty of sustaining edge in increasingly efficient markets. A recurring theme in early 202",
+      "timestamp": "2026-04-12T07:30:43.796131+00:00",
+      "relevance_score": 0.7,
+      "content_hash": "1228aa03d540ac35",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Claw Arbs Launches Automated Arbitrage Software for Prediction Markets and Sportsbooks",
+      "url": "https://www.financialcontent.com/article/marketersmedia-2026-4-11-claw-arbs-launches-automated-arbitrage-software-for-prediction-markets-and-sportsbooks",
+      "source": "gemini_grounded",
+      "author": "www.financialcontent.com",
+      "snippet": "Automated trading strategies for prediction markets have matured significantly by 2026. On Polymarket, traders have built systems that collect historical price data, calculate volatility metrics, estimate expected rewards, rank markets by risk-adjusted return potential, and place orders automatically. A documented case study showed a bot earning $200–$800/day by exploiting Polymarket's liquidity rewards program, which pays bonuses for two-sided market making. Polymarket provides APIs, SDKs, and ",
+      "timestamp": "2026-04-12T07:32:10.597383+00:00",
+      "relevance_score": 0.65,
+      "content_hash": "6201ae7b9e75c953",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Algo Trading for Quant: AI Strategies & Tools (2026) — Digiqt Blog",
+      "url": "https://digiqt.com/blog/algo-trading-for-quant/",
+      "source": "gemini_grounded",
+      "author": "digiqt.com",
+      "snippet": "Discussion on Reddit's r/algotrading and r/quant communities (not directly crawlable) consistently centers on a few key themes around live automated trading results and edge. A recurring finding from broader quant/algotrading communities is that backtested edges rarely survive live deployment at the same magnitude — edge decay is real, driven by overfitting, market regime shifts, increased competition from faster participants, and liquidity fragmentation. Community consensus leans toward walk-fo",
+      "timestamp": "2026-04-12T07:31:32.743647+00:00",
+      "relevance_score": 0.6,
+      "content_hash": "09883a03a9a367bd",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Bot for Kalshi - Automated Prediction Market Trading",
+      "url": "https://www.botforkalshi.com/",
+      "source": "gemini_grounded",
+      "author": "www.botforkalshi.com",
+      "snippet": "Automated trading strategies for prediction markets have matured significantly by 2026. On Polymarket, traders have built systems that collect historical price data, calculate volatility metrics, estimate expected rewards, rank markets by risk-adjusted return potential, and place orders automatically. A documented case study showed a bot earning $200–$800/day by exploiting Polymarket's liquidity rewards program, which pays bonuses for two-sided market making. Polymarket provides APIs, SDKs, and ",
+      "timestamp": "2026-04-12T07:32:10.597388+00:00",
+      "relevance_score": 0.55,
+      "content_hash": "ecb03301f8ff2dde",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "GitHub - OctagonAI/kalshi-trading-bot-cli",
+      "url": "https://github.com/OctagonAI/kalshi-deep-trading-bot",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "Automated trading strategies for prediction markets have matured significantly by 2026. On Polymarket, traders have built systems that collect historical price data, calculate volatility metrics, estimate expected rewards, rank markets by risk-adjusted return potential, and place orders automatically. A documented case study showed a bot earning $200–$800/day by exploiting Polymarket's liquidity rewards program, which pays bonuses for two-sided market making. Polymarket provides APIs, SDKs, and ",
+      "timestamp": "2026-04-12T07:32:10.597392+00:00",
+      "relevance_score": 0.45,
+      "content_hash": "70f4f2051a6cad91",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Is Algorithmic Trading Still Profitable in 2025, or Is It Too Competitive? — Quora",
+      "url": "https://www.quora.com/Is-algorithmic-trading-still-profitable-in-2025-or-is-it too-competitive",
+      "source": "gemini_grounded",
+      "author": "www.quora.com",
+      "snippet": "Discussion on Reddit's r/algotrading and r/quant communities (not directly crawlable) consistently centers on a few key themes around live automated trading results and edge. A recurring finding from broader quant/algotrading communities is that backtested edges rarely survive live deployment at the same magnitude — edge decay is real, driven by overfitting, market regime shifts, increased competition from faster participants, and liquidity fragmentation. Community consensus leans toward walk-fo",
+      "timestamp": "2026-04-12T07:31:32.743639+00:00",
+      "relevance_score": 0.4,
+      "content_hash": "af04636754a03cb0",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "GitHub - kalshi-ai-trading-bot",
+      "url": "https://github.com/ryanfrigo/kalshi-ai-trading-bot",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "Automated trading strategies for prediction markets have matured significantly by 2026. On Polymarket, traders have built systems that collect historical price data, calculate volatility metrics, estimate expected rewards, rank markets by risk-adjusted return potential, and place orders automatically. A documented case study showed a bot earning $200–$800/day by exploiting Polymarket's liquidity rewards program, which pays bonuses for two-sided market making. Polymarket provides APIs, SDKs, and ",
+      "timestamp": "2026-04-12T07:32:10.597397+00:00",
+      "relevance_score": 0.35,
+      "content_hash": "b4bcc66942e68fd4",
+      "freshness_window": "24h"
+    }
+  ]
+}

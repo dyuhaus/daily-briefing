@@ -1,0 +1,218 @@
+{
+  "date": "2026-04-16",
+  "scan_time": "2026-04-16T07:39:10.523550+00:00",
+  "total_scraped": 94,
+  "after_dedup": 20,
+  "after_filter": 19,
+  "items": [
+    {
+      "title": "Exclusive: Positron raises $230M Series B to take on Nvidia's AI chips | TechCrunch",
+      "url": "https://techcrunch.com/2026/02/04/exclusive-positron-raises-230m-series-b-to-take-on-nvidias-ai-chips/",
+      "source": "gemini_grounded",
+      "author": "techcrunch.com",
+      "snippet": "AI startup funding activity has reached historic levels in early 2026, with Q1 shattering all previous records. The largest deal was OpenAI's combined $122 billion raise at an $852 billion valuation, co-led by SoftBank and Andreessen Horowitz with participation from Amazon, Nvidia, Microsoft, and roughly $3 billion from retail investors. Other mega-rounds include xAI's $20 billion Series E, Anthropic's $30 billion Series G at a $380 billion valuation, ElevenLabs' $500 million Series D led by Seq",
+      "timestamp": "2026-04-16T07:33:52.515642+00:00",
+      "category": "startup",
+      "relevance_score": 0.9,
+      "content_hash": "b844f9553dfe7390"
+    },
+    {
+      "title": "Welcome Gemma 4: Frontier multimodal intelligence on device - HuggingFace Blog",
+      "url": "https://huggingface.co/blog/gemma4",
+      "source": "gemini_grounded",
+      "author": "huggingface.co",
+      "snippet": "As of April 2026, the open-source LLM landscape has seen a surge of competitive models and benchmark infrastructure. The Hugging Face Open LLM Leaderboard remains the canonical hub for evaluating open-weight models across IFEval, BBH, MATH, GPQA, MUSR, and MMLU-PRO. A community-maintained dataset on HuggingFace compares 16 LLMs from 7 providers across 22 dimensions including pricing, benchmark scores, context windows, and API features, covering models like Llama 4, DeepSeek, Mistral, and Gemma 4",
+      "timestamp": "2026-04-16T07:35:15.395460+00:00",
+      "category": "major_org",
+      "relevance_score": 0.9,
+      "content_hash": "78dc36b736bb37c4"
+    },
+    {
+      "title": "Qwen3.5 GitHub Repository",
+      "url": "https://github.com/QwenLM/Qwen3.5",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "The open source AI model ecosystem in April 2026 is experiencing rapid growth and several major releases. Meta's Llama 4 family — including Llama 4 Scout and Llama 4 Maverick — has emerged as a landmark release, featuring natively multimodal Mixture-of-Experts (MoE) architectures capable of processing text, images, and video. Llama 4 Scout is particularly notable for its 10 million token context window and 17B active parameters (109B total), making it runnable on a single 48GB GPU. Alibaba's Qwe",
+      "timestamp": "2026-04-16T07:37:32.072920+00:00",
+      "category": "github",
+      "relevance_score": 0.9,
+      "content_hash": "517f53b94cce4b14"
+    },
+    {
+      "title": "GitHub Weekly Trending 2026-04-08: Skills Ecosystem Explosion — ShareUHack",
+      "url": "https://www.shareuhack.com/en/posts/github-trending-weekly-2026-04-08",
+      "source": "gemini_grounded",
+      "author": "www.shareuhack.com",
+      "snippet": "The week of April 14–16, 2026 has seen intense activity in AI agent repositories on GitHub, with several projects surging in stars. Google's Agent Development Kit (google/adk-python) continues to lead new entrants with 8,200+ stars, offering a multi-agent orchestration framework with MCP support and a 1M-token context window. OpenAI's codex-cli (5,800+ stars) is gaining ground as a terminal-native coding agent, while Hugging Face's smolagents (4,100+ stars) draws developers seeking lightweight, ",
+      "timestamp": "2026-04-16T07:34:43.236636+00:00",
+      "category": "major_org",
+      "relevance_score": 0.8,
+      "content_hash": "34c688ae8f59443a"
+    },
+    {
+      "title": "awesome-ai-agents-2026: 300+ AI agent resources — GitHub",
+      "url": "https://github.com/caramaschiHG/awesome-ai-agents-2026",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "The week of April 14–16, 2026 has seen intense activity in AI agent repositories on GitHub, with several projects surging in stars. Google's Agent Development Kit (google/adk-python) continues to lead new entrants with 8,200+ stars, offering a multi-agent orchestration framework with MCP support and a 1M-token context window. OpenAI's codex-cli (5,800+ stars) is gaining ground as a terminal-native coding agent, while Hugging Face's smolagents (4,100+ stars) draws developers seeking lightweight, ",
+      "timestamp": "2026-04-16T07:34:43.236646+00:00",
+      "category": "github",
+      "relevance_score": 0.8,
+      "content_hash": "f27a369c75b050c9"
+    },
+    {
+      "title": "Enable Copilot cloud agent via custom properties - GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-04-15-enable-copilot-cloud-agent-via-custom-properties/",
+      "source": "gemini_grounded",
+      "author": "github.blog",
+      "snippet": "GitHub has made several major AI agent and Copilot announcements in recent months. In late 2025, GitHub introduced 'Agent HQ,' a unified interface across GitHub, VS Code, mobile, and CLI for directing and managing AI-driven tasks. As part of this vision, GitHub is opening its platform to third-party agents from Anthropic, OpenAI, Google, Cognition, xAI, and others — all accessible within a paid Copilot subscription. GitHub also launched a dedicated Copilot Coding Agent that works autonomously on",
+      "timestamp": "2026-04-16T07:31:05.812121+00:00",
+      "category": "startup",
+      "relevance_score": 0.7,
+      "content_hash": "0e6230e2cf4d32f0"
+    },
+    {
+      "title": "NASA's New Earth Copilot Brings Microsoft AI Capabilities to Democratize Access to Complex Data - The Official Microsoft Blog",
+      "url": "https://blogs.microsoft.com/blog/2024/11/14/from-questions-to-discoveries-nasas-new-earth-copilot-brings-microsoft-ai-capabilities-to-democratize-access-to-complex-data/",
+      "source": "gemini_grounded",
+      "author": "blogs.microsoft.com",
+      "snippet": "Microsoft has been actively expanding its AI Copilot ecosystem with major new features. In early 2025, the company unveiled an enhanced Copilot as a personal AI companion with memory capabilities — allowing Copilot to remember user preferences, personal details, and ongoing projects across sessions. New features include Deep Research (for complex multi-step research tasks), Copilot Vision on mobile (which sees and interprets what the user sees in real time), and Copilot Daily (a morning briefing",
+      "timestamp": "2026-04-16T07:31:40.505140+00:00",
+      "category": "major_org",
+      "relevance_score": 0.7,
+      "content_hash": "5d3c48c72269a77e"
+    },
+    {
+      "title": "Introducing Microsoft Dynamics 365 Copilot - The Official Microsoft Blog",
+      "url": "https://blogs.microsoft.com/blog/2023/03/06/introducing-microsoft-dynamics-365-copilot/",
+      "source": "gemini_grounded",
+      "author": "blogs.microsoft.com",
+      "snippet": "Microsoft has been actively expanding its AI Copilot ecosystem with major new features. In early 2025, the company unveiled an enhanced Copilot as a personal AI companion with memory capabilities — allowing Copilot to remember user preferences, personal details, and ongoing projects across sessions. New features include Deep Research (for complex multi-step research tasks), Copilot Vision on mobile (which sees and interprets what the user sees in real time), and Copilot Daily (a morning briefing",
+      "timestamp": "2026-04-16T07:31:40.505144+00:00",
+      "category": "major_org",
+      "relevance_score": 0.7,
+      "content_hash": "db9858f7e35fc8b2"
+    },
+    {
+      "title": "AI Open Source Trends 2026-04-13 · agents-radar Issue #545",
+      "url": "https://github.com/duanyytop/agents-radar/issues/545",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "The week of April 14–16, 2026 has seen intense activity in AI agent repositories on GitHub, with several projects surging in stars. Google's Agent Development Kit (google/adk-python) continues to lead new entrants with 8,200+ stars, offering a multi-agent orchestration framework with MCP support and a 1M-token context window. OpenAI's codex-cli (5,800+ stars) is gaining ground as a terminal-native coding agent, while Hugging Face's smolagents (4,100+ stars) draws developers seeking lightweight, ",
+      "timestamp": "2026-04-16T07:34:43.236642+00:00",
+      "category": "github",
+      "relevance_score": 0.6,
+      "content_hash": "6d94dc0ccc6c1434"
+    },
+    {
+      "title": "Top AI GitHub Repositories in 2026 — ByteByteGo Blog",
+      "url": "https://blog.bytebytego.com/p/top-ai-github-repositories-in-2026",
+      "source": "gemini_grounded",
+      "author": "blog.bytebytego.com",
+      "snippet": "The week of April 14–16, 2026 has seen intense activity in AI agent repositories on GitHub, with several projects surging in stars. Google's Agent Development Kit (google/adk-python) continues to lead new entrants with 8,200+ stars, offering a multi-agent orchestration framework with MCP support and a 1M-token context window. OpenAI's codex-cli (5,800+ stars) is gaining ground as a terminal-native coding agent, while Hugging Face's smolagents (4,100+ stars) draws developers seeking lightweight, ",
+      "timestamp": "2026-04-16T07:34:43.236651+00:00",
+      "category": "major_org",
+      "relevance_score": 0.6,
+      "content_hash": "561dfc4032747133"
+    },
+    {
+      "title": "MemoryAgentBench: Evaluating Memory in LLM Agents - GitHub",
+      "url": "https://github.com/HUST-AI-HYZ/MemoryAgentBench",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "As of April 2026, the open-source LLM landscape has seen a surge of competitive models and benchmark infrastructure. The Hugging Face Open LLM Leaderboard remains the canonical hub for evaluating open-weight models across IFEval, BBH, MATH, GPQA, MUSR, and MMLU-PRO. A community-maintained dataset on HuggingFace compares 16 LLMs from 7 providers across 22 dimensions including pricing, benchmark scores, context windows, and API features, covering models like Llama 4, DeepSeek, Mistral, and Gemma 4",
+      "timestamp": "2026-04-16T07:35:15.395471+00:00",
+      "category": "github",
+      "relevance_score": 0.6,
+      "content_hash": "9caa7c6bceac582a"
+    },
+    {
+      "title": "[2604.00344] Agent Q-Mix: Selecting the Right Action for LLM Multi-Agent Systems through Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2604.00344",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "This week's arXiv activity on LLM agents reflects three converging themes. First, multi-agent coordination and reasoning frameworks dominate, with papers like 'Agent Q-Mix' (2604.00344) using reinforcement learning to select communication topologies across networked LLM agents, achieving top scores across seven benchmarks in coding, reasoning, and math, and 'MAR: Multi-Agent Reflexion' (2512.20845) improving HumanEval pass@1 from 76.4 to 82.6 by separating acting, critiquing, and aggregating int",
+      "timestamp": "2026-04-16T07:33:09.301218+00:00",
+      "category": "framework",
+      "relevance_score": 0.5,
+      "content_hash": "45addfb3d4222507"
+    },
+    {
+      "title": "[2512.20845] MAR: Multi-Agent Reflexion Improves Reasoning Abilities in LLMs",
+      "url": "https://arxiv.org/abs/2512.20845",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "This week's arXiv activity on LLM agents reflects three converging themes. First, multi-agent coordination and reasoning frameworks dominate, with papers like 'Agent Q-Mix' (2604.00344) using reinforcement learning to select communication topologies across networked LLM agents, achieving top scores across seven benchmarks in coding, reasoning, and math, and 'MAR: Multi-Agent Reflexion' (2512.20845) improving HumanEval pass@1 from 76.4 to 82.6 by separating acting, critiquing, and aggregating int",
+      "timestamp": "2026-04-16T07:33:09.301247+00:00",
+      "category": "framework",
+      "relevance_score": 0.5,
+      "content_hash": "854faea5ec800e51"
+    },
+    {
+      "title": "Best Open Source LLM in 2026: Rankings, Benchmarks - BenchLM.ai",
+      "url": "https://benchlm.ai/blog/posts/best-open-source-llm",
+      "source": "gemini_grounded",
+      "author": "benchlm.ai",
+      "snippet": "As of April 2026, the open-source LLM landscape has seen a surge of competitive models and benchmark infrastructure. The Hugging Face Open LLM Leaderboard remains the canonical hub for evaluating open-weight models across IFEval, BBH, MATH, GPQA, MUSR, and MMLU-PRO. A community-maintained dataset on HuggingFace compares 16 LLMs from 7 providers across 22 dimensions including pricing, benchmark scores, context windows, and API features, covering models like Llama 4, DeepSeek, Mistral, and Gemma 4",
+      "timestamp": "2026-04-16T07:35:15.395475+00:00",
+      "category": "github",
+      "relevance_score": 0.5,
+      "content_hash": "103de5dd29a87540"
+    },
+    {
+      "title": "Open Source LLM Leaderboard 2026 - Vellum AI",
+      "url": "https://www.vellum.ai/open-llm-leaderboard",
+      "source": "gemini_grounded",
+      "author": "www.vellum.ai",
+      "snippet": "As of April 2026, the open-source LLM landscape has seen a surge of competitive models and benchmark infrastructure. The Hugging Face Open LLM Leaderboard remains the canonical hub for evaluating open-weight models across IFEval, BBH, MATH, GPQA, MUSR, and MMLU-PRO. A community-maintained dataset on HuggingFace compares 16 LLMs from 7 providers across 22 dimensions including pricing, benchmark scores, context windows, and API features, covering models like Llama 4, DeepSeek, Mistral, and Gemma 4",
+      "timestamp": "2026-04-16T07:35:15.395480+00:00",
+      "category": "github",
+      "relevance_score": 0.5,
+      "content_hash": "a10a08b82af8c5d4"
+    },
+    {
+      "title": "Tiled Layout and Upgraded Voice Input · Cursor 3.1",
+      "url": "https://cursor.com/changelog/3-1",
+      "source": "gemini_grounded",
+      "author": "cursor.com",
+      "snippet": "Cursor has had a major release cycle in early 2026, culminating in Cursor 3.0 (April 2) and 3.1 (April 13). Cursor 3.0 introduced a new Agents Window enabling parallel multi-agent execution across local, cloud, worktree, and remote SSH environments. Cursor 3.1 added tiled layout for the Agents Window, improved macOS text rendering, and keyboard-navigable Design Mode. On April 15, Cursor added interactive canvas responses — agents can now generate dashboards, diagrams, and custom UI components in",
+      "timestamp": "2026-04-16T07:36:07.367341+00:00",
+      "category": "startup",
+      "relevance_score": 0.5,
+      "content_hash": "6269ea84dd5ef1e3"
+    },
+    {
+      "title": "AI Act | Shaping Europe's digital future — European Commission",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "source": "gemini_grounded",
+      "author": "digital-strategy.ec.europa.eu",
+      "snippet": "The EU AI Act continues to be the most significant AI regulatory development globally, with full applicability set for August 2, 2026. Key milestones include transparency rules taking effect in August 2026, high-risk AI provisions rolling in through 2026-2027, and each EU Member State required to establish at least one national AI regulatory sandbox by August 2026. The act is being closely tracked by enterprises worldwide as compliance deadlines approach.\n\nIn the United States, the regulatory la",
+      "timestamp": "2026-04-16T07:36:42.645405+00:00",
+      "category": "framework",
+      "relevance_score": 0.5,
+      "content_hash": "499f7193a6d76170"
+    },
+    {
+      "title": "[2604.11243] Knowledge Compounding: An Empirical Economic Analysis of Self-Evolving Knowledge Wikis under the Agentic ROI Framework",
+      "url": "https://arxiv.org/abs/2604.11243",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "This week's arXiv activity on LLM agents reflects three converging themes. First, multi-agent coordination and reasoning frameworks dominate, with papers like 'Agent Q-Mix' (2604.00344) using reinforcement learning to select communication topologies across networked LLM agents, achieving top scores across seven benchmarks in coding, reasoning, and math, and 'MAR: Multi-Agent Reflexion' (2512.20845) improving HumanEval pass@1 from 76.4 to 82.6 by separating acting, critiquing, and aggregating int",
+      "timestamp": "2026-04-16T07:33:09.301260+00:00",
+      "category": "framework",
+      "relevance_score": 0.4,
+      "content_hash": "08b76407ff5d17df"
+    },
+    {
+      "title": "10 Best Open-Source LLM Models (2025 Updated) - HuggingFace Blog",
+      "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
+      "source": "gemini_grounded",
+      "author": "huggingface.co",
+      "snippet": "As of April 2026, the open-source LLM landscape has seen a surge of competitive models and benchmark infrastructure. The Hugging Face Open LLM Leaderboard remains the canonical hub for evaluating open-weight models across IFEval, BBH, MATH, GPQA, MUSR, and MMLU-PRO. A community-maintained dataset on HuggingFace compares 16 LLMs from 7 providers across 22 dimensions including pricing, benchmark scores, context windows, and API features, covering models like Llama 4, DeepSeek, Mistral, and Gemma 4",
+      "timestamp": "2026-04-16T07:35:15.395484+00:00",
+      "category": "major_org",
+      "relevance_score": 0.3,
+      "content_hash": "091dd825eb935b82"
+    }
+  ]
+}

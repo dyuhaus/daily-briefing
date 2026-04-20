@@ -1,0 +1,229 @@
+{
+  "date": "2026-04-20",
+  "scan_time": "2026-04-20T07:37:59.646930+00:00",
+  "total_scraped": 93,
+  "after_dedup": 20,
+  "after_filter": 20,
+  "items": [
+    {
+      "title": "Top 3 GitHub Trending Repos (April 2026) – +60K Stars in 1 Week",
+      "url": "https://medium.com/@wy921208/top-3-github-trending-repos-april-2026-60k-stars-in-1-week-2a3d64ca13f2",
+      "source": "gemini_grounded",
+      "author": "medium.com",
+      "snippet": "GitHub's trending AI agent repositories for the week of April 20, 2026 reflect a broad acceleration across agent frameworks, memory systems, and visual builders. The standout viral project is OpenClaw, which surged from ~9,000 to over 60,000 stars in a single week before eventually crossing 210,000 total stars — driven by its novel approach to agentic memory and autonomous task execution. The Claude Code ecosystem is also generating heavy activity, with multiple memory plugins, skill harnesses, ",
+      "timestamp": "2026-04-20T07:34:24.976821+00:00",
+      "category": "github",
+      "relevance_score": 0.9,
+      "content_hash": "77d63816865ec10f"
+    },
+    {
+      "title": "Your stack, your rules: Introducing custom agents in GitHub Copilot",
+      "url": "https://github.blog/news-insights/product-news/your-stack-your-rules-introducing-custom-agents-in-github-copilot-for-observability-iac-and-security/",
+      "source": "gemini_grounded",
+      "author": "github.blog",
+      "snippet": "GitHub has made a series of major AI agent announcements centered on GitHub Copilot throughout late 2025 and into 2026. The flagship announcement was the GitHub Copilot Coding Agent — a fully autonomous coding agent embedded directly into GitHub that activates when you assign an issue to Copilot or prompt it in VS Code. It iterates on its own code, recognizes runtime errors, and self-heals, with the ability to suggest and execute terminal commands. Alongside this, GitHub introduced Agent Mode in",
+      "timestamp": "2026-04-20T07:31:11.556133+00:00",
+      "category": "general",
+      "relevance_score": 0.85,
+      "content_hash": "857623065f3580c3"
+    },
+    {
+      "title": "Meet the new Cursor (Cursor 3) · Cursor Blog",
+      "url": "https://cursor.com/blog/cursor-3",
+      "source": "gemini_grounded",
+      "author": "cursor.com",
+      "snippet": "Cursor released significant updates in April 2026, including an April 15 update that enables the AI to respond by creating interactive canvases with visualizations, dashboards, and custom interfaces. Earlier in April, Cursor 3 launched with a redesigned Agents Window interface, and Bugbot received improvements including real-time self-improvement, MCP support, and enhanced Autofix capabilities. Cursor also added self-hosted cloud agent support (March 2026) to keep code execution entirely within ",
+      "timestamp": "2026-04-20T07:35:54.677599+00:00",
+      "category": "startup",
+      "relevance_score": 0.85,
+      "content_hash": "d2038f6d0b60fc6a"
+    },
+    {
+      "title": "Vibe coding with GitHub Copilot: Agent mode and MCP support rolling out to all VS Code users",
+      "url": "https://github.blog/news-insights/product-news/github-copilot-agent-mode-activated/",
+      "source": "gemini_grounded",
+      "author": "github.blog",
+      "snippet": "GitHub has made a series of major AI agent announcements centered on GitHub Copilot throughout late 2025 and into 2026. The flagship announcement was the GitHub Copilot Coding Agent — a fully autonomous coding agent embedded directly into GitHub that activates when you assign an issue to Copilot or prompt it in VS Code. It iterates on its own code, recognizes runtime errors, and self-heals, with the ability to suggest and execute terminal commands. Alongside this, GitHub introduced Agent Mode in",
+      "timestamp": "2026-04-20T07:31:11.556117+00:00",
+      "category": "general",
+      "relevance_score": 0.8,
+      "content_hash": "85af5bc9232780b2"
+    },
+    {
+      "title": "From MCP to multi-agents: Top 10 open source AI projects on GitHub - GitHub Blog",
+      "url": "https://github.blog/open-source/maintainers/from-mcp-to-multi-agents-the-top-10-open-source-ai-projects-on-github-right-now-and-why-they-matter/",
+      "source": "gemini_grounded",
+      "author": "github.blog",
+      "snippet": "GitHub's trending AI agent repositories for the week of April 20, 2026 reflect a broad acceleration across agent frameworks, memory systems, and visual builders. The standout viral project is OpenClaw, which surged from ~9,000 to over 60,000 stars in a single week before eventually crossing 210,000 total stars — driven by its novel approach to agentic memory and autonomous task execution. The Claude Code ecosystem is also generating heavy activity, with multiple memory plugins, skill harnesses, ",
+      "timestamp": "2026-04-20T07:34:24.976837+00:00",
+      "category": "github",
+      "relevance_score": 0.8,
+      "content_hash": "a35e8114fe8255d5"
+    },
+    {
+      "title": "AI Open Source Trends 2026-04-13 · agents-radar",
+      "url": "https://github.com/duanyytop/agents-radar/issues/545",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "GitHub's trending AI agent repositories for the week of April 20, 2026 reflect a broad acceleration across agent frameworks, memory systems, and visual builders. The standout viral project is OpenClaw, which surged from ~9,000 to over 60,000 stars in a single week before eventually crossing 210,000 total stars — driven by its novel approach to agentic memory and autonomous task execution. The Claude Code ecosystem is also generating heavy activity, with multiple memory plugins, skill harnesses, ",
+      "timestamp": "2026-04-20T07:34:24.976832+00:00",
+      "category": "github",
+      "relevance_score": 0.75,
+      "content_hash": "05749d2d9992f271"
+    },
+    {
+      "title": "LLM Performance Leaderboard - ArtificialAnalysis on HuggingFace",
+      "url": "https://huggingface.co/spaces/ArtificialAnalysis/LLM-Performance-Leaderboard",
+      "source": "gemini_grounded",
+      "author": "huggingface.co",
+      "snippet": "April 2026 represents an exceptionally competitive period in open-source AI, with six major labs simultaneously shipping frontier-class models. Google's Gemma 4 launched on April 2, 2026 with 4 variants (2.3B–31B parameters), Apache 2.0 license, and full multimodal support (text, images, video, audio). Its Codeforces ELO jumped from 110 to 2150 — a ~20x leap over Gemma 3, the largest single-generation improvement ever seen in open-source. Alibaba's Qwen 3.5/3.6 series continues iterating rapidly",
+      "timestamp": "2026-04-20T07:35:10.606633+00:00",
+      "category": "startup",
+      "relevance_score": 0.75,
+      "content_hash": "b720599d59a6af18"
+    },
+    {
+      "title": "GitHub - Zijian-Ni/awesome-ai-agents-2026: A curated list of AI Agent frameworks, tools, platforms, and resources for 2026",
+      "url": "https://github.com/Zijian-Ni/awesome-ai-agents-2026",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "In 2026, the three major AI agent frameworks — LangChain, CrewAI, and AutoGen — have continued maturing with significant updates. LangChain/LangGraph remains the ecosystem leader with 600+ integrations and has deepened its graph-based stateful workflow orchestration via LangGraph, making it a top choice for enterprise applications requiring auditability. CrewAI has emerged as a performance standout, scoring 82% on task success benchmarks with 1.8s average latency, and released v0.35.0 with third",
+      "timestamp": "2026-04-20T07:37:47.797205+00:00",
+      "category": "github",
+      "relevance_score": 0.75,
+      "content_hash": "ce2dbc5c37abf31b"
+    },
+    {
+      "title": "awesome-ai-agents-2026 - caramaschiHG",
+      "url": "https://github.com/caramaschiHG/awesome-ai-agents-2026",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "GitHub's trending AI agent repositories for the week of April 20, 2026 reflect a broad acceleration across agent frameworks, memory systems, and visual builders. The standout viral project is OpenClaw, which surged from ~9,000 to over 60,000 stars in a single week before eventually crossing 210,000 total stars — driven by its novel approach to agentic memory and autonomous task execution. The Claude Code ecosystem is also generating heavy activity, with multiple memory plugins, skill harnesses, ",
+      "timestamp": "2026-04-20T07:34:24.976845+00:00",
+      "category": "github",
+      "relevance_score": 0.7,
+      "content_hash": "a8a93531123f9bfd"
+    },
+    {
+      "title": "salttechno/LLM-Model-Comparison-2026 - HuggingFace Dataset",
+      "url": "https://huggingface.co/datasets/salttechno/LLM-Model-Comparison-2026",
+      "source": "gemini_grounded",
+      "author": "huggingface.co",
+      "snippet": "April 2026 represents an exceptionally competitive period in open-source AI, with six major labs simultaneously shipping frontier-class models. Google's Gemma 4 launched on April 2, 2026 with 4 variants (2.3B–31B parameters), Apache 2.0 license, and full multimodal support (text, images, video, audio). Its Codeforces ELO jumped from 110 to 2150 — a ~20x leap over Gemma 3, the largest single-generation improvement ever seen in open-source. Alibaba's Qwen 3.5/3.6 series continues iterating rapidly",
+      "timestamp": "2026-04-20T07:35:10.606637+00:00",
+      "category": "startup",
+      "relevance_score": 0.7,
+      "content_hash": "b5f40c70d80faddf"
+    },
+    {
+      "title": "Sourcegraph Cody is Generally Available | Sourcegraph Blog",
+      "url": "https://sourcegraph.com/blog/cody-is-generally-available",
+      "source": "gemini_grounded",
+      "author": "sourcegraph.com",
+      "snippet": "Cursor released significant updates in April 2026, including an April 15 update that enables the AI to respond by creating interactive canvases with visualizations, dashboards, and custom interfaces. Earlier in April, Cursor 3 launched with a redesigned Agents Window interface, and Bugbot received improvements including real-time self-improvement, MCP support, and enhanced Autofix capabilities. Cursor also added self-hosted cloud agent support (March 2026) to keep code execution entirely within ",
+      "timestamp": "2026-04-20T07:35:54.677630+00:00",
+      "category": "startup",
+      "relevance_score": 0.7,
+      "content_hash": "7e1d1e614333dd4e"
+    },
+    {
+      "title": "GitHub - Zijian-Ni/awesome-ai-agents-2026",
+      "url": "https://github.com/Zijian-Ni/awesome-ai-agents-2026",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "The open source AI model ecosystem in early 2026 has seen significant activity across multiple fronts. Notable releases include NVIDIA's NitroGen, a foundation model for generalist gaming agents trained on 40,000 hours of gameplay across 1,000+ games, and Kimi K2.5, a 1T parameter MoE model with native multimodal and Agent Swarm capabilities released under an open license. Hugging Face's Spring 2026 state-of-open-source report highlights accelerating geographic rebalancing, with more global cont",
+      "timestamp": "2026-04-20T07:37:08.777431+00:00",
+      "category": "github",
+      "relevance_score": 0.7,
+      "content_hash": "22d744c94aab2130"
+    },
+    {
+      "title": "LangChain vs CrewAI vs AutoGen vs Dify: The Complete AI Agent Framework Comparison 2026 - DEV Community",
+      "url": "https://dev.to/agdex_ai/langchain-vs-crewai-vs-autogen-vs-dify-the-complete-ai-agent-framework-comparison-2026-4j8j",
+      "source": "gemini_grounded",
+      "author": "dev.to",
+      "snippet": "In 2026, the three major AI agent frameworks — LangChain, CrewAI, and AutoGen — have continued maturing with significant updates. LangChain/LangGraph remains the ecosystem leader with 600+ integrations and has deepened its graph-based stateful workflow orchestration via LangGraph, making it a top choice for enterprise applications requiring auditability. CrewAI has emerged as a performance standout, scoring 82% on task success benchmarks with 1.8s average latency, and released v0.35.0 with third",
+      "timestamp": "2026-04-20T07:37:47.797225+00:00",
+      "category": "framework",
+      "relevance_score": 0.7,
+      "content_hash": "6ed869b682346315"
+    },
+    {
+      "title": "Towards a Science of Scaling Agent Systems",
+      "url": "https://arxiv.org/abs/2512.08296",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "This week on arXiv, AI agent and LLM research is advancing across several fronts. A comprehensive review paper (2504.19678) titled 'From LLM Reasoning to Autonomous AI Agents' surveys the evolution from chain-of-thought prompting to full agentic pipelines with tool use, memory, and planning. A companion survey (2504.16736) maps the emerging landscape of AI agent protocols, covering how agents communicate and coordinate across systems. On the multi-agent side, the cs.MA current listing shows acti",
+      "timestamp": "2026-04-20T07:33:11.110268+00:00",
+      "category": "research",
+      "relevance_score": 0.65,
+      "content_hash": "ae43761f7b269ed0"
+    },
+    {
+      "title": "Add Qwen3.6-Plus via Fireworks AI (1M context) · pollinations/pollinations",
+      "url": "https://github.com/pollinations/pollinations/issues/9910",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "The open source AI model ecosystem in early 2026 has seen significant activity across multiple fronts. Notable releases include NVIDIA's NitroGen, a foundation model for generalist gaming agents trained on 40,000 hours of gameplay across 1,000+ games, and Kimi K2.5, a 1T parameter MoE model with native multimodal and Agent Swarm capabilities released under an open license. Hugging Face's Spring 2026 state-of-open-source report highlights accelerating geographic rebalancing, with more global cont",
+      "timestamp": "2026-04-20T07:37:08.777440+00:00",
+      "category": "github",
+      "relevance_score": 0.65,
+      "content_hash": "b94b8fdfe492dbb3"
+    },
+    {
+      "title": "From questions to discoveries: NASA's new Earth Copilot - The Official Microsoft Blog",
+      "url": "https://blogs.microsoft.com/blog/2024/11/14/from-questions-to-discoveries-nasas-new-earth-copilot-brings-microsoft-ai-capabilities-to-democratize-access-to-complex-data/",
+      "source": "gemini_grounded",
+      "author": "blogs.microsoft.com",
+      "snippet": "Microsoft has been steadily expanding its Copilot AI assistant with significant new capabilities across 2024–2026. Key additions include personalization and memory features (April 2025), where Copilot learns user preferences, names, and habits across conversations. Deep Research enables complex multi-step research tasks, and Copilot Vision on Mobile allows the assistant to see and respond to what the user sees in real time. Copilot Daily delivers morning news and weather summaries in customizabl",
+      "timestamp": "2026-04-20T07:31:43.418625+00:00",
+      "category": "major_org",
+      "relevance_score": 0.6,
+      "content_hash": "c0b387cb323c59ef"
+    },
+    {
+      "title": "XAgen: An Explainability Tool for Identifying and Correcting Failures in Multi-Agent Workflows",
+      "url": "https://arxiv.org/html/2512.17896",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "This week on arXiv, AI agent and LLM research is advancing across several fronts. A comprehensive review paper (2504.19678) titled 'From LLM Reasoning to Autonomous AI Agents' surveys the evolution from chain-of-thought prompting to full agentic pipelines with tool use, memory, and planning. A companion survey (2504.16736) maps the emerging landscape of AI agent protocols, covering how agents communicate and coordinate across systems. On the multi-agent side, the cs.MA current listing shows acti",
+      "timestamp": "2026-04-20T07:33:11.110278+00:00",
+      "category": "research",
+      "relevance_score": 0.55,
+      "content_hash": "357c529a653f73ff"
+    },
+    {
+      "title": "The White House's National Policy Framework for AI: What It Means and What Comes Next",
+      "url": "https://www.consumerfinancemonitor.com/2026/04/08/the-white-houses-national-policy-framework-for-artificial-intelligence-what-it-means-and-what-comes-next/",
+      "source": "gemini_grounded",
+      "author": "www.consumerfinancemonitor.com",
+      "snippet": "The EU AI Act continues its phased rollout with major provisions taking effect August 2, 2026 — the 24-month anniversary of its entry into force. This includes transparency obligations for general-purpose AI models, risk classification requirements for high-risk AI systems, and a mandate for each EU member state to establish at least one AI regulatory sandbox. The Act's risk-based framework remains the most comprehensive AI governance structure globally and is being closely watched by other juri",
+      "timestamp": "2026-04-20T07:36:38.128635+00:00",
+      "category": "framework",
+      "relevance_score": 0.5,
+      "content_hash": "3f647b970a03988c"
+    },
+    {
+      "title": "U.S. Tech Legislative & Regulatory Update — First Quarter 2026",
+      "url": "https://www.insideglobaltech.com/2026/04/06/u-s-tech-legislative-regulatory-update-first-quarter-2026/",
+      "source": "gemini_grounded",
+      "author": "www.insideglobaltech.com",
+      "snippet": "The EU AI Act continues its phased rollout with major provisions taking effect August 2, 2026 — the 24-month anniversary of its entry into force. This includes transparency obligations for general-purpose AI models, risk classification requirements for high-risk AI systems, and a mandate for each EU member state to establish at least one AI regulatory sandbox. The Act's risk-based framework remains the most comprehensive AI governance structure globally and is being closely watched by other juri",
+      "timestamp": "2026-04-20T07:36:38.128640+00:00",
+      "category": "framework",
+      "relevance_score": 0.45,
+      "content_hash": "a56aad2b1c527d60"
+    },
+    {
+      "title": "H.R.5388 — American Artificial Intelligence Leadership and Uniformity Act",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/5388/text",
+      "source": "gemini_grounded",
+      "author": "www.congress.gov",
+      "snippet": "The EU AI Act continues its phased rollout with major provisions taking effect August 2, 2026 — the 24-month anniversary of its entry into force. This includes transparency obligations for general-purpose AI models, risk classification requirements for high-risk AI systems, and a mandate for each EU member state to establish at least one AI regulatory sandbox. The Act's risk-based framework remains the most comprehensive AI governance structure globally and is being closely watched by other juri",
+      "timestamp": "2026-04-20T07:36:38.128647+00:00",
+      "category": "framework",
+      "relevance_score": 0.4,
+      "content_hash": "237384f502a829f0"
+    }
+  ]
+}

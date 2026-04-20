@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-02",
+  "scan_time": "2026-04-02T07:39:59.707646+00:00",
+  "total_scraped": 94,
+  "after_dedup": 49,
+  "after_filter": 4,
+  "items": [
+    {
+      "title": "5 Algorithmic Trading Strategies 2026 - QuantifiedStrategies.com",
+      "url": "https://www.quantifiedstrategies.com/algorithmic-trading-strategies/",
+      "source": "gemini_grounded",
+      "author": "www.quantifiedstrategies.com",
+      "snippet": "Community discussions on r/algotrading and the broader quant trading ecosystem in 2025–2026 consistently highlight a core theme: the gap between backtested edge and live trading performance. Traders frequently report strategy decay within weeks to months of deployment, driven by slippage, data quality issues, and latency costs that don't appear in backtests. Walk-forward validation and out-of-sample testing are the community consensus for detecting overfitting before going live. Platforms like Q",
+      "timestamp": "2026-04-02T07:31:27.730081+00:00",
+      "relevance_score": 0.65,
+      "content_hash": "10770d6395e83ffd",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Top 10 Algorithmic Trading Forums in 2026",
+      "url": "https://forums.feedspot.com/algorithmic_trading_forums/",
+      "source": "gemini_grounded",
+      "author": "forums.feedspot.com",
+      "snippet": "The r/algotrading subreddit and broader quantitative trading community in 2026 remain active hubs for discussing live strategy performance, with Reddit being cited alongside QuantConnect and Quantmatter as key community forums. Discussions emphasize the gap between backtested and live results, with traders reporting that strategies combining trend-following, mean reversion, and volatility filters tend to perform most consistently in live environments. The community broadly stresses robust out-of",
+      "timestamp": "2026-04-02T07:30:39.293910+00:00",
+      "relevance_score": 0.6,
+      "content_hash": "c1dca8ed3dc5a7cb",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Algorithmic Trading Strategies: Guide to Automated Trading in 2026 | ThinkMarkets",
+      "url": "https://www.thinkmarkets.com/en/trading-academy/forex/algorithmic-trading-strategies-guide-to-automated-trading-in-2026/",
+      "source": "gemini_grounded",
+      "author": "www.thinkmarkets.com",
+      "snippet": "The r/algotrading subreddit and broader quantitative trading community in 2026 remain active hubs for discussing live strategy performance, with Reddit being cited alongside QuantConnect and Quantmatter as key community forums. Discussions emphasize the gap between backtested and live results, with traders reporting that strategies combining trend-following, mean reversion, and volatility filters tend to perform most consistently in live environments. The community broadly stresses robust out-of",
+      "timestamp": "2026-04-02T07:30:39.293900+00:00",
+      "relevance_score": 0.4,
+      "content_hash": "d9d71010b3c65cce",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Why Your Strategy Fails Live - Dutch AlgoTrading",
+      "url": "https://www.dutchalgotrading.com/2026/03/06/why-your-strategy-fails-live/",
+      "source": "gemini_grounded",
+      "author": "www.dutchalgotrading.com",
+      "snippet": "Community discussions on r/algotrading and the broader quant trading ecosystem in 2025–2026 consistently highlight a core theme: the gap between backtested edge and live trading performance. Traders frequently report strategy decay within weeks to months of deployment, driven by slippage, data quality issues, and latency costs that don't appear in backtests. Walk-forward validation and out-of-sample testing are the community consensus for detecting overfitting before going live. Platforms like Q",
+      "timestamp": "2026-04-02T07:31:27.730026+00:00",
+      "relevance_score": 0.3,
+      "content_hash": "3b060906f06d02cc",
+      "freshness_window": "24h"
+    }
+  ]
+}

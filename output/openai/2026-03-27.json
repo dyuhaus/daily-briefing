@@ -1,0 +1,130 @@
+{
+  "date": "2026-03-27",
+  "company": "openai",
+  "scan_time": "2026-03-27T11:08:05.511182+00:00",
+  "total_scraped": 37,
+  "after_dedup": 10,
+  "after_filter": 10,
+  "items": [
+    {
+      "title": "ChatGPT by OpenAI - Release Notes - March 2026 - Releasebot",
+      "url": "https://releasebot.io/updates/openai/chatgpt",
+      "source": "gemini_grounded",
+      "author": "releasebot.io",
+      "snippet": "OpenAI has been active in March 2026 with a series of major announcements across funding, models, and product updates. The company secured a record-breaking $110 billion funding round led by Amazon, Nvidia, and SoftBank, alongside a $100 billion extension on its AWS compute capacity agreement. On the model front, OpenAI released three GPT-5.4 variants (Standard, Thinking, and Pro) during a particularly active week (March 10–16) that saw coordinated launches across the AI industry. Codex also shi",
+      "timestamp": "2026-03-27T11:07:55.352259+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.95,
+      "content_hash": "b1bf06bd398cf62a"
+    },
+    {
+      "title": "ChatGPT Enterprise & Edu - Release Notes | OpenAI Help Center",
+      "url": "https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes",
+      "source": "gemini_grounded",
+      "author": "help.openai.com",
+      "snippet": "OpenAI has continued its aggressive model release cadence into early 2026. The most notable recent launches include GPT-5.3-Codex and GPT-5.4, with GPT-5.3-Codex positioning itself as OpenAI's most capable agentic coding model — combining the Codex and GPT-5 training stacks, running ~25% faster than predecessors, and excelling at long-running tasks involving research, tool use, and complex multi-step execution. Users can interact with and steer the model mid-task without losing context, making i",
+      "timestamp": "2026-03-27T11:06:22.786801+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.9,
+      "content_hash": "0473830c2f9f4a3d"
+    },
+    {
+      "title": "March 2026 AI Roundup: The Month That Changed AI Forever",
+      "url": "https://www.digitalapplied.com/blog/march-2026-ai-roundup-month-that-changed-everything",
+      "source": "gemini_grounded",
+      "author": "www.digitalapplied.com",
+      "snippet": "OpenAI has been active in March 2026 with a series of major announcements across funding, models, and product updates. The company secured a record-breaking $110 billion funding round led by Amazon, Nvidia, and SoftBank, alongside a $100 billion extension on its AWS compute capacity agreement. On the model front, OpenAI released three GPT-5.4 variants (Standard, Thinking, and Pro) during a particularly active week (March 10–16) that saw coordinated launches across the AI industry. Codex also shi",
+      "timestamp": "2026-03-27T11:07:55.352267+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.85,
+      "content_hash": "49a61072fca17b80"
+    },
+    {
+      "title": "OpenAI Research Publications | OpenAI",
+      "url": "https://openai.com/research/index/publication/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI published several notable research papers in March 2026. On March 19, they released research on 'Evaluating Chain-of-Thought Monitorability,' examining how chain-of-thought reasoning in coding agents can be monitored for signs of misalignment — a key safety research focus. On March 10, they published work on improving instruction hierarchy in frontier LLMs via a method called IH-Challenge, which trains models to prioritize trusted instructions and resist prompt injection attacks. On March",
+      "timestamp": "2026-03-27T11:05:43.142663+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.8,
+      "content_hash": "d556aa04cef8b711"
+    },
+    {
+      "title": "OpenAI Research | OpenAI",
+      "url": "https://openai.com/research/index/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI published several notable research papers in March 2026. On March 19, they released research on 'Evaluating Chain-of-Thought Monitorability,' examining how chain-of-thought reasoning in coding agents can be monitored for signs of misalignment — a key safety research focus. On March 10, they published work on improving instruction hierarchy in frontier LLMs via a method called IH-Challenge, which trains models to prioritize trusted instructions and resist prompt injection attacks. On March",
+      "timestamp": "2026-03-27T11:05:43.142669+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.8,
+      "content_hash": "fb7bb4cc5b575430"
+    },
+    {
+      "title": "OpenAI for Science | OpenAI",
+      "url": "https://openai.com/science/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI published several notable research papers in March 2026. On March 19, they released research on 'Evaluating Chain-of-Thought Monitorability,' examining how chain-of-thought reasoning in coding agents can be monitored for signs of misalignment — a key safety research focus. On March 10, they published work on improving instruction hierarchy in frontier LLMs via a method called IH-Challenge, which trains models to prioritize trusted instructions and resist prompt injection attacks. On March",
+      "timestamp": "2026-03-27T11:05:43.142673+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.7,
+      "content_hash": "2c43745eceb5d27c"
+    },
+    {
+      "title": "OpenAI is throwing everything into building a fully automated researcher | MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
+      "source": "gemini_grounded",
+      "author": "www.technologyreview.com",
+      "snippet": "OpenAI published several notable research papers in March 2026. On March 19, they released research on 'Evaluating Chain-of-Thought Monitorability,' examining how chain-of-thought reasoning in coding agents can be monitored for signs of misalignment — a key safety research focus. On March 10, they published work on improving instruction hierarchy in frontier LLMs via a method called IH-Challenge, which trains models to prioritize trusted instructions and resist prompt injection attacks. On March",
+      "timestamp": "2026-03-27T11:05:43.142685+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.7,
+      "content_hash": "416c9374a1eab723"
+    },
+    {
+      "title": "OpenAI Twitter / X",
+      "url": "https://twitter.com/openai",
+      "source": "gemini_grounded",
+      "author": "twitter.com",
+      "snippet": "OpenAI has been active in March 2026 with a series of major announcements across funding, models, and product updates. The company secured a record-breaking $110 billion funding round led by Amazon, Nvidia, and SoftBank, alongside a $100 billion extension on its AWS compute capacity agreement. On the model front, OpenAI released three GPT-5.4 variants (Standard, Thinking, and Pro) during a particularly active week (March 10–16) that saw coordinated launches across the AI industry. Codex also shi",
+      "timestamp": "2026-03-27T11:07:55.352271+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.7,
+      "content_hash": "fe2ff27e95e0b1ff"
+    },
+    {
+      "title": "AI as a Scientific Collaborator (Jan 2026)",
+      "url": "https://cdn.openai.com/pdf/f4b4a5da-b2de-418d-9fcd-6b293e9dc157/oai_ai-as-a-scientific-collaborator_jan-2026.pdf",
+      "source": "gemini_grounded",
+      "author": "cdn.openai.com",
+      "snippet": "OpenAI published several notable research papers in March 2026. On March 19, they released research on 'Evaluating Chain-of-Thought Monitorability,' examining how chain-of-thought reasoning in coding agents can be monitored for signs of misalignment — a key safety research focus. On March 10, they published work on improving instruction hierarchy in frontier LLMs via a method called IH-Challenge, which trains models to prioritize trusted instructions and resist prompt injection attacks. On March",
+      "timestamp": "2026-03-27T11:05:43.142677+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.6,
+      "content_hash": "5ffa18a432f06cbf"
+    },
+    {
+      "title": "AI as a Healthcare Ally (Jan 2026)",
+      "url": "https://cdn.openai.com/pdf/2cb29276-68cd-4ec6-a5f4-c01c5e7a36e9/OpenAI-AI-as-a-Healthcare-Ally-Jan-2026.pdf",
+      "source": "gemini_grounded",
+      "author": "cdn.openai.com",
+      "snippet": "OpenAI published several notable research papers in March 2026. On March 19, they released research on 'Evaluating Chain-of-Thought Monitorability,' examining how chain-of-thought reasoning in coding agents can be monitored for signs of misalignment — a key safety research focus. On March 10, they published work on improving instruction hierarchy in frontier LLMs via a method called IH-Challenge, which trains models to prioritize trusted instructions and resist prompt injection attacks. On March",
+      "timestamp": "2026-03-27T11:05:43.142681+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.5,
+      "content_hash": "420cdfc6b41661e5"
+    }
+  ]
+}

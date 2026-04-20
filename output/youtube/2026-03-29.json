@@ -1,0 +1,24 @@
+{
+  "date": "2026-03-29",
+  "scan_time": "2026-03-29T10:01:13.518307+00:00",
+  "total_found": 120,
+  "unique_new": 4,
+  "with_transcripts": 3,
+  "after_filter": 1,
+  "items": [
+    {
+      "video_id": "E4fzxVMOav4",
+      "title": "12 Claude Code Features Every Engineer Should Know: Subagents, CLAUDE.md, Checkpoints, MCP, and more",
+      "channel": "ByteByteAI and ByteByteGo",
+      "url": "https://www.youtube.com/watch?v=E4fzxVMOav4",
+      "upload_date": "",
+      "duration_seconds": 450.0,
+      "description": "Last Day to Enroll: Become an AI Engineer | By building, not just watching | Cohort 5: https://go.bytebytego.com/bbai-yt Chapters ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.7,
+      "content_hash": "daf2b78e6b37d7df",
+      "transcript_length": 0
+    }
+  ]
+}

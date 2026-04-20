@@ -1,0 +1,152 @@
+What if I told you that you could build something 
+like this? A fully working web app without writing   a single line of code yourself. No coding 
+boot camp, no YouTube tutorial rabbit hole,   just you talking to an AI in plain English 
+and watching it build the whole thing for you. Hey everyone, welcome back to Teachers Tech. 
+I'm Jamie and today we're diving into one of   the most exciting tools I've seen in a long time. 
+It's called Claude Code and it's going to change   the way you think about building things with 
+technology. Now, I know what some of you are   thinking. I'm not a coder. This isn't for me. 
+But that's exactly why I'm making this video.   Claude Code is genuinely accessessible to 
+beginners. And by the end of this video,   you're going to have built a real working app. So, 
+stick with me. So, let's start with the basics.   You might already know Claude is the AI chatbot 
+from a company called Anthropic. You can go to   claude.ai AI and chat with it. Ask it questions, 
+have it write things for you. That's what most   people know. Claude code is different. Think of 
+regular Claude as someone you can talk to about   building a house. They can describe how to frame a 
+wall, what materials to use, draw you a blueprint.   That's great. But Claude Code, Claude Code is 
+the person who actually picks up the hammer,   measures the wood, and builds the wall for you. 
+Claude Code runs in something called a terminal.   That's just the textbased window on your computer 
+where you can type commands. And from there,   Claude Code can actually read your files, 
+create new files, run programs, install things,   and build entire projects. All you do is describe 
+what you want in plain English. Now, Claude Code   launched in early 2025, and it has absolutely 
+taken off. Developers around the world are using   it. But here's what I want you to understand. You 
+don't need to be a developer to use this tool. If   you can describe what you want clearly, Claude 
+Code can build it. Okay, let's talk about what   you need to get started. There are really just two 
+things, a computer and a cloud subscription. Cloud   Code works on Mac, Windows, and Linux. There's a 
+straightforward installer as well. I'll show you   both in a minute. Now, here's the part everyone 
+wants to know about. What does it cost? Let me   break this down for you simply. There's a free 
+version, but no Cloud Code access. This is just   chat only. In the Pro, $20 a month, you have 
+Claude code and terminal. This is where most   beginners should start. You also get Cloud Code 
+in the Max plans. The 5X more usage than Pro,   good for heavy daily users, and you have the 20x 
+more usage for power users and professionals. My   recommendations for beginners, start with the 
+pro plan at $20 a month. That gives you access   to Claude Code and Co-work. I'm going to have a 
+different video coming out about that, so make   sure you stay tuned, and it gives you plenty of 
+usage to learn and experiment. You can always   upgrade later if you find yourself using it a lot. 
+Now, I'm going to show you the terminal version   today because it's the most powerful, but I want 
+you to know you can also use Cloud Code right   inside Cloud.AI on the web with no installation as 
+a desktop app or inside VS Code if you're already   a coder. Same brain, different interfaces. 
+I'll cover those in future videos. All right,   let's get Cloud Code installed on our computer. 
+And I'm going to walk you through this step by   step. I'm going to start with Windows first and 
+then I'll show you on Mac as well. On Windows,   just go down and we're going to open up terminal 
+here. And I'm going to get you to rightclick on   terminal and run this as administrator to avoid 
+any permission issues. What I want you to do is   type this in windget installthropic.cloudcode. 
+I have it down below in the description, so you   can just copy and paste it in. Once you have that 
+in, go ahead and hit enter. Now, if you got this   error, don't worry. I got this, too. This is a 
+quick fix. Let me show you what to download and   then install it and it should work fine. The link 
+to this page is down below. What I want you to   do is just go here, click to download this latest 
+version. Go and install this on your computer. And   then we're going to run Claude after. I'm going to 
+go and open up terminal again. And I'm just going   to type Claude in here and hit enter. And look 
+at that. We're ready to set up. And our next step   will be logging in. But let me show you on a Mac 
+real quick. All right. I'm just back on the get   SEM page and I'm just going to go over to the Mac. 
+And how I did it on my Mac is I actually installed   Homebrew first if you don't have it. So go ahead 
+and copy this. And you're going to need to open   up Terminal on Mac, which is your uh command plus 
+spacebar together. And then that's going to open   up terminal. And once you open that up, just paste 
+what you've just copied into it and hit enter. So,   this is going to run through and install Homebrew. 
+After that, just go back over to where you see   Homebrew here. And then you can copy this and open 
+up terminal again with the command spa spacebar.   When terminal opens back up again, all you're 
+going to need to do is paste that code into it   and hit enter. And it's going to go through and 
+run Claude code on here. It won't take too long.   When it's all done, you can type 
+claude at the end just like I did   with the Windows. And you can see that it 
+will open up and we can go through setup. Now, the first step is to pick our textile. I'm 
+just going to leave it at dark mode. I just hit   enter. Now, it's asking us uh to connect to our 
+subscription. So, for me, this is just number   one. I'm going to go ahead and hit enter again. 
+My browser came up. It connects. Pops it open. All   I have to do is authorize this. You can see that 
+I'm logged in successfully and I'm just going to   hit enter. A few security notes. I'm going to hit 
+enter again. And I am going to trust this folder.   So I'm going to put number one and hit enter. And 
+I am going to keep the effort level with number   one. Use the high effort. But you can see you 
+can also adjust this later. If you get any other   errors during installation, the simplest fix is to 
+copy the error message and paste it into regular   claud.ai. It usually can tell you exactly what to 
+do. All right, here we go. First, I'm just going   to go open up my terminal and type in claude to 
+start cla. So, we can go to terminal and all we   need to do now is just type claude. Better spell 
+it correctly. And it's asking again to trust the   folder. I'm just going to hit enter. All right, 
+we're all ready. Now, here's the beautiful thing.   I don't need to create any folders or type any 
+special commands. I can tell Claude what I want in   plain English, and it will handle everything for 
+me, including setting up the project folder. Watch   this. Now, before I ask Claude to build anything, 
+I'm going to use plan mode first. Remember, shift   plus tap. This way, Claude will think through 
+the project before writing any code. Here's   what I'm going to type. And I want you to notice 
+something. I'm telling it to create the folder,   set up the project, and build the app. All in 
+one plain English prompt. No commands, no jargon,   just describing what I want. Here's the prompt 
+that I'm going to use. And again, it will be   down below in the description if you want to copy 
+mine. Create a new folder on my desktop called my   bookmarks app. Then build me a personal bookmark 
+dashboard as a single htm file inside it. Here's   what it should do. It should let me save bookmarks 
+with a title, URL, category, optional notes,   display all bookmarks as a nicel lookinging cards 
+in a grid layout. Include a search bar that filter   bookmarks as title and category. Let me filter by 
+category using clickable buttons. Save everything   to the browser local storage to so bookmarks 
+persist. Include small sample bookmarks so it   doesn't look empty when it first loads. Make it 
+looks modern and clean with a blue color scheme.   Let me delete bookmarks I don't want anymore. Make 
+it responsive so it works on mobile, too. Now,   before I go and put the prompt in, I'm just going 
+to hit shift and tab one more time. Notice that   it wasn't on plan mode. And now, I'm going to go 
+and paste those lines of text in and hit enter.   I can see right now it says I'll plan this out 
+and write up the approach. So since this is a   new project from scratch with clear requirements, 
+I can go straight to the designing the plan. So   here's the plan. Now if I didn't have that on, 
+if I didn't have plan mode on, it would just   would have went through and created the whole 
+thing. So if you want to see all the steps that   are going to be happening, if it has the right 
+structure, the bookmark design of what you want,   you can go through and check the plan first. So 
+you can see down below, yes, clear context, and I   can accept that. Uh, yes, auto accept edits. Yes, 
+manually approve edits. So, I'm actually going   to go uh to number two on this one to auto accept 
+edits. Now, the folder was created. I'll just drag   it a little bit closer. All right. So, Claude just 
+built our entire BookBark dashboard app. I can see   there's something in the folder right now. We'll 
+check it out in a second. I want to I'm really   curious about it. I'm just going to ask Claude 
+to open it for me. I could go to the folder and   double click on it and open it up, but I just want 
+to see what I can get Claude to do for me. So,   I'm going to say open the app in my browser so I 
+can see it. And I'm going to go to number two so   it doesn't ask me this anymore. And it just popped 
+up on my other window. Look at this. We have a   beautiful bookmark dashboard. There's a search 
+at the top. We have category filter buttons. And   our sample bookmarks are showing up here as nice 
+cards. Let me test some things out. Let's test   out the search first. I'm just going to go in here 
+and start typing. I know there's only six in here,   but if I start typing CSS. All right, that seems 
+to be very responsive. We'll try free. Yep,   right away. So, we have the buttons. Let's see 
+what happens. Oh, very good. Everything. So,   that's all working fine. What happens if I hit the 
+X here? Do you want to delete a bookmark? Sure,   why not? Okay, so that's deleted. So, now I just 
+need to test this out by adding one. Let's go add   bookmark. All right, I just quickly typed some 
+things out. Just my own YouTube channel URL,   category. Let's see if it creates a category. 
+We have some notes. Let's hit save. So,   here it is right here. And now I have YouTube. 
+So, it's very responsive, very quick. Now,   here's the really cool part. I'm just going to 
+hit refresh. And all my bookmarks are still there.   That's because Claude built it to save everything 
+to local storage just like I asked. Here's where   things get really interesting. Let's say I want to 
+add a feature. I can just go back to Claude Code   and ask for it. Let me try something fun. So, 
+I have some prompts ready here and there's two   lines and you're going to see it in a second. So, 
+I'll hit enter. So, can you add two more features   to the bookmark app? I want to an edit button 
+on each card so I can update the title, URL,   or category. And I also want to toggle for dark 
+mode. Now, watch what's happening. Claude didn't   start over. It read the existing file, understood 
+the entire structure, and now surgically adding   the new features. An edit button on each card, a 
+dark and a dark mode toggle. This is the power of   Claude Code. It understands context. Here's the 
+moment of truth. I'm just going to get it to open   it again. All right, brought it over here. So, 
+what were some of the things that we asked? Well,   first of all, dark mode. I like how they put 
+the little moon up here. So, let's toggle. Well,   that works really well. Toggle off on. And we now 
+have the edit with each of these. So if I click   edit now, it opens back up again. So I can quickly 
+make any changes. We just built a fully functional   bookmark dashboard app with search categories, 
+add, edit, delete, local storage, dark mode,   and we did it all just by describing what we 
+wanted in plain English. No coding required.   Before we wrap up, let me share some tips that 
+will save you a lot of time as you start using   Claude Code on your own. Tip one, be specific in 
+your prompts. The more detail you give Claude,   the better your results will be. Instead of 
+saying, "Make me a website," say, "Make me a   single page website with a header, three sections, 
+a contact form, and a blue color scheme." Being   specific will be your friend. Tip two, use 
+the plan mode for bigger projects. Remember,   shift plus tab for plan mode. If you're building 
+something with multiple features, always start   in plan mode. Let Claude show you its thinking 
+before it starts coding. It's like reviewing   the blueprint before construction starts. Tip 
+three, iterate. Don't start over. If something   isn't quite right, don't start from scratch. Just 
+tell Claude what to fix. Say the search bar isn't   filtering correctly. Can you fix it? Or can you 
+make the cards bigger? Claude remembers the entire   project and can make targeted changes. Tip four, 
+paste errors back to Claude if something breaks,   and things will occasionally break. That's just 
+normal. Just copy the error message and paste it   back into the cloud code saying, "I'm getting this 
+error. Can you fix it?" Nine times out of 10, it   will fix it immediately. Tip five, ask Claude to 
+explain if you're curious about what Claude built.   Just ask. Say, "Can you explain how the search 
+feature works or walk me through what this code   does? It's a fantastic learning tool, not just a 
+building tool." Tip six, use forward/compact for a   long sessions. If you've been working with Claude 
+for a while and it starts to slow down or lose   track, just type forward/compact. This clears up 
+the memory while keeping important context. Think   of it as a quick refresh. And that's it. Look 
+at what we accomplished today. We went from an   empty folder to a fully functional, good-looking 
+bookmark dashboard app with search, categories,   dark mode, and the whole thing. And we did it 
+entirely by talking to Claude Code in plain   English. If you're someone who has always been 
+curious about building things with technology but   felt like coding was a barrier, I hope this video 
+has shown you that the barrier is coming down.   Tools like Claude Code are making it possible 
+for anyone to bring their ideas to life. Thanks   for watching this week on Teachers Tech. I'll see 
+you next time with more tech tips and tutorials.

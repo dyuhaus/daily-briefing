@@ -1,0 +1,52 @@
+{
+  "date": "2026-04-07",
+  "scan_time": "2026-04-07T07:31:11.455828+00:00",
+  "total_found": 120,
+  "unique_new": 7,
+  "with_transcripts": 3,
+  "after_filter": 3,
+  "items": [
+    {
+      "video_id": "Y56FXjM_wuE",
+      "title": "I Built a FREE Coding Agent System (Claude Code, Codex, Gemini & More)",
+      "channel": "Stephen G. Pope",
+      "url": "https://www.youtube.com/watch?v=Y56FXjM_wuE",
+      "upload_date": "",
+      "duration_seconds": 490.0,
+      "description": "Learn how to build AI products → https://www.skool.com/ai-architects ----- Most coding agents lock you to your desk. Not anymore.",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.58,
+      "content_hash": "07d10513680ee95a",
+      "transcript_length": 0
+    },
+    {
+      "video_id": "bk2rt3SVnc8",
+      "title": "Claude Code Just Leaked… And It's Worse Than You Think",
+      "channel": "Exploring ChatGPT and ToxSec",
+      "url": "https://www.youtube.com/watch?v=bk2rt3SVnc8",
+      "upload_date": "",
+      "duration_seconds": 2840.0,
+      "description": "Anthropic just leaked Claude Code, and this AI news story may be bigger than most people realize. In this video, we break down ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.58,
+      "content_hash": "471e1ed38d5ae3ce",
+      "transcript_length": 0
+    },
+    {
+      "video_id": "E7RVKqyS_rg",
+      "title": "The Claude Code Trap Anthropic Didn’t Warn You About.",
+      "channel": "Austin Marchese",
+      "url": "https://www.youtube.com/watch?v=E7RVKqyS_rg",
+      "upload_date": "",
+      "duration_seconds": 612.0,
+      "description": "Get my free 5-day AI playbook (the steps I used to help build a $25M+ startup): https://the-ai-playbook.com/trap In this video, ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.58,
+      "content_hash": "6ccba5be47c1956b",
+      "transcript_length": 0
+    }
+  ]
+}

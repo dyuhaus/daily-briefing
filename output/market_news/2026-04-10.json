@@ -1,0 +1,86 @@
+{
+  "date": "2026-04-10",
+  "scan_time": "2026-04-10T07:40:47.188651+00:00",
+  "total_scraped": 94,
+  "after_dedup": 64,
+  "after_filter": 7,
+  "items": [
+    {
+      "title": "r/algotrading Subreddit Stats & Analysis — GummySearch",
+      "url": "https://gummysearch.com/r/algotrading/",
+      "source": "gemini_grounded",
+      "author": "gummysearch.com",
+      "snippet": "Discussions across r/algotrading and the broader quant community in 2025–2026 consistently highlight a widening gap between backtest and live trading performance. Research analyzing large cohorts of live futures trading systems found roughly 74% decay between backtest Sharpe ratios and live results, a finding that resonates strongly with community experience. QuantPedia's in-sample vs. out-of-sample analysis corroborates this, estimating that out-of-sample portfolio performance yields approximat",
+      "timestamp": "2026-04-10T07:31:42.208384+00:00",
+      "relevance_score": 0.75,
+      "content_hash": "9fccf5b69fc5e65c",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Automated Algo Trading Market Report 2026 - Research and Markets",
+      "url": "https://www.researchandmarkets.com/reports/5980477/automated-algo-trading-market-report",
+      "source": "gemini_grounded",
+      "author": "www.researchandmarkets.com",
+      "snippet": "Discussions on r/algotrading and adjacent quant communities in early 2026 reflect a maturing retail algo trading landscape where live performance results are increasingly shared and scrutinized. A recurring theme is the gap between backtested results and live execution, with posts noting that strategies can degrade significantly in live markets due to slippage, overfitting, and changing regime dynamics. The Dutch Algotrading blog (widely referenced in algotrading communities) published a March 2",
+      "timestamp": "2026-04-10T07:30:49.368847+00:00",
+      "relevance_score": 0.45,
+      "content_hash": "6792d9163d9f50d9",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Live Trading System Performance: 74% Decay in Backtest — LinkedIn/Jacob Amaral",
+      "url": "https://www.linkedin.com/posts/jacob-amaral-32198287_i-measured-87-live-futures-trading-systems-activity-7435017206574325760-FPmK",
+      "source": "gemini_grounded",
+      "author": "www.linkedin.com",
+      "snippet": "Discussions across r/algotrading and the broader quant community in 2025–2026 consistently highlight a widening gap between backtest and live trading performance. Research analyzing large cohorts of live futures trading systems found roughly 74% decay between backtest Sharpe ratios and live results, a finding that resonates strongly with community experience. QuantPedia's in-sample vs. out-of-sample analysis corroborates this, estimating that out-of-sample portfolio performance yields approximat",
+      "timestamp": "2026-04-10T07:31:42.208319+00:00",
+      "relevance_score": 0.3,
+      "content_hash": "69448d70f51c4687",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "In-Sample vs. Out-Of-Sample Analysis of Trading Strategies — QuantPedia",
+      "url": "https://quantpedia.com/in-sample-vs-out-of-sample-analysis-of-trading-strategies/",
+      "source": "gemini_grounded",
+      "author": "quantpedia.com",
+      "snippet": "Discussions across r/algotrading and the broader quant community in 2025–2026 consistently highlight a widening gap between backtest and live trading performance. Research analyzing large cohorts of live futures trading systems found roughly 74% decay between backtest Sharpe ratios and live results, a finding that resonates strongly with community experience. QuantPedia's in-sample vs. out-of-sample analysis corroborates this, estimating that out-of-sample portfolio performance yields approximat",
+      "timestamp": "2026-04-10T07:31:42.208348+00:00",
+      "relevance_score": 0.3,
+      "content_hash": "ab75a6965ff38b5d",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Realistic Expectations in Algo Trading — QuantConnect Forum",
+      "url": "https://www.quantconnect.com/forum/discussion/5720/realistic-expectations-in-algo-trading/",
+      "source": "gemini_grounded",
+      "author": "www.quantconnect.com",
+      "snippet": "Discussions across r/algotrading and the broader quant community in 2025–2026 consistently highlight a widening gap between backtest and live trading performance. Research analyzing large cohorts of live futures trading systems found roughly 74% decay between backtest Sharpe ratios and live results, a finding that resonates strongly with community experience. QuantPedia's in-sample vs. out-of-sample analysis corroborates this, estimating that out-of-sample portfolio performance yields approximat",
+      "timestamp": "2026-04-10T07:31:42.208364+00:00",
+      "relevance_score": 0.3,
+      "content_hash": "75e7cec783922db5",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Sample Performance on a Large Cohort of Trading Algorithms — Portfolio123",
+      "url": "https://community.portfolio123.com/uploads/short-url/3WHpAUOzhCG8QAUez71HpoWnA62.pdf",
+      "source": "gemini_grounded",
+      "author": "community.portfolio123.com",
+      "snippet": "Discussions across r/algotrading and the broader quant community in 2025–2026 consistently highlight a widening gap between backtest and live trading performance. Research analyzing large cohorts of live futures trading systems found roughly 74% decay between backtest Sharpe ratios and live results, a finding that resonates strongly with community experience. QuantPedia's in-sample vs. out-of-sample analysis corroborates this, estimating that out-of-sample portfolio performance yields approximat",
+      "timestamp": "2026-04-10T07:31:42.208370+00:00",
+      "relevance_score": 0.3,
+      "content_hash": "d9aa6406a6b9f165",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "How to Use Reddit Algo Trading for Instant Backtests and Live Trading Now — QuantLabsNet",
+      "url": "https://www.quantlabsnet.com/post/reddit-algo-trading-instant-backtests-live-now",
+      "source": "gemini_grounded",
+      "author": "www.quantlabsnet.com",
+      "snippet": "Discussions across r/algotrading and the broader quant community in 2025–2026 consistently highlight a widening gap between backtest and live trading performance. Research analyzing large cohorts of live futures trading systems found roughly 74% decay between backtest Sharpe ratios and live results, a finding that resonates strongly with community experience. QuantPedia's in-sample vs. out-of-sample analysis corroborates this, estimating that out-of-sample portfolio performance yields approximat",
+      "timestamp": "2026-04-10T07:31:42.208380+00:00",
+      "relevance_score": 0.3,
+      "content_hash": "c3ca7b14764e0d99",
+      "freshness_window": "24h"
+    }
+  ]
+}

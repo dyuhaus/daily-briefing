@@ -1,0 +1,262 @@
+{
+  "date": "2026-04-19",
+  "scan_time": "2026-04-19T07:38:15.921756+00:00",
+  "total_scraped": 91,
+  "after_dedup": 23,
+  "after_filter": 23,
+  "items": [
+    {
+      "title": "GitHub Trending Weekly 2026-04-13: Hermes Agent Hits 65K Stars",
+      "url": "https://www.shareuhack.com/en/posts/github-trending-weekly-2026-04-13",
+      "source": "gemini_grounded",
+      "author": "www.shareuhack.com",
+      "snippet": "The week of April 13–19, 2026 saw a notable Claude Code ecosystem explosion on GitHub, with multiple memory plugins, skill systems, and agent harnesses surging simultaneously. NousResearch's Hermes Agent led weekly growth with 32,572+ new stars added after its v0.8.0 release, which introduced closed-loop self-evolution via DSPy and GEPA (Genetic Evolution Prompt Architecture), Browser Use integration, and support for Telegram, Discord, Slack, WhatsApp, and CLI deployment. Four of the top trendin",
+      "timestamp": "2026-04-19T07:34:19.456818+00:00",
+      "category": "github",
+      "relevance_score": 0.9,
+      "content_hash": "23885d4e24bd3eb3"
+    },
+    {
+      "title": "Qwen 3: The new open standard - by Nathan Lambert",
+      "url": "https://www.interconnects.ai/p/qwen-3-the-new-open-standard",
+      "source": "gemini_grounded",
+      "author": "www.interconnects.ai",
+      "snippet": "April 2026 has been one of the densest months for open-source AI model releases in recent memory, with major labs shipping competitive open-weight models in rapid succession. Meta released Llama 4 Scout (109B total / 17B active, MoE with 10M token context) on April 2 and Llama 4 Maverick (400B total / 17B active, 128 experts) on April 5 — both appeared on Hugging Face within hours with community-quantized GGUF packs. Alibaba's Qwen3 family dominated downloads, with Qwen3-72B becoming the first o",
+      "timestamp": "2026-04-19T07:37:16.493317+00:00",
+      "category": "major_org",
+      "relevance_score": 0.9,
+      "content_hash": "8e7a41da069442f3"
+    },
+    {
+      "title": "Introducing Waypoint-1: Real-time interactive video diffusion",
+      "url": "https://huggingface.co/blog/waypoint-1",
+      "source": "gemini_grounded",
+      "author": "huggingface.co",
+      "snippet": "The Hugging Face blog in April 2026 has highlighted several major model releases. Google released Gemma 4, a multimodal model family with Apache 2 licenses featuring native audio support and on-device optimization. Meta's Llama 4 Maverick and Scout were welcomed on Hugging Face, introducing a Mixture-of-Experts (MoE) architecture with 17B active parameters and native multimodal (text + image) capabilities. NVIDIA released Nemotron 3 Nano, positioned as an efficient open model for agentic workloa",
+      "timestamp": "2026-04-19T07:32:13.692805+00:00",
+      "category": "major_org",
+      "relevance_score": 0.85,
+      "content_hash": "a0da2d1e40908169"
+    },
+    {
+      "title": "New Open Source AI Projects on GitHub and Hugging Face - April 2026",
+      "url": "https://fazm.ai/blog/new-open-source-ai-projects-github-hugging-face-april-2026",
+      "source": "gemini_grounded",
+      "author": "fazm.ai",
+      "snippet": "The week of April 13–19, 2026 saw a notable Claude Code ecosystem explosion on GitHub, with multiple memory plugins, skill systems, and agent harnesses surging simultaneously. NousResearch's Hermes Agent led weekly growth with 32,572+ new stars added after its v0.8.0 release, which introduced closed-loop self-evolution via DSPy and GEPA (Genetic Evolution Prompt Architecture), Browser Use integration, and support for Telegram, Discord, Slack, WhatsApp, and CLI deployment. Four of the top trendin",
+      "timestamp": "2026-04-19T07:34:19.456855+00:00",
+      "category": "github",
+      "relevance_score": 0.85,
+      "content_hash": "76d56547f3ab92aa"
+    },
+    {
+      "title": "New LLM Releases April 2026: Every Major Model Launch This Month",
+      "url": "https://fazm.ai/blog/new-llm-releases-april-2026",
+      "source": "gemini_grounded",
+      "author": "fazm.ai",
+      "snippet": "April 2026 has seen several major open-source LLM releases. Google's Gemma 4 launched on April 2, 2026 under Apache 2.0, offering four models including a 31B dense variant and 26B MoE, with the 31B scoring 89.2% on AIME 2026, 80.0% on LiveCodeBench v6, and a Codeforces ELO of 2,150 — outperforming models up to 20x its size. Zhipu AI's GLM-5.1 (a 744B MoE with 40B active parameters) also launched in April, claiming top scores on SWE-Bench Pro and outperforming leading proprietary models on coding",
+      "timestamp": "2026-04-19T07:35:04.234801+00:00",
+      "category": "startup",
+      "relevance_score": 0.85,
+      "content_hash": "e799e8fd77e5297a"
+    },
+    {
+      "title": "Introducing Falcon-H1-Arabic",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
+      "source": "gemini_grounded",
+      "author": "huggingface.co",
+      "snippet": "The Hugging Face blog in April 2026 has highlighted several major model releases. Google released Gemma 4, a multimodal model family with Apache 2 licenses featuring native audio support and on-device optimization. Meta's Llama 4 Maverick and Scout were welcomed on Hugging Face, introducing a Mixture-of-Experts (MoE) architecture with 17B active parameters and native multimodal (text + image) capabilities. NVIDIA released Nemotron 3 Nano, positioned as an efficient open model for agentic workloa",
+      "timestamp": "2026-04-19T07:32:13.692797+00:00",
+      "category": "major_org",
+      "relevance_score": 0.8,
+      "content_hash": "4f2d88c2328f3b0c"
+    },
+    {
+      "title": "New AI Model Releases and Open Source Projects in April 2026",
+      "url": "https://fazm.ai/blog/new-ai-model-releases-open-source-projects-april-2026",
+      "source": "gemini_grounded",
+      "author": "fazm.ai",
+      "snippet": "April 2026 has seen several major open-source LLM releases. Google's Gemma 4 launched on April 2, 2026 under Apache 2.0, offering four models including a 31B dense variant and 26B MoE, with the 31B scoring 89.2% on AIME 2026, 80.0% on LiveCodeBench v6, and a Codeforces ELO of 2,150 — outperforming models up to 20x its size. Zhipu AI's GLM-5.1 (a 744B MoE with 40B active parameters) also launched in April, claiming top scores on SWE-Bench Pro and outperforming leading proprietary models on coding",
+      "timestamp": "2026-04-19T07:35:04.234820+00:00",
+      "category": "github",
+      "relevance_score": 0.8,
+      "content_hash": "7d25f9238b1f7fc7"
+    },
+    {
+      "title": "AI Open Source Trends 2026-04-12 · agents-radar Issue #531",
+      "url": "https://github.com/duanyytop/agents-radar/issues/531",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "The week of April 13–19, 2026 saw a notable Claude Code ecosystem explosion on GitHub, with multiple memory plugins, skill systems, and agent harnesses surging simultaneously. NousResearch's Hermes Agent led weekly growth with 32,572+ new stars added after its v0.8.0 release, which introduced closed-loop self-evolution via DSPy and GEPA (Genetic Evolution Prompt Architecture), Browser Use integration, and support for Telegram, Discord, Slack, WhatsApp, and CLI deployment. Four of the top trendin",
+      "timestamp": "2026-04-19T07:34:19.456851+00:00",
+      "category": "github",
+      "relevance_score": 0.75,
+      "content_hash": "3be1388914373ecd"
+    },
+    {
+      "title": "GitHub - AgentOps-AI/agentops: Python SDK for AI agent monitoring integrating CrewAI, Langchain, Autogen",
+      "url": "https://github.com/agentops-ai/agentops",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "In 2026, the AI agent framework ecosystem has matured significantly, with LangChain, CrewAI, and AutoGen solidifying their positions while new challengers emerge. LangChain has stabilized post its 1.0 release (October 2025), with the ecosystem's momentum shifting to LangGraph for stateful agent runtimes — featuring built-in memory persistence, checkpointing, and over 600 integrations with major LLM providers. The Model Context Protocol (MCP) is fast becoming the standard tool-integration layer, ",
+      "timestamp": "2026-04-19T07:38:03.189846+00:00",
+      "category": "github",
+      "relevance_score": 0.75,
+      "content_hash": "3f062041ccc877a6"
+    },
+    {
+      "title": "Agent-driven development in Copilot Applied Science - The GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/",
+      "source": "gemini_grounded",
+      "author": "github.blog",
+      "snippet": "GitHub has made a series of major AI agent announcements for GitHub Copilot over the past year. In May 2025, GitHub introduced the Copilot Coding Agent — an autonomous agent that can implement tasks from issues, run in the background via GitHub Actions, and submit pull requests with its work. This marked a significant shift from Copilot as an autocomplete tool to a fully agentic developer. In October 2025, GitHub announced Agent HQ, a platform vision that brings third-party agents from Anthropic",
+      "timestamp": "2026-04-19T07:31:07.656395+00:00",
+      "category": "major_org",
+      "relevance_score": 0.7,
+      "content_hash": "7334ec1c08c23e31"
+    },
+    {
+      "title": "GitHub - HeadyZhang/agent-audit: Static security scanner for LLM agents — 49 rules mapped to OWASP Agentic Top 10 (2026)",
+      "url": "https://github.com/HeadyZhang/agent-audit",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "In 2026, the AI agent framework ecosystem has matured significantly, with LangChain, CrewAI, and AutoGen solidifying their positions while new challengers emerge. LangChain has stabilized post its 1.0 release (October 2025), with the ecosystem's momentum shifting to LangGraph for stateful agent runtimes — featuring built-in memory persistence, checkpointing, and over 600 integrations with major LLM providers. The Model Context Protocol (MCP) is fast becoming the standard tool-integration layer, ",
+      "timestamp": "2026-04-19T07:38:03.189838+00:00",
+      "category": "github",
+      "relevance_score": 0.7,
+      "content_hash": "b30a45f335d9d932"
+    },
+    {
+      "title": "LLM Agent Frameworks: LangChain vs CrewAI vs AutoGen - A 2026 Comparison",
+      "url": "https://dasroot.net/posts/2026/04/llm-agent-frameworks-langchain-crewai-autogen-comparison/",
+      "source": "gemini_grounded",
+      "author": "dasroot.net",
+      "snippet": "In 2026, the AI agent framework ecosystem has matured significantly, with LangChain, CrewAI, and AutoGen solidifying their positions while new challengers emerge. LangChain has stabilized post its 1.0 release (October 2025), with the ecosystem's momentum shifting to LangGraph for stateful agent runtimes — featuring built-in memory persistence, checkpointing, and over 600 integrations with major LLM providers. The Model Context Protocol (MCP) is fast becoming the standard tool-integration layer, ",
+      "timestamp": "2026-04-19T07:38:03.189829+00:00",
+      "category": "framework",
+      "relevance_score": 0.65,
+      "content_hash": "4789e7f38acbf047"
+    },
+    {
+      "title": "MultiAgentBench: Evaluating the Collaboration and Competition of LLM agents",
+      "url": "https://arxiv.org/abs/2503.01935",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "This week saw continued strong output on arXiv for LLM agent research. Key themes include autonomous agent architectures and evaluation frameworks: a comprehensive review (2504.19678) systematically surveys how LLM reasoning has evolved into autonomous AI agent pipelines, consolidating fragmented benchmarks and protocols into a unified framework. A new survey on AI agent protocols (2504.16736) catalogs the communication and coordination standards emerging across multi-agent systems. On planning,",
+      "timestamp": "2026-04-19T07:32:56.276868+00:00",
+      "category": "framework",
+      "relevance_score": 0.6,
+      "content_hash": "75b0de6048fee81d"
+    },
+    {
+      "title": "Best Open Source LLM in 2026: Rankings, Benchmarks, and the Models Worth Running",
+      "url": "https://benchlm.ai/blog/posts/best-open-source-llm",
+      "source": "gemini_grounded",
+      "author": "benchlm.ai",
+      "snippet": "April 2026 has seen several major open-source LLM releases. Google's Gemma 4 launched on April 2, 2026 under Apache 2.0, offering four models including a 31B dense variant and 26B MoE, with the 31B scoring 89.2% on AIME 2026, 80.0% on LiveCodeBench v6, and a Codeforces ELO of 2,150 — outperforming models up to 20x its size. Zhipu AI's GLM-5.1 (a 744B MoE with 40B active parameters) also launched in April, claiming top scores on SWE-Bench Pro and outperforming leading proprietary models on coding",
+      "timestamp": "2026-04-19T07:35:04.234806+00:00",
+      "category": "github",
+      "relevance_score": 0.6,
+      "content_hash": "f02d38fd765004a2"
+    },
+    {
+      "title": "Changes to Cody Free, Pro, and Enterprise Starter plans",
+      "url": "https://sourcegraph.com/blog/changes-to-cody-free-pro-and-enterprise-starter-plans",
+      "source": "gemini_grounded",
+      "author": "sourcegraph.com",
+      "snippet": "Cursor has been on an aggressive release cadence in early 2026. The landmark release was Cursor 3 (April 2, 2026), which introduced parallel multi-agent execution across local workspaces, git worktrees, cloud, and remote SSH environments. A follow-up on April 15 added interactive canvas responses — dashboards and custom interfaces built with tables, diagrams, and charts — along with Bugbot self-improvement in real time, MCP support, and the highest issue resolution rate to date. Self-hosted clou",
+      "timestamp": "2026-04-19T07:35:44.953524+00:00",
+      "category": "general",
+      "relevance_score": 0.55,
+      "content_hash": "65b2f93052fc63ab"
+    },
+    {
+      "title": "Benchmarking Multi-Agent LLM Architectures for Financial Document Processing",
+      "url": "https://arxiv.org/abs/2603.22651",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "This week saw continued strong output on arXiv for LLM agent research. Key themes include autonomous agent architectures and evaluation frameworks: a comprehensive review (2504.19678) systematically surveys how LLM reasoning has evolved into autonomous AI agent pipelines, consolidating fragmented benchmarks and protocols into a unified framework. A new survey on AI agent protocols (2504.16736) catalogs the communication and coordination standards emerging across multi-agent systems. On planning,",
+      "timestamp": "2026-04-19T07:32:56.276874+00:00",
+      "category": "framework",
+      "relevance_score": 0.5,
+      "content_hash": "ce4b27a84b099062"
+    },
+    {
+      "title": "awesome-ai-agents-2026 (caramaschiHG)",
+      "url": "https://github.com/caramaschiHG/awesome-ai-agents-2026",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "The week of April 13–19, 2026 saw a notable Claude Code ecosystem explosion on GitHub, with multiple memory plugins, skill systems, and agent harnesses surging simultaneously. NousResearch's Hermes Agent led weekly growth with 32,572+ new stars added after its v0.8.0 release, which introduced closed-loop self-evolution via DSPy and GEPA (Genetic Evolution Prompt Architecture), Browser Use integration, and support for Telegram, Discord, Slack, WhatsApp, and CLI deployment. Four of the top trendin",
+      "timestamp": "2026-04-19T07:34:19.456864+00:00",
+      "category": "github",
+      "relevance_score": 0.5,
+      "content_hash": "c11f2e2eed2e5f7d"
+    },
+    {
+      "title": "awesome-ai-agents-2026 (Zijian-Ni)",
+      "url": "https://github.com/Zijian-Ni/awesome-ai-agents-2026",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "The week of April 13–19, 2026 saw a notable Claude Code ecosystem explosion on GitHub, with multiple memory plugins, skill systems, and agent harnesses surging simultaneously. NousResearch's Hermes Agent led weekly growth with 32,572+ new stars added after its v0.8.0 release, which introduced closed-loop self-evolution via DSPy and GEPA (Genetic Evolution Prompt Architecture), Browser Use integration, and support for Telegram, Discord, Slack, WhatsApp, and CLI deployment. Four of the top trendin",
+      "timestamp": "2026-04-19T07:34:19.456868+00:00",
+      "category": "github",
+      "relevance_score": 0.5,
+      "content_hash": "f10df86917e98db6"
+    },
+    {
+      "title": "AI Governance Watch: Nineteen New AI Bills Passed Into Law (April 2026)",
+      "url": "https://pluralpolicy.com/blog/the-ai-governance-watch-april-2026-nineteen-new-ai-bills-passed-into-law/",
+      "source": "gemini_grounded",
+      "author": "pluralpolicy.com",
+      "snippet": "The EU AI Act is reaching a major milestone in 2026, with full applicability set for August 2, 2026. This includes transparency rules, mandatory AI regulatory sandboxes at the national level in each EU member state, and compliance obligations for high-risk AI systems. General-purpose AI model governance rules became applicable in August 2025, and prohibited AI practices rules have been in effect since February 2025. The Act represents the world's most comprehensive binding AI regulatory framewor",
+      "timestamp": "2026-04-19T07:36:32.732861+00:00",
+      "category": "general",
+      "relevance_score": 0.5,
+      "content_hash": "52ae4c100d015914"
+    },
+    {
+      "title": "EU Artificial Intelligence Act — Up-to-date Developments",
+      "url": "https://artificialintelligenceact.eu/",
+      "source": "gemini_grounded",
+      "author": "artificialintelligenceact.eu",
+      "snippet": "The EU AI Act is reaching a major milestone in 2026, with full applicability set for August 2, 2026. This includes transparency rules, mandatory AI regulatory sandboxes at the national level in each EU member state, and compliance obligations for high-risk AI systems. General-purpose AI model governance rules became applicable in August 2025, and prohibited AI practices rules have been in effect since February 2025. The Act represents the world's most comprehensive binding AI regulatory framewor",
+      "timestamp": "2026-04-19T07:36:32.732846+00:00",
+      "category": "general",
+      "relevance_score": 0.45,
+      "content_hash": "af95c46a86496db8"
+    },
+    {
+      "title": "White House National AI Legislative Framework — National Law Review",
+      "url": "https://natlawreview.com/article/white-house-releases-national-ai-legislative-framework-debate-over-federal-vs-state",
+      "source": "gemini_grounded",
+      "author": "natlawreview.com",
+      "snippet": "The EU AI Act is reaching a major milestone in 2026, with full applicability set for August 2, 2026. This includes transparency rules, mandatory AI regulatory sandboxes at the national level in each EU member state, and compliance obligations for high-risk AI systems. General-purpose AI model governance rules became applicable in August 2025, and prohibited AI practices rules have been in effect since February 2025. The Act represents the world's most comprehensive binding AI regulatory framewor",
+      "timestamp": "2026-04-19T07:36:32.732853+00:00",
+      "category": "framework",
+      "relevance_score": 0.4,
+      "content_hash": "db8022c9ef1a3b32"
+    },
+    {
+      "title": "AI Foundation Model Transparency Act of 2026 (H.R. 8094) — GovTrack",
+      "url": "https://www.govtrack.us/congress/bills/119/hr8094",
+      "source": "gemini_grounded",
+      "author": "www.govtrack.us",
+      "snippet": "The EU AI Act is reaching a major milestone in 2026, with full applicability set for August 2, 2026. This includes transparency rules, mandatory AI regulatory sandboxes at the national level in each EU member state, and compliance obligations for high-risk AI systems. General-purpose AI model governance rules became applicable in August 2025, and prohibited AI practices rules have been in effect since February 2025. The Act represents the world's most comprehensive binding AI regulatory framewor",
+      "timestamp": "2026-04-19T07:36:32.732866+00:00",
+      "category": "general",
+      "relevance_score": 0.4,
+      "content_hash": "dfbbc9484559f5b8"
+    },
+    {
+      "title": "White House National Policy Framework for AI — Consumer Finance Monitor",
+      "url": "https://www.consumerfinancemonitor.com/2026/04/08/the-white-houses-national-policy-framework-for-artificial-intelligence-what-it-means-and-what-comes-next/",
+      "source": "gemini_grounded",
+      "author": "www.consumerfinancemonitor.com",
+      "snippet": "The EU AI Act is reaching a major milestone in 2026, with full applicability set for August 2, 2026. This includes transparency rules, mandatory AI regulatory sandboxes at the national level in each EU member state, and compliance obligations for high-risk AI systems. General-purpose AI model governance rules became applicable in August 2025, and prohibited AI practices rules have been in effect since February 2025. The Act represents the world's most comprehensive binding AI regulatory framewor",
+      "timestamp": "2026-04-19T07:36:32.732884+00:00",
+      "category": "framework",
+      "relevance_score": 0.4,
+      "content_hash": "b24c0d5ede2ed87b"
+    }
+  ]
+}

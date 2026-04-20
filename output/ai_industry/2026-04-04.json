@@ -1,0 +1,229 @@
+{
+  "date": "2026-04-04",
+  "scan_time": "2026-04-04T07:39:21.605075+00:00",
+  "total_scraped": 91,
+  "after_dedup": 32,
+  "after_filter": 20,
+  "items": [
+    {
+      "title": "VoltAgent/awesome-ai-agent-papers — 2026 AI Agent Paper Curation",
+      "url": "https://github.com/VoltAgent/awesome-ai-agent-papers",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "This week on arxiv, AI agent and LLM research continues at a high pace across several key themes. Major survey papers consolidate current understanding: a comprehensive survey on LLM agent methodology, applications, and challenges (2503.21460) frames goal-driven LLM agents as a pathway toward AGI, while a parallel review comparing 60+ benchmarks from 2019–2025 traces the arc from LLM reasoning to fully autonomous agents (2504.19678). A dedicated survey on AI agent communication protocols (2504.1",
+      "timestamp": "2026-04-04T07:33:18.360595+00:00",
+      "category": "github",
+      "relevance_score": 1.0,
+      "content_hash": "ef0bf0d9e3e85adc"
+    },
+    {
+      "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise | TechCrunch",
+      "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+      "source": "gemini_grounded",
+      "author": "techcrunch.com",
+      "snippet": "AI startup funding activity in early 2026 has been dominated by massive rounds at the infrastructure and foundation model layer. OpenAI raised $110 billion in one of the largest private funding rounds in history, backed by Amazon ($50B), Nvidia ($30B), and SoftBank ($30B) at a $730B pre-money valuation — and subsequently closed an additional $3B from retail investors, bringing its total raise to $122B at an $852B valuation. xAI also closed a $20B Series E led by Valor Equity Partners, Fidelity, ",
+      "timestamp": "2026-04-04T07:33:52.179351+00:00",
+      "category": "startup",
+      "relevance_score": 1.0,
+      "content_hash": "29fc680bbcd19b33"
+    },
+    {
+      "title": "langchain-ai/deepagents — Agent harness with LangChain/LangGraph",
+      "url": "https://github.com/langchain-ai/deepagents",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "This week on GitHub, AI agent frameworks and tooling are dominating the trending charts. Key breakout repositories include langchain-ai/deepagents — a new agent harness built on LangChain/LangGraph with planning, filesystem backend, and subagent spawning capabilities — and microsoft/agent-framework, Microsoft's multi-language (Python/.NET) framework for building and orchestrating multi-agent workflows. CrewAI continues its strong momentum as a lightweight, standalone Python framework for role-pl",
+      "timestamp": "2026-04-04T07:34:36.824778+00:00",
+      "category": "github",
+      "relevance_score": 1.0,
+      "content_hash": "a7a94fe2d484489c"
+    },
+    {
+      "title": "microsoft/agent-framework — Build and orchestrate AI agent workflows",
+      "url": "https://github.com/microsoft/agent-framework",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "This week on GitHub, AI agent frameworks and tooling are dominating the trending charts. Key breakout repositories include langchain-ai/deepagents — a new agent harness built on LangChain/LangGraph with planning, filesystem backend, and subagent spawning capabilities — and microsoft/agent-framework, Microsoft's multi-language (Python/.NET) framework for building and orchestrating multi-agent workflows. CrewAI continues its strong momentum as a lightweight, standalone Python framework for role-pl",
+      "timestamp": "2026-04-04T07:34:36.824787+00:00",
+      "category": "github",
+      "relevance_score": 1.0,
+      "content_hash": "d5ffafb1e89b5f7f"
+    },
+    {
+      "title": "crewAIInc/crewAI — Framework for orchestrating autonomous AI agents",
+      "url": "https://github.com/crewAIInc/crewAI",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "This week on GitHub, AI agent frameworks and tooling are dominating the trending charts. Key breakout repositories include langchain-ai/deepagents — a new agent harness built on LangChain/LangGraph with planning, filesystem backend, and subagent spawning capabilities — and microsoft/agent-framework, Microsoft's multi-language (Python/.NET) framework for building and orchestrating multi-agent workflows. CrewAI continues its strong momentum as a lightweight, standalone Python framework for role-pl",
+      "timestamp": "2026-04-04T07:34:36.824794+00:00",
+      "category": "github",
+      "relevance_score": 1.0,
+      "content_hash": "dc5f573c84c86791"
+    },
+    {
+      "title": "e2b-dev/awesome-ai-agents — A list of AI autonomous agents",
+      "url": "https://github.com/e2b-dev/awesome-ai-agents",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "This week on GitHub, AI agent frameworks and tooling are dominating the trending charts. Key breakout repositories include langchain-ai/deepagents — a new agent harness built on LangChain/LangGraph with planning, filesystem backend, and subagent spawning capabilities — and microsoft/agent-framework, Microsoft's multi-language (Python/.NET) framework for building and orchestrating multi-agent workflows. CrewAI continues its strong momentum as a lightweight, standalone Python framework for role-pl",
+      "timestamp": "2026-04-04T07:34:36.824799+00:00",
+      "category": "github",
+      "relevance_score": 1.0,
+      "content_hash": "1dfefc2149511a97"
+    },
+    {
+      "title": "caramaschiHG/awesome-ai-agents-2026 — 300+ AI agents, frameworks & tools",
+      "url": "https://github.com/caramaschiHG/awesome-ai-agents-2026",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "This week on GitHub, AI agent frameworks and tooling are dominating the trending charts. Key breakout repositories include langchain-ai/deepagents — a new agent harness built on LangChain/LangGraph with planning, filesystem backend, and subagent spawning capabilities — and microsoft/agent-framework, Microsoft's multi-language (Python/.NET) framework for building and orchestrating multi-agent workflows. CrewAI continues its strong momentum as a lightweight, standalone Python framework for role-pl",
+      "timestamp": "2026-04-04T07:34:36.824806+00:00",
+      "category": "github",
+      "relevance_score": 1.0,
+      "content_hash": "7b7d1e6de0c40ddd"
+    },
+    {
+      "title": "aiming-lab/AutoHarness — Automated Harness Engineering for AI Agents",
+      "url": "https://github.com/aiming-lab/AutoHarness",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "This week on GitHub, AI agent frameworks and tooling are dominating the trending charts. Key breakout repositories include langchain-ai/deepagents — a new agent harness built on LangChain/LangGraph with planning, filesystem backend, and subagent spawning capabilities — and microsoft/agent-framework, Microsoft's multi-language (Python/.NET) framework for building and orchestrating multi-agent workflows. CrewAI continues its strong momentum as a lightweight, standalone Python framework for role-pl",
+      "timestamp": "2026-04-04T07:34:36.824811+00:00",
+      "category": "github",
+      "relevance_score": 1.0,
+      "content_hash": "ccbd3a54c0479e7e"
+    },
+    {
+      "title": "DeepSeek V3.2 vs Llama 4 vs Qwen 3: Best Open-Source LLM for Production 2026",
+      "url": "https://www.spheron.network/blog/deepseek-vs-llama-4-vs-qwen3/",
+      "source": "gemini_grounded",
+      "author": "www.spheron.network",
+      "snippet": "The open-source LLM landscape in early 2026 has seen a surge of competitive releases with strong benchmark showings. Three families dominate the conversation: Meta's Llama 4 (Scout, Maverick, Behemoth variants), Alibaba's Qwen 3, and DeepSeek V3.2. Llama 4 Maverick leads on raw MMLU at 85.5% and offers an unmatched 10M token context window in the Scout variant, while Qwen 3 235B leads on GPQA Diamond (77.2%) and AIME '24 math reasoning (85.7%), making it the strongest open-weight model for math ",
+      "timestamp": "2026-04-04T07:35:35.901547+00:00",
+      "category": "major_org",
+      "relevance_score": 1.0,
+      "content_hash": "8788436520a2a787"
+    },
+    {
+      "title": "New Cursor Interface (3.0) · Cursor",
+      "url": "https://cursor.com/changelog/3-0",
+      "source": "gemini_grounded",
+      "author": "cursor.com",
+      "snippet": "Cursor released version 3.0 on April 2, 2026, representing a major overhaul centered around parallel agent execution. The new interface allows running many agents simultaneously across repos and environments — locally, in worktrees, in the cloud, and over SSH. Standout features include Design Mode (annotate and target UI elements in the browser for agents), Agent Tabs (side-by-side multi-chat view), a /worktree command for isolated git branch execution, and a /best-of-n command that runs the sam",
+      "timestamp": "2026-04-04T07:36:20.541423+00:00",
+      "category": "general",
+      "relevance_score": 1.0,
+      "content_hash": "f1679e5010ffa418"
+    },
+    {
+      "title": "Microsoft Build 2025: The age of AI agents and building the open agentic web - The Official Microsoft Blog",
+      "url": "https://blogs.microsoft.com/blog/2025/05/19/microsoft-build-2025-the-age-of-ai-agents-and-building-the-open-agentic-web/",
+      "source": "gemini_grounded",
+      "author": "blogs.microsoft.com",
+      "snippet": "Microsoft has been rapidly expanding its Copilot AI features across consumer and enterprise products. In early 2026, Microsoft announced Wave 3 of Microsoft 365 Copilot, introducing expanded model diversity including Claude and next-generation OpenAI models, along with new agentic experiences in Word, Excel, PowerPoint, and Outlook. A Copilot leadership update was also announced in March 2026, signaling continued organizational investment in the platform. In March 2026, Microsoft introduced a 'F",
+      "timestamp": "2026-04-04T07:31:45.127536+00:00",
+      "category": "major_org",
+      "relevance_score": 0.9,
+      "content_hash": "bb2b42e0e287159e"
+    },
+    {
+      "title": "GitHub Trending — This Week",
+      "url": "https://github.com/trending?since=weekly",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "This week on GitHub, AI agent frameworks and tooling are dominating the trending charts. Key breakout repositories include langchain-ai/deepagents — a new agent harness built on LangChain/LangGraph with planning, filesystem backend, and subagent spawning capabilities — and microsoft/agent-framework, Microsoft's multi-language (Python/.NET) framework for building and orchestrating multi-agent workflows. CrewAI continues its strong momentum as a lightweight, standalone Python framework for role-pl",
+      "timestamp": "2026-04-04T07:34:36.824738+00:00",
+      "category": "github",
+      "relevance_score": 0.9,
+      "content_hash": "d4922a550c4b33d7"
+    },
+    {
+      "title": "LLM Performance Leaderboard - Artificial Analysis on Hugging Face",
+      "url": "https://huggingface.co/spaces/ArtificialAnalysis/LLM-Performance-Leaderboard",
+      "source": "gemini_grounded",
+      "author": "huggingface.co",
+      "snippet": "The open-source LLM landscape in early 2026 has seen a surge of competitive releases with strong benchmark showings. Three families dominate the conversation: Meta's Llama 4 (Scout, Maverick, Behemoth variants), Alibaba's Qwen 3, and DeepSeek V3.2. Llama 4 Maverick leads on raw MMLU at 85.5% and offers an unmatched 10M token context window in the Scout variant, while Qwen 3 235B leads on GPQA Diamond (77.2%) and AIME '24 math reasoning (85.7%), making it the strongest open-weight model for math ",
+      "timestamp": "2026-04-04T07:35:35.901538+00:00",
+      "category": "major_org",
+      "relevance_score": 0.9,
+      "content_hash": "cb3d3e7b5745ebb2"
+    },
+    {
+      "title": "LLM Benchmarks Leaderboard: DeepSeek, Qwen, Llama - Lambda AI",
+      "url": "https://lambda.ai/llm-benchmarks-leaderboard",
+      "source": "gemini_grounded",
+      "author": "lambda.ai",
+      "snippet": "The open-source LLM landscape in early 2026 has seen a surge of competitive releases with strong benchmark showings. Three families dominate the conversation: Meta's Llama 4 (Scout, Maverick, Behemoth variants), Alibaba's Qwen 3, and DeepSeek V3.2. Llama 4 Maverick leads on raw MMLU at 85.5% and offers an unmatched 10M token context window in the Scout variant, while Qwen 3 235B leads on GPQA Diamond (77.2%) and AIME '24 math reasoning (85.7%), making it the strongest open-weight model for math ",
+      "timestamp": "2026-04-04T07:35:35.901561+00:00",
+      "category": "major_org",
+      "relevance_score": 0.9,
+      "content_hash": "b9049fdc681bb569"
+    },
+    {
+      "title": "Agentic AI, MCP, and spec-driven development: Top blog posts of 2025 - The GitHub Blog",
+      "url": "https://github.blog/developer-skills/agentic-ai-mcp-and-spec-driven-development-top-blog-posts-of-2025/",
+      "source": "gemini_grounded",
+      "author": "github.blog",
+      "snippet": "GitHub has significantly expanded its AI agent capabilities through several major announcements. In May 2025, GitHub introduced the Copilot Coding Agent — embedded directly into GitHub — which activates when you assign a GitHub Issue to Copilot or prompt it in VS Code. It spins up a secure, customizable development environment via GitHub Actions and can autonomously fix bugs, implement features, and iterate on its own code. A Squad feature was also introduced to enable coordinated multi-agent wo",
+      "timestamp": "2026-04-04T07:31:06.781321+00:00",
+      "category": "general",
+      "relevance_score": 0.8,
+      "content_hash": "94619d43e86d7ba2"
+    },
+    {
+      "title": "Benchmarking Local Coding Models in 2026",
+      "url": "https://dasroot.net/posts/2026/03/benchmarking-local-coding-models-2026/",
+      "source": "gemini_grounded",
+      "author": "dasroot.net",
+      "snippet": "The open-source LLM landscape in early 2026 has seen a surge of competitive releases with strong benchmark showings. Three families dominate the conversation: Meta's Llama 4 (Scout, Maverick, Behemoth variants), Alibaba's Qwen 3, and DeepSeek V3.2. Llama 4 Maverick leads on raw MMLU at 85.5% and offers an unmatched 10M token context window in the Scout variant, while Qwen 3 235B leads on GPQA Diamond (77.2%) and AIME '24 math reasoning (85.7%), making it the strongest open-weight model for math ",
+      "timestamp": "2026-04-04T07:35:35.901557+00:00",
+      "category": "major_org",
+      "relevance_score": 0.8,
+      "content_hash": "6b204ada6ce74c3e"
+    },
+    {
+      "title": "Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli",
+      "url": "https://ai.meta.com/blog/tribe-v2-brain-predictive-foundation-model/",
+      "source": "gemini_grounded",
+      "author": "ai.meta.com",
+      "snippet": "Meta's most significant recent open source model release is the Llama 4 family, announced in early 2026. The Llama 4 herd introduces natively multimodal models built on a mixture-of-experts (MoE) architecture — including Llama 4 Scout and Llama 4 Maverick, both available for download on llama.com and Hugging Face. These are the first open-weight models from Meta with native multimodality and support for over 200 languages, with 10x more multilingual tokens than Llama 3. Meta also previewed Llama",
+      "timestamp": "2026-04-04T07:30:34.947339+00:00",
+      "category": "github",
+      "relevance_score": 0.7,
+      "content_hash": "9046ca79314acf9c"
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps — LLM apps with AI Agents and RAG",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "This week on GitHub, AI agent frameworks and tooling are dominating the trending charts. Key breakout repositories include langchain-ai/deepagents — a new agent harness built on LangChain/LangGraph with planning, filesystem backend, and subagent spawning capabilities — and microsoft/agent-framework, Microsoft's multi-language (Python/.NET) framework for building and orchestrating multi-agent workflows. CrewAI continues its strong momentum as a lightweight, standalone Python framework for role-pl",
+      "timestamp": "2026-04-04T07:34:36.824817+00:00",
+      "category": "github",
+      "relevance_score": 0.7,
+      "content_hash": "b3420a30b42ab19a"
+    },
+    {
+      "title": "Gemma 4 vs Qwen 3.5 vs Llama 4: Updated Benchmarks",
+      "url": "https://ai.rs/ai-developer/gemma-4-vs-qwen-3-5-vs-llama-4-compared",
+      "source": "gemini_grounded",
+      "author": "ai.rs",
+      "snippet": "The open-source LLM landscape in early 2026 has seen a surge of competitive releases with strong benchmark showings. Three families dominate the conversation: Meta's Llama 4 (Scout, Maverick, Behemoth variants), Alibaba's Qwen 3, and DeepSeek V3.2. Llama 4 Maverick leads on raw MMLU at 85.5% and offers an unmatched 10M token context window in the Scout variant, while Qwen 3 235B leads on GPQA Diamond (77.2%) and AIME '24 math reasoning (85.7%), making it the strongest open-weight model for math ",
+      "timestamp": "2026-04-04T07:35:35.901552+00:00",
+      "category": "major_org",
+      "relevance_score": 0.7,
+      "content_hash": "59d1653d536b33b2"
+    },
+    {
+      "title": "Cursor 2.3 Release — Community Forum",
+      "url": "https://forum.cursor.com/t/cursor-2-3-is-here/147076",
+      "source": "gemini_grounded",
+      "author": "forum.cursor.com",
+      "snippet": "Cursor released version 3.0 on April 2, 2026, representing a major overhaul centered around parallel agent execution. The new interface allows running many agents simultaneously across repos and environments — locally, in worktrees, in the cloud, and over SSH. Standout features include Design Mode (annotate and target UI elements in the browser for agents), Agent Tabs (side-by-side multi-chat view), a /worktree command for isolated git branch execution, and a /best-of-n command that runs the sam",
+      "timestamp": "2026-04-04T07:36:20.541430+00:00",
+      "category": "general",
+      "relevance_score": 0.7,
+      "content_hash": "ce709556ea98e47a"
+    }
+  ]
+}

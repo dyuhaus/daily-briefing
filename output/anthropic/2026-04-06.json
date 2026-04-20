@@ -1,0 +1,142 @@
+{
+  "date": "2026-04-06",
+  "company": "anthropic",
+  "scan_time": "2026-04-06T07:33:46.069706+00:00",
+  "total_scraped": 39,
+  "after_dedup": 12,
+  "after_filter": 11,
+  "items": [
+    {
+      "title": "Introducing Labs — Anthropic",
+      "url": "https://www.anthropic.com/news/introducing-anthropic-labs",
+      "source": "gemini_grounded",
+      "author": "www.anthropic.com",
+      "snippet": "Anthropic has been active with major announcements in early 2026. Key model releases include Claude Opus 4.6 (announced February 5, 2026) as an industry-leading model for agentic coding, computer use, tool use, and finance, and Claude Sonnet 4.6 (February 17, 2026) delivering frontier performance for coding and professional work at scale. Additional model milestones include Claude Opus 4.5 and Claude Sonnet 4.5 releases. Organizational initiatives include the launch of The Anthropic Institute on",
+      "timestamp": "2026-04-06T07:30:38.851719+00:00",
+      "company": "anthropic",
+      "category": "model_release",
+      "relevance_score": 1.0,
+      "content_hash": "09306fb6d9aea191"
+    },
+    {
+      "title": "Introducing Claude Opus 4.5",
+      "url": "https://www.anthropic.com/news/claude-opus-4-5",
+      "source": "gemini_grounded",
+      "author": "www.anthropic.com",
+      "snippet": "Anthropic has been active with major announcements in early 2026. Key model releases include Claude Opus 4.6 (announced February 5, 2026) as an industry-leading model for agentic coding, computer use, tool use, and finance, and Claude Sonnet 4.6 (February 17, 2026) delivering frontier performance for coding and professional work at scale. Additional model milestones include Claude Opus 4.5 and Claude Sonnet 4.5 releases. Organizational initiatives include the launch of The Anthropic Institute on",
+      "timestamp": "2026-04-06T07:30:38.851734+00:00",
+      "company": "anthropic",
+      "category": "model_release",
+      "relevance_score": 1.0,
+      "content_hash": "52227139d463d597"
+    },
+    {
+      "title": "Claude Platform Release Notes Overview",
+      "url": "https://docs.anthropic.com/en/release-notes/overview",
+      "source": "gemini_grounded",
+      "author": "docs.anthropic.com",
+      "snippet": "Anthropic has released several significant API updates heading into April 2026. The most notable changes include the general availability of web search and programmatic tool calling (no longer requiring a beta header), a new max_tokens cap of 300k on the Message Batches API for Claude Opus 4.6 and Sonnet 4.6 via the output-300k-2026-03-24 beta header, and the introduction of data residency controls via an inference_geo parameter. Claude Sonnet 4.6 is now the flagship balanced model with improved",
+      "timestamp": "2026-04-06T07:32:42.415047+00:00",
+      "company": "anthropic",
+      "category": "api_update",
+      "relevance_score": 1.0,
+      "content_hash": "2342cb919df76978"
+    },
+    {
+      "title": "Claude Code Release Notes",
+      "url": "https://docs.anthropic.com/en/release-notes/claude-code",
+      "source": "gemini_grounded",
+      "author": "docs.anthropic.com",
+      "snippet": "Anthropic has released several significant API updates heading into April 2026. The most notable changes include the general availability of web search and programmatic tool calling (no longer requiring a beta header), a new max_tokens cap of 300k on the Message Batches API for Claude Opus 4.6 and Sonnet 4.6 via the output-300k-2026-03-24 beta header, and the introduction of data residency controls via an inference_geo parameter. Claude Sonnet 4.6 is now the flagship balanced model with improved",
+      "timestamp": "2026-04-06T07:32:42.415054+00:00",
+      "company": "anthropic",
+      "category": "api_update",
+      "relevance_score": 1.0,
+      "content_hash": "60b96aa42e0960ab"
+    },
+    {
+      "title": "Anthropic Release Notes - April 2026 - Releasebot",
+      "url": "https://releasebot.io/updates/anthropic",
+      "source": "gemini_grounded",
+      "author": "releasebot.io",
+      "snippet": "Anthropic has released several significant API updates heading into April 2026. The most notable changes include the general availability of web search and programmatic tool calling (no longer requiring a beta header), a new max_tokens cap of 300k on the Message Batches API for Claude Opus 4.6 and Sonnet 4.6 via the output-300k-2026-03-24 beta header, and the introduction of data residency controls via an inference_geo parameter. Claude Sonnet 4.6 is now the flagship balanced model with improved",
+      "timestamp": "2026-04-06T07:32:42.415060+00:00",
+      "company": "anthropic",
+      "category": "api_update",
+      "relevance_score": 1.0,
+      "content_hash": "0d1012005e39ac4a"
+    },
+    {
+      "title": "claude-agent-sdk-typescript CHANGELOG.md - GitHub",
+      "url": "https://github.com/anthropics/claude-agent-sdk-typescript/blob/main/CHANGELOG.md",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "Anthropic has released several significant API updates heading into April 2026. The most notable changes include the general availability of web search and programmatic tool calling (no longer requiring a beta header), a new max_tokens cap of 300k on the Message Batches API for Claude Opus 4.6 and Sonnet 4.6 via the output-300k-2026-03-24 beta header, and the introduction of data residency controls via an inference_geo parameter. Claude Sonnet 4.6 is now the flagship balanced model with improved",
+      "timestamp": "2026-04-06T07:32:42.415073+00:00",
+      "company": "anthropic",
+      "category": "api_update",
+      "relevance_score": 0.7,
+      "content_hash": "e9fe6334fef0482d"
+    },
+    {
+      "title": "Anthropic (@AnthropicAI) on X",
+      "url": "https://x.com/AnthropicAI",
+      "source": "gemini_grounded",
+      "author": "x.com",
+      "snippet": "Recent @AnthropicAI announcements span several major developments. Anthropic launched The Anthropic Institute on March 11, 2026, a new research body aimed at providing information and guidance during the transition to more powerful AI systems. The company also made headlines with a data leak revealing an unreleased model codenamed 'Claude Mythos,' described as a step-change in capabilities and potentially the most powerful model Anthropic has built. Mythos is currently being tested with select e",
+      "timestamp": "2026-04-06T07:33:23.196915+00:00",
+      "company": "anthropic",
+      "category": "model_release",
+      "relevance_score": 0.7,
+      "content_hash": "266dffb0c9a9557a"
+    },
+    {
+      "title": "Anthropic 'Mythos' AI model revealed in data leak | Fortune",
+      "url": "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/",
+      "source": "gemini_grounded",
+      "author": "fortune.com",
+      "snippet": "Recent @AnthropicAI announcements span several major developments. Anthropic launched The Anthropic Institute on March 11, 2026, a new research body aimed at providing information and guidance during the transition to more powerful AI systems. The company also made headlines with a data leak revealing an unreleased model codenamed 'Claude Mythos,' described as a step-change in capabilities and potentially the most powerful model Anthropic has built. Mythos is currently being tested with select e",
+      "timestamp": "2026-04-06T07:33:23.196945+00:00",
+      "company": "anthropic",
+      "category": "model_release",
+      "relevance_score": 0.7,
+      "content_hash": "424a1800452bae45"
+    },
+    {
+      "title": "Anthropic targets BioTech growth with $400M Coefficient Bio buy | PYMNTS",
+      "url": "https://www.pymnts.com/acquisitions/2026/anthropic-targets-biotech-growth-with-400-million-coefficient-bio-buy/",
+      "source": "gemini_grounded",
+      "author": "www.pymnts.com",
+      "snippet": "Recent @AnthropicAI announcements span several major developments. Anthropic launched The Anthropic Institute on March 11, 2026, a new research body aimed at providing information and guidance during the transition to more powerful AI systems. The company also made headlines with a data leak revealing an unreleased model codenamed 'Claude Mythos,' described as a step-change in capabilities and potentially the most powerful model Anthropic has built. Mythos is currently being tested with select e",
+      "timestamp": "2026-04-06T07:33:23.196949+00:00",
+      "company": "anthropic",
+      "category": "model_release",
+      "relevance_score": 0.7,
+      "content_hash": "007cc00c8102f1b0"
+    },
+    {
+      "title": "Anthropic cuts off Claude subscriptions from third-party agents | Cryptopond",
+      "url": "https://cryptopond.com/anthropic-cuts-off-the-ability-to-use-claude-subscriptions-with-openclaw-and-third-party-ai-agents/",
+      "source": "gemini_grounded",
+      "author": "cryptopond.com",
+      "snippet": "Recent @AnthropicAI announcements span several major developments. Anthropic launched The Anthropic Institute on March 11, 2026, a new research body aimed at providing information and guidance during the transition to more powerful AI systems. The company also made headlines with a data leak revealing an unreleased model codenamed 'Claude Mythos,' described as a step-change in capabilities and potentially the most powerful model Anthropic has built. Mythos is currently being tested with select e",
+      "timestamp": "2026-04-06T07:33:23.196953+00:00",
+      "company": "anthropic",
+      "category": "model_release",
+      "relevance_score": 0.7,
+      "content_hash": "7e20e3592666381f"
+    },
+    {
+      "title": "Anthropic Mythos and cybersecurity concerns | CNN Business",
+      "url": "https://www.cnn.com/2026/04/03/tech/anthropic-mythos-ai-cybersecurity",
+      "source": "gemini_grounded",
+      "author": "www.cnn.com",
+      "snippet": "Recent @AnthropicAI announcements span several major developments. Anthropic launched The Anthropic Institute on March 11, 2026, a new research body aimed at providing information and guidance during the transition to more powerful AI systems. The company also made headlines with a data leak revealing an unreleased model codenamed 'Claude Mythos,' described as a step-change in capabilities and potentially the most powerful model Anthropic has built. Mythos is currently being tested with select e",
+      "timestamp": "2026-04-06T07:33:23.196960+00:00",
+      "company": "anthropic",
+      "category": "model_release",
+      "relevance_score": 0.7,
+      "content_hash": "c4e60e003ff90f3a"
+    }
+  ]
+}

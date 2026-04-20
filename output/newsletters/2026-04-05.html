@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daily Briefing — Sunday, April 05, 2026</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #ffffff; color: #1a1a1a; line-height: 1.7; padding: 20px; }
+  .container { max-width: 680px; margin: 0 auto; }
+
+  /* Header */
+  .header { text-align: center; margin-bottom: 32px; padding: 24px 0; border-bottom: 1px solid #e0e0e0; }
+  .header h1 { font-size: 22px; color: #1a1a1a; font-weight: 700; letter-spacing: 0.3px; }
+  .header .date { color: #666666; font-size: 13px; margin-top: 4px; }
+
+  /* Betting Banner */
+  .betting-banner { background: #f7f7f7; border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px 24px; margin-bottom: 32px; }
+  .betting-banner-title { font-size: 11px; text-transform: uppercase; letter-spacing: 1.2px; color: #666666; font-weight: 600; margin-bottom: 14px; }
+  .betting-hero { display: flex; align-items: baseline; gap: 16px; flex-wrap: wrap; margin-bottom: 6px; }
+  .betting-hero-main { font-size: 24px; font-weight: 700; color: #1a1a1a; }
+  .betting-hero-stat { font-size: 14px; color: #666666; }
+  .betting-hero-stat .val { color: #1a1a1a; font-weight: 600; }
+  .betting-narrative { font-size: 13px; color: #444444; line-height: 1.65; margin-top: 10px; }
+
+  /* Sections */
+  .section { margin-bottom: 32px; }
+  .section-title { font-size: 16px; font-weight: 600; color: #1a1a1a; margin-bottom: 2px; }
+  .section-subtitle { font-size: 13px; color: #666666; font-style: italic; margin-bottom: 14px; }
+  .section-tag { float: right; font-size: 11px; color: #666666; font-style: italic; font-weight: 400; }
+  .section-body { font-size: 14px; color: #1a1a1a; line-height: 1.75; }
+  .section-body p { margin-bottom: 12px; }
+  .section-divider { border: none; border-top: 1px solid #e0e0e0; margin: 24px 0; }
+
+  /* Insights */
+  .insights-label { font-size: 12px; color: #666666; font-weight: 600; margin-top: 16px; margin-bottom: 8px; }
+  .insight-item { font-size: 13px; color: #1a1a1a; line-height: 1.65; margin-bottom: 8px; padding-left: 16px; position: relative; }
+  .insight-item::before { content: ""; position: absolute; left: 0; top: 8px; width: 6px; height: 6px; border-radius: 50%; background: #2da44e; }
+
+  /* Project Status */
+  .project-row { display: flex; align-items: flex-start; padding: 10px 0; border-bottom: 1px solid #e0e0e0; gap: 10px; }
+  .project-row:last-child { border-bottom: none; }
+  .status-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; margin-top: 6px; }
+  .status-active { background: #2da44e; }
+  .status-idle { background: #bf8700; }
+  .status-error { background: #cf222e; }
+  .project-info { flex: 1; }
+  .project-name { font-weight: 600; color: #1a1a1a; font-size: 13px; }
+  .project-summary { color: #666666; font-size: 12px; margin-top: 2px; }
+  .metric-row { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 4px; }
+  .metric { font-size: 11px; color: #0969da; }
+  .metric strong { color: #1a1a1a; }
+
+  /* Inactive Projects */
+  .inactive-section { margin-bottom: 32px; }
+  .inactive-row { padding: 8px 14px; background: #f9f9f9; border-left: 3px solid #999; border-radius: 0 6px 6px 0; margin-bottom: 6px; }
+  .inactive-project-name { font-size: 13px; font-weight: 600; color: #555; }
+  .inactive-detail { font-size: 12px; color: #888; margin-top: 2px; }
+
+  .empty-state { color: #666666; font-style: italic; padding: 16px 0; font-size: 13px; }
+  .footer { text-align: center; color: #999999; font-size: 11px; padding: 20px; letter-spacing: 0.3px; }
+</style>
+</head>
+<body>
+<div class="container">
+
+<div class="header">
+  <h1>Daily Briefing</h1>
+  <div class="date">Sunday, April 05, 2026 · 04:48 AM ET</div>
+</div>
+
+
+<!-- KalshiTrader Paper Trading — Timing Strategy -->
+<div class="betting-banner" style="border-left: 3px solid #8250df;">
+  <div class="betting-banner-title">Kalshi Paper Trader — Timing Strategy</div>
+  <div class="betting-hero">
+    <div class="betting-hero-main">33W / 4L</div>
+    <div class="betting-hero-stat"><span class="val">+$61.34</span> Paper P&L</div>
+    <div class="betting-hero-stat"><span class="val">89%</span> Win Rate</div>
+    <div class="betting-hero-stat"><span class="val">19.3%</span> ROI</div>
+  </div>
+  <div class="betting-narrative">
+    $126.97 bankroll · 42 fills (5 pending)
+    
+    <br>
+    
+    <span style="display: inline-block; background: #f0e6ff; color: #8250df; padding: 1px 8px; border-radius: 3px; margin: 2px 4px 2px 0; font-size: 12px;">NBA: 30W/4L +$50.49</span>
+    
+    <span style="display: inline-block; background: #f0e6ff; color: #8250df; padding: 1px 8px; border-radius: 3px; margin: 2px 4px 2px 0; font-size: 12px;">NCAAM: 3W/0L +$10.85</span>
+    
+    
+  </div>
+  
+  
+</div>
+
+
+<hr class="section-divider">
+
+<!-- Market News -->
+<div class="section">
+  <div class="section-title">Market News</div>
+  
+  <div class="section-body">
+    
+    <p>No new macro market developments or algorithmic trading angles to report today that have not already been covered this week. GT-Score overfitting research, cross-platform Kalshi/Polymarket arbitrage bots (kalshi-poly-arb, dr-manhattan), and backtesting failure modes have all been addressed in prior briefings (Apr 1–4). Skipping repetition per editorial policy.</p>
+    
+  </div>
+  
+  
+</div>
+
+<hr class="section-divider">
+
+<!-- Anthropic News -->
+<div class="section">
+  <div class="section-title">Anthropic News</div>
+  
+  <div class="section-body">
+    
+    <p>Today's news from Anthropic focuses on significant policy changes and API updates. The company has blocked the use of Claude Pro and Max subscriptions within third-party agentic tools like OpenClaw, citing that these subscriptions were not designed for such usage. Additionally, Anthropic has released several API updates, including a raised max_tokens cap of 300k for Claude Opus 4.6 and Sonnet 4.6 via the 'output-300k-2026-03-24' beta header, enabling longer single-turn outputs for long-form content.</p>
+    
+  </div>
+  
+  <div class="insights-label">Key Developments</div>
+  
+  <div class="insight-item">Claude Pro and Max subscriptions usage blocked in third-party agentic tools</div>
+  
+  <div class="insight-item">API update increases max_tokens cap to 300k for Claude Opus 4.6 and Sonnet 4.6</div>
+  
+  
+  
+</div>
+
+<hr class="section-divider">
+
+<!-- OpenAI News -->
+<div class="section">
+  <div class="section-title">OpenAI News</div>
+  
+  <div class="section-body">
+    
+    <p>No significant new developments today. OpenAI has been active with major announcements heading into April 2026, focusing on the introduction of several GPT-5 family models and updates to ChatGPT's API. The most notable recent release is GPT-5.3-Codex, described as their most capable agentic coding model, combining Codex and GPT-5 training stacks for best-in-class code generation, reasoning, and general-purpose intelligence. Additionally, OpenAI has released several significant API updates in early 2026, introducing GPT-5.4 mini and nano models to the Chat Completions and Responses API, bringing high-capability models optimized for speed and cost efficiency in high-volume workloads.</p>
+    
+  </div>
+  
+  <div class="insights-label">Key Developments</div>
+  
+  <div class="insight-item">GPT-5.3-Codex release for agentic coding tasks</div>
+  
+  <div class="insight-item">Introduction of GPT-5.4 mini and nano models for high-volume workloads</div>
+  
+  
+  
+</div>
+
+<hr class="section-divider">
+
+<!-- Google News -->
+<div class="section">
+  <div class="section-title">Google News</div>
+  
+  <div class="section-body">
+    
+    <p>No substantively new Google AI ecosystem developments have been identified for April 5, 2026 that haven't already been covered in recent briefings. The major recent stories — Gemma 4 on Google Cloud, Google Antigravity / Firebase Studio full-stack coding, Gemini 3.1 Pro reasoning benchmarks, and Genkit updates — were all reported April 2–4. Watch for follow-up developer adoption metrics, new Gemini API pricing or quota changes, and any Veo 2 or Imagen 4 release announcements as the next likely news vectors.</p>
+    
+  </div>
+  
+  <div class="insights-label">Key Developments</div>
+  
+  <div class="insight-item">No new Google AI stories found for 2026-04-05</div>
+  
+  <div class="insight-item">Previously covered: Gemma 4, Google Antigravity, Gemini 3.1 Pro ARC-AGI-2 scores, Genkit full-stack browser support</div>
+  
+  <div class="insight-item">Next watch: Veo 2 availability, Imagen 4 updates, Gemini API quota/pricing changes</div>
+  
+  
+  
+</div>
+
+<hr class="section-divider">
+
+<!-- General AI Industry Updates -->
+<div class="section">
+  <div class="section-title">General AI Industry Updates</div>
+  
+  
+  <div class="section-subtitle">Busy day</div>
+  
+  <div class="section-body">
+    
+    <p>This week, the broader AI ecosystem saw significant advancements in efficiency and agent architectures. Notably, Google Research introduced TurboQuant, a vector compression technique that reduces memory usage by 6x without affecting accuracy, which could revolutionize AI infrastructure efficiency. Open-source models like Meta’s Llama 4 and Qwen 3.5 from Alibaba continue to make waves with their multimodal capabilities and mixture-of-experts architecture. The framework landscape is consolidating around tools such as Superpowers, LangGraph, and CrewAI, each introducing new features for building intelligent coding agents. Additionally, the AI agent ecosystem witnessed a surge in activity, with frameworks like Superpowers gaining significant traction on GitHub.</p>
+    
+  </div>
+  
+  <div class="insights-label">Key Developments</div>
+  
+  <div class="insight-item">Google Research unveiled TurboQuant, a vector compression technique reducing memory usage by 6x without accuracy loss.</div>
+  
+  <div class="insight-item">Meta’s Llama 4 and Alibaba’s Qwen 3.5 models continue to advance open-source AI capabilities.</div>
+  
+  <div class="insight-item">The framework landscape is evolving with Superpowers leading in star growth on GitHub.</div>
+  
+  
+  
+  
+  <div class="insights-label">Editorial</div>
+  
+  <div class="insight-item">
+    <a href="https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/" style="font-weight:600;">TurboQuant: Redefining AI Efficiency with Extreme Compression (Google Research)</a>
+     <span style="color:#888;font-size:0.85em;">— Google Research</span>
+    <div style="margin-top:4px;color:#444;">Google Research published TurboQuant (ICLR 2026), a two-stage vector compression achieving 3-bit KV cache quantization with ZERO accuracy loss. PolarQuant converts vectors to polar coordinates; QJL adds 1-bit error correction. Results: 6x KV memory reduction, 8x throughput on H100s. No open-source release yet. PROJECT APPLICABILITY: AutoResearch (KVQuant near-term), MarketSwarm (regime fingerprints), QuantMarketData (belief compression), SportsBettingSwarm (polar normalization), FORGE (context compression).</div>
+  </div>
+  
+  <div class="insight-item">
+    <strong>Action Items: TurboQuant Implementation Proposals</strong>
+     <span style="color:#888;font-size:0.85em;">— Internal</span>
+    <div style="margin-top:4px;color:#444;">HIGH: MarketSwarm regime fingerprint vector store (2-3 days), AutoResearch KVQuant integration (3-5 days). MEDIUM: FORGE context compression (4-6 hrs), QuantMarketData polar signal cache (1 day), SportsBettingSwarm polar normalization (4-6 hrs).</div>
+  </div>
+  
+  
+</div>
+
+
+<hr class="section-divider">
+
+<!-- Project Applicability -->
+<div class="section">
+  <div class="section-title">Project Applicability<span class="section-tag">analysis</span></div>
+  <div class="section-body">
+    
+    <p>The recent advancements in AI infrastructure and agent architectures are highly relevant to several projects within your portfolio. Specifically, the introduction of TurboQuant by Google Research could significantly enhance the efficiency of your Python-based projects that rely heavily on machine learning frameworks like PyTorch or FastMCP. This vector compression technique can reduce memory usage by 6x without affecting accuracy, which is crucial for optimizing resource-intensive tasks such as training large language models or running complex agent swarms in sports betting and stock trading. Additionally, the advancements in open-source models like Meta’s Llama 4 and Alibaba’s Qwen 3.5 could be leveraged to improve multimodal capabilities and mixture-of-experts architectures within your projects, particularly those involving knowledge extraction and pattern discovery. The growing traction of frameworks such as Superpowers on GitHub also presents an opportunity for you to explore new tools that can streamline agent orchestration and workflow optimization with Claude Code.</p>
+    
+  </div>
+  
+  <div class="insights-label">Recommendations</div>
+  
+  <div class="insight-item">Integrate TurboQuant into Python-based machine learning workflows to reduce memory usage and improve efficiency</div>
+  
+  <div class="insight-item">Leverage Meta’s Llama 4 and Alibaba’s Qwen 3.5 models to enhance multimodal capabilities in knowledge extraction projects</div>
+  
+  <div class="insight-item">Explore Superpowers framework for improved agent orchestration and workflow optimization with Claude Code</div>
+  
+  
+</div>
+
+
+<hr class="section-divider">
+
+<!-- Claude Code Intel -->
+<div class="section">
+  <div class="section-title">Claude Code Intel<span class="section-tag"></span></div>
+  
+  <div class="section-body">
+    
+    <p>The Claude Code ecosystem is focusing on optimizing agent performance and leveraging advanced techniques like evolutionary optimization to improve trading strategies. There's a strong emphasis on autonomous systems, particularly in prediction markets and stock trading domains. The community is also exploring the limits of Claude Code capabilities and rebuilding it from scratch for better efficiency.</p>
+    
+  </div>
+  
+  <div class="insights-label">Key Takeaways</div>
+  
+  <div class="insight-item">Evolutionary optimization is a key focus area for improving agent performance and strategy development.</div>
+  
+  <div class="insight-item">Rate limiting and system efficiency are critical considerations for maintaining optimal operation.</div>
+  
+  
+  
+  <div class="insights-label" style="margin-top: 20px;">New Workflows</div>
+  
+  <div style="margin-bottom: 12px; padding: 10px 14px; background: #f7f7f7; border-left: 3px solid #0969da; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #1a1a1a;">Evolving Trading Strategies via Competitive Optimization</div>
+    <div style="font-size: 12px; color: #444444; margin-top: 4px;">This workflow involves using evolutionary algorithms to iteratively improve trading strategies based on competitive outcomes, enhancing performance in prediction markets and stock trading.</div>
+    
+    <div style="font-size: 11px; color: #666666; margin-top: 6px;">
+      
+      <span style="display: inline-block; background: #e8f0fe; color: #0969da; padding: 1px 6px; border-radius: 3px; margin-right: 4px; margin-bottom: 2px;">Automating the optimization of trading bots for Kalshi prediction markets</span>
+      
+      <span style="display: inline-block; background: #e8f0fe; color: #0969da; padding: 1px 6px; border-radius: 3px; margin-right: 4px; margin-bottom: 2px;">Improving accuracy in sports betting and bracket predictions</span>
+      
+    </div>
+    
+  </div>
+  
+  <div style="margin-bottom: 12px; padding: 10px 14px; background: #f7f7f7; border-left: 3px solid #0969da; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #1a1a1a;">Optimizing Claude Code Agent Performance</div>
+    <div style="font-size: 12px; color: #444444; margin-top: 4px;">This workflow focuses on identifying and addressing rate limits and system bottlenecks to ensure efficient operation of autonomous AI agents, crucial for daily intelligence gathering.</div>
+    
+    <div style="font-size: 11px; color: #666666; margin-top: 6px;">
+      
+      <span style="display: inline-block; background: #e8f0fe; color: #0969da; padding: 1px 6px; border-radius: 3px; margin-right: 4px; margin-bottom: 2px;">Ensuring smooth operation of MCP servers</span>
+      
+      <span style="display: inline-block; background: #e8f0fe; color: #0969da; padding: 1px 6px; border-radius: 3px; margin-right: 4px; margin-bottom: 2px;">Improving the speed and reliability of Claude Code workflows</span>
+      
+    </div>
+    
+  </div>
+  
+  
+  
+</div>
+
+
+<hr class="section-divider">
+
+<!-- Action Items — pending work only -->
+<div class="section">
+  <div class="section-title">Action Items<span class="section-tag">13 findings</span></div>
+  
+  
+  
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff8e6; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #bf8700;">IHTC</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">1 pending item(s)</div>
+  </div>
+  
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff8e6; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #bf8700;">FORGE</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">3 open item(s)</div>
+  </div>
+  
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff8e6; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #bf8700;">FORGE</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">2 pending item(s)</div>
+  </div>
+  
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff8e6; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #bf8700;">MemoryAgentBench</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">Missing Brain files: architecture, requirements, decisions, changelog</div>
+  </div>
+  
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff8e6; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #bf8700;">GameCreationPlatform</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">In planning for 15+ days</div>
+  </div>
+  
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff8e6; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #bf8700;">FORGE</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">9 strategies ready to launch — awaiting decision</div>
+  </div>
+  
+  
+  
+  <div style="font-size: 12px; color: #666666; margin-top: 8px; font-style: italic;">+ 7 lower-priority items (paused projects, ideas, documented next steps)</div>
+  
+</div>
+
+
+
+<hr class="section-divider">
+
+<!-- Inactive Projects -->
+<div class="inactive-section">
+  <div class="section-title" style="color: #666; font-size: 14px;">Inactive Projects<span class="section-tag">4 projects</span></div>
+  <div style="margin-top: 10px;">
+  
+  <div class="inactive-row">
+    <div class="inactive-project-name">BookSummarizer</div>
+    <div class="inactive-detail">No activity in 18 days</div>
+  </div>
+  
+  <div class="inactive-row">
+    <div class="inactive-project-name">IHTC</div>
+    <div class="inactive-detail">No activity in 8 days</div>
+  </div>
+  
+  <div class="inactive-row">
+    <div class="inactive-project-name">QuantMarketData</div>
+    <div class="inactive-detail">No activity in 10 days</div>
+  </div>
+  
+  <div class="inactive-row">
+    <div class="inactive-project-name">KalshiTestLab</div>
+    <div class="inactive-detail">No activity in 10 days</div>
+  </div>
+  
+  </div>
+</div>
+
+
+<hr class="section-divider">
+
+<!-- Project Status -->
+<div class="section">
+  <div class="section-title">Project Status</div>
+  <div class="section-subtitle">6 active</div>
+  
+  <div class="project-row">
+    <div class="status-dot status-active"></div>
+    <div class="project-info">
+      <div class="project-name">Sports Betting Swarm</div>
+      <div class="project-summary">Current baseline score: 0.915337</div>
+      
+      <div class="metric-row">
+        
+        <span class="metric"><strong>Runs:</strong> 0</span>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="project-row">
+    <div class="status-dot status-idle"></div>
+    <div class="project-info">
+      <div class="project-name">March Madness Swarm</div>
+      <div class="project-summary">No recent activity</div>
+      
+      <div class="metric-row">
+        
+        <span class="metric"><strong>Experiments:</strong> 0</span>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="project-row">
+    <div class="status-dot status-active"></div>
+    <div class="project-info">
+      <div class="project-name">FORGE</div>
+      <div class="project-summary">Current phase: All strategies fully built</div>
+      
+    </div>
+  </div>
+  
+  <div class="project-row">
+    <div class="status-dot status-active"></div>
+    <div class="project-info">
+      <div class="project-name">MarketSwarm (AlgoSwarm)</div>
+      <div class="project-summary">Current baseline CAGR (IS): 74.30%</div>
+      
+      <div class="metric-row">
+        
+        <span class="metric"><strong>Round:</strong> 8</span>
+        
+        <span class="metric"><strong>Baseline:</strong> 74.3</span>
+        
+        <span class="metric"><strong>Oos Score:</strong> 47.42</span>
+        
+        <span class="metric"><strong>Is Oos Divergence Pct:</strong> 36.2</span>
+        
+        <span class="metric"><strong>Safeguards Active:</strong> True</span>
+        
+        <span class="metric"><strong>Status:</strong> complete</span>
+        
+        <span class="metric"><strong>Note:</strong> Round 6 was a safeguard reset: holdout split (4/11 OOS), risk floors, correlation guard, volume-adaptive slippage. Rounds 7-8 found no improvement over 74.30% IS CAGR baseline.</span>
+        
+        <span class="metric"><strong>Positions:</strong> 10</span>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="project-row">
+    <div class="status-dot status-active"></div>
+    <div class="project-info">
+      <div class="project-name">QuantMarketData (Kalshi)</div>
+      <div class="project-summary">Phase: Paper Trading (Phase 3)</div>
+      
+    </div>
+  </div>
+  
+  <div class="project-row">
+    <div class="status-dot status-active"></div>
+    <div class="project-info">
+      <div class="project-name">KalshiTrader (Paper V2)</div>
+      <div class="project-summary">Phase: **Paper Trading V2 Active** (7W-0L, $3.58 PnL on $100 bankroll)</div>
+      
+      <div class="metric-row">
+        
+        <span class="metric"><strong>Balance:</strong> 126.97</span>
+        
+        <span class="metric"><strong>P&L:</strong> 61.34</span>
+        
+        <span class="metric"><strong>ROI:</strong> 0.19</span>
+        
+        <span class="metric"><strong>Fills:</strong> 42</span>
+        
+        <span class="metric"><strong>Settled:</strong> 37</span>
+        
+        <span class="metric"><strong>Win Rate:</strong> 0.89</span>
+        
+        <span class="metric"><strong>Open Pos:</strong> 7</span>
+        
+        <span class="metric"><strong>Resting:</strong> 0</span>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+</div>
+
+<div class="footer">
+  Brain System · Sunday, April 05, 2026 · Full details indexed in AI_Brain vault
+</div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,26 @@
+{
+  "total_calls": 3,
+  "cli_calls": 3,
+  "api_calls": 0,
+  "failures": 0,
+  "total_estimated_input_tokens": 1847,
+  "total_estimated_output_tokens": 54,
+  "total_estimated_cost_usd": 0.000529,
+  "days_tracked": 1,
+  "daily_avg_cost_usd": 0.000529,
+  "monthly_projection_usd": 0.0159,
+  "by_purpose": {
+    "test-scoring": {
+      "calls": 1,
+      "estimated_cost": 1.2e-05,
+      "avg_latency": 10.0
+    },
+    "twitter-scoring": {
+      "calls": 2,
+      "estimated_cost": 0.000517,
+      "avg_latency": 14.2
+    }
+  },
+  "note": "Costs are ESTIMATES based on Haiku pricing. CLI calls use subscription (actual cost = $0).",
+  "last_updated": "2026-03-19T15:45:07.789467+00:00"
+}

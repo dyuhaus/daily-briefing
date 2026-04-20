@@ -1,0 +1,57 @@
+{
+  "date": "2026-03-24",
+  "scan_time": "2026-03-24T13:00:02.683452+00:00",
+  "total_found": 120,
+  "unique_new": 3,
+  "with_transcripts": 3,
+  "after_filter": 2,
+  "items": [
+    {
+      "video_id": "BJX6uJHIz5U",
+      "title": "Claude Code + Context7 MCP Server Is a GAME CHANGER  for AI Coding",
+      "channel": "All About AI",
+      "url": "https://www.youtube.com/watch?v=BJX6uJHIz5U",
+      "upload_date": "",
+      "duration_seconds": 803.0,
+      "description": "Claude Code + Context7 MCP Server is a GAME CHANGER for AI Coding My AI Video Course: ...",
+      "transcript": "",
+      "extracted_patterns": [
+        "Use MCP servers (Context7) to gather up-to-date library documentation before starting projects",
+        "Decompose documentation retrieval into sequential MCP tool calls: find_library_name â†’ get_library_docs",
+        "Leverage agent context to compile retrieved documentation into reference markdown files programmatically",
+        "Set up remote MCP servers via `claude MCP add` for free, zero-dependency tool integration",
+        "Combine MCP documentation retrieval with agent tasks to auto-generate reference materials (slash commands, API docs, etc.)",
+        "Use Context7 (or similar MCP servers) across multiple editors (Claude Code, Cursor, etc.) for consistency",
+        "Query documentation libraries before implementation rather than context-switching to web search",
+        "Create custom reference files (e.g., CC_commands.markdown) from MCP sources as single-session artifacts"
+      ],
+      "relevance_score": 0.88,
+      "content_hash": "82a75c4bbf8c46f0",
+      "transcript_length": 12310
+    },
+    {
+      "video_id": "gM5Cpzhm8hY",
+      "title": "Claude Agent SDK",
+      "channel": "AI Makerspace",
+      "url": "https://www.youtube.com/watch?v=gM5Cpzhm8hY",
+      "upload_date": "",
+      "duration_seconds": 3793.0,
+      "description": "Anthropic just released the Claude Agent SDK, the evolution of Claude Code into a full agent framework. In this video we break ...",
+      "transcript": "",
+      "extracted_patterns": [
+        "Build with simple, composable patterns â€” avoid over-engineering with unnecessary abstraction layers",
+        "Multi-agent orchestration: agents that coordinate and manipulate other agents (meta-agent pattern)",
+        "Reduce abstraction layers constantly â€” push towards simplicity and transparency",
+        "Test agents thoroughly as a core practice",
+        "Use Claude Code for non-coding applications: deep research, video creation, note-taking, content synthesis",
+        "Understand the agent loop deeply â€” it's foundational for multi-agent system design",
+        "Agent SDK complements orchestration frameworks like Langraph â€” choose based on use case, not exclusively",
+        "Transparent agent behavior design â€” make agent decisions and outputs observable",
+        "Treat agent coordination as a multi-layer abstraction problem"
+      ],
+      "relevance_score": 0.65,
+      "content_hash": "a5850abe443bd6c0",
+      "transcript_length": 15000
+    }
+  ]
+}

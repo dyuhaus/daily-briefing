@@ -1,0 +1,9 @@
+{
+  "title": "TurboQuant: Redefining AI Efficiency with Extreme Compression (Google Research)",
+  "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+  "source": "editorial",
+  "author": "Google Research",
+  "snippet": "Google Research published TurboQuant (ICLR 2026), a two-stage vector compression achieving 3-bit KV cache quantization with ZERO accuracy loss. PolarQuant converts vectors to polar coordinates; QJL adds 1-bit error correction. Results: 6x KV memory reduction, 8x throughput on H100s. No open-source release yet. PROJECT APPLICABILITY: AutoResearch (KVQuant near-term), MarketSwarm (regime fingerprints), QuantMarketData (belief compression), SportsBettingSwarm (polar normalization), FORGE (context compression).",
+  "category": "research_paper",
+  "relevance_score": 0.98
+}

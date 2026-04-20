@@ -1,0 +1,1189 @@
+{
+  "act-025": {
+    "item": {
+      "id": "act-025",
+      "title": "Implement TurboQuant for improved memory efficiency in agent",
+      "description": "Implement TurboQuant for improved memory efficiency in agent workflows",
+      "priority": 5,
+      "source": "briefing:project_applicability",
+      "target_project": null
+    },
+    "status": "dismissed",
+    "error": "ERROR: claude exited 1 (process stalled 180s, no output)",
+    "failed_at": "2026-03-31T04:59:15",
+    "dismissed_at": "2026-03-31",
+    "dismiss_reason": "Not actionable. TurboQuant has no official code release, is not in llama.cpp/Ollama, and solves problems beyond our current scale (5-dim vectors, short single-turn inference on RTX 3060). Watch-list item in Brain."
+  },
+  "act-026": {
+    "item": {
+      "id": "act-026",
+      "title": "Integrate Llama 4 models into knowledge extraction processes",
+      "description": "Integrate Llama 4 models into knowledge extraction processes",
+      "priority": 5,
+      "source": "briefing:project_applicability",
+      "target_project": null
+    },
+    "status": "dismissed",
+    "error": "ERROR: claude exited 1 (process stalled 180s, no output)",
+    "failed_at": "2026-03-31T05:02:17",
+    "dismissed_at": "2026-03-31",
+    "dismiss_reason": "Duplicate. Llama 4 integration was completed via act-027 (added llama4:scout and llama4:maverick to shared/local_llm.py and DailyBriefing/config/llm.py)."
+  },
+  "act-030": {
+    "item": {
+      "id": "act-030",
+      "title": "Idea from Telegram - 2026-03-29 12:55",
+      "description": "Telegram idea submitted 2026-03-29",
+      "priority": 5,
+      "source": "inbox:todo",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1 (process stalled 180s, no output)",
+    "failed_at": "2026-03-31T05:11:24"
+  },
+  "act-002": {
+    "item": {
+      "id": "act-002",
+      "title": "Flag the EU AI Act August 2 deadline to the IHTC consulting pipeline. Any IHTC client in a high-risk",
+      "description": "Flag the EU AI Act August 2 deadline to the IHTC consulting pipeline. Any IHTC client in a high-risk category \u2014 financial services, healthcare, HR tooling \u2014 who is deploying AI in the EU now has a four-month compliance window. This is a concrete, time-bounded service offering: AI Act readiness assessment and transparency layer implementation. The deadline creates urgency the reader can reference in outreach.",
+      "priority": 2,
+      "source": "briefing:project_applicability",
+      "target_project": "IHTC"
+    },
+    "status": "dismissed",
+    "dismissed_at": "2026-03-31",
+    "dismiss_reason": "User declined. Does not want to pursue EU AI Act outreach for IHTC."
+  },
+  "act-006": {
+    "item": {
+      "id": "act-006",
+      "title": "## Idea from Telegram \u2014 2026-03-28 08:04",
+      "description": "3-park market project consolidation. A: short term, micro-second quant trading on stocks and prediction markets. B: identifying historical flags from previous economic events to predict macro market movements. C: a mixture of the two for a more standard portfolio manager. These would replace AlgoSwarm, MomentumWatch, and Kalshi paper trading to consolidate investing projects.\n\n---",
+      "priority": 6,
+      "source": "inbox:todo",
+      "target_project": "MomentumWatch"
+    },
+    "status": "dismissed",
+    "dismissed_at": "2026-03-31",
+    "dismiss_reason": "Duplicate of act-022 (same 3-Park consolidation idea). act-022 retained as design-only task."
+  },
+  "act-010": {
+    "item": {
+      "id": "act-010",
+      "title": "On the prediction market and algo trading front, Kalshi is now reporting over $500M in weekly volume",
+      "description": "On the prediction market and algo trading front, Kalshi is now reporting over $500M in weekly volume \u2014 a structural milestone that changes liquidity assumptions for automated systems",
+      "priority": 10,
+      "source": "briefing:market_news",
+      "target_project": "QuantMarketData"
+    },
+    "status": "dismissed",
+    "dismissed_at": "2026-03-31",
+    "dismiss_reason": "Duplicate of act-008 (same Kalshi 500M volume topic). act-008 retained with specific code changes."
+  },
+  "act-023": {
+    "item": {
+      "id": "act-023",
+      "title": "Continue monitoring your backtests for overfitting signs and validate them with out-of-sample testin",
+      "description": "Continue monitoring your backtests for overfitting signs and validate them with out-of-sample testing.",
+      "priority": 3,
+      "source": "briefing:market_news",
+      "target_project": "MarketSwarm"
+    },
+    "status": "dismissed",
+    "dismissed_at": "2026-03-31",
+    "dismiss_reason": "Generic briefing advice, not actionable. Overfitting monitoring is ongoing practice."
+  },
+  "act-024": {
+    "item": {
+      "id": "act-024",
+      "title": "However, they provide valuable insights into why backtested strategies often fail in live trading en",
+      "description": "However, they provide valuable insights into why backtested strategies often fail in live trading environments due to curve fitting to historical data",
+      "priority": 4,
+      "source": "briefing:market_news",
+      "target_project": "MarketSwarm"
+    },
+    "status": "dismissed",
+    "dismissed_at": "2026-03-31",
+    "dismiss_reason": "Generic briefing advice, not actionable. Already known insight."
+  },
+  "act-028": {
+    "item": {
+      "id": "act-028",
+      "title": "These developments could lead to more efficient model training and deployment, potentially improving",
+      "description": "These developments could lead to more efficient model training and deployment, potentially improving the performance of our SportsBettingSwarm score and MarchMadness accuracy",
+      "priority": 8,
+      "source": "briefing:project_applicability",
+      "target_project": null
+    },
+    "status": "dismissed",
+    "dismissed_at": "2026-03-31",
+    "dismiss_reason": "Vague briefing item with no target project or specific implementation."
+  },
+  "act-031": {
+    "item": {
+      "id": "act-031",
+      "title": "## TODO \u2014 TurboQuant Implementation Proposals (2026-03-24)",
+      "description": "### Remaining Items (AutoResearch item removed \u2014 project discontinued):\n\n1. **MarketSwarm \u2014 Regime Fingerprint Vector Store** [HIGH, 2-3 days]\n   - Replace binary breadth gate with PolarQuant-inspired vector similarity lookup\n\n2. **FORGE \u2014 Context Compression** [MEDIUM, 4-6 hrs]\n   - Haiku-based context compressor for problem.md + old-tests.md (~90K tokens)\n\n3. **QuantMarketData \u2014 Polar Signal Compression** [MEDIUM, 1 day]\n   - Polar encoding for belief cache in signal_fusion.py\n\n4. **SportsBett",
+      "priority": 1,
+      "source": "inbox:todo",
+      "target_project": "FORGE"
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-01T04:51:58"
+  },
+  "act-033": {
+    "item": {
+      "id": "act-033",
+      "title": "Be cautious of overfitting in your backtests and ensure robust out-of-sample testing before deployin",
+      "description": "Be cautious of overfitting in your backtests and ensure robust out-of-sample testing before deploying strategies.",
+      "priority": 3,
+      "source": "briefing:market_news",
+      "target_project": "MarketSwarm"
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-01T04:56:31"
+  },
+  "act-035": {
+    "item": {
+      "id": "act-035",
+      "title": "However, they provide valuable insights into why backtested strategies often fail in live trading en",
+      "description": "However, they provide valuable insights into why backtested strategies often fail in live trading environments due to curve fitting to historical data",
+      "priority": 5,
+      "source": "briefing:market_news",
+      "target_project": "MarketSwarm"
+    },
+    "status": "failed",
+    "error": "## Walk-Forward Curve Fitting Detection for MarketSwarm\n\n### Context\nMarketSwarm already has OOS holdout (scenarios 3,6,8,10), sanity checks, and an overfit_monitor tool. The IS/OOS divergence is currently 26.91% (round 17), just under the 30% warning threshold. The action item calls for better insight into *why* strategies fail in live trading due to curve fitting.\n\n### Goal\nAdd a walk-forward validation module + a curve fitting report tool that surfaces actionable diagnostics beyond the existing divergence check.\n\n---\n\n### Step 1: Create `engine/walk_forward.py`\nImplement walk-forward analysis on the 7 IN-SAMPLE scenarios:\n- Split each IS scenario's date range into N folds (default 3)\n- For each fold: train on earlier portion, evaluate on later portion\n- Compute walk-forward efficiency ratio: (avg WF return) / (avg IS return)\n- A ratio < 0.5 signals curve fitting; > 0.8 signals genuine edge\n- Export results as dict compatible with `run_all_scenarios()` output format\n\nKey function: `run_walk_forward(scenarios, n_folds=3) -> dict`\n\n---\n\n### Step 2: Create `engine/parameter_sensitivity.py`\nPerturb each tunable parameter from `strategy/config.py` by \u00b110% and \u00b120%:\n- Run OOS scenarios (indices 3,6,8,10) for each perturbation\n- Compute sensitivity score: std(OOS CAGR across perturbations) / baseline OOS CAGR\n- High sensitivity (>0.3) = parameter is overfit to historical data\n- Export ranked list of fragile parameters\n\nKey function: `run_parameter_sensitivity(config_path, n_perturbations=8) -> dict`\n\n---\n\n### Step 3: Enhance `tools/overfit_monitor.py`\nExtend `detect_warnings()` to incorporate walk-forward and sensitivity results:\n- Load `results/walk_forward_report.json` if it exists\n- Load `results/parameter_sensitivity_report.json` if it exists\n- Add new warning types:\n  - WF_EFFICIENCY_LOW: walk-forward ratio < 0.5\n  - PARAMETER_FRAGILITY: >3 parameters with sensitivity >0.3\n- Add `generate_curve_fitting_summary()` function that produces human-readable diagnosis\n\n---\n\n### Step 4: Wire into swarm round flow\nIn `engine/score.py`, after `compute_score()`, optionally trigger walk-forward if divergence exceeds 20%:\n- Add optional `include_walk_forward=False` parameter to `compute_score()`\n- When enabled, run walk-forward on IS scenarios and include `wf_efficiency` in returned dict\n\n---\n\n### Step 5: Add tests\nCreate `tests/test_walk_forward.py`:\n- Test fold splitting produces non-overlapping date ranges\n- Test walk-forward efficiency is in [0, 2] range\n- Test parameter sensitivity runs without error on mock config\n- Mock `run_all_scenarios()` to avoid slow full backtest in tests",
+    "failed_at": "2026-04-01T05:01:04"
+  },
+  "act-038": {
+    "item": {
+      "id": "act-038",
+      "title": "The introduction of TurboQuant by Google Research could significantly reduce memory usage in these p",
+      "description": "The introduction of TurboQuant by Google Research could significantly reduce memory usage in these projects, enhancing efficiency without compromising accuracy",
+      "priority": 8,
+      "source": "briefing:project_applicability",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-01T05:10:10"
+  },
+  "act-041": {
+    "item": {
+      "id": "act-041",
+      "title": "Integrate Llama 4 into the stock trading and prediction markets projects for enhanced data processin",
+      "description": "Integrate Llama 4 into the stock trading and prediction markets projects for enhanced data processing capabilities",
+      "priority": 1,
+      "source": "briefing:project_applicability",
+      "target_project": "QuantMarketData"
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-02T04:49:31"
+  },
+  "act-042": {
+    "item": {
+      "id": "act-042",
+      "title": "## TODO \u2014 TurboQuant Implementation Proposals (2026-03-24)",
+      "description": "### Remaining Items (AutoResearch item removed \u2014 project discontinued):\n\n1. **MarketSwarm \u2014 Regime Fingerprint Vector Store** [HIGH, 2-3 days]\n   - Replace binary breadth gate with PolarQuant-inspired vector similarity lookup\n\n2. **FORGE \u2014 Context Compression** [MEDIUM, 4-6 hrs]\n   - Haiku-based context compressor for problem.md + old-tests.md (~90K tokens)\n\n3. **QuantMarketData \u2014 Polar Signal Compression** [MEDIUM, 1 day]\n   - Polar encoding for belief cache in signal_fusion.py\n\n4. **SportsBett",
+      "priority": 2,
+      "source": "inbox:todo",
+      "target_project": "FORGE"
+    },
+    "status": "failed",
+    "error": "## FORGE Context Compression Implementation Plan\n\n### Current State\n- `compress_context_ai.py` (427 lines) already exists using `claude-haiku-4-5-20251001`\n- `compress_context.py` (308 lines) rule-based fallback exists\n- `old-tests-digest.md` (29.7 KB) already generated \u2014 compression has run before\n- CLAUDE.md mentions pre-swarm hook that triggers at 40KB threshold\n- Problem: compression may not be fully integrated into swarm workflow\n\n### Steps\n1. **Audit existing compress_context_ai.py** \u2014 Read full file to confirm it handles problem.md + old-tests.md correctly, produces context-digest.md, uses Haiku, and has proper error handling\n2. **Check pre-swarm integration** \u2014 Read CLAUDE.md `.claude/` commands to verify `/pre-swarm forge` wiring actually calls compress_context_ai.py\n3. **Verify test coverage** \u2014 Check `tests/` directory for compression tests; add if missing\n4. **Add auto-trigger logic** \u2014 If not present, add a check in the main swarm runner or setup script that triggers compression when problem.md > 50KB or old-tests.md > 100KB\n5. **Validate output consumed by agents** \u2014 Ensure agents are instructed to read `context-digest.md` instead of raw files when it exists\n6. **Run end-to-end test** \u2014 Execute `python scripts/compress_context_ai.py` and verify output\n\n### Integration Points\n- `.claude/commands/pre-swarm.md` or similar \u2014 must call compress script\n- `program.md` \u2014 should reference context-digest.md when available\n- `CONTEXT.md` \u2014 status snapshot should reflect current digest freshness",
+    "failed_at": "2026-04-02T04:52:33"
+  },
+  "act-043": {
+    "item": {
+      "id": "act-043",
+      "title": "## Idea from Telegram \u2014 2026-03-28 08:04",
+      "description": "3-park market project consolidation. A: short term, micro-second quant trading on stocks and prediction markets. B: identifying historical flags from previous economic events to predict macro market movements. C: a mixture of the two for a more standard portfolio manager. These would replace AlgoSwarm, MomentumWatch, and Kalshi paper trading to consolidate investing projects.\n\n---",
+      "priority": 3,
+      "source": "inbox:todo",
+      "target_project": "MomentumWatch"
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-02T04:54:04"
+  },
+  "act-046": {
+    "item": {
+      "id": "act-046",
+      "title": "Apply OWL multi-agent orchestration framework to SportsBettingSwarm project for improved swarm algor",
+      "description": "Apply OWL multi-agent orchestration framework to SportsBettingSwarm project for improved swarm algorithm performance",
+      "priority": 6,
+      "source": "briefing:project_applicability",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-02T05:02:09"
+  },
+  "act-049": {
+    "item": {
+      "id": "act-049",
+      "title": "## Idea from Telegram \u2014 2026-03-29 12:55",
+      "description": "addition to the 3 pronged market traders: Using the news and information gathered from the Daily Brief to assist with the macro strategy trading and seeing if it applies to either the natural or micro trader.\n\n---",
+      "priority": 9,
+      "source": "inbox:todo",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-02T05:10:00"
+  },
+  "act-050": {
+    "item": {
+      "id": "act-050",
+      "title": "Claude Sonnet 4.6 and Haiku 4.5 models offer improved agentic search and coding capabilities with a ",
+      "description": "Claude Sonnet 4.6 and Haiku 4.5 models offer improved agentic search and coding capabilities with a 1M token context window.",
+      "priority": 10,
+      "source": "briefing:anthropic_news",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-02T05:13:01"
+  },
+  "act-052": {
+    "item": {
+      "id": "act-052",
+      "title": "## TODO \u2014 TurboQuant Implementation Proposals (2026-03-24)",
+      "description": "### Remaining Items (AutoResearch item removed \u2014 project discontinued):\n\n1. **MarketSwarm \u2014 Regime Fingerprint Vector Store** [HIGH, 2-3 days]\n   - Replace binary breadth gate with PolarQuant-inspired vector similarity lookup\n\n2. **FORGE \u2014 Context Compression** [MEDIUM, 4-6 hrs]\n   - Haiku-based context compressor for problem.md + old-tests.md (~90K tokens)\n\n3. **QuantMarketData \u2014 Polar Signal Compression** [MEDIUM, 1 day]\n   - Polar encoding for belief cache in signal_fusion.py\n\n4. **SportsBett",
+      "priority": 2,
+      "source": "inbox:todo",
+      "target_project": "FORGE"
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-03T04:53:53"
+  },
+  "act-054": {
+    "item": {
+      "id": "act-054",
+      "title": "Monitor cross-platform arbitrage opportunities on prediction markets as they can provide significant",
+      "description": "Monitor cross-platform arbitrage opportunities on prediction markets as they can provide significant edge when price discrepancies exist.",
+      "priority": 4,
+      "source": "briefing:market_news",
+      "target_project": "QuantMarketData"
+    },
+    "status": "failed",
+    "error": "## Cross-Platform Prediction Market Arbitrage Monitor\n\n### Context\nQuantMarketData is a live Kalshi prediction market trading system. It has:\n- `tools/kalshi_client.py` \u2014 Kalshi REST API wrapper\n- `tools/signal_fusion.py` \u2014 multi-source probability fusion (Signal dataclass, source types)\n- `workflows/edge_detection.py` \u2014 TradeSignal generation against LMSR prices\n- `workflows/market_scan.py` \u2014 scans Kalshi markets, emits MarketCandidates\n- `data/prediction-market-analysis/src/indexers/polymarket/` \u2014 historical Polymarket indexers\n\nPolymarket has a public CLOB API (`https://clob.polymarket.com`) and Gamma markets API (`https://gamma-api.polymarket.com`). These are free/unauthenticated for reads.\n\n### Steps\n\n**Step 1: Polymarket CLOB Client (`tools/polymarket_client.py`)**\n- Fetch active markets from `https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=500`\n- Parse condition_id, question, outcomes, best_bid/best_ask for YES token\n- Return list of `PolymarketMarket` dataclasses with: condition_id, question, yes_price, volume_24h\n- Add rate limiting (1 req/sec), timeout handling, and error logging\n\n**Step 2: Market Matcher (`tools/cross_platform_matcher.py`)**\n- Match Kalshi MarketCandidate titles to Polymarket questions using keyword overlap + fuzzy string match\n- Strategy: normalize titles (lowercase, strip punctuation), extract key tokens, compute Jaccard similarity\n- Threshold: \u22650.45 Jaccard similarity = match candidate\n- Return list of `CrossPlatformPair` dataclasses: kalshi_ticker, kalshi_title, kalshi_yes_price, poly_condition_id, poly_question, poly_yes_price, similarity_score\n\n**Step 3: Arbitrage Detector (`tools/arb_detector.py`)**\n- For each CrossPlatformPair, compute `price_gap = abs(kalshi_yes_price - poly_yes_price)`\n- Minimum threshold: 0.05 (5 cents, matching \u03c4_min from CLAUDE.md)\n- Return `ArbOpportunity` dataclass: pair, price_gap, direction ('BUY_KALSHI' if kalshi < poly, else 'BUY_POLYMARKET'), implied_edge\n- Also inject the Polymarket price as a Signal into signal_fusion for the matched Kalshi ticker (source='api', variance=0.02 for liquid markets)\n\n**Step 4: Arb Scan Workflow (`workflows/arb_scan.py`)**\n- Call polymarket_client.fetch_markets()\n- Call cross_platform_matcher.match(kalshi_candidates, poly_markets)\n- Call arb_detector.detect(pairs)\n- Log all opportunities to trade_logger with type='arb_opportunity'\n- Inject confirmed cross-platform signals into ctx.signal_fusion for Kalshi edge detection to consume\n- Return dict with 'opportunities', 'matched_count', 'poly_market_count'\n\n**Step 5: Wire into main loop**\n- In `workflows/market_scan.py` or wherever the main orchestration loop runs, call `arb_scan` every 5 minutes after `scan_markets`\n- Pass ctx and kalshi candidates to arb_scan\n- Arb-injected signals will then flow through existing `belief_update` \u2192 `edge_detection` \u2192 `trade_execution` pipeline\n\n**Step 6: Tests (`tests/test_arb_scanner.py`)**\n- Unit test: matcher returns correct pairs for known-similar titles\n- Unit test: detector returns correct direction and gap\n- Unit test: polymarket client parses API response correctly (mock HTTP)\n- Integration test: full arb_scan with mocked clients",
+    "failed_at": "2026-04-03T04:57:27"
+  },
+  "act-057": {
+    "item": {
+      "id": "act-057",
+      "title": "Key strategies include cross-platform arbitrage (exploiting price discrepancies between Kalshi and P",
+      "description": "Key strategies include cross-platform arbitrage (exploiting price discrepancies between Kalshi and Polymarket for the same event), but community members frequently distinguish between backtested performance and live results, with many posts noting that strategies with strong historical data often fail in real-world trading environments due to curve fitting issues",
+      "priority": 7,
+      "source": "briefing:market_news",
+      "target_project": "MarketSwarm"
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-03T05:04:47"
+  },
+  "act-058": {
+    "item": {
+      "id": "act-058",
+      "title": "Optimize PyTorch models using TurboQuant for improved efficiency",
+      "description": "Optimize PyTorch models using TurboQuant for improved efficiency",
+      "priority": 8,
+      "source": "briefing:project_applicability",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-03T05:07:49"
+  },
+  "act-059": {
+    "item": {
+      "id": "act-059",
+      "title": "Integrate Agent 365 into existing workflows for enhanced swarm algorithm performance",
+      "description": "Integrate Agent 365 into existing workflows for enhanced swarm algorithm performance",
+      "priority": 9,
+      "source": "briefing:project_applicability",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-03T05:10:50"
+  },
+  "act-060": {
+    "item": {
+      "id": "act-060",
+      "title": "The recent advancements in AI, particularly the TurboQuant technique from Google Research and the ex",
+      "description": "The recent advancements in AI, particularly the TurboQuant technique from Google Research and the expanding capabilities of Microsoft's Agent 365, are directly relevant to your projects",
+      "priority": 10,
+      "source": "briefing:project_applicability",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-03T05:13:52"
+  },
+  "act-061": {
+    "item": {
+      "id": "act-061",
+      "title": "## TODO \u2014 TurboQuant Implementation Proposals (2026-03-24)",
+      "description": "### Remaining Items (AutoResearch item removed \u2014 project discontinued):\n\n1. **MarketSwarm \u2014 Regime Fingerprint Vector Store** [HIGH, 2-3 days]\n   - Replace binary breadth gate with PolarQuant-inspired vector similarity lookup\n\n2. **FORGE \u2014 Context Compression** [MEDIUM, 4-6 hrs]\n   - Haiku-based context compressor for problem.md + old-tests.md (~90K tokens)\n\n3. **QuantMarketData \u2014 Polar Signal Compression** [MEDIUM, 1 day]\n   - Polar encoding for belief cache in signal_fusion.py\n\n4. **SportsBett",
+      "priority": 1,
+      "source": "inbox:todo",
+      "target_project": "FORGE"
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-04T04:51:47"
+  },
+  "act-064": {
+    "item": {
+      "id": "act-064",
+      "title": "Implement TurboQuant to optimize memory usage in PyTorch and FastMCP models",
+      "description": "Implement TurboQuant to optimize memory usage in PyTorch and FastMCP models",
+      "priority": 4,
+      "source": "briefing:project_applicability",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-04T04:57:23"
+  },
+  "act-065": {
+    "item": {
+      "id": "act-065",
+      "title": "Integrate Meta\u2019s Llama 4 into your agent swarms for enhanced performance",
+      "description": "Integrate Meta\u2019s Llama 4 into your agent swarms for enhanced performance",
+      "priority": 5,
+      "source": "briefing:project_applicability",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-04T05:00:24"
+  },
+  "act-068": {
+    "item": {
+      "id": "act-068",
+      "title": "## Idea from Telegram \u2014 2026-03-29 12:55",
+      "description": "addition to the 3 pronged market traders: Using the news and information gathered from the Daily Brief to assist with the macro strategy trading and seeing if it applies to either the natural or micro trader.\n\n---",
+      "priority": 8,
+      "source": "inbox:todo",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-04T05:07:00"
+  },
+  "act-071": {
+    "item": {
+      "id": "act-071",
+      "title": "## TODO \u2014 TurboQuant Implementation Proposals (2026-03-24)",
+      "description": "### Remaining Items (AutoResearch item removed \u2014 project discontinued):\n\n1. **MarketSwarm \u2014 Regime Fingerprint Vector Store** [HIGH, 2-3 days]\n   - Replace binary breadth gate with PolarQuant-inspired vector similarity lookup\n\n2. **FORGE \u2014 Context Compression** [MEDIUM, 4-6 hrs]\n   - Haiku-based context compressor for problem.md + old-tests.md (~90K tokens)\n\n3. **QuantMarketData \u2014 Polar Signal Compression** [MEDIUM, 1 day]\n   - Polar encoding for belief cache in signal_fusion.py\n\n4. **SportsBett",
+      "priority": 1,
+      "source": "inbox:todo",
+      "target_project": "FORGE"
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-05T04:51:23"
+  },
+  "act-073": {
+    "item": {
+      "id": "act-073",
+      "title": "GT-Score overfitting research, cross-platform Kalshi/Polymarket arbitrage bots (kalshi-poly-arb, dr-",
+      "description": "GT-Score overfitting research, cross-platform Kalshi/Polymarket arbitrage bots (kalshi-poly-arb, dr-manhattan), and backtesting failure modes have all been addressed in prior briefings (Apr 1\u20134)",
+      "priority": 3,
+      "source": "briefing:market_news",
+      "target_project": "MarketSwarm"
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-05T04:54:26"
+  },
+  "act-075": {
+    "item": {
+      "id": "act-075",
+      "title": "Explore Superpowers framework for improved agent orchestration and workflow optimization with Claude",
+      "description": "Explore Superpowers framework for improved agent orchestration and workflow optimization with Claude Code",
+      "priority": 5,
+      "source": "briefing:project_applicability",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-05T04:59:29"
+  },
+  "act-076": {
+    "item": {
+      "id": "act-076",
+      "title": "Specifically, the introduction of TurboQuant by Google Research could significantly enhance the effi",
+      "description": "Specifically, the introduction of TurboQuant by Google Research could significantly enhance the efficiency of your Python-based projects that rely heavily on machine learning frameworks like PyTorch or FastMCP",
+      "priority": 6,
+      "source": "briefing:project_applicability",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-05T05:02:31"
+  },
+  "act-080": {
+    "item": {
+      "id": "act-080",
+      "title": "## Idea from Telegram \u2014 2026-03-29 12:55",
+      "description": "addition to the 3 pronged market traders: Using the news and information gathered from the Daily Brief to assist with the macro strategy trading and seeing if it applies to either the natural or micro trader.\n\n---",
+      "priority": 10,
+      "source": "inbox:todo",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-05T05:10:38"
+  },
+  "act-081": {
+    "item": {
+      "id": "act-081",
+      "title": "This vector compression technique can reduce memory usage by up to 6x without compromising accuracy,",
+      "description": "This vector compression technique can reduce memory usage by up to 6x without compromising accuracy, which is crucial for maintaining high performance in real-time applications such as autonomous trading on Kalshi prediction markets or daily automated intelligence gathering",
+      "priority": 1,
+      "source": "briefing:project_applicability",
+      "target_project": "QuantMarketData"
+    },
+    "status": "failed",
+    "error": "## Vector Compression Implementation Plan\n\n### Context\nQuantMarketData stores growing in-memory arrays across three key locations:\n1. `BeliefState.data_history` (bayesian_engine.py:39) \u2014 unbounded list of dicts per market, each containing multiple float64 values\n2. `SignalFusion.active_signals` (signal_fusion.py:65) \u2014 list of Signal objects per market\n3. `GARCHVolatilityTracker.returns` / `_vol_history` (signal_fusion.py:249) \u2014 Python lists of float64\n\nWith many simultaneous markets tracked (each potentially hundreds of updates), memory grows unchecked. The fix: **int8/float16 scalar quantization** of probability and return arrays + bounded circular buffers.\n\n### Step 1: Create `tools/vector_compressor.py`\n- `QuantizedProbArray`: stores float64 probability values (0.0\u20131.0) as uint8 (0\u2013255), 8x compression over float64. Provides `.append(float)`, `.to_numpy() -> np.ndarray`, `.mean()`, `.latest(n) -> np.ndarray`.\n- `Float16CircularBuffer`: stores arbitrary float values as float16 in a fixed-size numpy ring buffer. 4x compression over float64, bounded memory.\n- `CompressedHistory`: replaces BeliefState.data_history; stores only essential scalar fields per update (posterior_after as uint8, weight as float16, timestamp as int32 unix), skipping bulky metadata.\n\n### Step 2: Modify `tools/bayesian_engine.py`\n- Replace `data_history: list = field(default_factory=list)` in `BeliefState` (line 39) with `data_history: CompressedHistory = field(default_factory=CompressedHistory)` with max_entries=500.\n- Update `BayesianEngine.update()` (line 135\u2013141) to append to CompressedHistory instead of a raw dict list.\n- Update `BeliefState.to_dict()` (line 41\u201348) to serialize compressed history.\n\n### Step 3: Modify `tools/signal_fusion.py`\n- Replace `GARCHVolatilityTracker.returns: list[float]` and `_vol_history: list[float]` (lines 249, 251) with `Float16CircularBuffer(capacity=500)` each.\n- Update `.update()` (line 246), `.fit()` (line 250), `.get_volatility_regime()` (line 279), `.get_variance_scaling()` (line 295) to call `.to_numpy()` when needed for arch/numpy operations.\n- Cap `active_signals` per market at 200 entries (prune oldest when full) in `SignalFusion.add_signal()`.\n\n### Step 4: Add tests in `tests/test_vector_compressor.py`\n- Test uint8 round-trip accuracy (max error < 0.004 for probabilities)\n- Test float16 buffer capacity/overflow behavior\n- Test CompressedHistory append and retrieval\n- Test memory reduction (assert compressed < uncompressed * 0.2)",
+    "failed_at": "2026-04-06T04:49:33"
+  },
+  "act-082": {
+    "item": {
+      "id": "act-082",
+      "title": "## TODO \u2014 TurboQuant Implementation Proposals (2026-03-24)",
+      "description": "### Remaining Items (AutoResearch item removed \u2014 project discontinued):\n\n1. **MarketSwarm \u2014 Regime Fingerprint Vector Store** [HIGH, 2-3 days]\n   - Replace binary breadth gate with PolarQuant-inspired vector similarity lookup\n\n2. **FORGE \u2014 Context Compression** [MEDIUM, 4-6 hrs]\n   - Haiku-based context compressor for problem.md + old-tests.md (~90K tokens)\n\n3. **QuantMarketData \u2014 Polar Signal Compression** [MEDIUM, 1 day]\n   - Polar encoding for belief cache in signal_fusion.py\n\n4. **SportsBett",
+      "priority": 2,
+      "source": "inbox:todo",
+      "target_project": "FORGE"
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-06T04:52:35"
+  },
+  "act-086": {
+    "item": {
+      "id": "act-086",
+      "title": "Integrate TurboQuant into infrastructure for Llama 4 models to reduce memory usage and enhance perfo",
+      "description": "Integrate TurboQuant into infrastructure for Llama 4 models to reduce memory usage and enhance performance",
+      "priority": 6,
+      "source": "briefing:project_applicability",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-06T04:59:56"
+  },
+  "act-087": {
+    "item": {
+      "id": "act-087",
+      "title": "Leverage multi-agent orchestration tools from ScaleOps to optimize Claude Code workflows",
+      "description": "Leverage multi-agent orchestration tools from ScaleOps to optimize Claude Code workflows",
+      "priority": 7,
+      "source": "briefing:project_applicability",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-06T05:02:58"
+  },
+  "act-089": {
+    "item": {
+      "id": "act-089",
+      "title": "Additionally, the advancements in multi-agent orchestration and visual workflow builders, exemplifie",
+      "description": "Additionally, the advancements in multi-agent orchestration and visual workflow builders, exemplified by ScaleOps' funding round, could streamline the development of Claude Code agent orchestration and workflow optimization, making it easier to manage complex workflows and improve overall efficiency",
+      "priority": 9,
+      "source": "briefing:project_applicability",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-06T05:08:16"
+  },
+  "act-091": {
+    "item": {
+      "id": "act-091",
+      "title": "## TODO \u2014 TurboQuant Implementation Proposals (2026-03-24)",
+      "description": "### Remaining Items (AutoResearch item removed \u2014 project discontinued):\n\n1. **MarketSwarm \u2014 Regime Fingerprint Vector Store** [HIGH, 2-3 days]\n   - Replace binary breadth gate with PolarQuant-inspired vector similarity lookup\n\n2. **FORGE \u2014 Context Compression** [MEDIUM, 4-6 hrs]\n   - Haiku-based context compressor for problem.md + old-tests.md (~90K tokens)\n\n3. **QuantMarketData \u2014 Polar Signal Compression** [MEDIUM, 1 day]\n   - Polar encoding for belief cache in signal_fusion.py\n\n4. **SportsBett",
+      "priority": 1,
+      "source": "inbox:todo",
+      "target_project": "FORGE"
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-07T04:46:07"
+  },
+  "act-092": {
+    "item": {
+      "id": "act-092",
+      "title": "## Idea from Telegram \u2014 2026-03-28 08:04",
+      "description": "3-park market project consolidation. A: short term, micro-second quant trading on stocks and prediction markets. B: identifying historical flags from previous economic events to predict macro market movements. C: a mixture of the two for a more standard portfolio manager. These would replace AlgoSwarm, MomentumWatch, and Kalshi paper trading to consolidate investing projects.\n\n---",
+      "priority": 2,
+      "source": "inbox:todo",
+      "target_project": "MomentumWatch"
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-07T04:46:24"
+  },
+  "act-093": {
+    "item": {
+      "id": "act-093",
+      "title": "Optimize SportsBettingSwarm using TurboQuant for improved performance",
+      "description": "Optimize SportsBettingSwarm using TurboQuant for improved performance",
+      "priority": 3,
+      "source": "briefing:project_applicability",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-07T04:46:40"
+  },
+  "act-094": {
+    "item": {
+      "id": "act-094",
+      "title": "Integrate TurboQuant into existing frameworks like PyTorch and FastMCP",
+      "description": "Integrate TurboQuant into existing frameworks like PyTorch and FastMCP",
+      "priority": 4,
+      "source": "briefing:project_applicability",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-07T04:46:57"
+  },
+  "act-095": {
+    "item": {
+      "id": "act-095",
+      "title": "The introduction of TurboQuant by Google Research could significantly impact how you deploy and opti",
+      "description": "The introduction of TurboQuant by Google Research could significantly impact how you deploy and optimize your AI models, especially those using PyTorch or FastMCP",
+      "priority": 5,
+      "source": "briefing:project_applicability",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-07T04:47:13"
+  },
+  "act-096": {
+    "item": {
+      "id": "act-096",
+      "title": "Additionally, the internal action items proposed to implement TurboQuant across different regimes ca",
+      "description": "Additionally, the internal action items proposed to implement TurboQuant across different regimes can streamline your workflow and potentially reduce costs associated with hardware upgrades",
+      "priority": 6,
+      "source": "briefing:project_applicability",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-07T04:47:30"
+  },
+  "act-097": {
+    "item": {
+      "id": "act-097",
+      "title": "## Idea from Telegram \u2014 2026-03-27 06:09",
+      "description": "Twitch live stream with live AI model battles with donation interaction. 2D set controls, AI models fight each other.\n\n---",
+      "priority": 7,
+      "source": "inbox:todo",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-07T04:47:47"
+  },
+  "act-098": {
+    "item": {
+      "id": "act-098",
+      "title": "## Idea from Telegram \u2014 2026-03-29 12:55",
+      "description": "addition to the 3 pronged market traders: Using the news and information gathered from the Daily Brief to assist with the macro strategy trading and seeing if it applies to either the natural or micro trader.\n\n---",
+      "priority": 8,
+      "source": "inbox:todo",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-07T04:48:03"
+  },
+  "act-099": {
+    "item": {
+      "id": "act-099",
+      "title": "{\"cliff_notes\": \"Today's developments in the broader AI ecosystem highlight significant advancements",
+      "description": "{\"cliff_notes\": \"Today's developments in the broader AI ecosystem highlight significant advancements in efficiency and infrastructure improvements",
+      "priority": 9,
+      "source": "briefing:ai_industry",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-07T04:48:20"
+  },
+  "act-100": {
+    "item": {
+      "id": "act-100",
+      "title": "Google Research has published TurboQuant, a groundbreaking vector compression technique that reduces",
+      "description": "Google Research has published TurboQuant, a groundbreaking vector compression technique that reduces memory usage by 6x without affecting accuracy",
+      "priority": 10,
+      "source": "briefing:ai_industry",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-07T04:48:37"
+  },
+  "act-101": {
+    "item": {
+      "id": "act-101",
+      "title": "Integrate Gemma 4 into sports betting models for improved accuracy",
+      "description": "Integrate Gemma 4 into sports betting models for improved accuracy",
+      "priority": 1,
+      "source": "briefing:project_applicability",
+      "target_project": "SportsBettingSwarm"
+    },
+    "status": "failed",
+    "error": "## Integrate Gemma 4 into SportsBettingSwarm\n\n### Overview\nAdd Gemma 4 (Google LLM) as an optional ensemble signal that generates a data-driven edge estimate from team statistics formatted as a structured prompt. The signal blends into the existing `estimated_edge` at a configurable weight.\n\n### Step 1 \u2014 Create `baseline/features_llm.py`\nNew module (~150 lines) containing:\n- `GemmaCache` class: SQLite-backed persistent cache keyed by `(home_team, away_team, commence_time_iso, sport, model_version)` \u2014 avoids repeat API calls during backtesting\n- `_build_prompt(event, historical_data, config)`: formats pre-event team stats (win rates, momentum, game counts, sport) into a JSON-structured prompt asking Gemma to output `{\"edge\": float, \"confidence\": float, \"reasoning\": str}`\n- `generate_llm_features(event, historical_data, config) -> dict`: main entry point, returns `{\"gemma_edge\": float|None, \"gemma_confidence\": float|None}`, handles API errors gracefully with fallback to `None`\n- Uses `google-generativeai` package, model configurable via `config[\"gemma4\"][\"model\"]`\n\n### Step 2 \u2014 Modify `baseline/features.py`\nIn `generate_features()`, after the existing EWM/Bayesian feature block:\n- Import `generate_llm_features` from `features_llm`\n- If `config.get(\"gemma4\", {}).get(\"enabled\", False)`, call `generate_llm_features()` and merge result into features dict\n- Blend `gemma_edge` into `features[\"estimated_edge\"]` using weighted average: `(1 - gemma_weight) * existing_edge + gemma_weight * gemma_edge`\n- Only blend if `gemma_edge is not None`\n\n### Step 3 \u2014 Modify `baseline/config.json`\nAdd `\"gemma4\"` section:\n```json\n\"gemma4\": {\n  \"enabled\": false,\n  \"model\": \"gemma-4-27b-it\",\n  \"weight\": 0.15,\n  \"cache_path\": \"cache/gemma_features.db\",\n  \"max_history_games\": 10,\n  \"temperature\": 0.2,\n  \"timeout_seconds\": 10\n}\n```\n\n### Step 4 \u2014 Swarm Worker Integration\nAgents can test Gemma integration by:\n1. Setting `config[\"gemma4\"][\"enabled\"] = true` and varying `weight` (0.10\u20130.30)\n2. Running backtest \u2014 cache hit rate will be 100% after first run\n3. Comparing score vs baseline\n4. Logging result to old-tests.md\n\n### Notes\n- `enabled: false` by default \u2014 existing backtest behavior unchanged until an agent explicitly tests it\n- GOOGLE_API_KEY must be set in environment (read from `os.environ`)\n- All historical data passed to Gemma is anchored to `event[\"commence_time\"]` \u2014 no leakage\n- Cache is stored in `baseline/cache/` (gitignored) to persist across worktree runs",
+    "failed_at": "2026-04-08T04:51:26"
+  },
+  "act-102": {
+    "item": {
+      "id": "act-102",
+      "title": "Given these developments, you should consider integrating Gemma 4 into your sports betting models to",
+      "description": "Given these developments, you should consider integrating Gemma 4 into your sports betting models to boost accuracy and performance, explore GLM-5 for text-based tasks like natural language processing in your agent workflows, and evaluate Browser Use for improving the interactivity of your web interfaces",
+      "priority": 2,
+      "source": "briefing:project_applicability",
+      "target_project": "SportsBettingSwarm"
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-08T04:53:27"
+  },
+  "act-103": {
+    "item": {
+      "id": "act-103",
+      "title": "## TODO \u2014 TurboQuant Implementation Proposals (2026-03-24)",
+      "description": "### Remaining Items (AutoResearch item removed \u2014 project discontinued):\n\n1. **MarketSwarm \u2014 Regime Fingerprint Vector Store** [HIGH, 2-3 days]\n   - Replace binary breadth gate with PolarQuant-inspired vector similarity lookup\n\n2. **FORGE \u2014 Context Compression** [MEDIUM, 4-6 hrs]\n   - Haiku-based context compressor for problem.md + old-tests.md (~90K tokens)\n\n3. **QuantMarketData \u2014 Polar Signal Compression** [MEDIUM, 1 day]\n   - Polar encoding for belief cache in signal_fusion.py\n\n4. **SportsBett",
+      "priority": 3,
+      "source": "inbox:todo",
+      "target_project": "FORGE"
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-08T04:56:29"
+  },
+  "act-107": {
+    "item": {
+      "id": "act-107",
+      "title": "ai, now leading on Artificial Analysis and LMArena\u2019s Text Arena, offers a powerful tool for text-bas",
+      "description": "ai, now leading on Artificial Analysis and LMArena\u2019s Text Arena, offers a powerful tool for text-based applications such as Claude Code agent orchestration and daily automated intelligence gathering",
+      "priority": 7,
+      "source": "briefing:project_applicability",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-08T05:04:21"
+  },
+  "act-108": {
+    "item": {
+      "id": "act-108",
+      "title": "Additionally, the Browser Use framework's rapid growth suggests it could be leveraged to improve use",
+      "description": "Additionally, the Browser Use framework's rapid growth suggests it could be leveraged to improve user interaction in your web applications, potentially enhancing engagement metrics",
+      "priority": 8,
+      "source": "briefing:project_applicability",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-08T05:07:22"
+  },
+  "act-110": {
+    "item": {
+      "id": "act-110",
+      "title": "## Idea from Telegram \u2014 2026-03-29 12:55",
+      "description": "addition to the 3 pronged market traders: Using the news and information gathered from the Daily Brief to assist with the macro strategy trading and seeing if it applies to either the natural or micro trader.\n\n---",
+      "priority": 10,
+      "source": "inbox:todo",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-08T05:11:40"
+  },
+  "act-111": {
+    "item": {
+      "id": "act-111",
+      "title": "## TODO \u2014 TurboQuant Implementation Proposals (2026-03-24)",
+      "description": "### Remaining Items (AutoResearch item removed \u2014 project discontinued):\n\n1. **MarketSwarm \u2014 Regime Fingerprint Vector Store** [HIGH, 2-3 days]\n   - Replace binary breadth gate with PolarQuant-inspired vector similarity lookup\n\n2. **FORGE \u2014 Context Compression** [MEDIUM, 4-6 hrs]\n   - Haiku-based context compressor for problem.md + old-tests.md (~90K tokens)\n\n3. **QuantMarketData \u2014 Polar Signal Compression** [MEDIUM, 1 day]\n   - Polar encoding for belief cache in signal_fusion.py\n\n4. **SportsBett",
+      "priority": 1,
+      "source": "inbox:todo",
+      "target_project": "FORGE"
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-10T04:51:35"
+  },
+  "act-115": {
+    "item": {
+      "id": "act-115",
+      "title": "Integrate Gemma 4 into SportsBettingSwarm to improve data processing and analysis capabilities",
+      "description": "Integrate Gemma 4 into SportsBettingSwarm to improve data processing and analysis capabilities",
+      "priority": 5,
+      "source": "briefing:project_applicability",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "## Gemma 4 Integration into SportsBettingSwarm\n\n### Background\nSportsBettingSwarm is a purely statistical betting optimization system with NO current AI/LLM inference. All analysis is done via mathematical features (Bayesian estimation, Kelly criterion, momentum). Gemma 4 (via Ollama, which is already in use in the workspace) would add contextual/semantic signals to supplement the quantitative pipeline.\n\n### Integration Strategy\nAdd Gemma 4 as an **optional, non-blocking enrichment layer** that generates contextual signals (injury context, news sentiment, line movement reasoning) which feed into a new `llm_edge_adjustment` feature. Fallback gracefully if Ollama is unavailable.\n\n### Steps\n\n**Step 1: Add Ollama client dependency**\n- Add `ollama>=0.3.0` to `SportsBettingSwarm/requirements.txt`\n- Add `OLLAMA_HOST=http://localhost:11434` and `GEMMA_MODEL=gemma4` to `.env.example`\n\n**Step 2: Create `baseline/llm_features.py`**\n- `LLMFeatureExtractor` class with Ollama client\n- Method `get_context_signal(event: dict) -> float` \u2014 returns a float in [-0.05, 0.05] adjusting edge\n- Constructs a structured prompt: team names, sport, current odds, implied probability\n- Asks Gemma 4 to assess whether public narrative (injuries, streaks, travel) supports or undermines the quantitative edge\n- Parses JSON response: `{\"adjustment\": float, \"confidence\": float, \"reason\": str}`\n- Returns `adjustment * confidence` clamped to [-0.05, 0.05]\n- Falls back to 0.0 on any error/timeout (5s timeout)\n\n**Step 3: Modify `baseline/features.py`**\n- Import `LLMFeatureExtractor` (lazy import, instantiate once)\n- Add `llm_edge_adjustment: float = 0.0` field to the feature dict returned by `generate_features()`\n- Call `extractor.get_context_signal(event)` and store in feature dict\n- Gate behind `config.json` flag `use_llm_features: false` (off by default for backtest safety)\n\n**Step 4: Modify `baseline/filters.py`**\n- Add `llm_edge_adjustment` to the combined edge calculation: `effective_edge = base_edge + llm_edge_adjustment`\n- This flows naturally into the existing filter thresholds\n\n**Step 5: Create `production/llm_analyzer.py`**\n- `LLMAnalyzer` class for production scanner enrichment\n- `analyze_market(market: dict) -> dict` \u2014 returns enriched market with `llm_context` field\n- Generates human-readable reasoning for Telegram notifications\n- Used by `production/scanner_core.py` to add LLM commentary to scan reports\n\n**Step 6: Modify `production/scanner_core.py`**\n- Import `LLMAnalyzer`\n- After edge estimation, call `analyzer.analyze_market(market)` for top candidates (bets above threshold)\n- Add `llm_reasoning` field to bet candidates dict\n- Include LLM reasoning in Telegram dispatch messages\n\n**Step 7: Update `baseline/config.json`**\n- Add `use_llm_features: false` (safe default \u2014 backtest agents won't use LLM to avoid non-determinism)\n- Add `llm_edge_cap: 0.05` (max adjustment magnitude)\n- Add `llm_timeout_seconds: 5`\n\n**Step 8: Write tests in `baseline/test_llm_features.py`**\n- Mock Ollama client to test feature extraction\n- Test fallback behavior when Ollama is unavailable\n- Test clamping of edge adjustments to [-0.05, 0.05]",
+    "failed_at": "2026-04-10T05:00:42"
+  },
+  "act-116": {
+    "item": {
+      "id": "act-116",
+      "title": "Additionally, the introduction of Gemma 4 from Google DeepMind with its multimodal capabilities can ",
+      "description": "Additionally, the introduction of Gemma 4 from Google DeepMind with its multimodal capabilities can be leveraged to enhance the agent swarms in SportsBettingSwarm and MarchMadness accuracy projects by providing more robust data processing and analysis",
+      "priority": 6,
+      "source": "briefing:project_applicability",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-10T05:03:44"
+  },
+  "act-118": {
+    "item": {
+      "id": "act-118",
+      "title": "## Idea from Telegram \u2014 2026-03-29 12:55",
+      "description": "addition to the 3 pronged market traders: Using the news and information gathered from the Daily Brief to assist with the macro strategy trading and seeing if it applies to either the natural or micro trader.\n\n---",
+      "priority": 8,
+      "source": "inbox:todo",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-10T05:08:32"
+  },
+  "act-125": {
+    "item": {
+      "id": "act-125",
+      "title": "Integrate TurboQuant into PyTorch-based projects to reduce memory usage by 6x",
+      "description": "Integrate TurboQuant into PyTorch-based projects to reduce memory usage by 6x",
+      "priority": 5,
+      "source": "briefing:project_applicability",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-11T05:00:11"
+  },
+  "act-127": {
+    "item": {
+      "id": "act-127",
+      "title": "## Idea from Telegram \u2014 2026-03-29 12:55",
+      "description": "addition to the 3 pronged market traders: Using the news and information gathered from the Daily Brief to assist with the macro strategy trading and seeing if it applies to either the natural or micro trader.\n\n---",
+      "priority": 7,
+      "source": "inbox:todo",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-11T05:04:45"
+  },
+  "act-131": {
+    "item": {
+      "id": "act-131",
+      "title": "## TODO \u2014 TurboQuant Implementation Proposals (2026-03-24)",
+      "description": "### Remaining Items (AutoResearch item removed \u2014 project discontinued):\n\n1. **MarketSwarm \u2014 Regime Fingerprint Vector Store** [HIGH, 2-3 days]\n   - Replace binary breadth gate with PolarQuant-inspired vector similarity lookup\n\n2. **FORGE \u2014 Context Compression** [MEDIUM, 4-6 hrs]\n   - Haiku-based context compressor for problem.md + old-tests.md (~90K tokens)\n\n3. **QuantMarketData \u2014 Polar Signal Compression** [MEDIUM, 1 day]\n   - Polar encoding for belief cache in signal_fusion.py\n\n4. **SportsBett",
+      "priority": 1,
+      "source": "inbox:todo",
+      "target_project": "FORGE"
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-12T04:52:07"
+  },
+  "act-138": {
+    "item": {
+      "id": "act-138",
+      "title": "Integrate Meta's Llama 4 into your agent swarms and multi-agent orchestration projects",
+      "description": "Integrate Meta's Llama 4 into your agent swarms and multi-agent orchestration projects",
+      "priority": 8,
+      "source": "briefing:project_applicability",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-12T05:06:49"
+  },
+  "act-142": {
+    "item": {
+      "id": "act-142",
+      "title": "## TODO \u2014 TurboQuant Implementation Proposals (2026-03-24)",
+      "description": "### Remaining Items (AutoResearch item removed \u2014 project discontinued):\n\n1. **MarketSwarm \u2014 Regime Fingerprint Vector Store** [HIGH, 2-3 days]\n   - Replace binary breadth gate with PolarQuant-inspired vector similarity lookup\n\n2. **FORGE \u2014 Context Compression** [MEDIUM, 4-6 hrs]\n   - Haiku-based context compressor for problem.md + old-tests.md (~90K tokens)\n\n3. **QuantMarketData \u2014 Polar Signal Compression** [MEDIUM, 1 day]\n   - Polar encoding for belief cache in signal_fusion.py\n\n4. **SportsBett",
+      "priority": 2,
+      "source": "inbox:todo",
+      "target_project": "FORGE"
+    },
+    "status": "failed",
+    "error": "## FORGE \u2014 Context Compression Implementation Plan\n\n**Assessment:** The core AI compression scripts (`compress_context_ai.py` and `compress_context.py`) already exist in `FORGE/forge-implementation/scripts/`. Tests also exist in `tests/test_compress_context_ai.py`. This action item may be largely complete. The remaining work is likely:\n\n1. **Verify existing implementation completeness**\n   - Read `scripts/compress_context_ai.py` in full\n   - Read `scripts/compress_context.py` in full\n   - Read `tests/test_compress_context_ai.py`\n   - Check if `context-digest.md` output file is being generated correctly\n   - Check if `old-tests-digest.md` is kept in sync with actual compression\n\n2. **Audit gaps vs. CLAUDE.md spec**\n   - Confirm thresholds are enforced: problem.md >40KB \u2192 compress, old-tests.md >40KB \u2192 compress\n   - Confirm hard limits: problem.md <50KB chars, old-tests.md <100KB chars\n   - Confirm Haiku model ID is current (`claude-haiku-4-5-20251001`)\n   - Confirm batching strategy: principles in groups of 5\n\n3. **Check CLI integration**\n   - Verify `python scripts/compress_context_ai.py` works end-to-end\n   - Verify `--dry-run` flag falls back to rule-based correctly\n   - Verify `--help` output is informative\n\n4. **Check pre-swarm hook integration**\n   - CLAUDE.md says 'Run /pre-swarm forge before each round to compress context'\n   - Find or create `scripts/pre_swarm_check.py` that auto-triggers compression if files exceed threshold\n   - Should output: 'Context within limits' or 'Compressed: problem.md X\u2192Y KB, old-tests.md A\u2192B KB'\n\n5. **Fix any issues found**\n   - Update model ID if outdated\n   - Fix any import errors or broken paths\n   - Ensure `ANTHROPIC_API_KEY` is sourced from env (not hardcoded)\n\n6. **Run the test suite**\n   - `pytest tests/test_compress_context_ai.py -v`\n   - Fix any failing tests\n\n7. **Manual integration test**\n   - Run compressor against actual problem.md (21.8KB) and old-tests.md (49.6KB)\n   - Confirm output `context-digest.md` is generated\n   - Confirm compression stats are printed\n   - Confirm file sizes are within limits",
+    "failed_at": "2026-04-13T04:53:23"
+  },
+  "act-145": {
+    "item": {
+      "id": "act-145",
+      "title": "Integrate TurboQuant into SportsBettingSwarm and MarchMadness predictions to optimize model deployme",
+      "description": "Integrate TurboQuant into SportsBettingSwarm and MarchMadness predictions to optimize model deployment",
+      "priority": 5,
+      "source": "briefing:project_applicability",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-13T04:59:28"
+  },
+  "act-146": {
+    "item": {
+      "id": "act-146",
+      "title": "TurboQuant\u2019s vector compression technique can greatly reduce memory usage in your AI models without ",
+      "description": "TurboQuant\u2019s vector compression technique can greatly reduce memory usage in your AI models without compromising accuracy, which is crucial for deploying efficient swarm algorithms and multi-agent orchestration systems like SportsBettingSwarm and MarchMadness predictions",
+      "priority": 6,
+      "source": "briefing:project_applicability",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-13T05:02:30"
+  },
+  "act-153": {
+    "item": {
+      "id": "act-153",
+      "title": "## TODO \u2014 TurboQuant Implementation Proposals (2026-03-24)",
+      "description": "### Remaining Items (AutoResearch item removed \u2014 project discontinued):\n\n1. **MarketSwarm \u2014 Regime Fingerprint Vector Store** [HIGH, 2-3 days]\n   - Replace binary breadth gate with PolarQuant-inspired vector similarity lookup\n\n2. **FORGE \u2014 Context Compression** [MEDIUM, 4-6 hrs]\n   - Haiku-based context compressor for problem.md + old-tests.md (~90K tokens)\n\n3. **QuantMarketData \u2014 Polar Signal Compression** [MEDIUM, 1 day]\n   - Polar encoding for belief cache in signal_fusion.py\n\n4. **SportsBett",
+      "priority": 3,
+      "source": "inbox:todo",
+      "target_project": "FORGE"
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-14T04:56:21"
+  },
+  "act-159": {
+    "item": {
+      "id": "act-159",
+      "title": "Recent research highlights that while backtesting remains a crucial tool, live out-of-sample perform",
+      "description": "Recent research highlights that while backtesting remains a crucial tool, live out-of-sample performance often underperforms due to various factors such as slippage, market microstructure changes, and model drift",
+      "priority": 9,
+      "source": "briefing:market_news",
+      "target_project": "MarketSwarm"
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-14T05:08:01"
+  },
+  "act-160": {
+    "item": {
+      "id": "act-160",
+      "title": "Utilize Meta's Llama 4 Scout and Maverick models in the 'knowledge extraction and pattern discovery'",
+      "description": "Utilize Meta's Llama 4 Scout and Maverick models in the 'knowledge extraction and pattern discovery' task to improve data analysis capabilities.",
+      "priority": 10,
+      "source": "briefing:project_applicability",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-14T05:11:02"
+  },
+  "act-162": {
+    "item": {
+      "id": "act-162",
+      "title": "## TODO \u2014 TurboQuant Implementation Proposals (2026-03-24)",
+      "description": "### Remaining Items (AutoResearch item removed \u2014 project discontinued):\n\n1. **MarketSwarm \u2014 Regime Fingerprint Vector Store** [HIGH, 2-3 days]\n   - Replace binary breadth gate with PolarQuant-inspired vector similarity lookup\n\n2. **FORGE \u2014 Context Compression** [MEDIUM, 4-6 hrs]\n   - Haiku-based context compressor for problem.md + old-tests.md (~90K tokens)\n\n3. **QuantMarketData \u2014 Polar Signal Compression** [MEDIUM, 1 day]\n   - Polar encoding for belief cache in signal_fusion.py\n\n4. **SportsBett",
+      "priority": 2,
+      "source": "inbox:todo",
+      "target_project": "FORGE"
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-16T04:54:29"
+  },
+  "act-166": {
+    "item": {
+      "id": "act-166",
+      "title": "The community on r/algotrading and r/quant continues to emphasize the persistent gap between backtes",
+      "description": "The community on r/algotrading and r/quant continues to emphasize the persistent gap between backtest performance and live trading results, with strategies showing strong Sharpe ratios often underperforming due to overfitting and other factors",
+      "priority": 6,
+      "source": "briefing:market_news",
+      "target_project": "MarketSwarm"
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-16T05:02:36"
+  },
+  "act-170": {
+    "item": {
+      "id": "act-170",
+      "title": "## Idea from Telegram \u2014 2026-03-29 12:55",
+      "description": "addition to the 3 pronged market traders: Using the news and information gathered from the Daily Brief to assist with the macro strategy trading and seeing if it applies to either the natural or micro trader.\n\n---",
+      "priority": 10,
+      "source": "inbox:todo",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-16T05:11:13"
+  },
+  "act-171": {
+    "item": {
+      "id": "act-171",
+      "title": "Integrate agent-memory into the MarketSwarm and SportsBettingSwarm worker loop so strategy agents ac",
+      "description": "Integrate agent-memory into the MarketSwarm and SportsBettingSwarm worker loop so strategy agents accumulate cross-round pattern memory \u2014 specifically, cache which market conditions triggered wins vs. losses so the evolutionary optimizer has a growing signal base rather than starting each generation blind. This directly addresses the IS/OOS gap problem logged in project memory.",
+      "priority": 1,
+      "source": "briefing:project_applicability",
+      "target_project": "MarketSwarm"
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-17T04:51:59"
+  },
+  "act-172": {
+    "item": {
+      "id": "act-172",
+      "title": "Run agent-audit against the Kalshi autonomous trading agent before enabling live capital deployment ",
+      "description": "Run agent-audit against the Kalshi autonomous trading agent before enabling live capital deployment \u2014 the OWASP Agentic Top 10 covers tool misuse and excessive agency, both of which are live risks when an agent is calling Kalshi order endpoints. Treat it as a required pre-deploy gate, not an optional audit.",
+      "priority": 2,
+      "source": "briefing:project_applicability",
+      "target_project": "QuantMarketData"
+    },
+    "status": "failed",
+    "error": "## Agent Audit: Kalshi Autonomous Trading Agent (OWASP Agentic Top 10)\n\n### Context\nThe KalshiTrader project (`F:\\_ClaudeAgents\\.Brain\\KalshiTrader\\`) is a persistent sports-market trader that, in live mode, calls real Kalshi order endpoints (`place_bet`, `cancel_order`). The audit must check AA03 (Excessive Agency) and AA05 (Tool Misuse) as primary risks before live capital deployment is enabled.\n\nExisting safeguards already in place:\n- `TRADING_ENABLED` env gate in `persistent_trader.py:192`\n- Duplicate order check (`_check_duplicate_order`)\n- Daily loss limit + circuit breaker\n- Threading RLock on position mutations\n- `PRODUCTION_MODE` flag in `kalshi_client.py`\n\nGaps identified:\n1. **No input validation on `place_bet` parameters** \u2014 `market_ticker`, `side`, `num_contracts`, `price_cents` are passed through with no bounds checks; a bad Bayesian signal or data corruption could send malformed orders\n2. **No prompt-injection guard** \u2014 market titles/descriptions from Kalshi API are consumed without sanitization; an adversarially crafted title could influence agent decisions\n3. **No per-market order rate limit** \u2014 daily_orders cap is global; there is no per-ticker cooldown preventing rapid re-entry after a cancel\n4. **No pre-deploy audit runner** \u2014 there is no automated checklist execution confirming all safety controls are active before live mode starts\n5. **No structured tool-call audit log** \u2014 `place_bet` / `cancel_order` / `get_positions` calls are logged via `print()` only, not to a structured audit trail\n6. **`_raw_*` methods bypass health monitor** \u2014 `_raw_get/post/delete` in `kalshi_client.py:114-130` can be called directly, bypassing the circuit breaker\n\n### Implementation Steps\n\n**Step 1 \u2014 Create `KalshiTrader/audit/` module**\nCreate `KalshiTrader/audit/__init__.py` (empty) and `KalshiTrader/audit/agent_audit.py`. This module contains:\n- `AuditCheck` dataclass with fields: `check_id`, `title`, `risk_category`, `severity`, `passed`, `detail`\n- `AgentAudit` class with `run_all()` method that runs all checks and returns list of `AuditCheck`\n- Individual check methods for each OWASP control (see below)\n- `print_report()` method that outputs a human-readable table\n- `__main__` entry point: `python -m audit.agent_audit`\n\n**Step 2 \u2014 Implement 10 audit checks in `agent_audit.py`**\n\n| Check ID | OWASP Risk | What to verify |\n|---|---|---|\n| AA01 | Prompt Injection | Market titles sanitized before agent reasoning (no `eval`, `exec`, or instruction-like strings) |\n| AA03-A | Excessive Agency | `TRADING_ENABLED` must be env-gated and not configurable at runtime |\n| AA03-B | Excessive Agency | `place_bet` num_contracts bounded by config.sizing.max_bet_pct * balance |\n| AA03-C | Excessive Agency | Per-market cooldown exists (not just global daily cap) |\n| AA03-D | Excessive Agency | Kill switch reachable \u2014 `kill_switch.py` exists and `--cancel-all` path tested |\n| AA05-A | Tool Misuse | `place_bet` validates: side in {yes, no}, price_cents in [1,99], num_contracts >= 1 |\n| AA05-B | Tool Misuse | `_raw_*` methods cannot be called in production mode without going through health monitor |\n| AA05-C | Tool Misuse | No `place_bet` call possible when `trading_halted=True` |\n| AA08 | Repudiation | Structured JSON audit log exists and every `place_bet` call is recorded with full params |\n| AA09 | Overreliance | Minimum-edge threshold (\u03c4_min=0.05) is hardcoded, not configurable from external data |\n\n**Step 3 \u2014 Add input validation to `kalshi_client.py:place_bet`**\nAdd a `_validate_order_params()` method to `KalshiClient` that raises `ValueError` before any HTTP call if:\n- `side` not in `{\"yes\", \"no\"}`\n- `price_cents` not in `[1, 99]`\n- `num_contracts < 1`\n- `market_ticker` is empty string or contains non-alphanumeric/dash characters\nCall `_validate_order_params()` at the top of `place_bet()` (before the stub check).\n\n**Step 4 \u2014 Add per-market cooldown to `persistent_trader.py`**\nAdd `self._last_order_per_ticker: dict[str, datetime] = {}` to `PersistentTrader.__init__`.\nAdd `_check_ticker_cooldown(ticker: str, cooldown_minutes: int = 30) -> bool` that returns `True` (blocked) if last order for that ticker was within cooldown window.\nCall it inside `_check_duplicate_order` before placing any order.\n\n**Step 5 \u2014 Add structured audit log to `kalshi_client.py`**\nAdd a `_audit_log(action: str, params: dict, response_status: Optional[int])` private method to `KalshiClient` that appends a JSON line to `KalshiTrader/logs/audit_trail.jsonl`.\nCall it in `place_bet`, `cancel_order`, and `get_positions` (state-mutating and state-reading calls in production mode only).\n\n**Step 6 \u2014 Create `KalshiTrader/audit/pre_deploy_gate.py`**\nA standalone script that:\n1. Runs `AgentAudit.run_all()`\n2. Fails (exit code 1) if any check with severity CRITICAL or HIGH fails\n3. Prints a PASS/FAIL summary\nAdd a note to `KalshiTrader/CLAUDE.md` under Safety Features: \"Run `python -m audit.pre_deploy_gate` before enabling live mode \u2014 this is a required pre-deploy gate.\"\n\n**Step 7 \u2014 Write `KalshiTrader/audit/FINDINGS.md`**\nDocument each finding with: severity (CRITICAL/HIGH/MEDIUM), OWASP control ID, current state, remediation implemented, and residual risk. This is the deliverable for human review before live deployment is approved.",
+    "failed_at": "2026-04-17T04:54:01"
+  },
+  "act-173": {
+    "item": {
+      "id": "act-173",
+      "title": "Pilot GitHub Agentic Workflows on the DailyBriefing repository to replace the Windows Task Scheduler",
+      "description": "Pilot GitHub Agentic Workflows on the DailyBriefing repository to replace the Windows Task Scheduler .bat launcher for the morning pipeline run \u2014 this gives you a monitored, logged, retriable execution environment with native Claude Code integration instead of fire-and-forget scheduled tasks.",
+      "priority": 3,
+      "source": "briefing:project_applicability",
+      "target_project": "FORGE"
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-17T04:57:02"
+  },
+  "act-174": {
+    "item": {
+      "id": "act-174",
+      "title": "FORGE runs competitive optimization rounds where coding-capable models evaluate and generate strateg",
+      "description": "FORGE runs competitive optimization rounds where coding-capable models evaluate and generate strategy variants; an open-weight model at that benchmark level could serve as a lower-cost worker for code-generation sub-tasks, reducing API spend on Haiku-tier rounds without sacrificing output quality",
+      "priority": 4,
+      "source": "briefing:project_applicability",
+      "target_project": "FORGE"
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-17T05:00:04"
+  },
+  "act-175": {
+    "item": {
+      "id": "act-175",
+      "title": "Running agent-audit as a pre-deploy step on the Kalshi trading stack before live capital goes in is ",
+      "description": "Running agent-audit as a pre-deploy step on the Kalshi trading stack before live capital goes in is low-cost insurance",
+      "priority": 5,
+      "source": "briefing:project_applicability",
+      "target_project": "QuantMarketData"
+    },
+    "status": "failed",
+    "error": "## Agent-Audit Pre-Deploy Step for Kalshi Trading Stack\n\n### Overview\nCreate a standalone `pre_deploy_audit.py` script in `QuantMarketData/` that codifies the CLAUDE.md Verification Criteria checklist into automated checks. Returns exit code 0 on PASS, 1 on any FAIL, prints a structured report.\n\n### Checks to Implement\n\n**1. Environment & Credentials**\n- `.env` file exists in project root\n- Required env vars present: `KALSHI_API_KEY`, `BANKROLL` (optional with default)\n- `PRODUCTION_MODE` is NOT `true` unless `--allow-live` flag passed\n- No hardcoded API keys in `tools/` or `workflows/` source files (grep for common key patterns)\n\n**2. API Connectivity**\n- Hit Kalshi demo REST API health endpoint (`GET /trade-api/v2/exchange/status`)\n- If `PRODUCTION_MODE=true`, also hit prod endpoint\n- Timeout: 5s, fail gracefully on network unavailability\n\n**3. Risk Limit Integrity**\n- Import `RiskManager` and `ParamLearner` from `tools/`\n- Instantiate and call `pre_trade_check()` with a synthetic 6% single-position trade \u2192 must be REJECTED (exceeds 5% limit)\n- Verify Kelly sizer returns half-Kelly: call `kelly_sizer.compute()` with edge=0.10, price=0.40 \u2192 result must be \u2264 full-Kelly/2\n- Verify `tools/lmsr_calculator.py` \u03c4_min threshold = 0.05\n\n**4. Test Suite Health**\n- Run `pytest tests/ -q --tb=no` via subprocess, check exit code\n- Report test count and failures\n\n**5. Log Infrastructure**\n- `logs/` directory exists and is writable\n- Trade logger can open a test log file without error\n\n**6. Dependency Check**\n- Import key packages: `requests`, `kalshi_python` (or `kalshi`), `dotenv`\n- Report missing packages as FAIL\n\n### Output Format\n```\n========= KALSHI PRE-DEPLOY AUDIT =========\n[PASS] Environment: .env present, PRODUCTION_MODE=false\n[PASS] API Connectivity: demo API responded in 342ms\n[PASS] Risk Limits: 6% position rejected, half-Kelly enforced\n[PASS] Test Suite: 94 passed, 0 failed\n[PASS] Log Infrastructure: logs/ writable\n[PASS] Dependencies: all required packages available\n-------------------------------------------\nRESULT: 6/6 checks passed \u2014 SAFE TO DEPLOY\n```\n\n### Step-by-Step Implementation\n1. Create `QuantMarketData/pre_deploy_audit.py` (~180 lines)\n2. Each check is a function returning `(passed: bool, message: str)`\n3. Main runner collects results, prints report, exits with `sys.exit(0 if all_passed else 1)`\n4. Add `--allow-live` flag for explicitly authorized production deploys\n5. No new dependencies \u2014 uses only stdlib + existing project tools",
+    "failed_at": "2026-04-17T05:01:50"
+  },
+  "act-176": {
+    "item": {
+      "id": "act-176",
+      "title": "## TODO \u2014 TurboQuant Implementation Proposals (2026-03-24)",
+      "description": "### Remaining Items (AutoResearch item removed \u2014 project discontinued):\n\n1. **MarketSwarm \u2014 Regime Fingerprint Vector Store** [HIGH, 2-3 days]\n   - Replace binary breadth gate with PolarQuant-inspired vector similarity lookup\n\n2. **FORGE \u2014 Context Compression** [MEDIUM, 4-6 hrs]\n   - Haiku-based context compressor for problem.md + old-tests.md (~90K tokens)\n\n3. **QuantMarketData \u2014 Polar Signal Compression** [MEDIUM, 1 day]\n   - Polar encoding for belief cache in signal_fusion.py\n\n4. **SportsBett",
+      "priority": 6,
+      "source": "inbox:todo",
+      "target_project": "FORGE"
+    },
+    "status": "failed",
+    "error": "## FORGE \u2014 Context Compression Implementation Plan\n\n### Current State\n- `scripts/compress_context_ai.py` already exists (~300 lines, uses `claude-haiku-4-5-20251001`)\n- `scripts/compress_context.py` exists as rule-based fallback\n- CLAUDE.md defines thresholds: 40KB triggers compression, 50K chars for problem.md, 100K chars for old-tests.md\n- `/pre-swarm forge` skill references compression but integration may be incomplete\n- Files today: problem.md 22K, old-tests.md 49K, old-tests-digest.md 30K, old-tests.archive.md 67K\n\n### Steps\n\n1. **Read compress_context_ai.py in full** \u2014 identify: missing functions, incomplete logic, error handling gaps, whether it properly handles both problem.md and old-tests.md in a single pass\n\n2. **Read pre-swarm skill** at `~/.claude/skills/pre-swarm.md` \u2014 verify it invokes compress_context_ai.py correctly and passes FORGE as target\n\n3. **Check test coverage** \u2014 read `tests/test_compress_context_ai.py`, verify it tests the main compression paths; add missing test cases if coverage < 80%\n\n4. **Fix or complete compress_context_ai.py** if gaps exist:\n   - Ensure `compress_problem_md()` drops low-confidence entries and shortens descriptions to target < 50K chars\n   - Ensure `compress_old_tests_md()` retains only most recent N entries per strategy to target < 100K chars\n   - Ensure `generate_context_digest()` writes combined `context-digest.md` with source stats\n   - Add `--force` flag to bypass 40KB threshold check\n   - Add `--dry-run` flag to preview compression savings without writing\n   - Fix model ID if outdated: use `claude-haiku-4-5-20251001`\n\n5. **Verify pre-swarm integration** \u2014 the `/pre-swarm forge` flow should:\n   - Check file sizes against thresholds\n   - Call `python scripts/compress_context_ai.py` when threshold exceeded\n   - Report token savings to user\n\n6. **Run tests** \u2014 `pytest tests/test_compress_context_ai.py -v`\n\n7. **Manual smoke test** \u2014 run compressor against current problem.md + old-tests.md, verify output in context-digest.md is < 15K chars and preserves key principles",
+    "failed_at": "2026-04-17T05:04:37"
+  },
+  "act-178": {
+    "item": {
+      "id": "act-178",
+      "title": "Agent-audit: Static security scanner implementing OWASP Agentic Top 10 (2026) launched on GitHub, fo",
+      "description": "Agent-audit: Static security scanner implementing OWASP Agentic Top 10 (2026) launched on GitHub, formalizing agent security review as a CI-pipeline step.",
+      "priority": 8,
+      "source": "briefing:ai_industry",
+      "target_project": "DailyBriefing"
+    },
+    "status": "failed",
+    "error": "## Implementation Plan: OWASP Agentic Top 10 Static Security Scanner in CI\n\n### Context\nA new GitHub project ('agent-audit') launched implementing the OWASP Agentic AI Top 10 (2026) as a static security scanner. The action item is to integrate this into the Brain workspace's CI pipeline so agent code is automatically reviewed for agentic security risks on every push.\n\n### Step 1: Research the tool\n- Search GitHub for the agent-audit tool (likely `owasp/agent-audit` or similar repo launched in April 2026)\n- Identify: install method (pip/npm), CLI interface, config format, what it scans\n- Note which OWASP Agentic Top 10 checks it implements (AA1 prompt injection through AA10 unbounded consumption)\n\n### Step 2: Create GitHub Actions workflow\n- Create `.github/workflows/agent-security-audit.yml` at `F:\\_ClaudeAgents\\.Brain\\.github\\workflows\\agent-security-audit.yml`\n- Trigger on: push to any branch, pull_request to master\n- Steps: checkout, setup Python, install agent-audit, run scan on key agent directories\n- Scan targets: `DailyBriefing/`, `FORGE/`, `MarketSwarm/`, `SportsBettingSwarm/`, `KalshiTrader/`, `MomentumWatch/`, `Tools/`\n- Output: SARIF report uploaded to GitHub Security tab\n- Set `continue-on-error: true` initially (non-blocking) with a TODO to make it blocking after baseline\n\n### Step 3: Create local audit script\n- Create `Tools/agent-audit/run_audit.py` \u2014 a wrapper that runs the scanner locally with same config as CI\n- Accepts optional `--target` argument to scan specific project dir\n- Outputs summary to stdout and saves JSON report to `Tools/agent-audit/reports/YYYY-MM-DD.json`\n\n### Step 4: Create audit config\n- Create `Tools/agent-audit/agent-audit.config.json` (or `.yaml`) with:\n  - Paths to exclude (output/, Archive/, venv/, .git/)\n  - Severity threshold: HIGH+\n  - Enabled checks: all 10 OWASP Agentic categories\n  - Custom rules for Brain-specific patterns (credential leakage to subprocess, prompt injection in LLM calls)\n\n### Step 5: Update DailyBriefing action tracking\n- Mark this action item as implemented by moving it from pending.json to completed.json\n- The executor.py / approval.py handles this via `mark_completed(item_id)`\n\n### Fallback (if agent-audit tool not installable via pip)\n- Implement a lightweight custom Python scanner in `Tools/agent-audit/scanner.py` that checks for:\n  - Hardcoded prompts with user-controlled input (AA1: prompt injection)\n  - Subprocess calls with untrusted data (AA6: excessive agency)\n  - Credential patterns in agent outputs (AA2: sensitive info disclosure)\n  - Unbounded loops/API calls without rate limits (AA10: unbounded consumption)\n  - System prompt in non-secret storage (AA7: system prompt leakage)",
+    "failed_at": "2026-04-17T05:08:10"
+  },
+  "act-181": {
+    "item": {
+      "id": "act-181",
+      "title": "Evaluate hermes-agent v0.8.0 as a persistent memory layer candidate for MarketSwarm and SportsBettin",
+      "description": "Evaluate hermes-agent v0.8.0 as a persistent memory layer candidate for MarketSwarm and SportsBettingSwarm \u2014 clone the repo and map its session memory architecture against the current WAT framework round-state model. The concrete gain is swarm agents that retain discovered correlations and failed strategy signals across multiple trading days instead of resetting.",
+      "priority": 1,
+      "source": "briefing:project_applicability",
+      "target_project": "MarketSwarm"
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-18T04:51:53"
+  },
+  "act-183": {
+    "item": {
+      "id": "act-183",
+      "title": "## TODO \u2014 TurboQuant Implementation Proposals (2026-03-24)",
+      "description": "### Remaining Items (AutoResearch item removed \u2014 project discontinued):\n\n1. **MarketSwarm \u2014 Regime Fingerprint Vector Store** [HIGH, 2-3 days]\n   - Replace binary breadth gate with PolarQuant-inspired vector similarity lookup\n\n2. **FORGE \u2014 Context Compression** [MEDIUM, 4-6 hrs]\n   - Haiku-based context compressor for problem.md + old-tests.md (~90K tokens)\n\n3. **QuantMarketData \u2014 Polar Signal Compression** [MEDIUM, 1 day]\n   - Polar encoding for belief cache in signal_fusion.py\n\n4. **SportsBett",
+      "priority": 3,
+      "source": "inbox:todo",
+      "target_project": "FORGE"
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-18T04:57:57"
+  },
+  "act-188": {
+    "item": {
+      "id": "act-188",
+      "title": "The most directly applicable development this week is the agent memory problem drawing serious resea",
+      "description": "The most directly applicable development this week is the agent memory problem drawing serious research attention \u2014 five competing architectures are now in active development, with NousResearch hermes-agent emerging as the community frontrunner",
+      "priority": 8,
+      "source": "briefing:project_applicability",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-18T05:06:35"
+  },
+  "act-190": {
+    "item": {
+      "id": "act-190",
+      "title": "## Idea from Telegram \u2014 2026-03-29 12:55",
+      "description": "addition to the 3 pronged market traders: Using the news and information gathered from the Daily Brief to assist with the macro strategy trading and seeing if it applies to either the natural or micro trader.\n\n---",
+      "priority": 10,
+      "source": "inbox:todo",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-18T05:10:53"
+  },
+  "act-191": {
+    "item": {
+      "id": "act-191",
+      "title": "Evaluate whether the Hermes skill registry pattern \u2014 where discrete capabilities are registered as p",
+      "description": "Evaluate whether the Hermes skill registry pattern \u2014 where discrete capabilities are registered as plugins rather than baked into agent prompts \u2014 maps onto the FORGE strategy module architecture. FORGE currently treats each strategy as a standalone module; a skill registry abstraction could enable the evolutionary optimizer to compose and swap strategy components without full module reloads.",
+      "priority": 1,
+      "source": "briefing:project_applicability",
+      "target_project": "FORGE"
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-19T04:51:42"
+  },
+  "act-195": {
+    "item": {
+      "id": "act-195",
+      "title": "## TODO \u2014 TurboQuant Implementation Proposals (2026-03-24)",
+      "description": "### Remaining Items (AutoResearch item removed \u2014 project discontinued):\n\n1. **MarketSwarm \u2014 Regime Fingerprint Vector Store** [HIGH, 2-3 days]\n   - Replace binary breadth gate with PolarQuant-inspired vector similarity lookup\n\n2. **FORGE \u2014 Context Compression** [MEDIUM, 4-6 hrs]\n   - Haiku-based context compressor for problem.md + old-tests.md (~90K tokens)\n\n3. **QuantMarketData \u2014 Polar Signal Compression** [MEDIUM, 1 day]\n   - Polar encoding for belief cache in signal_fusion.py\n\n4. **SportsBett",
+      "priority": 5,
+      "source": "inbox:todo",
+      "target_project": "FORGE"
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-19T04:59:48"
+  },
+  "act-201": {
+    "item": {
+      "id": "act-201",
+      "title": "Evaluate XAgen against SportsBettingSwarm and MarketSwarm: pull the arXiv paper, map its failure-det",
+      "description": "Evaluate XAgen against SportsBettingSwarm and MarketSwarm: pull the arXiv paper, map its failure-detection methods to the existing swarm round structure, and determine whether it can be integrated as a diagnostic layer that flags coordinator-worker disagreements or stalled rounds \u2014 this directly targets the IS/OOS performance gap that remains structurally unresolved in MarketSwarm.",
+      "priority": 1,
+      "source": "briefing:project_applicability",
+      "target_project": "MarketSwarm"
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-20T04:51:55"
+  },
+  "act-204": {
+    "item": {
+      "id": "act-204",
+      "title": "The project portfolio already uses custom multi-agent orchestration built around the Claude MCP mess",
+      "description": "The project portfolio already uses custom multi-agent orchestration built around the Claude MCP message bus, and any framework that achieves that level of developer traction in a week deserves architectural review \u2014 not to replace existing infrastructure immediately, but to benchmark agent runtime patterns against what the community is converging on",
+      "priority": 4,
+      "source": "briefing:project_applicability",
+      "target_project": "MomentumWatch"
+    },
+    "status": "failed",
+    "error": "## Architectural Benchmark: MomentumWatch Agent Runtime vs. Community Frameworks\n\n### Goal\nProduce a benchmark document at `MomentumWatch/architecture/agent-runtime-benchmark.md` comparing MomentumWatch's subprocess-dispatch orchestration against patterns in trending agent frameworks (Claude Agents SDK, OpenAI Agents SDK, LangGraph, CrewAI). No code changes \u2014 pure analysis with actionable gap findings.\n\n### Steps\n\n**Step 1 \u2014 Baseline current architecture (15 min)**\n- Re-read `architecture/coordination-layer.md` and `CLAUDE.md` automation section\n- Extract the key runtime patterns: subprocess dispatch, 3-phase pipeline, model escalation, file-based state, scheduled execution, constraint validation gates\n\n**Step 2 \u2014 Research community frameworks (45 min)**\n- Web search: \"Claude Agents SDK architecture 2026\", \"OpenAI Agents SDK patterns\", \"LangGraph 2025 best practices\", \"multi-agent orchestration community convergence\"\n- Specifically look for: agent lifecycle management, tool-use patterns, state persistence, error handling/retry, observability, model routing\n- Note which patterns are gaining adoption across multiple frameworks (signal of convergence)\n\n**Step 3 \u2014 Map patterns side-by-side (30 min)**\nFor each framework pattern, assess MomentumWatch's equivalent:\n- `Already have` \u2014 name the file/function that does it\n- `Gap` \u2014 describe what's missing and the cost of that gap\n- `Not applicable` \u2014 explain why MomentumWatch doesn't need it\n\nKey comparison dimensions:\n1. Agent lifecycle (init \u2192 run \u2192 teardown)\n2. Tool invocation and structured I/O\n3. State management (ephemeral vs. persistent)\n4. Error handling and retry logic\n5. Observability / tracing\n6. Model routing\n7. Human-in-the-loop gates\n8. Multi-agent coordination\n9. Memory / context management\n10. Deployment/scheduling\n\n**Step 4 \u2014 Identify actionable findings (20 min)**\nFor each gap, write:\n- Gap name\n- Impact on MomentumWatch (Low/Medium/High)\n- Effort to close (hours estimate)\n- Recommended action (adopt / track / skip)\n\n**Step 5 \u2014 Write the document (30 min)**\nCreate `architecture/agent-runtime-benchmark.md` with:\n- Executive summary (3-5 sentences)\n- Current architecture snapshot (table of patterns)\n- Framework comparison table\n- Gap analysis section\n- Recommendations ranked by impact/effort\n- Verdict: is the subprocess dispatch model still the right choice?\n",
+    "failed_at": "2026-04-20T04:57:45"
+  },
+  "act-206": {
+    "item": {
+      "id": "act-206",
+      "title": "## TODO \u2014 TurboQuant Implementation Proposals (2026-03-24)",
+      "description": "### Remaining Items (AutoResearch item removed \u2014 project discontinued):\n\n1. **MarketSwarm \u2014 Regime Fingerprint Vector Store** [HIGH, 2-3 days]\n   - Replace binary breadth gate with PolarQuant-inspired vector similarity lookup\n\n2. **FORGE \u2014 Context Compression** [MEDIUM, 4-6 hrs]\n   - Haiku-based context compressor for problem.md + old-tests.md (~90K tokens)\n\n3. **QuantMarketData \u2014 Polar Signal Compression** [MEDIUM, 1 day]\n   - Polar encoding for belief cache in signal_fusion.py\n\n4. **SportsBett",
+      "priority": 6,
+      "source": "inbox:todo",
+      "target_project": "FORGE"
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-20T05:01:48"
+  },
+  "act-207": {
+    "item": {
+      "id": "act-207",
+      "title": "## Idea from Telegram \u2014 2026-03-28 08:04",
+      "description": "3-park market project consolidation. A: short term, micro-second quant trading on stocks and prediction markets. B: identifying historical flags from previous economic events to predict macro market movements. C: a mixture of the two for a more standard portfolio manager. These would replace AlgoSwarm, MomentumWatch, and Kalshi paper trading to consolidate investing projects.\n\n---",
+      "priority": 7,
+      "source": "inbox:todo",
+      "target_project": "MomentumWatch"
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-20T05:02:50"
+  },
+  "act-208": {
+    "item": {
+      "id": "act-208",
+      "title": "The two-layer AI trading structure \u2014 slow reasoning plus fast execution \u2014 is the pattern worth study",
+      "description": "The two-layer AI trading structure \u2014 slow reasoning plus fast execution \u2014 is the pattern worth studying for your Kalshi paper trader. Separating probability estimation (which can tolerate latency) from order execution (which cannot) is a concrete architectural improvement over single-loop systems.",
+      "priority": 8,
+      "source": "briefing:market_news",
+      "target_project": "QuantMarketData"
+    },
+    "status": "failed",
+    "error": "## Two-Layer AI Trading Architecture for KalshiTrader\n\n### Current State\nThe existing system (`persistent_trader.py`) runs a single sequential loop:\n1. Scan markets (every 5min)\n2. Poll prices (every 60s)\n3. Evaluate timing signals \u2192 execute if threshold met\n4. Cancel stale orders / reconcile settlements\n\nThe timing signal is purely price-momentum based \u2014 no probability estimation separate from market price. The slow and fast work are serialized in one thread.\n\n### Target Architecture\n**Slow Layer** (background thread, ~5-15 min cycle): Estimates true probability for each watched market using external signals (line movement context, historical patterns, sports data). Writes `MarketBelief` objects to a thread-safe store. Tolerates latency \u2014 this layer can spend 10s computing.\n\n**Fast Layer** (main thread, every 30-60s): Reads stored beliefs. Compares `estimated_prob` vs current `market_price`. Places order if edge > \u03c4_min. Sub-second decision \u2014 reads a dict, does math, calls API.\n\n### Step-by-Step Plan\n\n**Step 1: Create `trader/belief_store.py`**\n- `MarketBelief` dataclass: ticker, estimated_prob (float), confidence (float 0-1), last_updated (datetime), sources (list[str]), is_stale (bool property, stale after 20min)\n- `BeliefStore` class with threading.RLock, methods: `upsert(belief)`, `get(ticker) -> MarketBelief | None`, `get_all() -> dict[str, MarketBelief]`, `remove(ticker)`, `age_seconds(ticker) -> float`\n\n**Step 2: Create `strategy/probability_estimator.py`**\n- `ProbabilityEstimator` class that takes a `BeliefStore` and watched markets dict\n- `estimate_market(market: WatchedMarket) -> MarketBelief` \u2014 initial version uses: (a) recent price mid as prior, (b) price momentum as likelihood update, (c) time-to-close discount\n- `run_estimation_cycle(watched: dict[str, WatchedMarket]) -> int` \u2014 iterates watched markets, calls `estimate_market`, upserts to store, returns count updated\n- Design for future extension: method signature accepts optional `news_context: str` parameter, `external_odds: float | None`\n- Background thread target: `start_background(watched_ref, interval_seconds=600, stop_event=threading.Event)`\n\n**Step 3: Create `trader/two_layer_trader.py`**\n- `TwoLayerTrader` class that wraps `PersistentTrader` mechanics but separates concerns\n- Constructor: starts estimator background thread, stores `BeliefStore` ref\n- `evaluate_entries_with_beliefs()` \u2014 replaces `evaluate_entries()`: reads belief from store, computes edge = `belief.estimated_prob - market_mid`, applies \u03c4_min = 0.05 filter, confidence weight on sizing\n- Main loop: fast polling (30s) for execution decisions; slow background thread handles estimation\n- CLI flag `--two-layer` added to `persistent_trader.py` main() to use this variant\n- Fallback: if no belief exists for a ticker, falls back to existing timing-signal logic\n\n**Step 4: Modify `trader/persistent_trader.py`** (minor)\n- Add `--two-layer` argument to argparse\n- Route to `TwoLayerTrader` when flag set, preserving all existing modes\n\n**Step 5: Update `strategy/timing_signals.py`** (minor)\n- Extract `TimingVerdict` \u2192 ensure it carries `estimated_edge: float | None` field for belief-sourced decisions\n\n### Validation Criteria\n- Paper trader runs without error in two-layer mode\n- Belief store shows updated estimates in session log\n- Edge detections logged with source: `timing_signal` vs `belief_estimate`\n- No deadlocks: estimator thread never blocks execution thread",
+    "failed_at": "2026-04-20T05:05:07"
+  },
+  "act-210": {
+    "item": {
+      "id": "act-210",
+      "title": "## Idea from Telegram \u2014 2026-03-29 12:55",
+      "description": "addition to the 3 pronged market traders: Using the news and information gathered from the Daily Brief to assist with the macro strategy trading and seeing if it applies to either the natural or micro trader.\n\n---",
+      "priority": 10,
+      "source": "inbox:todo",
+      "target_project": null
+    },
+    "status": "failed",
+    "error": "ERROR: claude exited 1",
+    "failed_at": "2026-04-20T05:10:55"
+  }
+}

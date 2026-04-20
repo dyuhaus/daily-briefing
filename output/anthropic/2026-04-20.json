@@ -1,0 +1,94 @@
+{
+  "date": "2026-04-20",
+  "company": "anthropic",
+  "scan_time": "2026-04-20T07:33:53.061866+00:00",
+  "total_scraped": 39,
+  "after_dedup": 7,
+  "after_filter": 7,
+  "items": [
+    {
+      "title": "Anthropic launches Claude Design in April 2026",
+      "url": "https://www.nadcab.com/blog/anthropic-launches-claude-design",
+      "source": "gemini_grounded",
+      "author": "www.nadcab.com",
+      "snippet": "Anthropic released Claude Opus 4.7 on April 16, 2026, featuring significant upgrades across software engineering, vision capabilities, and agentic workflows. The model lifted coding benchmark resolution by 13% over Opus 4.6, processes images at up to 2,576 pixels (3x prior capacity), and introduces new effort controls including an 'xhigh' level for finer reasoning/latency tradeoffs. Task budgets give developers more control over long-running agent reasoning. Alongside the model, Anthropic launch",
+      "timestamp": "2026-04-20T07:31:48.640895+00:00",
+      "company": "anthropic",
+      "category": "model_release",
+      "relevance_score": 0.9,
+      "content_hash": "18f7ca8fa2e356de"
+    },
+    {
+      "title": "Release notes | Claude Help Center",
+      "url": "https://support.claude.com/en/articles/12138966-release-notes",
+      "source": "gemini_grounded",
+      "author": "support.claude.com",
+      "snippet": "Anthropic released Claude Opus 4.7 on April 16, 2026, featuring significant upgrades across software engineering, vision capabilities, and agentic workflows. The model lifted coding benchmark resolution by 13% over Opus 4.6, processes images at up to 2,576 pixels (3x prior capacity), and introduces new effort controls including an 'xhigh' level for finer reasoning/latency tradeoffs. Task budgets give developers more control over long-running agent reasoning. Alongside the model, Anthropic launch",
+      "timestamp": "2026-04-20T07:31:48.640900+00:00",
+      "company": "anthropic",
+      "category": "model_release",
+      "relevance_score": 0.9,
+      "content_hash": "67a96f48abfd6507"
+    },
+    {
+      "title": "Claude Code Changelog - Anthropic",
+      "url": "https://docs.anthropic.com/en/release-notes/claude-code",
+      "source": "gemini_grounded",
+      "author": "docs.anthropic.com",
+      "snippet": "Anthropic has released several significant API updates in early 2026. The most notable model release is Claude Opus 4.7, which is now generally available with stronger software engineering, improved vision, sharper instruction following, and better reliability for long-running agentic tasks — at the same pricing as Opus 4.6 ($5/$25 per MTok input/output). Claude Managed Agents launched in public beta as a fully managed agent harness with secure sandboxing, built-in tools, and server-sent event s",
+      "timestamp": "2026-04-20T07:33:01.633370+00:00",
+      "company": "anthropic",
+      "category": "model_release",
+      "relevance_score": 0.9,
+      "content_hash": "8ad08eac9e6abc38"
+    },
+    {
+      "title": "Anthropic Claude Opus 4.6 Breakthrough: Automated Alignment Researcher",
+      "url": "https://blockchain.news/ainews/anthropic-claude-opus-4-6-breakthrough-automated-alignment-researcher-accelerates-weak-to-strong-supervision-2026-analysis",
+      "source": "gemini_grounded",
+      "author": "blockchain.news",
+      "snippet": "Anthropic (@AnthropicAI) has been active with several major announcements in April 2026. On April 14, the company's Long-Term Benefit Trust appointed Vas Narasimhan (CEO of Novartis) to Anthropic's Board of Directors, citing his two decades of medicine and global health leadership. Around the same time, Anthropic researchers announced a breakthrough with Claude Opus 4.6 as an Automated Alignment Researcher — testing whether the model can accelerate alignment research by automating parts of weak-",
+      "timestamp": "2026-04-20T07:33:41.484346+00:00",
+      "company": "anthropic",
+      "category": "research",
+      "relevance_score": 0.85,
+      "content_hash": "3a644b847b283dda"
+    },
+    {
+      "title": "Anthropic limits Mythos AI rollout over fears hackers could use model for cyberattacks",
+      "url": "https://www.cnbc.com/2026/04/07/anthropic-claude-mythos-ai-hackers-cyberattacks.html",
+      "source": "gemini_grounded",
+      "author": "www.cnbc.com",
+      "snippet": "Anthropic (@AnthropicAI) has been active with several major announcements in April 2026. On April 14, the company's Long-Term Benefit Trust appointed Vas Narasimhan (CEO of Novartis) to Anthropic's Board of Directors, citing his two decades of medicine and global health leadership. Around the same time, Anthropic researchers announced a breakthrough with Claude Opus 4.6 as an Automated Alignment Researcher — testing whether the model can accelerate alignment research by automating parts of weak-",
+      "timestamp": "2026-04-20T07:33:41.484359+00:00",
+      "company": "anthropic",
+      "category": "research",
+      "relevance_score": 0.85,
+      "content_hash": "8e71a807763e9054"
+    },
+    {
+      "title": "Anthropic Engineering",
+      "url": "https://www.anthropic.com/engineering",
+      "source": "gemini_grounded",
+      "author": "www.anthropic.com",
+      "snippet": "Anthropic has made several significant announcements in 2026. Most notably, they unveiled Claude Mythos Preview on April 7, 2026 — a new general-purpose language model with exceptional capabilities in computer security tasks. Alongside this, Anthropic launched Project Glasswing, an initiative to leverage Mythos Preview to help secure critical software infrastructure. Earlier in the year, Claude Opus 4.6 was released (February 5, 2026), distinguished by its improved ability to identify high-sever",
+      "timestamp": "2026-04-20T07:30:39.114461+00:00",
+      "company": "anthropic",
+      "category": "model_release",
+      "relevance_score": 0.8,
+      "content_hash": "089bd6a9f63dd855"
+    },
+    {
+      "title": "Anthropic Expands Use of Google Cloud and TPUs - Apr 6, 2026",
+      "url": "https://www.googlecloudpresscorner.com/2026-04-06-Anthropic-Expands-Use-of-Google-Cloud-and-TPUs",
+      "source": "gemini_grounded",
+      "author": "www.googlecloudpresscorner.com",
+      "snippet": "Anthropic (@AnthropicAI) has been active with several major announcements in April 2026. On April 14, the company's Long-Term Benefit Trust appointed Vas Narasimhan (CEO of Novartis) to Anthropic's Board of Directors, citing his two decades of medicine and global health leadership. Around the same time, Anthropic researchers announced a breakthrough with Claude Opus 4.6 as an Automated Alignment Researcher — testing whether the model can accelerate alignment research by automating parts of weak-",
+      "timestamp": "2026-04-20T07:33:41.484355+00:00",
+      "company": "anthropic",
+      "category": "research",
+      "relevance_score": 0.8,
+      "content_hash": "e772e79fca3e6396"
+    }
+  ]
+}

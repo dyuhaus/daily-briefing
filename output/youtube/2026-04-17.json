@@ -1,0 +1,38 @@
+{
+  "date": "2026-04-17",
+  "scan_time": "2026-04-17T07:31:08.163894+00:00",
+  "total_found": 120,
+  "unique_new": 5,
+  "with_transcripts": 3,
+  "after_filter": 2,
+  "items": [
+    {
+      "video_id": "RhTiAOGwbYE",
+      "title": "MCP Tutorial: Build Your First MCP Server and Client from Scratch (Free Labs)",
+      "channel": "KodeKloud",
+      "url": "https://www.youtube.com/watch?v=RhTiAOGwbYE",
+      "upload_date": "",
+      "duration_seconds": 2414.0,
+      "description": "MCP Labs for Free: https://kode.wiki/4lFwf5p Ever wondered how AI agents can book flights, check databases, or interact with ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.58,
+      "content_hash": "d22df348f6630bd9",
+      "transcript_length": 0
+    },
+    {
+      "video_id": "z979oLDjm6U",
+      "title": "Claude Code Hooks: 5 Ways to Automate Everything (2026 Guide)",
+      "channel": "Jaanus",
+      "url": "https://www.youtube.com/watch?v=z979oLDjm6U",
+      "upload_date": "",
+      "duration_seconds": 340.0,
+      "description": "Claude Code Hooks let you automate everything — lint checks, test gates, notifications, deployments, and safety guardrails ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.5,
+      "content_hash": "8061091c460914fe",
+      "transcript_length": 0
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "date": "2026-04-13",
+  "scan_time": "2026-04-13T07:38:21.141008+00:00",
+  "total_scraped": 90,
+  "after_dedup": 21,
+  "after_filter": 5,
+  "items": [
+    {
+      "title": "Introducing Muse Spark: Scaling Towards Personal AI — Meta AI",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/",
+      "source": "gemini_grounded",
+      "author": "ai.meta.com",
+      "snippet": "Meta's most significant recent open-source model release is the Llama 4 herd, announced in early 2026, which marks a new era of natively multimodal AI from Meta. The Llama 4 family — including Llama 4 Scout and Llama 4 Maverick — are available to download on llama.com and Hugging Face, as well as across major cloud platforms and edge silicon providers. These models are pre-trained on 200 languages with 10x more multilingual tokens than Llama 3, and support open-source fine-tuning.\n\nIn April 2026",
+      "timestamp": "2026-04-13T07:30:33.744529+00:00",
+      "category": "major_org",
+      "relevance_score": 0.8,
+      "content_hash": "dd10fcaa1115a647"
+    },
+    {
+      "title": "Agent-driven development in Copilot Applied Science",
+      "url": "https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/",
+      "source": "gemini_grounded",
+      "author": "github.blog",
+      "snippet": "GitHub has made several major AI agent announcements for GitHub Copilot over the past year. In late 2025, GitHub announced 'Agent HQ' at GitHub Universe — a unified interface across GitHub, VS Code, mobile, and CLI for directing, monitoring, and managing AI-driven tasks, with coding agents from Anthropic, OpenAI, Google, Cognition, xAI, and others available directly within paid Copilot subscriptions. Earlier in 2025, GitHub upgraded Copilot with a full agent mode capable of iterating on its own ",
+      "timestamp": "2026-04-13T07:31:02.146464+00:00",
+      "category": "major_org",
+      "relevance_score": 0.8,
+      "content_hash": "475c71d6815da16c"
+    },
+    {
+      "title": "Small Yet Mighty: Llama Nemotron RAG Models",
+      "url": "https://huggingface.co/blog/nvidia/llama-nemotron-vl-1b",
+      "source": "gemini_grounded",
+      "author": "huggingface.co",
+      "snippet": "Recent Hugging Face blog posts highlight several significant model releases in early 2026. NVIDIA has been particularly active, releasing Cosmos Reason 2 — an advanced reasoning vision-language model for physical AI that topped the Physical AI Bench and Physical Reasoning leaderboards as the #1 open model for visual understanding. NVIDIA also released Llama Nemotron RAG models (small yet powerful multimodal retrieval models) and announced DGX Spark and Reachy Mini agent systems. Hugging Face its",
+      "timestamp": "2026-04-13T07:32:04.791873+00:00",
+      "category": "major_org",
+      "relevance_score": 0.7,
+      "content_hash": "e6ff9d0c9dd1b52f"
+    },
+    {
+      "title": "[2604.01487] AgentSocialBench: Evaluating Privacy Risks in Human-Centered Agentic Social Networks",
+      "url": "https://arxiv.org/abs/2604.01487",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "This week's arXiv activity on AI agents and LLMs shows a surge of new work across three themes: agent evaluation and safety, multi-agent coordination, and planning frameworks. On the safety and evaluation front, 'AgentSocialBench' (2604.01487) introduces a benchmark for measuring privacy risks in human-centered agentic social networks, while 'From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review' (2504.19678) surveys ~60 benchmarks across reasoning, autonomy, and decision-making fro",
+      "timestamp": "2026-04-13T07:32:45.785272+00:00",
+      "category": "framework",
+      "relevance_score": 0.4,
+      "content_hash": "213684d4a10b6521"
+    },
+    {
+      "title": "[2501.09136] Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG",
+      "url": "https://arxiv.org/abs/2501.09136",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "This week's arXiv activity on AI agents and LLMs shows a surge of new work across three themes: agent evaluation and safety, multi-agent coordination, and planning frameworks. On the safety and evaluation front, 'AgentSocialBench' (2604.01487) introduces a benchmark for measuring privacy risks in human-centered agentic social networks, while 'From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review' (2504.19678) surveys ~60 benchmarks across reasoning, autonomy, and decision-making fro",
+      "timestamp": "2026-04-13T07:32:45.785320+00:00",
+      "category": "framework",
+      "relevance_score": 0.4,
+      "content_hash": "5646f37077fabf9e"
+    }
+  ]
+}

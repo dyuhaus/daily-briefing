@@ -1,0 +1,106 @@
+{
+  "date": "2026-04-05",
+  "company": "anthropic",
+  "scan_time": "2026-04-05T07:33:25.400190+00:00",
+  "total_scraped": 39,
+  "after_dedup": 9,
+  "after_filter": 8,
+  "items": [
+    {
+      "title": "Anthropic Release Notes - Releasebot",
+      "url": "https://releasebot.io/updates/anthropic",
+      "source": "gemini_grounded",
+      "author": "releasebot.io",
+      "snippet": "Anthropic has had a highly active start to 2026. Major model releases include Claude Sonnet 4.6 (Feb 17, 2026), delivering frontier performance across coding, agents, and professional work, and Claude Opus 4.6, Anthropic's most capable model with industry-leading performance in agentic coding, computer use, tool use, and finance. Anthropic also raised the max_tokens cap to 300k on the Message Batches API for Opus 4.6 and Sonnet 4.6, and is retiring the 1M token context window beta for Claude Son",
+      "timestamp": "2026-04-05T07:30:41.813389+00:00",
+      "company": "anthropic",
+      "category": "model_release",
+      "relevance_score": 1.0,
+      "content_hash": "9a6470e1eb123b4d"
+    },
+    {
+      "title": "Claude Mythos: Anthropic's Next Model Leaked — April 2026",
+      "url": "https://neuriflux.com/en/blog/claude-mythos-next-anthropic-2026",
+      "source": "gemini_grounded",
+      "author": "neuriflux.com",
+      "snippet": "Anthropic has had a highly active start to 2026. Major model releases include Claude Sonnet 4.6 (Feb 17, 2026), delivering frontier performance across coding, agents, and professional work, and Claude Opus 4.6, Anthropic's most capable model with industry-leading performance in agentic coding, computer use, tool use, and finance. Anthropic also raised the max_tokens cap to 300k on the Message Batches API for Opus 4.6 and Sonnet 4.6, and is retiring the 1M token context window beta for Claude Son",
+      "timestamp": "2026-04-05T07:30:41.813394+00:00",
+      "company": "anthropic",
+      "category": "model_release",
+      "relevance_score": 1.0,
+      "content_hash": "e2bf088bb7e26d0a"
+    },
+    {
+      "title": "Claude Platform - Overview Release Notes",
+      "url": "https://docs.anthropic.com/en/release-notes/overview",
+      "source": "gemini_grounded",
+      "author": "docs.anthropic.com",
+      "snippet": "Anthropic has released several significant API updates heading into April 2026. The Message Batches API now supports a raised max_tokens cap of 300k for Claude Opus 4.6 and Sonnet 4.6 via the 'output-300k-2026-03-24' beta header, enabling longer single-turn outputs for long-form content, structured data, and large code generation tasks. Additionally, the 1M token context window beta for Claude Sonnet 4.5 and Claude Sonnet 4 is being retired on April 30, 2026, after which requests exceeding the s",
+      "timestamp": "2026-04-05T07:32:16.509952+00:00",
+      "company": "anthropic",
+      "category": "api_update",
+      "relevance_score": 1.0,
+      "content_hash": "f54656303da6adcf"
+    },
+    {
+      "title": "Claude Code Releases · anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code/releases",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "Anthropic has released several significant API updates heading into April 2026. The Message Batches API now supports a raised max_tokens cap of 300k for Claude Opus 4.6 and Sonnet 4.6 via the 'output-300k-2026-03-24' beta header, enabling longer single-turn outputs for long-form content, structured data, and large code generation tasks. Additionally, the 1M token context window beta for Claude Sonnet 4.5 and Claude Sonnet 4 is being retired on April 30, 2026, after which requests exceeding the s",
+      "timestamp": "2026-04-05T07:32:16.509976+00:00",
+      "company": "anthropic",
+      "category": "api_update",
+      "relevance_score": 1.0,
+      "content_hash": "89c94950055adf95"
+    },
+    {
+      "title": "Claude Platform Release Notes - Anthropic",
+      "url": "https://platform.claude.com/docs/en/release-notes/overview",
+      "source": "gemini_grounded",
+      "author": "platform.claude.com",
+      "snippet": "Anthropic's most significant recent announcement (April 4-5, 2026) is a major policy change: the company has blocked all Claude Pro and Max subscription usage inside third-party agentic tools like OpenClaw. Boris Cherny, Head of Claude Code at Anthropic, explained that subscriptions weren't designed for the usage patterns of third-party tools and that capacity is being prioritized for first-party products and API customers. As a one-time remedy, Anthropic is offering affected users a credit equa",
+      "timestamp": "2026-04-05T07:33:01.021880+00:00",
+      "company": "anthropic",
+      "category": "blog",
+      "relevance_score": 1.0,
+      "content_hash": "47276aad099cf845"
+    },
+    {
+      "title": "Anthropic removes OpenClaw from Claude plans, adds extra charges for use - The Tech Portal",
+      "url": "https://thetechportal.com/2026/04/05/anthropic-removes-openclaw-from-claude-plans-adds-extra-charges-for-use",
+      "source": "gemini_grounded",
+      "author": "thetechportal.com",
+      "snippet": "Anthropic's most significant recent announcement (April 4-5, 2026) is a major policy change: the company has blocked all Claude Pro and Max subscription usage inside third-party agentic tools like OpenClaw. Boris Cherny, Head of Claude Code at Anthropic, explained that subscriptions weren't designed for the usage patterns of third-party tools and that capacity is being prioritized for first-party products and API customers. As a one-time remedy, Anthropic is offering affected users a credit equa",
+      "timestamp": "2026-04-05T07:33:01.021839+00:00",
+      "company": "anthropic",
+      "category": "blog",
+      "relevance_score": 0.7,
+      "content_hash": "32fb3812c5ae55d0"
+    },
+    {
+      "title": "Anthropic cuts off the ability to use Claude subscriptions with OpenClaw and third-party AI agents | VentureBeat",
+      "url": "https://venturebeat.com/technology/anthropic-cuts-off-the-ability-to-use-claude-subscriptions-with-openclaw-and",
+      "source": "gemini_grounded",
+      "author": "venturebeat.com",
+      "snippet": "Anthropic's most significant recent announcement (April 4-5, 2026) is a major policy change: the company has blocked all Claude Pro and Max subscription usage inside third-party agentic tools like OpenClaw. Boris Cherny, Head of Claude Code at Anthropic, explained that subscriptions weren't designed for the usage patterns of third-party tools and that capacity is being prioritized for first-party products and API customers. As a one-time remedy, Anthropic is offering affected users a credit equa",
+      "timestamp": "2026-04-05T07:33:01.021863+00:00",
+      "company": "anthropic",
+      "category": "blog",
+      "relevance_score": 0.7,
+      "content_hash": "cce467dc6483e2a3"
+    },
+    {
+      "title": "Anthropic begins billing 3rd-party Claude tools separately April 4 2026",
+      "url": "https://www.newsbytesapp.com/news/science/anthropic-begins-billing-3rd-party-claude-tools-separately-april-4-2026/tldr",
+      "source": "gemini_grounded",
+      "author": "www.newsbytesapp.com",
+      "snippet": "Anthropic's most significant recent announcement (April 4-5, 2026) is a major policy change: the company has blocked all Claude Pro and Max subscription usage inside third-party agentic tools like OpenClaw. Boris Cherny, Head of Claude Code at Anthropic, explained that subscriptions weren't designed for the usage patterns of third-party tools and that capacity is being prioritized for first-party products and API customers. As a one-time remedy, Anthropic is offering affected users a credit equa",
+      "timestamp": "2026-04-05T07:33:01.021872+00:00",
+      "company": "anthropic",
+      "category": "blog",
+      "relevance_score": 0.7,
+      "content_hash": "03e97123dc0b624f"
+    }
+  ]
+}

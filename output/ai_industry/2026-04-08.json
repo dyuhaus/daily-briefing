@@ -1,0 +1,152 @@
+{
+  "date": "2026-04-08",
+  "scan_time": "2026-04-08T07:41:48.498878+00:00",
+  "total_scraped": 85,
+  "after_dedup": 28,
+  "after_filter": 13,
+  "items": [
+    {
+      "title": "AI Agent Frameworks in 2026: 8 SDKs, ACP, and Trade-offs",
+      "url": "https://www.morphllm.com/ai-agent-framework",
+      "source": "gemini_grounded",
+      "author": "www.morphllm.com",
+      "snippet": "The GitHub AI agent ecosystem is seeing explosive growth in early 2026, with several repositories breaking records for fastest weekly star accumulation. Browser Use — a framework for making websites accessible to AI agents — surged from zero to 78K+ stars in just months, making it one of the fastest-growing open-source projects ever. n8n crossed 150K stars as the de facto automation/action layer for AI agents, while Langflow (146K), Dify (136K), and Flowise (51K) dominate the visual agent-builde",
+      "timestamp": "2026-04-08T07:36:31.624047+00:00",
+      "category": "framework",
+      "relevance_score": 0.9,
+      "content_hash": "07d3ef245e970e6c"
+    },
+    {
+      "title": "GLM-5: China's First Public AI Company Ships a Frontier Model",
+      "url": "https://huggingface.co/blog/mlabonne/glm-5",
+      "source": "gemini_grounded",
+      "author": "huggingface.co",
+      "snippet": "Recent activity on the Hugging Face blog highlights a wave of new model releases in early 2026. Notable among them is GLM-5 from Z.ai, which became the new #1 open-weight model on Artificial Analysis and LMArena's Text Arena shortly after its February 2026 release. NVIDIA contributed two new models: the Nemotron 3 Nano 30B A3B, a hybrid Mamba-Transformer MoE model with a 1M-token context window designed for efficient agentic use, and Llama Nemotron RAG Models optimized for multimodal search and ",
+      "timestamp": "2026-04-08T07:34:00.756705+00:00",
+      "category": "major_org",
+      "relevance_score": 0.85,
+      "content_hash": "a6133104fe20a8b2"
+    },
+    {
+      "title": "Agents panel: Launch Copilot coding agent tasks anywhere on GitHub - The GitHub Blog",
+      "url": "https://github.blog/news-insights/product-news/agents-panel-launch-copilot-coding-agent-tasks-anywhere-on-github/",
+      "source": "gemini_grounded",
+      "author": "github.blog",
+      "snippet": "GitHub has made a series of major AI agent announcements for GitHub Copilot throughout 2025 and into 2026. The most significant is 'Agent HQ,' announced at GitHub Universe, which positions GitHub as a multi-agent platform where coding agents from Anthropic, OpenAI, Google, Cognition, xAI, and others are available directly within GitHub Copilot subscriptions. Agent HQ provides a unified interface across GitHub, VS Code, mobile, and CLI for directing, monitoring, and managing AI-driven tasks in pa",
+      "timestamp": "2026-04-08T07:32:49.956657+00:00",
+      "category": "startup",
+      "relevance_score": 0.8,
+      "content_hash": "3d12a2176693b0a9"
+    },
+    {
+      "title": "Gemma 4: Google's Open LLM Ranks #3, Beats Qwen 3.5",
+      "url": "https://byteiota.com/gemma-4-googles-open-llm-ranks-3-beats-qwen-3-5/",
+      "source": "gemini_grounded",
+      "author": "byteiota.com",
+      "snippet": "The open-source LLM landscape in early April 2026 has seen several major releases. Google launched Gemma 4 on April 2, 2026 — a family of four Apache 2.0-licensed open-weight models, with the 31B variant ranking #3 globally on Arena AI's leaderboard, outperforming Qwen 3.5 on math and coding benchmarks. Meta's Llama 4 family (Scout and Maverick) introduced natively multimodal MoE architecture supporting text, images, and video; Llama 4 Maverick achieved 85.5% MMLU and 68.47% on composite benchma",
+      "timestamp": "2026-04-08T07:37:34.041967+00:00",
+      "category": "startup",
+      "relevance_score": 0.8,
+      "content_hash": "e0c0ac41004e7f47"
+    },
+    {
+      "title": "Introducing Cohere-transcribe: state-of-the-art speech recognition",
+      "url": "https://huggingface.co/blog/CohereLabs/cohere-transcribe-03-2026-release",
+      "source": "gemini_grounded",
+      "author": "huggingface.co",
+      "snippet": "Recent activity on the Hugging Face blog highlights a wave of new model releases in early 2026. Notable among them is GLM-5 from Z.ai, which became the new #1 open-weight model on Artificial Analysis and LMArena's Text Arena shortly after its February 2026 release. NVIDIA contributed two new models: the Nemotron 3 Nano 30B A3B, a hybrid Mamba-Transformer MoE model with a 1M-token context window designed for efficient agentic use, and Llama Nemotron RAG Models optimized for multimodal search and ",
+      "timestamp": "2026-04-08T07:34:00.756742+00:00",
+      "category": "major_org",
+      "relevance_score": 0.75,
+      "content_hash": "6da1d9dc83d59daa"
+    },
+    {
+      "title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
+      "source": "gemini_grounded",
+      "author": "huggingface.co",
+      "snippet": "Recent activity on the Hugging Face blog highlights a wave of new model releases in early 2026. Notable among them is GLM-5 from Z.ai, which became the new #1 open-weight model on Artificial Analysis and LMArena's Text Arena shortly after its February 2026 release. NVIDIA contributed two new models: the Nemotron 3 Nano 30B A3B, a hybrid Mamba-Transformer MoE model with a 1M-token context window designed for efficient agentic use, and Llama Nemotron RAG Models optimized for multimodal search and ",
+      "timestamp": "2026-04-08T07:34:00.756732+00:00",
+      "category": "major_org",
+      "relevance_score": 0.65,
+      "content_hash": "06a159e7a7aaa6c3"
+    },
+    {
+      "title": "Small Yet Mighty: Improve Accuracy In Multimodal Search and Visual Document Retrieval with Llama Nemotron RAG Models",
+      "url": "https://huggingface.co/blog/nvidia/llama-nemotron-vl-1b",
+      "source": "gemini_grounded",
+      "author": "huggingface.co",
+      "snippet": "Recent activity on the Hugging Face blog highlights a wave of new model releases in early 2026. Notable among them is GLM-5 from Z.ai, which became the new #1 open-weight model on Artificial Analysis and LMArena's Text Arena shortly after its February 2026 release. NVIDIA contributed two new models: the Nemotron 3 Nano 30B A3B, a hybrid Mamba-Transformer MoE model with a 1M-token context window designed for efficient agentic use, and Llama Nemotron RAG Models optimized for multimodal search and ",
+      "timestamp": "2026-04-08T07:34:00.756750+00:00",
+      "category": "major_org",
+      "relevance_score": 0.65,
+      "content_hash": "860a4ae71e438d41"
+    },
+    {
+      "title": "Startup funding shatters all records in Q1 | TechCrunch",
+      "url": "https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/",
+      "source": "gemini_grounded",
+      "author": "techcrunch.com",
+      "snippet": "AI startup funding in early 2026 has shattered records, with Q1 2026 seeing $297 billion invested globally — a 2.5x increase over Q4 2025. The biggest headline is OpenAI's monster $122 billion raise at an $852 billion valuation, co-led by SoftBank and Andreessen Horowitz with participation from Amazon, Nvidia, Microsoft, and others, including $3 billion from retail investors. Separately, xAI closed a $20 billion Series E, while Anthropic announced a $30 billion Series G at a $380 billion valuati",
+      "timestamp": "2026-04-08T07:35:35.062775+00:00",
+      "category": "startup",
+      "relevance_score": 0.6,
+      "content_hash": "c5472d45d5bfc38b"
+    },
+    {
+      "title": "Top 20 GitHub Repositories for AI Agents in 2026 (Ranked by Stars)",
+      "url": "https://fungies.io/top-github-repositories-ai-agent-frameworks-2026/",
+      "source": "gemini_grounded",
+      "author": "fungies.io",
+      "snippet": "The GitHub AI agent ecosystem is seeing explosive growth in early 2026, with several repositories breaking records for fastest weekly star accumulation. Browser Use — a framework for making websites accessible to AI agents — surged from zero to 78K+ stars in just months, making it one of the fastest-growing open-source projects ever. n8n crossed 150K stars as the de facto automation/action layer for AI agents, while Langflow (146K), Dify (136K), and Flowise (51K) dominate the visual agent-builde",
+      "timestamp": "2026-04-08T07:36:31.624025+00:00",
+      "category": "framework",
+      "relevance_score": 0.6,
+      "content_hash": "03592ce6692ab5ea"
+    },
+    {
+      "title": "Top 9 AI Agent Frameworks as of March 2026 — Shakudo",
+      "url": "https://www.shakudo.io/blog/top-9-ai-agent-frameworks",
+      "source": "gemini_grounded",
+      "author": "www.shakudo.io",
+      "snippet": "The GitHub AI agent ecosystem is seeing explosive growth in early 2026, with several repositories breaking records for fastest weekly star accumulation. Browser Use — a framework for making websites accessible to AI agents — surged from zero to 78K+ stars in just months, making it one of the fastest-growing open-source projects ever. n8n crossed 150K stars as the de facto automation/action layer for AI agents, while Langflow (146K), Dify (136K), and Flowise (51K) dominate the visual agent-builde",
+      "timestamp": "2026-04-08T07:36:31.624030+00:00",
+      "category": "framework",
+      "relevance_score": 0.5,
+      "content_hash": "fb8237a9b4e832b8"
+    },
+    {
+      "title": "Meet the new Cursor (3.0) · Cursor",
+      "url": "https://cursor.com/blog/cursor-3",
+      "source": "gemini_grounded",
+      "author": "cursor.com",
+      "snippet": "Cursor released version 3.0 on April 2, 2026, a major update centered around parallel agent execution. The new interface allows developers to run many agents simultaneously across repos and environments — locally, in worktrees, in the cloud, and over remote SSH. It also introduced Design Mode, which lets agents target UI elements directly in the browser for more precise frontend iteration. Earlier in March, Cursor shipped self-hosted cloud agents (keeping code and secrets on internal machines) a",
+      "timestamp": "2026-04-08T07:38:17.330046+00:00",
+      "category": "general",
+      "relevance_score": 0.5,
+      "content_hash": "52db51f03f5a6f7e"
+    },
+    {
+      "title": "12 Best AI Agent Frameworks in 2026 — Data Science Collective",
+      "url": "https://medium.com/data-science-collective/the-best-ai-agent-frameworks-for-2026-tier-list-b3a4362fac0d",
+      "source": "gemini_grounded",
+      "author": "medium.com",
+      "snippet": "The GitHub AI agent ecosystem is seeing explosive growth in early 2026, with several repositories breaking records for fastest weekly star accumulation. Browser Use — a framework for making websites accessible to AI agents — surged from zero to 78K+ stars in just months, making it one of the fastest-growing open-source projects ever. n8n crossed 150K stars as the de facto automation/action layer for AI agents, while Langflow (146K), Dify (136K), and Flowise (51K) dominate the visual agent-builde",
+      "timestamp": "2026-04-08T07:36:31.624035+00:00",
+      "category": "framework",
+      "relevance_score": 0.45,
+      "content_hash": "48c0adfd4b933b13"
+    },
+    {
+      "title": "VoltAgent/awesome-ai-agent-papers — 2026 AI Agent Paper Collection",
+      "url": "https://github.com/VoltAgent/awesome-ai-agent-papers",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "This week in April 2026, arxiv.org saw a surge of papers advancing LLM agent architectures and multi-agent systems. Key themes include agent communication protocols, planning frameworks, and autonomous reasoning. Notably, 'A Survey of AI Agent Protocols' (2504.16736) addresses the lack of standardization in how LLM agents communicate with tools and each other, proposing a unified taxonomy. 'From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review' (2504.19678) offers a side-by-side com",
+      "timestamp": "2026-04-08T07:34:55.420964+00:00",
+      "category": "github",
+      "relevance_score": 0.35,
+      "content_hash": "06afc4abc010e5d7"
+    }
+  ]
+}

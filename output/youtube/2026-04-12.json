@@ -1,0 +1,38 @@
+{
+  "date": "2026-04-12",
+  "scan_time": "2026-04-12T07:31:11.481125+00:00",
+  "total_found": 120,
+  "unique_new": 8,
+  "with_transcripts": 3,
+  "after_filter": 2,
+  "items": [
+    {
+      "video_id": "lTlJeDtA7Bw",
+      "title": "Workshop on Anthropic Claude AI Workshop: Mastering Cowork, Code & LLM  Mr.Prakash Senapathi",
+      "channel": "Naresh i Technologies",
+      "url": "https://www.youtube.com/watch?v=lTlJeDtA7Bw",
+      "upload_date": "",
+      "duration_seconds": 0,
+      "description": "For Online Training Registration: https://goo.gl/r6kJbB ▻ Call: +91-8179191999 Subscribe to our channel and hit the bell ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.58,
+      "content_hash": "df3a6189d9ab5156",
+      "transcript_length": 0
+    },
+    {
+      "video_id": "t0Mesp118l4",
+      "title": "Claude Code Is Now 100% Free - Here's How",
+      "channel": "Hasan Aboul Hasan",
+      "url": "https://www.youtube.com/watch?v=t0Mesp118l4",
+      "upload_date": "",
+      "duration_seconds": 330.0,
+      "description": "Join Solo Builder V1 Course Here https://learnwithhasan.com/refer/solo-builder In this video: Learn how to use Claude Code ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.5,
+      "content_hash": "c5e5dd97a956f2f6",
+      "transcript_length": 0
+    }
+  ]
+}

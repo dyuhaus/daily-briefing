@@ -1,0 +1,106 @@
+{
+  "date": "2026-04-10",
+  "company": "openai",
+  "scan_time": "2026-04-10T07:37:07.940571+00:00",
+  "total_scraped": 40,
+  "after_dedup": 8,
+  "after_filter": 8,
+  "items": [
+    {
+      "title": "Introducing GPT-5 | OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-5/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI has been highly active in early 2026, releasing several major model upgrades. In March 2026, they launched GPT-5.4, described as their most capable and efficient frontier model for professional work, featuring native computer-use capabilities, up to 1M token context, and significantly improved factual accuracy (33% fewer false claims compared to GPT-5.2). GPT-5.4 was rolled out across ChatGPT, the Codex platform, and the API. They also released a specialized GPT-5.3-Codex model focused on",
+      "timestamp": "2026-04-10T07:34:16.295923+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 1.0,
+      "content_hash": "37de1690062cde2b"
+    },
+    {
+      "title": "Introducing GPT-5.2 | OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-5-2/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI has been highly active in early 2026, releasing several major model upgrades. In March 2026, they launched GPT-5.4, described as their most capable and efficient frontier model for professional work, featuring native computer-use capabilities, up to 1M token context, and significantly improved factual accuracy (33% fewer false claims compared to GPT-5.2). GPT-5.4 was rolled out across ChatGPT, the Codex platform, and the API. They also released a specialized GPT-5.3-Codex model focused on",
+      "timestamp": "2026-04-10T07:34:16.295967+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 1.0,
+      "content_hash": "20981a1a222e61ab"
+    },
+    {
+      "title": "OpenAI GPT-5.4 Review — Pricing, Benchmarks & Capabilities (2026)",
+      "url": "https://designforonline.com/ai-models/openai-gpt-5-4/",
+      "source": "gemini_grounded",
+      "author": "designforonline.com",
+      "snippet": "OpenAI's most recent flagship model is GPT-5.4, launched on March 5, 2026. It represents the first mainline reasoning model to incorporate frontier coding capabilities from GPT-5.3-Codex, combining reasoning, coding, and agentic workflows into a single model. Key features include a 1 million token context window, native computer-use capabilities (in Codex and the API), a 33% reduction in factual errors versus GPT-5.2, and improved tool-search that helps agents find and invoke the right tools acr",
+      "timestamp": "2026-04-10T07:35:34.178920+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 1.0,
+      "content_hash": "6598f5a7f573b363"
+    },
+    {
+      "title": "ChatGPT by OpenAI - Release Notes - April 2026 - Releasebot",
+      "url": "https://releasebot.io/updates/openai/chatgpt",
+      "source": "gemini_grounded",
+      "author": "releasebot.io",
+      "snippet": "OpenAI has released several significant API updates in early 2026. The most notable are the releases of GPT-5.4 mini and GPT-5.4 nano to the Chat Completions and Responses API, bringing GPT-5.4-class capabilities to faster, more cost-efficient models for high-volume workloads. GPT-5.4 itself is now available as the newest frontier model for professional work, alongside GPT-5.4 pro for compute-intensive tasks. The Sora API has also been expanded with reusable character references, longer video ge",
+      "timestamp": "2026-04-10T07:36:14.965549+00:00",
+      "company": "openai",
+      "category": "api_update",
+      "relevance_score": 1.0,
+      "content_hash": "8810f7cfb2860291"
+    },
+    {
+      "title": "OpenAI's Epic April 2026 Surge",
+      "url": "https://www.digitalinfohub.net/post/openai-s-epic-april-2026-surge",
+      "source": "gemini_grounded",
+      "author": "www.digitalinfohub.net",
+      "snippet": "OpenAI made several significant announcements in April 2026. On the product side, GPT-5.4 Thinking and GPT-5.4 Pro rolled out in ChatGPT, with GPT-5.4 also becoming available in the API and Codex, bringing advances in reasoning, coding, and agentic workflows. OpenAI also retired GPT-4o from all plans effective April 3, 2026, and discontinued its Sora video-generation app due to high operational costs and poor demand. Codex expanded with pay-as-you-go pricing for teams.\n\nOn the business and safet",
+      "timestamp": "2026-04-10T07:36:48.792342+00:00",
+      "company": "openai",
+      "category": "api_update",
+      "relevance_score": 1.0,
+      "content_hash": "f6bcd97ccf13e2ae"
+    },
+    {
+      "title": "Open AI News | April 2026 (Startup Edition)",
+      "url": "https://blog.mean.ceo/open-ai-news-april-2026/",
+      "source": "gemini_grounded",
+      "author": "blog.mean.ceo",
+      "snippet": "OpenAI made several significant announcements in April 2026. On the product side, GPT-5.4 Thinking and GPT-5.4 Pro rolled out in ChatGPT, with GPT-5.4 also becoming available in the API and Codex, bringing advances in reasoning, coding, and agentic workflows. OpenAI also retired GPT-4o from all plans effective April 3, 2026, and discontinued its Sora video-generation app due to high operational costs and poor demand. Codex expanded with pay-as-you-go pricing for teams.\n\nOn the business and safet",
+      "timestamp": "2026-04-10T07:36:48.792350+00:00",
+      "company": "openai",
+      "category": "api_update",
+      "relevance_score": 1.0,
+      "content_hash": "3ddb2b1d7d6f0c45"
+    },
+    {
+      "title": "Evaluating AI's Ability to Perform Scientific Research Tasks",
+      "url": "https://openai.com/index/frontierscience/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI has been actively publishing research in early 2026, with a strong focus on AI for scientific discovery and model safety. Key releases include work on GPT-5 accelerating science — including a preprint extending single-minus amplitudes to gravitons with GPT-5.2 Pro assistance — and the introduction of Prism, a LaTeX-native research workspace powered by GPT-5.2. OpenAI also published a paper validating GPT as a measurement tool for qualitative empirical research, and launched FrontierScienc",
+      "timestamp": "2026-04-10T07:34:46.099879+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.7,
+      "content_hash": "4b54612508de7b99"
+    },
+    {
+      "title": "OpenAI's Secret Weapon Has a Codename — 'Spud' — LumiChats Blog",
+      "url": "https://lumichats.com/blog/gpt-5-5-spud-openai-release-date-features-april-2026-complete-guide",
+      "source": "gemini_grounded",
+      "author": "lumichats.com",
+      "snippet": "OpenAI's most recent flagship model is GPT-5.4, launched on March 5, 2026. It represents the first mainline reasoning model to incorporate frontier coding capabilities from GPT-5.3-Codex, combining reasoning, coding, and agentic workflows into a single model. Key features include a 1 million token context window, native computer-use capabilities (in Codex and the API), a 33% reduction in factual errors versus GPT-5.2, and improved tool-search that helps agents find and invoke the right tools acr",
+      "timestamp": "2026-04-10T07:35:34.178935+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.6,
+      "content_hash": "f4545e9fd22e6e41"
+    }
+  ]
+}

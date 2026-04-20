@@ -1,0 +1,64 @@
+{
+  "date": "2026-04-06",
+  "scan_time": "2026-04-06T07:39:55.891965+00:00",
+  "total_scraped": 95,
+  "after_dedup": 38,
+  "after_filter": 5,
+  "items": [
+    {
+      "title": "GitHub - CarlosIbCu/polymarket-kalshi-btc-arbitrage-bot: Real-time arbitrage bot",
+      "url": "https://github.com/CarlosIbCu/polymarket-kalshi-btc-arbitrage-bot",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "Prediction market platforms like Kalshi, Polymarket, and Manifold Markets have seen a surge in automated and algorithmic trading strategies. Kalshi, a CFTC-regulated exchange commanding 62% of on-chain prediction market volume (~$500M+ weekly), offers a robust REST API that developers have used to build bots implementing probability mispricing detection, Kelly Criterion position sizing, and cross-platform arbitrage. Notable open-source projects include OctagonAI's deep trading bot (with a 5-gate",
+      "timestamp": "2026-04-06T07:32:33.933329+00:00",
+      "relevance_score": 1.0,
+      "content_hash": "0d6d2bebf6e30476",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "How I Built a 'Risk-Free' Arbitrage Bot for Polymarket & Kalshi - DEV Community",
+      "url": "https://dev.to/realfishsam/how-i-built-a-risk-free-arbitrage-bot-for-polymarket-kalshi-4f",
+      "source": "gemini_grounded",
+      "author": "dev.to",
+      "snippet": "Prediction market platforms like Kalshi, Polymarket, and Manifold Markets have seen a surge in automated and algorithmic trading strategies. Kalshi, a CFTC-regulated exchange commanding 62% of on-chain prediction market volume (~$500M+ weekly), offers a robust REST API that developers have used to build bots implementing probability mispricing detection, Kelly Criterion position sizing, and cross-platform arbitrage. Notable open-source projects include OctagonAI's deep trading bot (with a 5-gate",
+      "timestamp": "2026-04-06T07:32:33.933333+00:00",
+      "relevance_score": 1.0,
+      "content_hash": "3bd5bedac132bacf",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Beyond Simple Arbitrage: 4 Polymarket Strategies Bots Actually Profit From in 2026 | ILLUMINATION",
+      "url": "https://medium.com/illumination/beyond-simple-arbitrage-4-polymarket-strategies-bots-actually-profit-from-in-2026-ddacc92c5b4f",
+      "source": "gemini_grounded",
+      "author": "medium.com",
+      "snippet": "Prediction market platforms like Kalshi, Polymarket, and Manifold Markets have seen a surge in automated and algorithmic trading strategies. Kalshi, a CFTC-regulated exchange commanding 62% of on-chain prediction market volume (~$500M+ weekly), offers a robust REST API that developers have used to build bots implementing probability mispricing detection, Kelly Criterion position sizing, and cross-platform arbitrage. Notable open-source projects include OctagonAI's deep trading bot (with a 5-gate",
+      "timestamp": "2026-04-06T07:32:33.933343+00:00",
+      "relevance_score": 1.0,
+      "content_hash": "e778beecccd728fe",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Out of Sample Testing | Algorithmic Trading Strategies",
+      "url": "https://www.buildalpha.com/out-of-sample-testing/",
+      "source": "gemini_grounded",
+      "author": "www.buildalpha.com",
+      "snippet": "Discussion in the r/algotrading and r/quant communities consistently highlights the gap between backtest and live trading performance as a central challenge. Reddit posts from the algotrading community in 2025-2026 show traders sharing live paper trading results (e.g., strategies exploiting mispricing between Polymarket traders, or systems approaching 60% returns since August 2025 with 5% max drawdown), while simultaneously warning that most impressive backtests are statistical illusions caused ",
+      "timestamp": "2026-04-06T07:31:36.667652+00:00",
+      "relevance_score": 0.9,
+      "content_hash": "2756cf6d78caae91",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "GitHub - OctagonAI/kalshi-trading-bot-cli: AI-native CLI for Kalshi prediction markets",
+      "url": "https://github.com/OctagonAI/kalshi-deep-trading-bot",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "Prediction market platforms like Kalshi, Polymarket, and Manifold Markets have seen a surge in automated and algorithmic trading strategies. Kalshi, a CFTC-regulated exchange commanding 62% of on-chain prediction market volume (~$500M+ weekly), offers a robust REST API that developers have used to build bots implementing probability mispricing detection, Kelly Criterion position sizing, and cross-platform arbitrage. Notable open-source projects include OctagonAI's deep trading bot (with a 5-gate",
+      "timestamp": "2026-04-06T07:32:33.933287+00:00",
+      "relevance_score": 0.7,
+      "content_hash": "7e303bbecc93486b",
+      "freshness_window": "24h"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2026-04-11",
+  "scan_time": "2026-04-11T07:31:12.170045+00:00",
+  "total_found": 120,
+  "unique_new": 6,
+  "with_transcripts": 3,
+  "after_filter": 1,
+  "items": [
+    {
+      "video_id": "lkc-F5I8gFE",
+      "title": "CLAUDE CODE Full Course For Beginners (DATA DOMAIN Edition)",
+      "channel": "Ansh Lamba",
+      "url": "https://www.youtube.com/watch?v=lkc-F5I8gFE",
+      "upload_date": "",
+      "duration_seconds": 24467.0,
+      "description": "Claude Code | Claude Code Tutorial | Claude Code Skills What you will learn? This is a complete Claude Code course which is ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.5,
+      "content_hash": "b512053bcef42606",
+      "transcript_length": 0
+    }
+  ]
+}

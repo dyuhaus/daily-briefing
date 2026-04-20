@@ -1,0 +1,174 @@
+{
+  "date": "2026-04-05",
+  "scan_time": "2026-04-05T07:40:03.431513+00:00",
+  "total_scraped": 95,
+  "after_dedup": 36,
+  "after_filter": 15,
+  "items": [
+    {
+      "title": "GitHub - rodlaf/KalshiMarketMaker: Market making strategies on Kalshi",
+      "url": "https://github.com/rodlaf/KalshiMarketMaker",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "The prediction market automated trading ecosystem has matured significantly across Kalshi, Polymarket, and Manifold Markets. On GitHub, a growing number of open-source bots and frameworks have emerged, including cross-platform arbitrage bots (kalshi-poly-arb, prediction-market-arbitrage-bot) that exploit price discrepancies between Kalshi and Polymarket when combined YES+NO prices fall below $1.00, guaranteeing risk-free profits at expiry. More sophisticated market-making strategies use Avellane",
+      "timestamp": "2026-04-05T07:32:20.903757+00:00",
+      "relevance_score": 0.7,
+      "content_hash": "9286e734cae2a5a7",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "What's Easier to Beat: A Sportsbook or a Quant Trader? — BettorEdge",
+      "url": "https://www.bettoredge.com/post/sportsbook-vs-quant-trader-easier-to-beat",
+      "source": "gemini_grounded",
+      "author": "www.bettoredge.com",
+      "snippet": "Quantitative sports betting model methodology, as discussed across Reddit communities like r/sportsbook and r/sportsbetting, centers on three pillars: building accurate probability models, identifying positive expected value (EV) bets, and applying disciplined bankroll management. Model inputs commonly include team efficiency ratings, pace metrics, injury reports, home/away splits, and historical matchup data. Machine learning approaches are increasingly popular among tech-savvy bettors, with po",
+      "timestamp": "2026-04-05T07:33:09.617437+00:00",
+      "relevance_score": 0.7,
+      "content_hash": "6db4861b0c1c8a32",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "A Hybrid AI-Driven Trading System Integrating Technical Analysis",
+      "url": "https://arxiv.org/pdf/2601.19504",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "Recent research (2025–2026) on machine learning for trading strategies spans several interconnected themes. A major thread is the maturation of deep learning architectures—RNNs, LSTMs, GRUs, and Transformer-based models—applied to price prediction and portfolio optimization. The survey 'From Deep Learning to LLMs' (arxiv 2503.21422) documents how end-to-end reinforcement learning now dominates portfolio construction research, while the SAFE framework paper on SSRN argues that trustworthiness dim",
+      "timestamp": "2026-04-05T07:34:33.054420+00:00",
+      "relevance_score": 0.7,
+      "content_hash": "ffd968fab954c284",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "GT-Score: A Robust Objective Function (arxiv 2602.00080)",
+      "url": "https://arxiv.org/pdf/2602.00080",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "Recent research (2025–2026) on machine learning for trading strategies spans several interconnected themes. A major thread is the maturation of deep learning architectures—RNNs, LSTMs, GRUs, and Transformer-based models—applied to price prediction and portfolio optimization. The survey 'From Deep Learning to LLMs' (arxiv 2503.21422) documents how end-to-end reinforcement learning now dominates portfolio construction research, while the SAFE framework paper on SSRN argues that trustworthiness dim",
+      "timestamp": "2026-04-05T07:34:33.054434+00:00",
+      "relevance_score": 0.7,
+      "content_hash": "aa159a7a28bda302",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "GitHub - speedyhughes/kalshi-poly-arb: Polymarket arbitrage bot",
+      "url": "https://github.com/speedyhughes/kalshi-poly-arb",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "The prediction market automated trading ecosystem has matured significantly across Kalshi, Polymarket, and Manifold Markets. On GitHub, a growing number of open-source bots and frameworks have emerged, including cross-platform arbitrage bots (kalshi-poly-arb, prediction-market-arbitrage-bot) that exploit price discrepancies between Kalshi and Polymarket when combined YES+NO prices fall below $1.00, guaranteeing risk-free profits at expiry. More sophisticated market-making strategies use Avellane",
+      "timestamp": "2026-04-05T07:32:20.903714+00:00",
+      "relevance_score": 0.6,
+      "content_hash": "7f75c650424a0911",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "GitHub - guzus/dr-manhattan: CCXT for prediction markets",
+      "url": "https://github.com/guzus/dr-manhattan",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "The prediction market automated trading ecosystem has matured significantly across Kalshi, Polymarket, and Manifold Markets. On GitHub, a growing number of open-source bots and frameworks have emerged, including cross-platform arbitrage bots (kalshi-poly-arb, prediction-market-arbitrage-bot) that exploit price discrepancies between Kalshi and Polymarket when combined YES+NO prices fall below $1.00, guaranteeing risk-free profits at expiry. More sophisticated market-making strategies use Avellane",
+      "timestamp": "2026-04-05T07:32:20.903745+00:00",
+      "relevance_score": 0.6,
+      "content_hash": "2ba834c7034be382",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "GitHub - OctagonAI/kalshi-deep-trading-bot: AI-native CLI for Kalshi",
+      "url": "https://github.com/OctagonAI/kalshi-deep-trading-bot",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "The prediction market automated trading ecosystem has matured significantly across Kalshi, Polymarket, and Manifold Markets. On GitHub, a growing number of open-source bots and frameworks have emerged, including cross-platform arbitrage bots (kalshi-poly-arb, prediction-market-arbitrage-bot) that exploit price discrepancies between Kalshi and Polymarket when combined YES+NO prices fall below $1.00, guaranteeing risk-free profits at expiry. More sophisticated market-making strategies use Avellane",
+      "timestamp": "2026-04-05T07:32:20.903753+00:00",
+      "relevance_score": 0.6,
+      "content_hash": "ce9243c8d2c21bb9",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Prediction Markets at Scale: 2026 Outlook - insights4vc",
+      "url": "https://insights4vc.substack.com/p/prediction-markets-at-scale-2026",
+      "source": "gemini_grounded",
+      "author": "insights4vc.substack.com",
+      "snippet": "The prediction market automated trading ecosystem has matured significantly across Kalshi, Polymarket, and Manifold Markets. On GitHub, a growing number of open-source bots and frameworks have emerged, including cross-platform arbitrage bots (kalshi-poly-arb, prediction-market-arbitrage-bot) that exploit price discrepancies between Kalshi and Polymarket when combined YES+NO prices fall below $1.00, guaranteeing risk-free profits at expiry. More sophisticated market-making strategies use Avellane",
+      "timestamp": "2026-04-05T07:32:20.903763+00:00",
+      "relevance_score": 0.6,
+      "content_hash": "d940f6afc2a17537",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Finance-Grounded Optimization For Algorithmic Trading",
+      "url": "https://www.arxiv.org/pdf/2509.04541",
+      "source": "gemini_grounded",
+      "author": "www.arxiv.org",
+      "snippet": "Recent research (2025–2026) on machine learning for trading strategies spans several interconnected themes. A major thread is the maturation of deep learning architectures—RNNs, LSTMs, GRUs, and Transformer-based models—applied to price prediction and portfolio optimization. The survey 'From Deep Learning to LLMs' (arxiv 2503.21422) documents how end-to-end reinforcement learning now dominates portfolio construction research, while the SAFE framework paper on SSRN argues that trustworthiness dim",
+      "timestamp": "2026-04-05T07:34:33.054425+00:00",
+      "relevance_score": 0.6,
+      "content_hash": "cb39dac061c18c25",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Reinforcement Learning for Speculative Trading under Exploratory Framework — arXiv 2604.02035",
+      "url": "https://arxiv.org/html/2604.02035",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "Reinforcement learning (RL) for trading agents remains an active and rapidly evolving area in 2026. The AI4Finance Foundation continues to lead open-source development with FinRL, a widely-adopted framework that trains multiple deep RL agents (A2C, DDPG, PPO, TD3, SAC) using Stable Baselines 3, and has introduced FinRL-X, a next-generation modular infrastructure designed for the LLM and agentic AI era supporting full-stack quantitative trading including ML-based stock selection, backtesting, and",
+      "timestamp": "2026-04-05T07:35:37.213013+00:00",
+      "relevance_score": 0.6,
+      "content_hash": "6532754d57aa5efd",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Automated Trading Edge Analysis – QuantPedia",
+      "url": "https://quantpedia.com/automated-trading-edge-analysis/",
+      "source": "gemini_grounded",
+      "author": "quantpedia.com",
+      "snippet": "Discussions across r/algotrading and the broader quant trading community in 2025-2026 reveal mixed but cautiously optimistic sentiment about automated trading edge and live results. Community members frequently share live performance updates, with some reporting significant outperformance — one widely-discussed post cited nearly 60% profits since August with only 5% max drawdown, suggesting S&P 500 buy-and-hold competition is possible for well-constructed systems. However, the community consiste",
+      "timestamp": "2026-04-05T07:31:19.860895+00:00",
+      "relevance_score": 0.5,
+      "content_hash": "e44b81d370d96922",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "GitHub - pmxt-dev/pmxt: Unified API for Polymarket, Kalshi, and more",
+      "url": "https://github.com/pmxt-dev/pmxt",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "The prediction market automated trading ecosystem has matured significantly across Kalshi, Polymarket, and Manifold Markets. On GitHub, a growing number of open-source bots and frameworks have emerged, including cross-platform arbitrage bots (kalshi-poly-arb, prediction-market-arbitrage-bot) that exploit price discrepancies between Kalshi and Polymarket when combined YES+NO prices fall below $1.00, guaranteeing risk-free profits at expiry. More sophisticated market-making strategies use Avellane",
+      "timestamp": "2026-04-05T07:32:20.903749+00:00",
+      "relevance_score": 0.5,
+      "content_hash": "2f27915008fca081",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Algo Trading Space | Verified Algorithmic Trading Platform",
+      "url": "https://algotradingspace.com",
+      "source": "gemini_grounded",
+      "author": "algotradingspace.com",
+      "snippet": "Discussions across r/algotrading and the broader quant trading community in 2025-2026 reveal mixed but cautiously optimistic sentiment about automated trading edge and live results. Community members frequently share live performance updates, with some reporting significant outperformance — one widely-discussed post cited nearly 60% profits since August with only 5% max drawdown, suggesting S&P 500 buy-and-hold competition is possible for well-constructed systems. However, the community consiste",
+      "timestamp": "2026-04-05T07:31:19.860901+00:00",
+      "relevance_score": 0.4,
+      "content_hash": "fd5cbcb9d10f3966",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Algorithmic Trading Market Growth Analysis – Size and Forecast 2026-2030",
+      "url": "https://www.technavio.com/report/algorithmic-trading-market-industry-analysis",
+      "source": "gemini_grounded",
+      "author": "www.technavio.com",
+      "snippet": "Discussions across r/algotrading and the broader quant trading community in 2025-2026 reveal mixed but cautiously optimistic sentiment about automated trading edge and live results. Community members frequently share live performance updates, with some reporting significant outperformance — one widely-discussed post cited nearly 60% profits since August with only 5% max drawdown, suggesting S&P 500 buy-and-hold competition is possible for well-constructed systems. However, the community consiste",
+      "timestamp": "2026-04-05T07:31:19.860917+00:00",
+      "relevance_score": 0.3,
+      "content_hash": "689c1a977e8055d0",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Chapter 5 Discussion — Beating Vegas: Creating a Dynamic Sports Betting Model",
+      "url": "https://dlevine820.github.io/Beating-Vegas-Thesis/5-discussion.html",
+      "source": "gemini_grounded",
+      "author": "dlevine820.github.io",
+      "snippet": "Quantitative sports betting model methodology, as discussed across Reddit communities like r/sportsbook and r/sportsbetting, centers on three pillars: building accurate probability models, identifying positive expected value (EV) bets, and applying disciplined bankroll management. Model inputs commonly include team efficiency ratings, pace metrics, injury reports, home/away splits, and historical matchup data. Machine learning approaches are increasingly popular among tech-savvy bettors, with po",
+      "timestamp": "2026-04-05T07:33:09.617431+00:00",
+      "relevance_score": 0.3,
+      "content_hash": "34c7e462e69f53a1",
+      "freshness_window": "24h"
+    }
+  ]
+}

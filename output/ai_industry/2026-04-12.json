@@ -1,0 +1,229 @@
+{
+  "date": "2026-04-12",
+  "scan_time": "2026-04-12T07:38:33.919427+00:00",
+  "total_scraped": 95,
+  "after_dedup": 27,
+  "after_filter": 20,
+  "items": [
+    {
+      "title": "AI at Meta: Meta AI Products, Models and Research",
+      "url": "https://ai.meta.com/",
+      "source": "gemini_grounded",
+      "author": "ai.meta.com",
+      "snippet": "Meta's AI blog in 2026 highlights several major open source model releases. Most notably, Meta introduced the Llama 4 herd — including Llama 4 Scout and Llama 4 Maverick — marking the beginning of a new era of natively multimodal AI. These are the first open-weight models built with a mixture-of-experts (MoE) architecture and feature unprecedented context window support. Both models are available on llama.com and Hugging Face, as well as across major cloud platforms and edge silicon providers.\n\n",
+      "timestamp": "2026-04-12T07:30:32.614271+00:00",
+      "category": "github",
+      "relevance_score": 1.0,
+      "content_hash": "4d3e078e99b681f7"
+    },
+    {
+      "title": "Introducing Microsoft 365 Copilot – your copilot for work - The Official Microsoft Blog",
+      "url": "https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/",
+      "source": "gemini_grounded",
+      "author": "blogs.microsoft.com",
+      "snippet": "Microsoft's Copilot ecosystem has seen significant evolution in early 2026, with the company pivoting from assistive AI toward fully agentic capabilities. Key announcements include Wave 3 of Microsoft 365 Copilot, which introduces expanded model diversity (including Claude and next-generation OpenAI models), and the general availability of Agent 365 on May 1 for $15/user/month. Agent 365 serves as an enterprise control plane to observe, govern, and secure all AI agents running across an organiza",
+      "timestamp": "2026-04-12T07:31:33.662908+00:00",
+      "category": "major_org",
+      "relevance_score": 1.0,
+      "content_hash": "7447cf4220291a87"
+    },
+    {
+      "title": "Spain's Xoople raises $130 million Series B to map the Earth for AI",
+      "url": "https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/",
+      "source": "gemini_grounded",
+      "author": "techcrunch.com",
+      "snippet": "AI startup funding activity in early 2026 has been historic, shattering previous records. Q1 2026 saw startup funding reach all-time highs, driven largely by massive AI rounds. OpenAI raised $110 billion in one of the largest private funding rounds in history, pushing its valuation past $852 billion. xAI (Elon Musk's AI company) closed a $20 billion Series E, while Humans& — a 'human-centric' AI startup founded by alumni from Anthropic, xAI, and Google — raised a $480 million seed round. At leas",
+      "timestamp": "2026-04-12T07:33:23.603703+00:00",
+      "category": "startup",
+      "relevance_score": 1.0,
+      "content_hash": "d278ed24e685cc1a"
+    },
+    {
+      "title": "Startup funding shatters all records in Q1",
+      "url": "https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/",
+      "source": "gemini_grounded",
+      "author": "techcrunch.com",
+      "snippet": "AI startup funding activity in early 2026 has been historic, shattering previous records. Q1 2026 saw startup funding reach all-time highs, driven largely by massive AI rounds. OpenAI raised $110 billion in one of the largest private funding rounds in history, pushing its valuation past $852 billion. xAI (Elon Musk's AI company) closed a $20 billion Series E, while Humans& — a 'human-centric' AI startup founded by alumni from Anthropic, xAI, and Google — raised a $480 million seed round. At leas",
+      "timestamp": "2026-04-12T07:33:23.603711+00:00",
+      "category": "startup",
+      "relevance_score": 1.0,
+      "content_hash": "65ce0a8862dc4e23"
+    },
+    {
+      "title": "GitHub Trending Weekly 2026-04-08: Skills Ecosystem Explosion",
+      "url": "https://www.shareuhack.com/en/posts/github-trending-weekly-2026-04-08",
+      "source": "gemini_grounded",
+      "author": "www.shareuhack.com",
+      "snippet": "As of mid-April 2026, the GitHub AI agent ecosystem is experiencing explosive growth, with several standout repositories dominating weekly trending charts. The most viral breakout is OpenClaw, which surged from ~9,000 to over 210,000 stars in roughly 60 days — one of the fastest-growing open-source projects in GitHub history. NousResearch's Hermes Agent (self-improving AI agent framework, 35k+ stars) has held a top-5 trending spot for multiple consecutive weeks, with +10,487 stars gained in a si",
+      "timestamp": "2026-04-12T07:34:16.265291+00:00",
+      "category": "github",
+      "relevance_score": 1.0,
+      "content_hash": "ee5665c19db18077"
+    },
+    {
+      "title": "Hermes Agent: The Open-Source Self-Improving AI Agent Taking Over 2026",
+      "url": "https://www.opc.community/blog/hermes-agent-open-source-ai-agent-2026",
+      "source": "gemini_grounded",
+      "author": "www.opc.community",
+      "snippet": "As of mid-April 2026, the GitHub AI agent ecosystem is experiencing explosive growth, with several standout repositories dominating weekly trending charts. The most viral breakout is OpenClaw, which surged from ~9,000 to over 210,000 stars in roughly 60 days — one of the fastest-growing open-source projects in GitHub history. NousResearch's Hermes Agent (self-improving AI agent framework, 35k+ stars) has held a top-5 trending spot for multiple consecutive weeks, with +10,487 stars gained in a si",
+      "timestamp": "2026-04-12T07:34:16.265310+00:00",
+      "category": "framework",
+      "relevance_score": 1.0,
+      "content_hash": "ed10c8429212b3b6"
+    },
+    {
+      "title": "GitHub Trending (weekly) — ai-agents topic",
+      "url": "https://github.com/trending?since=weekly",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "As of mid-April 2026, the GitHub AI agent ecosystem is experiencing explosive growth, with several standout repositories dominating weekly trending charts. The most viral breakout is OpenClaw, which surged from ~9,000 to over 210,000 stars in roughly 60 days — one of the fastest-growing open-source projects in GitHub history. NousResearch's Hermes Agent (self-improving AI agent framework, 35k+ stars) has held a top-5 trending spot for multiple consecutive weeks, with +10,487 stars gained in a si",
+      "timestamp": "2026-04-12T07:34:16.265321+00:00",
+      "category": "github",
+      "relevance_score": 1.0,
+      "content_hash": "912bc8f1729c368e"
+    },
+    {
+      "title": "500 AI Agents Projects — curated use cases across industries",
+      "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "As of mid-April 2026, the GitHub AI agent ecosystem is experiencing explosive growth, with several standout repositories dominating weekly trending charts. The most viral breakout is OpenClaw, which surged from ~9,000 to over 210,000 stars in roughly 60 days — one of the fastest-growing open-source projects in GitHub history. NousResearch's Hermes Agent (self-improving AI agent framework, 35k+ stars) has held a top-5 trending spot for multiple consecutive weeks, with +10,487 stars gained in a si",
+      "timestamp": "2026-04-12T07:34:16.265327+00:00",
+      "category": "github",
+      "relevance_score": 1.0,
+      "content_hash": "0deafb6c4035bbe5"
+    },
+    {
+      "title": "Release v4.51.0: Llama 4, Phi4-Multimodal, DeepSeek-v3, Qwen3 · huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v4.51.0",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "The open-source LLM landscape in early 2026 has seen major new releases and active benchmarking. Hugging Face Transformers v4.51.0 added support for Llama 4, Phi4-Multimodal, DeepSeek-V3, and Qwen3 architectures, with Llama 4 and Qwen3 representing the latest generation of open-weight frontier models. Google's Gemma 4 also launched with strong multimodal performance across reasoning, coding, vision, and long-context tasks. The Open LLM Leaderboard on Hugging Face continues to be the canonical be",
+      "timestamp": "2026-04-12T07:34:58.606219+00:00",
+      "category": "github",
+      "relevance_score": 1.0,
+      "content_hash": "6367a02aab690c7e"
+    },
+    {
+      "title": "LLM-Model-Comparison-2026 · GitHub",
+      "url": "https://github.com/salttechno/LLM-Model-Comparison-2026",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "The open-source LLM landscape in early 2026 has seen major new releases and active benchmarking. Hugging Face Transformers v4.51.0 added support for Llama 4, Phi4-Multimodal, DeepSeek-V3, and Qwen3 architectures, with Llama 4 and Qwen3 representing the latest generation of open-weight frontier models. Google's Gemma 4 also launched with strong multimodal performance across reasoning, coding, vision, and long-context tasks. The Open LLM Leaderboard on Hugging Face continues to be the canonical be",
+      "timestamp": "2026-04-12T07:34:58.606228+00:00",
+      "category": "github",
+      "relevance_score": 1.0,
+      "content_hash": "5a33b932e91adcf3"
+    },
+    {
+      "title": "GitHub - alvinreal/awesome-opensource-ai: Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
+      "url": "https://github.com/alvinreal/awesome-opensource-ai",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "April 2026 has seen a wave of significant open-source AI model releases, with major tech companies pushing competitive alternatives to proprietary models. Google released Gemma 4 in four sizes (E2B, E4B, 26B MoE, 31B Dense) under the Apache 2.0 license, focusing on agentic workflows and complex reasoning. Alibaba released Qwen3.6-Plus with a 1M context window and coding performance reportedly competitive with Claude Opus 4.6. Zhipu AI released GLM-5.1, a 744B parameter mixture-of-experts model (",
+      "timestamp": "2026-04-12T07:37:18.964676+00:00",
+      "category": "github",
+      "relevance_score": 0.9,
+      "content_hash": "74e5092382b3888f"
+    },
+    {
+      "title": "Hugging Face – The AI community building the future.",
+      "url": "https://huggingface.co/",
+      "source": "gemini_grounded",
+      "author": "huggingface.co",
+      "snippet": "April 2026 has seen a wave of significant open-source AI model releases, with major tech companies pushing competitive alternatives to proprietary models. Google released Gemma 4 in four sizes (E2B, E4B, 26B MoE, 31B Dense) under the Apache 2.0 license, focusing on agentic workflows and complex reasoning. Alibaba released Qwen3.6-Plus with a 1M context window and coding performance reportedly competitive with Claude Opus 4.6. Zhipu AI released GLM-5.1, a 744B parameter mixture-of-experts model (",
+      "timestamp": "2026-04-12T07:37:18.964670+00:00",
+      "category": "major_org",
+      "relevance_score": 0.8,
+      "content_hash": "a9f4f34d33780b88"
+    },
+    {
+      "title": "Large Language Models Miss the Multi-Agent Mark",
+      "url": "https://arxiv.org/html/2505.21298v3",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "This week's arxiv activity on AI agents and LLMs shows strong momentum across three themes. First, comprehensive surveys are mapping the agent landscape: 'Large Language Model Agent: A Survey on Methodology, Applications and Challenges' (2503.21460) and 'From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review' (2504.19678) both synthesize ~60 benchmarks and propose taxonomies covering reasoning, code generation, and autonomous decision-making. A companion paper 'Agentic Artificial Int",
+      "timestamp": "2026-04-12T07:32:53.602275+00:00",
+      "category": "research",
+      "relevance_score": 0.7,
+      "content_hash": "b2c063256f43b44d"
+    },
+    {
+      "title": "The Big Benchmarks Collection - open-llm-leaderboard",
+      "url": "https://huggingface.co/collections/open-llm-leaderboard/the-big-benchmarks-collection",
+      "source": "gemini_grounded",
+      "author": "huggingface.co",
+      "snippet": "The open-source LLM landscape in early 2026 has seen major new releases and active benchmarking. Hugging Face Transformers v4.51.0 added support for Llama 4, Phi4-Multimodal, DeepSeek-V3, and Qwen3 architectures, with Llama 4 and Qwen3 representing the latest generation of open-weight frontier models. Google's Gemma 4 also launched with strong multimodal performance across reasoning, coding, vision, and long-context tasks. The Open LLM Leaderboard on Hugging Face continues to be the canonical be",
+      "timestamp": "2026-04-12T07:34:58.606238+00:00",
+      "category": "startup",
+      "relevance_score": 0.7,
+      "content_hash": "98b58c6288202c79"
+    },
+    {
+      "title": "New AI Models April 2026: Anthropic Won't Ship Its Best. Open Source Will. | What LLM?",
+      "url": "https://whatllm.org/blog/new-ai-models-april-2026",
+      "source": "gemini_grounded",
+      "author": "whatllm.org",
+      "snippet": "April 2026 has seen a wave of significant open-source AI model releases, with major tech companies pushing competitive alternatives to proprietary models. Google released Gemma 4 in four sizes (E2B, E4B, 26B MoE, 31B Dense) under the Apache 2.0 license, focusing on agentic workflows and complex reasoning. Alibaba released Qwen3.6-Plus with a 1M context window and coding performance reportedly competitive with Claude Opus 4.6. Zhipu AI released GLM-5.1, a 744B parameter mixture-of-experts model (",
+      "timestamp": "2026-04-12T07:37:18.964660+00:00",
+      "category": "github",
+      "relevance_score": 0.7,
+      "content_hash": "42a361aa7b768e6c"
+    },
+    {
+      "title": "Open models by OpenAI",
+      "url": "https://openai.com/open-models/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "April 2026 has seen a wave of significant open-source AI model releases, with major tech companies pushing competitive alternatives to proprietary models. Google released Gemma 4 in four sizes (E2B, E4B, 26B MoE, 31B Dense) under the Apache 2.0 license, focusing on agentic workflows and complex reasoning. Alibaba released Qwen3.6-Plus with a 1M context window and coding performance reportedly competitive with Claude Opus 4.6. Zhipu AI released GLM-5.1, a 744B parameter mixture-of-experts model (",
+      "timestamp": "2026-04-12T07:37:18.964680+00:00",
+      "category": "major_org",
+      "relevance_score": 0.6,
+      "content_hash": "ca2b6e603288495c"
+    },
+    {
+      "title": "Cody - Sourcegraph docs",
+      "url": "https://sourcegraph.com/docs/cody",
+      "source": "gemini_grounded",
+      "author": "sourcegraph.com",
+      "snippet": "Cursor has been one of the most active AI coding assistants in early 2026, shipping several major updates. In March, they released Composer 2 with frontier-level coding performance on challenging tasks, followed by Cursor 3 which introduces a new parallel agent interface allowing multiple agents to run simultaneously across repos, locally, in worktrees, in the cloud, and on remote SSH. In April, they shipped Bugbot improvements including self-improvement capabilities in real time, MCP support, a",
+      "timestamp": "2026-04-12T07:35:28.932040+00:00",
+      "category": "general",
+      "relevance_score": 0.5,
+      "content_hash": "743618aa9c653c3c"
+    },
+    {
+      "title": "Introducing Microsoft Security Copilot - The Official Microsoft Blog",
+      "url": "https://blogs.microsoft.com/blog/2023/03/28/introducing-microsoft-security-copilot-empowering-defenders-at-the-speed-of-ai/",
+      "source": "gemini_grounded",
+      "author": "blogs.microsoft.com",
+      "snippet": "Microsoft's Copilot ecosystem has seen significant evolution in early 2026, with the company pivoting from assistive AI toward fully agentic capabilities. Key announcements include Wave 3 of Microsoft 365 Copilot, which introduces expanded model diversity (including Claude and next-generation OpenAI models), and the general availability of Agent 365 on May 1 for $15/user/month. Agent 365 serves as an enterprise control plane to observe, govern, and secure all AI agents running across an organiza",
+      "timestamp": "2026-04-12T07:31:33.662925+00:00",
+      "category": "major_org",
+      "relevance_score": 0.4,
+      "content_hash": "8fcff13d90100529"
+    },
+    {
+      "title": "MemoryAgentBench: Evaluating Memory in LLM Agents (ICLR 2026)",
+      "url": "https://github.com/HUST-AI-HYZ/MemoryAgentBench",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "The open-source LLM landscape in early 2026 has seen major new releases and active benchmarking. Hugging Face Transformers v4.51.0 added support for Llama 4, Phi4-Multimodal, DeepSeek-V3, and Qwen3 architectures, with Llama 4 and Qwen3 representing the latest generation of open-weight frontier models. Google's Gemma 4 also launched with strong multimodal performance across reasoning, coding, vision, and long-context tasks. The Open LLM Leaderboard on Hugging Face continues to be the canonical be",
+      "timestamp": "2026-04-12T07:34:58.606242+00:00",
+      "category": "github",
+      "relevance_score": 0.4,
+      "content_hash": "3c77253b84adbe91"
+    },
+    {
+      "title": "Awesome-LLM: a curated list of Large Language Models",
+      "url": "https://github.com/Hannibal046/Awesome-LLM",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "The open-source LLM landscape in early 2026 has seen major new releases and active benchmarking. Hugging Face Transformers v4.51.0 added support for Llama 4, Phi4-Multimodal, DeepSeek-V3, and Qwen3 architectures, with Llama 4 and Qwen3 representing the latest generation of open-weight frontier models. Google's Gemma 4 also launched with strong multimodal performance across reasoning, coding, vision, and long-context tasks. The Open LLM Leaderboard on Hugging Face continues to be the canonical be",
+      "timestamp": "2026-04-12T07:34:58.606245+00:00",
+      "category": "github",
+      "relevance_score": 0.3,
+      "content_hash": "2488633cfda357da"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "date": "2026-04-01",
+  "scan_time": "2026-04-01T07:38:53.824694+00:00",
+  "total_scraped": 92,
+  "after_dedup": 36,
+  "after_filter": 12,
+  "items": [
+    {
+      "title": "Here are the 17 US-based AI companies that have raised $100M or more in 2026",
+      "url": "https://techcrunch.com/2026/02/17/here-are-the-17-us-based-ai-companies-that-have-raised-100m-or-more-in-2026/",
+      "source": "gemini_grounded",
+      "author": "techcrunch.com",
+      "snippet": "AI startup funding in early 2026 has been dominated by massive rounds at the top of the market. OpenAI led all activity, first closing a $110 billion round in late February — one of the largest private funding rounds in history — and then raising an additional $3 billion from retail investors in late March as part of a $122 billion total raise co-led by SoftBank and Andreessen Horowitz. xAI (Elon Musk's AI lab) kicked off the year with a $20 billion Series E in January, while Humans&, a 'human-c",
+      "timestamp": "2026-04-01T07:34:10.289512+00:00",
+      "category": "startup",
+      "relevance_score": 1.0,
+      "content_hash": "529ef0dcfcad43fd"
+    },
+    {
+      "title": "Introducing Falcon H1R 7B",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-h1r-7b",
+      "source": "gemini_grounded",
+      "author": "huggingface.co",
+      "snippet": "The Hugging Face blog has seen a wave of new model releases in early 2026. NVIDIA has been particularly active, releasing Cosmos Reason 2 — an advanced reasoning vision-language model for physical AI — as well as the Llama Nemotron VL 1B series for multimodal RAG tasks (dense embedding and reranking). TII (Technology Innovation Institute) released Falcon H1R 7B, the latest in its Falcon series. Meanwhile, Qwen3.5 (397B-A17B) emerged as a major open-weight release, continuing Alibaba's momentum i",
+      "timestamp": "2026-04-01T07:32:47.390353+00:00",
+      "category": "major_org",
+      "relevance_score": 0.9,
+      "content_hash": "5aff58bd516fc970"
+    },
+    {
+      "title": "[2504.16736] A Survey of AI Agent Protocols",
+      "url": "https://arxiv.org/abs/2504.16736",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "This week on arXiv, research on LLM agents continues to accelerate across multiple fronts. Key themes include comprehensive surveys of agent methodology, new planning frameworks for web agents, and multi-agent reasoning architectures. A major survey (2503.21460) systematically deconstructs LLM agent systems through a methodology-centered taxonomy covering goal-driven behaviors and dynamic adaptation. New planning frameworks like the AI Planning Framework for LLM-Based Web Agents (2603.12710) map",
+      "timestamp": "2026-04-01T07:33:35.003728+00:00",
+      "category": "framework",
+      "relevance_score": 0.9,
+      "content_hash": "67a389853311e83a"
+    },
+    {
+      "title": "How Microsoft is empowering Frontier Transformation with Intelligence + Trust - The Official Microsoft Blog",
+      "url": "https://blogs.microsoft.com/blog/2026/01/27/how-microsoft-is-empowering-frontier-transformation-with-intelligence-trust/",
+      "source": "gemini_grounded",
+      "author": "blogs.microsoft.com",
+      "snippet": "Microsoft has been rolling out significant new AI Copilot features in early 2026, headlined by the launch of the 'Frontier Suite' (Microsoft 365 E7) — a unified bundle of Microsoft 365 E5, Microsoft 365 Copilot, and the new Agent 365 product priced at $99/user/month. This represents a strategic consolidation of Microsoft's AI offerings into a single enterprise tier. Wave 3 of Microsoft 365 Copilot introduces 'Work IQ,' an intelligence layer that learns how individuals and organizations work toge",
+      "timestamp": "2026-04-01T07:32:04.231930+00:00",
+      "category": "startup",
+      "relevance_score": 0.85,
+      "content_hash": "9c9fb2df7e91ad14"
+    },
+    {
+      "title": "Qwen3.5-397B-A17B on Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B",
+      "source": "gemini_grounded",
+      "author": "huggingface.co",
+      "snippet": "The Hugging Face blog has seen a wave of new model releases in early 2026. NVIDIA has been particularly active, releasing Cosmos Reason 2 — an advanced reasoning vision-language model for physical AI — as well as the Llama Nemotron VL 1B series for multimodal RAG tasks (dense embedding and reranking). TII (Technology Innovation Institute) released Falcon H1R 7B, the latest in its Falcon series. Meanwhile, Qwen3.5 (397B-A17B) emerged as a major open-weight release, continuing Alibaba's momentum i",
+      "timestamp": "2026-04-01T07:32:47.390381+00:00",
+      "category": "major_org",
+      "relevance_score": 0.85,
+      "content_hash": "b89754fb1f489151"
+    },
+    {
+      "title": "Open Source AI - AI at Meta",
+      "url": "https://ai.meta.com/open/",
+      "source": "gemini_grounded",
+      "author": "ai.meta.com",
+      "snippet": "Meta's most significant recent open-source AI release is the Llama 4 model family, announced in April 2025. The Llama 4 herd introduces natively multimodal models built on a mixture-of-experts (MoE) architecture, with two publicly available variants: Llama 4 Scout (17B active parameters, 10M token context window) and Llama 4 Maverick (17B active parameters, 1M token context window). A third model, Llama 4 Behemoth (288B active parameters), was announced but was still in training at launch. The m",
+      "timestamp": "2026-04-01T07:30:45.108334+00:00",
+      "category": "github",
+      "relevance_score": 0.8,
+      "content_hash": "4c27aea88dae7a7d"
+    },
+    {
+      "title": "Scaling Real-Time Voice Agents with Cache-Aware Streaming ASR",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-speech-asr-scaling-voice-agents",
+      "source": "gemini_grounded",
+      "author": "huggingface.co",
+      "snippet": "The Hugging Face blog has seen a wave of new model releases in early 2026. NVIDIA has been particularly active, releasing Cosmos Reason 2 — an advanced reasoning vision-language model for physical AI — as well as the Llama Nemotron VL 1B series for multimodal RAG tasks (dense embedding and reranking). TII (Technology Innovation Institute) released Falcon H1R 7B, the latest in its Falcon series. Meanwhile, Qwen3.5 (397B-A17B) emerged as a major open-weight release, continuing Alibaba's momentum i",
+      "timestamp": "2026-04-01T07:32:47.390377+00:00",
+      "category": "major_org",
+      "relevance_score": 0.8,
+      "content_hash": "a25264a5a8760a7b"
+    },
+    {
+      "title": "Updates in two of our core priorities - The Official Microsoft Blog",
+      "url": "https://blogs.microsoft.com/blog/2026/02/04/updates-in-two-of-our-core-priorities/",
+      "source": "gemini_grounded",
+      "author": "blogs.microsoft.com",
+      "snippet": "Microsoft has been rolling out significant new AI Copilot features in early 2026, headlined by the launch of the 'Frontier Suite' (Microsoft 365 E7) — a unified bundle of Microsoft 365 E5, Microsoft 365 Copilot, and the new Agent 365 product priced at $99/user/month. This represents a strategic consolidation of Microsoft's AI offerings into a single enterprise tier. Wave 3 of Microsoft 365 Copilot introduces 'Work IQ,' an intelligence layer that learns how individuals and organizations work toge",
+      "timestamp": "2026-04-01T07:32:04.231935+00:00",
+      "category": "startup",
+      "relevance_score": 0.7,
+      "content_hash": "e55f566bf428f18c"
+    },
+    {
+      "title": "[2601.13243] A Comprehensive Evaluation of LLM Reasoning: From Single-Model to Multi-Agent Paradigms",
+      "url": "https://arxiv.org/abs/2601.13243",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "This week on arXiv, research on LLM agents continues to accelerate across multiple fronts. Key themes include comprehensive surveys of agent methodology, new planning frameworks for web agents, and multi-agent reasoning architectures. A major survey (2503.21460) systematically deconstructs LLM agent systems through a methodology-centered taxonomy covering goal-driven behaviors and dynamic adaptation. New planning frameworks like the AI Planning Framework for LLM-Based Web Agents (2603.12710) map",
+      "timestamp": "2026-04-01T07:33:35.003711+00:00",
+      "category": "framework",
+      "relevance_score": 0.7,
+      "content_hash": "b10c0a4d8ad1613f"
+    },
+    {
+      "title": "Brain-Inspired Graph Multi-Agent Systems for LLM Reasoning",
+      "url": "https://arxiv.org/html/2603.15371v1",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "This week on arXiv, research on LLM agents continues to accelerate across multiple fronts. Key themes include comprehensive surveys of agent methodology, new planning frameworks for web agents, and multi-agent reasoning architectures. A major survey (2503.21460) systematically deconstructs LLM agent systems through a methodology-centered taxonomy covering goal-driven behaviors and dynamic adaptation. New planning frameworks like the AI Planning Framework for LLM-Based Web Agents (2603.12710) map",
+      "timestamp": "2026-04-01T07:33:35.003715+00:00",
+      "category": "framework",
+      "relevance_score": 0.6,
+      "content_hash": "e2ef4fa645398c4b"
+    },
+    {
+      "title": "[2603.26710] Agentic AI for Human Resources: LLM-Driven Candidate Assessment",
+      "url": "https://arxiv.org/abs/2603.26710",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "This week on arXiv, research on LLM agents continues to accelerate across multiple fronts. Key themes include comprehensive surveys of agent methodology, new planning frameworks for web agents, and multi-agent reasoning architectures. A major survey (2503.21460) systematically deconstructs LLM agent systems through a methodology-centered taxonomy covering goal-driven behaviors and dynamic adaptation. New planning frameworks like the AI Planning Framework for LLM-Based Web Agents (2603.12710) map",
+      "timestamp": "2026-04-01T07:33:35.003724+00:00",
+      "category": "framework",
+      "relevance_score": 0.5,
+      "content_hash": "b6db94514efbe501"
+    },
+    {
+      "title": "Open to Work: How to Get Ahead in the Age of AI - The Official Microsoft Blog",
+      "url": "https://blogs.microsoft.com/blog/2026/03/31/open-to-work-how-to-get-ahead-in-the-age-of-ai/",
+      "source": "gemini_grounded",
+      "author": "blogs.microsoft.com",
+      "snippet": "Microsoft has been rolling out significant new AI Copilot features in early 2026, headlined by the launch of the 'Frontier Suite' (Microsoft 365 E7) — a unified bundle of Microsoft 365 E5, Microsoft 365 Copilot, and the new Agent 365 product priced at $99/user/month. This represents a strategic consolidation of Microsoft's AI offerings into a single enterprise tier. Wave 3 of Microsoft 365 Copilot introduces 'Work IQ,' an intelligence layer that learns how individuals and organizations work toge",
+      "timestamp": "2026-04-01T07:32:04.231939+00:00",
+      "category": "startup",
+      "relevance_score": 0.3,
+      "content_hash": "49070192fa6ee469"
+    }
+  ]
+}

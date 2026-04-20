@@ -1,0 +1,97 @@
+{
+  "date": "2026-04-13",
+  "scan_time": "2026-04-13T07:39:45.393528+00:00",
+  "total_scraped": 93,
+  "after_dedup": 48,
+  "after_filter": 8,
+  "items": [
+    {
+      "title": "GitHub - dr-manhattan: CCXT for prediction markets (Polymarket, Kalshi, Limitless, etc.)",
+      "url": "https://github.com/guzus/dr-manhattan",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "Automated trading strategies on prediction markets like Kalshi, Polymarket, and Manifold have matured significantly heading into 2026. The dominant approaches include cross-platform arbitrage bots (taking both sides of YES/NO markets when the combined price is below $1.00 for guaranteed risk-free profit), AI-driven probability estimation bots (using LLMs to independently forecast event probabilities and trade when they diverge from market prices), and market-making/liquidity provisioning bots. O",
+      "timestamp": "2026-04-13T07:32:43.766806+00:00",
+      "relevance_score": 0.9,
+      "content_hash": "4bedd015c393a4e0",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "GitHub - kalshi-poly-arb: Cross-platform arbitrage bot (Kalshi-Poly, Poly-Poly, Kalshi-Kalshi)",
+      "url": "https://github.com/speedyhughes/kalshi-poly-arb",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "Automated trading strategies on prediction markets like Kalshi, Polymarket, and Manifold have matured significantly heading into 2026. The dominant approaches include cross-platform arbitrage bots (taking both sides of YES/NO markets when the combined price is below $1.00 for guaranteed risk-free profit), AI-driven probability estimation bots (using LLMs to independently forecast event probabilities and trade when they diverge from market prices), and market-making/liquidity provisioning bots. O",
+      "timestamp": "2026-04-13T07:32:43.766798+00:00",
+      "relevance_score": 0.8,
+      "content_hash": "b4b87630703dd47b",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "New SystemEvent SSE endpoint - Alpaca Docs",
+      "url": "https://docs.alpaca.markets/changelog/new-system-event-sse-endpoint",
+      "source": "gemini_grounded",
+      "author": "docs.alpaca.markets",
+      "snippet": "Alpaca Markets has been the most active with API improvements heading into 2026. Their MCP Server V2 (April 2026) expanded tool coverage from 43 to 61 endpoints, introduced toolset filtering for AI assistant access control, and added new endpoints for order replacement, full option chain browsing, market screeners, and account activity history. Earlier in January 2026, Alpaca added a System Events SSE endpoint for backend process notifications, and continued rolling out multi-leg options strateg",
+      "timestamp": "2026-04-13T07:34:27.378983+00:00",
+      "relevance_score": 0.8,
+      "content_hash": "f91b3f9d07509c03",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Changelog - Alpaca API Docs",
+      "url": "https://docs.alpaca.markets/changelog",
+      "source": "gemini_grounded",
+      "author": "docs.alpaca.markets",
+      "snippet": "Alpaca Markets has been the most active with API improvements heading into 2026. Their MCP Server V2 (April 2026) expanded tool coverage from 43 to 61 endpoints, introduced toolset filtering for AI assistant access control, and added new endpoints for order replacement, full option chain browsing, market screeners, and account activity history. Earlier in January 2026, Alpaca added a System Events SSE endpoint for backend process notifications, and continued rolling out multi-leg options strateg",
+      "timestamp": "2026-04-13T07:34:27.378976+00:00",
+      "relevance_score": 0.7,
+      "content_hash": "8668c6c7b3f4287a",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Alpaca Launches V2 of MCP Server",
+      "url": "https://alpaca.markets/blog/alpaca-launches-mcp-server-v2/",
+      "source": "gemini_grounded",
+      "author": "alpaca.markets",
+      "snippet": "Alpaca Markets has been the most active with API improvements heading into 2026. Their MCP Server V2 (April 2026) expanded tool coverage from 43 to 61 endpoints, introduced toolset filtering for AI assistant access control, and added new endpoints for order replacement, full option chain browsing, market screeners, and account activity history. Earlier in January 2026, Alpaca added a System Events SSE endpoint for backend process notifications, and continued rolling out multi-leg options strateg",
+      "timestamp": "2026-04-13T07:34:27.378952+00:00",
+      "relevance_score": 0.6,
+      "content_hash": "bc333290fa314796",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "The Rise of AI in Sports Betting: Trends Shaping 2026 - VegasInsider",
+      "url": "https://www.vegasinsider.com/sportsbooks/sports-betting-news/rise-of-ai-in-sports-betting/",
+      "source": "gemini_grounded",
+      "author": "www.vegasinsider.com",
+      "snippet": "Community discussions on Reddit's r/sportsbook and r/sportsbetting consistently center on a few core quantitative methodologies. The dominant framework is Expected Value (EV) betting — estimating the true probability of an outcome, comparing it against the implied probability of bookmaker odds, and only wagering when a positive edge exists. Sophisticated community members track Closing Line Value (CLV) as the primary KPI for model quality: if your pre-game price is consistently better than the f",
+      "timestamp": "2026-04-13T07:33:37.764159+00:00",
+      "relevance_score": 0.5,
+      "content_hash": "6364962ad4c36de9",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "What is the Kelly Criterion and How Does it Apply to Sports Betting? - Betstamp",
+      "url": "https://betstamp.com/education/kelly-criterion",
+      "source": "gemini_grounded",
+      "author": "betstamp.com",
+      "snippet": "Community discussions on Reddit's r/sportsbook and r/sportsbetting consistently center on a few core quantitative methodologies. The dominant framework is Expected Value (EV) betting — estimating the true probability of an outcome, comparing it against the implied probability of bookmaker odds, and only wagering when a positive edge exists. Sophisticated community members track Closing Line Value (CLV) as the primary KPI for model quality: if your pre-game price is consistently better than the f",
+      "timestamp": "2026-04-13T07:33:37.764154+00:00",
+      "relevance_score": 0.4,
+      "content_hash": "d9629aa88e4a0e88",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "Kelly Criterion: Optimal Bet Sizing for Sports Betting - SlipSync",
+      "url": "https://www.slipsync.org/post/optimize-bet-sizes-with-the-kelly-criterion",
+      "source": "gemini_grounded",
+      "author": "www.slipsync.org",
+      "snippet": "Community discussions on Reddit's r/sportsbook and r/sportsbetting consistently center on a few core quantitative methodologies. The dominant framework is Expected Value (EV) betting — estimating the true probability of an outcome, comparing it against the implied probability of bookmaker odds, and only wagering when a positive edge exists. Sophisticated community members track Closing Line Value (CLV) as the primary KPI for model quality: if your pre-game price is consistently better than the f",
+      "timestamp": "2026-04-13T07:33:37.764150+00:00",
+      "relevance_score": 0.3,
+      "content_hash": "d6964e8a4103a400",
+      "freshness_window": "24h"
+    }
+  ]
+}

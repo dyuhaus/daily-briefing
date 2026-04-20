@@ -1,0 +1,130 @@
+{
+  "date": "2026-04-10",
+  "company": "google_ai",
+  "scan_time": "2026-04-10T07:45:52.395825+00:00",
+  "total_scraped": 99,
+  "after_dedup": 18,
+  "after_filter": 10,
+  "items": [
+    {
+      "title": "New AI Model Releases News | April 2026 (Startup Edition)",
+      "url": "https://blog.mean.ceo/new-ai-model-releases-news-april-2026/",
+      "source": "gemini_grounded",
+      "author": "blog.mean.ceo",
+      "snippet": "In April 2026, Google AI and Google DeepMind made several significant announcements. On April 2, Google DeepMind launched Gemma 4, a family of open models designed for multi-step planning and autonomous agentic workflows, available under Apache 2.0 with support for 140+ languages. Alongside this, Google introduced the AI Edge Gallery for experimenting with 'Agent Skills' and the LiteRT-LM library for on-device inference. Google also launched Gemini 3.1 Flash-Lite, an efficiency-focused model del",
+      "timestamp": "2026-04-10T07:39:21.991436+00:00",
+      "company": "google_ai",
+      "category": "model_release",
+      "relevance_score": 0.9,
+      "content_hash": "da6f00b3cb640674"
+    },
+    {
+      "title": "Google Unveils Gemini 3, Its Most Advanced AI Model Yet",
+      "url": "https://x.com/i/trending/1989852452913311787",
+      "source": "gemini_grounded",
+      "author": "x.com",
+      "snippet": "In April 2026, Google AI and Google DeepMind made several significant announcements. On April 2, Google DeepMind launched Gemma 4, a family of open models designed for multi-step planning and autonomous agentic workflows, available under Apache 2.0 with support for 140+ languages. Alongside this, Google introduced the AI Edge Gallery for experimenting with 'Agent Skills' and the LiteRT-LM library for on-device inference. Google also launched Gemini 3.1 Flash-Lite, an efficiency-focused model del",
+      "timestamp": "2026-04-10T07:39:21.991451+00:00",
+      "company": "google_ai",
+      "category": "model_release",
+      "relevance_score": 0.85,
+      "content_hash": "89535d524ec2ded8"
+    },
+    {
+      "title": "Google Gemini Latest Model News | April 2026",
+      "url": "https://blog.mean.ceo/google-gemini-latest-model-news-april-2026/",
+      "source": "gemini_grounded",
+      "author": "blog.mean.ceo",
+      "snippet": "In April 2026, Google AI and Google DeepMind made several significant announcements. On April 2, Google DeepMind launched Gemma 4, a family of open models designed for multi-step planning and autonomous agentic workflows, available under Apache 2.0 with support for 140+ languages. Alongside this, Google introduced the AI Edge Gallery for experimenting with 'Agent Skills' and the LiteRT-LM library for on-device inference. Google also launched Gemini 3.1 Flash-Lite, an efficiency-focused model del",
+      "timestamp": "2026-04-10T07:39:21.991443+00:00",
+      "company": "google_ai",
+      "category": "model_release",
+      "relevance_score": 0.8,
+      "content_hash": "420c2a39fbaa30e9"
+    },
+    {
+      "title": "DeepMind's 145-page paper on AGI safety — TechCrunch",
+      "url": "https://techcrunch.com/2025/04/02/deepminds-145-page-paper-on-agi-safety-may-not-convince-skeptics/",
+      "source": "gemini_grounded",
+      "author": "techcrunch.com",
+      "snippet": "Google DeepMind has been prolific in early 2026, publishing across multiple research fronts. In April 2026, notable output includes 'Dynamic Reflections: Probing Video Representations with Text Alignment' and work on fluid dynamics that discovered new solutions to century-old problems. A major cross-disciplinary effort produced two papers detailing use of Gemini Deep Think mode for solving professional research problems, with the latest Deep Think iteration significantly outperforming its July 2",
+      "timestamp": "2026-04-10T07:38:42.627761+00:00",
+      "company": "google_ai",
+      "category": "research",
+      "relevance_score": 0.75,
+      "content_hash": "d5d22e8de5d0605d"
+    },
+    {
+      "title": "LLM News Today (April 2026) – AI Model Releases",
+      "url": "https://llm-stats.com/ai-news",
+      "source": "gemini_grounded",
+      "author": "llm-stats.com",
+      "snippet": "In April 2026, Google AI and Google DeepMind made several significant announcements. On April 2, Google DeepMind launched Gemma 4, a family of open models designed for multi-step planning and autonomous agentic workflows, available under Apache 2.0 with support for 140+ languages. Alongside this, Google introduced the AI Edge Gallery for experimenting with 'Agent Skills' and the LiteRT-LM library for on-device inference. Google also launched Gemini 3.1 Flash-Lite, an efficiency-focused model del",
+      "timestamp": "2026-04-10T07:39:21.991464+00:00",
+      "company": "google_ai",
+      "category": "model_release",
+      "relevance_score": 0.75,
+      "content_hash": "9a130e72f90a7cf1"
+    },
+    {
+      "title": "Google Gemini News | April 2026",
+      "url": "https://blog.mean.ceo/google-gemini-news-April-2026/",
+      "source": "gemini_grounded",
+      "author": "blog.mean.ceo",
+      "snippet": "In April 2026, Google AI and Google DeepMind made several significant announcements. On April 2, Google DeepMind launched Gemma 4, a family of open models designed for multi-step planning and autonomous agentic workflows, available under Apache 2.0 with support for 140+ languages. Alongside this, Google introduced the AI Edge Gallery for experimenting with 'Agent Skills' and the LiteRT-LM library for on-device inference. Google also launched Gemini 3.1 Flash-Lite, an efficiency-focused model del",
+      "timestamp": "2026-04-10T07:39:21.991447+00:00",
+      "company": "google_ai",
+      "category": "model_release",
+      "relevance_score": 0.7,
+      "content_hash": "68bf372ff50a084a"
+    },
+    {
+      "title": "What Google Cloud announced in AI this month – and how it helps you",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month",
+      "source": "gemini_grounded",
+      "author": "cloud.google.com",
+      "snippet": "Google Cloud has made several significant AI and Gemini announcements in early 2026. Gemini 3 and 3.1 series models are now available on Vertex AI, including Gemini 3.1 Pro (focused on advanced reasoning for tougher problems) and Gemini 3.1 Flash-Lite (the fastest, most cost-efficient model in the series designed for high-volume workloads). The Gemini Live API, powered by the Gemini 2.5 Flash Native Audio model, reached general availability on Vertex AI, enabling real-time multimodal interaction",
+      "timestamp": "2026-04-10T07:40:39.839088+00:00",
+      "company": "google_ai",
+      "category": "product",
+      "relevance_score": 0.65,
+      "content_hash": "a3278fb503b7a54b"
+    },
+    {
+      "title": "Introducing Gemini Enterprise",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise",
+      "source": "gemini_grounded",
+      "author": "cloud.google.com",
+      "snippet": "Google Cloud has made several significant AI and Gemini announcements in early 2026. Gemini 3 and 3.1 series models are now available on Vertex AI, including Gemini 3.1 Pro (focused on advanced reasoning for tougher problems) and Gemini 3.1 Flash-Lite (the fastest, most cost-efficient model in the series designed for high-volume workloads). The Gemini Live API, powered by the Gemini 2.5 Flash Native Audio model, reached general availability on Vertex AI, enabling real-time multimodal interaction",
+      "timestamp": "2026-04-10T07:40:39.839159+00:00",
+      "company": "google_ai",
+      "category": "product",
+      "relevance_score": 0.55,
+      "content_hash": "551f0fe1ddd0e19b"
+    },
+    {
+      "title": "Gemini Live API available on Vertex AI",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-live-api-available-on-vertex-ai",
+      "source": "gemini_grounded",
+      "author": "cloud.google.com",
+      "snippet": "Google Cloud has made several significant AI and Gemini announcements in early 2026. Gemini 3 and 3.1 series models are now available on Vertex AI, including Gemini 3.1 Pro (focused on advanced reasoning for tougher problems) and Gemini 3.1 Flash-Lite (the fastest, most cost-efficient model in the series designed for high-volume workloads). The Gemini Live API, powered by the Gemini 2.5 Flash Native Audio model, reached general availability on Vertex AI, enabling real-time multimodal interaction",
+      "timestamp": "2026-04-10T07:40:39.839169+00:00",
+      "company": "google_ai",
+      "category": "product",
+      "relevance_score": 0.45,
+      "content_hash": "15ae3e260a3b7ed8"
+    },
+    {
+      "title": "Gemini for Government: Supporting U.S. Government's AI Transformation",
+      "url": "https://cloud.google.com/blog/topics/public-sector/introducing-gemini-for-government-supporting-the-us-governments-transformation-with-ai",
+      "source": "gemini_grounded",
+      "author": "cloud.google.com",
+      "snippet": "Google Cloud has made several significant AI and Gemini announcements in early 2026. Gemini 3 and 3.1 series models are now available on Vertex AI, including Gemini 3.1 Pro (focused on advanced reasoning for tougher problems) and Gemini 3.1 Flash-Lite (the fastest, most cost-efficient model in the series designed for high-volume workloads). The Gemini Live API, powered by the Gemini 2.5 Flash Native Audio model, reached general availability on Vertex AI, enabling real-time multimodal interaction",
+      "timestamp": "2026-04-10T07:40:39.839175+00:00",
+      "company": "google_ai",
+      "category": "product",
+      "relevance_score": 0.35,
+      "content_hash": "8085941d120ce9ca"
+    }
+  ]
+}

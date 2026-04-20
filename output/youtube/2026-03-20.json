@@ -1,0 +1,38 @@
+{
+  "date": "2026-03-20",
+  "scan_time": "2026-03-20T20:35:11.486785+00:00",
+  "total_found": 120,
+  "unique_new": 2,
+  "with_transcripts": 0,
+  "after_filter": 2,
+  "items": [
+    {
+      "video_id": "DTtFvYbaMi8",
+      "title": "Build Your Own MCP Server for Claude Code",
+      "channel": "AyyazTech",
+      "url": "https://www.youtube.com/watch?v=DTtFvYbaMi8",
+      "upload_date": "",
+      "duration_seconds": 1447.0,
+      "description": "Learn how to build a custom MCP (Model Context Protocol) server from scratch and connect it to Claude Code. By the end of this ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.7,
+      "content_hash": "d5f18c73fd12db7e",
+      "transcript_length": 0
+    },
+    {
+      "video_id": "59gy_24KIVE",
+      "title": "Claude Code Advanced Masterclass in Under 81 Mins",
+      "channel": "Aakash Gupta",
+      "url": "https://www.youtube.com/watch?v=59gy_24KIVE",
+      "upload_date": "",
+      "duration_seconds": 4835.0,
+      "description": "Carl Vellotti is back. His first episode hit 30000 views. This time he shows the advanced Claude Code masterclass for PMs. MCPs ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.5,
+      "content_hash": "54b918296a1d4bc8",
+      "transcript_length": 0
+    }
+  ]
+}

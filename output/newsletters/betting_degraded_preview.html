@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daily Briefing — Thursday, March 19, 2026</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0d1117; color: #c9d1d9; line-height: 1.7; padding: 20px; }
+  .container { max-width: 680px; margin: 0 auto; }
+
+  .header { background: linear-gradient(135deg, #1a1e2e 0%, #0d1117 100%); border: 1px solid #30363d; border-radius: 12px; padding: 28px; margin-bottom: 24px; text-align: center; }
+  .header h1 { font-size: 22px; color: #f0f6fc; letter-spacing: 0.5px; }
+  .header .date { color: #8b949e; font-size: 14px; margin-top: 4px; }
+
+  .section { background: #161b22; border: 1px solid #30363d; border-radius: 10px; margin-bottom: 20px; overflow: hidden; }
+  .section-header { padding: 14px 20px; border-bottom: 1px solid #21262d; display: flex; align-items: center; gap: 10px; }
+  .section-header .indicator { width: 4px; height: 24px; border-radius: 2px; }
+  .section-header h2 { font-size: 15px; color: #f0f6fc; font-weight: 600; text-transform: uppercase; letter-spacing: 0.8px; }
+  .section-header .meta { color: #484f58; font-size: 12px; margin-left: auto; }
+
+  .section-body { padding: 18px 20px; }
+  .cliff-notes { font-size: 14px; color: #c9d1d9; line-height: 1.75; }
+  .cliff-notes p { margin-bottom: 12px; }
+
+  .insights { margin-top: 14px; padding-top: 14px; border-top: 1px solid #21262d; }
+  .insights-label { font-size: 11px; color: #8b949e; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px; font-weight: 600; }
+  .insight { font-size: 13px; color: #a5d8ff; padding: 4px 0 4px 18px; position: relative; line-height: 1.5; }
+  .insight::before { content: "▸"; position: absolute; left: 0; color: #3fb950; font-size: 12px; }
+
+  .workflow-card { background: #0d1117; border: 1px solid #21262d; border-radius: 8px; padding: 14px; margin-top: 12px; }
+  .workflow-card:first-of-type { margin-top: 0; }
+  .workflow-name { font-size: 14px; font-weight: 600; color: #d2a8ff; margin-bottom: 4px; }
+  .workflow-desc { font-size: 13px; color: #8b949e; margin-bottom: 8px; }
+  .workflow-tags { display: flex; flex-wrap: wrap; gap: 5px; }
+  .tag { padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: 500; }
+  .tag-project { background: #1b2733; color: #58a6ff; }
+  .tag-usecase { background: #1b2d1b; color: #3fb950; }
+
+  .project-row { display: flex; align-items: flex-start; padding: 10px 0; border-bottom: 1px solid #21262d; gap: 10px; }
+  .project-row:last-child { border-bottom: none; }
+  .status-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; margin-top: 6px; }
+  .status-active { background: #3fb950; }
+  .status-idle { background: #d29922; }
+  .status-error { background: #f85149; }
+  .project-info { flex: 1; }
+  .project-name { font-weight: 600; color: #f0f6fc; font-size: 13px; }
+  .project-summary { color: #8b949e; font-size: 12px; margin-top: 2px; }
+  .metric-row { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 4px; }
+  .metric { font-size: 11px; color: #58a6ff; }
+  .metric strong { color: #c9d1d9; }
+
+  .empty-state { color: #484f58; font-style: italic; padding: 16px 0; text-align: center; font-size: 13px; }
+  .footer { text-align: center; color: #484f58; font-size: 11px; padding: 20px; letter-spacing: 0.3px; }
+
+  .ind-red { background: #E52222; }
+  .ind-purple { background: #d2a8ff; }
+  .ind-gold { background: #FFD400; }
+  .ind-green { background: #3fb950; }
+
+  .betting-banner { background: linear-gradient(135deg, #0f2d0f 0%, #1a1e2e 50%, #2d0f0f 100%); border: 1px solid #30863d; border-radius: 12px; padding: 20px 24px; margin-bottom: 24px; }
+  .betting-banner-title { font-size: 11px; text-transform: uppercase; letter-spacing: 1.2px; color: #8b949e; font-weight: 600; margin-bottom: 12px; }
+  .betting-record { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
+  .record-main { font-size: 28px; font-weight: 700; color: #f0f6fc; letter-spacing: -0.5px; }
+  .record-divider { width: 1px; height: 32px; background: #30363d; }
+  .record-stat { text-align: center; }
+  .record-stat .value { font-size: 18px; font-weight: 600; color: #f0f6fc; }
+  .record-stat .label { font-size: 10px; color: #8b949e; text-transform: uppercase; letter-spacing: 0.8px; margin-top: 2px; }
+  .pnl-positive { color: #3fb950; }
+  .pnl-negative { color: #f85149; }
+  .pending-badge { display: inline-block; background: #1b2733; color: #58a6ff; font-size: 11px; padding: 3px 8px; border-radius: 4px; margin-left: auto; }
+</style>
+</head>
+<body>
+<div class="container">
+
+<div class="header">
+  <h1>Daily Briefing</h1>
+  <div class="date">Thursday, March 19, 2026 · 08:00 AM ET</div>
+</div>
+
+
+<!-- Betting Performance Banner -->
+<div class="betting-banner">
+  <div class="betting-banner-title">Kalshi Sports Betting</div>
+  <div class="betting-record">
+    <div class="record-main">18W — 12L</div>
+    <div class="record-divider"></div>
+    <div class="record-stat">
+      <div class="value pnl-negative">-$2.15</div>
+      <div class="label">P&L</div>
+    </div>
+    <div class="record-divider"></div>
+    <div class="record-stat">
+      <div class="value">60.0%</div>
+      <div class="label">Win Rate</div>
+    </div>
+    <div class="record-divider"></div>
+    <div class="record-stat">
+      <div class="value">-8.3%</div>
+      <div class="label">ROI</div>
+    </div>
+    
+    <div class="pending-badge">5 pending</div>
+    
+  </div>
+  
+  <div style="margin-top: 10px; font-size: 12px; color: #8b949e;">
+    Today: 8 bets placed
+    
+     · 3W / 2L
+    
+    
+     · 3 awaiting results
+    
+  </div>
+  
+  
+  <div style="margin-top: 8px; font-size: 11px; color: #6e7681;">
+    Rolling:
+    7d 55.0%
+     · 
+    30d 63.3%
+  </div>
+  
+  
+  <div style="margin-top: 8px; padding: 6px 10px; border-radius: 4px; font-size: 11px;
+    background: #3d2e00; color: #d29922; border: 1px solid #d2992266;
+    ">
+    DEGRADED · 2 warning
+    
+    <div style="margin-top: 4px; font-size: 10px; opacity: 0.85;">14d rolling win rate is 60.0% (expected ~82.8%). Monitor for continued decline.</div>
+    
+  </div>
+  
+</div>
+
+
+<!-- AI & Markets -->
+<div class="section">
+  <div class="section-header">
+    <div class="indicator ind-red"></div>
+    <h2>AI & Markets</h2>
+    
+  </div>
+  <div class="section-body">
+    
+    <div class="empty-state">No AI & Markets intelligence gathered in the last 24 hours.</div>
+    
+  </div>
+</div>
+
+<!-- Claude Code Intel -->
+<div class="section">
+  <div class="section-header">
+    <div class="indicator ind-purple"></div>
+    <h2>Claude Code Intel</h2>
+    
+  </div>
+  <div class="section-body">
+    
+    <div class="empty-state">No new Claude Code workflows discovered in the last 24 hours.</div>
+    
+
+    
+  </div>
+</div>
+
+<!-- Project Status -->
+<div class="section">
+  <div class="section-header">
+    <div class="indicator ind-gold"></div>
+    <h2>Project Status</h2>
+    <div class="meta">0 active</div>
+  </div>
+  <div class="section-body">
+    
+  </div>
+</div>
+
+<div class="footer">
+  Brain System · Thursday, March 19, 2026 · Full details indexed in AI_Brain vault
+</div>
+
+</div>
+</body>
+</html>

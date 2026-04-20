@@ -1,0 +1,196 @@
+{
+  "date": "2026-04-11",
+  "scan_time": "2026-04-11T07:38:16.469746+00:00",
+  "total_scraped": 93,
+  "after_dedup": 22,
+  "after_filter": 17,
+  "items": [
+    {
+      "title": "Sharing new breakthroughs: molecular property prediction, language processing, and neuroscience",
+      "url": "https://ai.meta.com/blog/meta-fair-science-new-open-source-releases/",
+      "source": "gemini_grounded",
+      "author": "ai.meta.com",
+      "snippet": "Meta AI has made several significant open-source model releases in 2026. Most notably, Meta introduced the Llama 4 herd — including Llama 4 Scout and Llama 4 Maverick — described as the beginning of a new era of natively multimodal AI innovation. These are the first open-weight models from Meta built with a mixture-of-experts (MoE) architecture, pre-trained on 200 languages and supporting unprecedented context lengths. Llama 4 is available for open-source fine-tuning and research.\n\nMeta also lau",
+      "timestamp": "2026-04-11T07:30:30.806315+00:00",
+      "category": "major_org",
+      "relevance_score": 1.0,
+      "content_hash": "77a8840721b525dc"
+    },
+    {
+      "title": "Trending repositories on GitHub today",
+      "url": "https://github.com/trending",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "The GitHub AI agent ecosystem in April 2026 is experiencing explosive growth, with several standout repositories capturing significant community attention. Visual workflow builders and orchestration frameworks dominate the trending lists: Langflow (~146k stars), Dify (~136k stars), and n8n (with 400+ integrations) have emerged as the preferred tools for designing AI agent pipelines without requiring deep ML expertise. CrewAI continues to gain traction as a lean, LangChain-independent Python fram",
+      "timestamp": "2026-04-11T07:34:10.865877+00:00",
+      "category": "github",
+      "relevance_score": 1.0,
+      "content_hash": "c3865582951d11ef"
+    },
+    {
+      "title": "Top 20 GitHub Repositories for AI Agents in 2026 (Ranked by Stars) - Fungies.io",
+      "url": "https://fungies.io/top-github-repositories-ai-agent-frameworks-2026/",
+      "source": "gemini_grounded",
+      "author": "fungies.io",
+      "snippet": "The GitHub AI agent ecosystem in April 2026 is experiencing explosive growth, with several standout repositories capturing significant community attention. Visual workflow builders and orchestration frameworks dominate the trending lists: Langflow (~146k stars), Dify (~136k stars), and n8n (with 400+ integrations) have emerged as the preferred tools for designing AI agent pipelines without requiring deep ML expertise. CrewAI continues to gain traction as a lean, LangChain-independent Python fram",
+      "timestamp": "2026-04-11T07:34:10.865956+00:00",
+      "category": "framework",
+      "relevance_score": 1.0,
+      "content_hash": "0ba04a873a80cda2"
+    },
+    {
+      "title": "Top AI GitHub Repositories in 2026 - ByteByteGo",
+      "url": "https://blog.bytebytego.com/p/top-ai-github-repositories-in-2026",
+      "source": "gemini_grounded",
+      "author": "blog.bytebytego.com",
+      "snippet": "The GitHub AI agent ecosystem in April 2026 is experiencing explosive growth, with several standout repositories capturing significant community attention. Visual workflow builders and orchestration frameworks dominate the trending lists: Langflow (~146k stars), Dify (~136k stars), and n8n (with 400+ integrations) have emerged as the preferred tools for designing AI agent pipelines without requiring deep ML expertise. CrewAI continues to gain traction as a lean, LangChain-independent Python fram",
+      "timestamp": "2026-04-11T07:34:10.865964+00:00",
+      "category": "framework",
+      "relevance_score": 1.0,
+      "content_hash": "7b157dd40b4b7ca7"
+    },
+    {
+      "title": "crewAI: Framework for orchestrating autonomous AI agents",
+      "url": "https://github.com/crewAIInc/crewAI",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "The GitHub AI agent ecosystem in April 2026 is experiencing explosive growth, with several standout repositories capturing significant community attention. Visual workflow builders and orchestration frameworks dominate the trending lists: Langflow (~146k stars), Dify (~136k stars), and n8n (with 400+ integrations) have emerged as the preferred tools for designing AI agent pipelines without requiring deep ML expertise. CrewAI continues to gain traction as a lean, LangChain-independent Python fram",
+      "timestamp": "2026-04-11T07:34:10.865971+00:00",
+      "category": "github",
+      "relevance_score": 1.0,
+      "content_hash": "2312523c6f287e7f"
+    },
+    {
+      "title": "microsoft/agent-framework: Build and deploy AI agents (Python & .NET)",
+      "url": "https://github.com/microsoft/agent-framework",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "The GitHub AI agent ecosystem in April 2026 is experiencing explosive growth, with several standout repositories capturing significant community attention. Visual workflow builders and orchestration frameworks dominate the trending lists: Langflow (~146k stars), Dify (~136k stars), and n8n (with 400+ integrations) have emerged as the preferred tools for designing AI agent pipelines without requiring deep ML expertise. CrewAI continues to gain traction as a lean, LangChain-independent Python fram",
+      "timestamp": "2026-04-11T07:34:10.865979+00:00",
+      "category": "github",
+      "relevance_score": 1.0,
+      "content_hash": "15bc940ab5669e66"
+    },
+    {
+      "title": "e2b-dev/awesome-ai-agents: A list of AI autonomous agents",
+      "url": "https://github.com/e2b-dev/awesome-ai-agents",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "The GitHub AI agent ecosystem in April 2026 is experiencing explosive growth, with several standout repositories capturing significant community attention. Visual workflow builders and orchestration frameworks dominate the trending lists: Langflow (~146k stars), Dify (~136k stars), and n8n (with 400+ integrations) have emerged as the preferred tools for designing AI agent pipelines without requiring deep ML expertise. CrewAI continues to gain traction as a lean, LangChain-independent Python fram",
+      "timestamp": "2026-04-11T07:34:10.865988+00:00",
+      "category": "github",
+      "relevance_score": 1.0,
+      "content_hash": "54e4643f7e3df378"
+    },
+    {
+      "title": "How Microsoft is Empowering Frontier Transformation with Intelligence + Trust",
+      "url": "https://blogs.microsoft.com/blog/2026/01/27/how-microsoft-is-empowering-frontier-transformation-with-intelligence-trust/",
+      "source": "gemini_grounded",
+      "author": "blogs.microsoft.com",
+      "snippet": "Microsoft has been actively expanding its AI Copilot ecosystem into 2026 with several major announcements. In March 2026, Microsoft introduced the 'Frontier Suite' — a new enterprise bundle built around what they call 'Intelligence + Trust,' featuring an expanded Microsoft 365 E7 tier at $99/user. Wave 3 of Microsoft 365 Copilot introduced next-generation agentic experiences embedded directly into Word, Excel, PowerPoint, and Outlook, alongside a new Agent 365 product going GA on May 1 at $15/us",
+      "timestamp": "2026-04-11T07:31:30.092285+00:00",
+      "category": "major_org",
+      "relevance_score": 0.8,
+      "content_hash": "af984139c7b003ae"
+    },
+    {
+      "title": "Meet the new Cursor (Cursor 3)",
+      "url": "https://cursor.com/blog/cursor-3",
+      "source": "gemini_grounded",
+      "author": "cursor.com",
+      "snippet": "Cursor made a major splash in early April 2026 with the release of Cursor 3.0 on April 2nd, introducing a completely redesigned 'Agents Window' interface that allows running multiple agents in parallel across local, git worktree, cloud, and remote SSH environments. Key new capabilities include Design Mode (annotate and target UI elements directly in the browser), Agent Tabs for side-by-side multi-chat views, a /worktree command for isolated git branches, and /best-of-n which runs the same task a",
+      "timestamp": "2026-04-11T07:35:37.929137+00:00",
+      "category": "general",
+      "relevance_score": 0.8,
+      "content_hash": "c7bcd7ee63b86019"
+    },
+    {
+      "title": "Introducing Muse Spark: Scaling Towards Personal Superintelligence",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/",
+      "source": "gemini_grounded",
+      "author": "ai.meta.com",
+      "snippet": "Meta AI has made several significant open-source model releases in 2026. Most notably, Meta introduced the Llama 4 herd — including Llama 4 Scout and Llama 4 Maverick — described as the beginning of a new era of natively multimodal AI innovation. These are the first open-weight models from Meta built with a mixture-of-experts (MoE) architecture, pre-trained on 200 languages and supporting unprecedented context lengths. Llama 4 is available for open-source fine-tuning and research.\n\nMeta also lau",
+      "timestamp": "2026-04-11T07:30:30.806293+00:00",
+      "category": "major_org",
+      "relevance_score": 0.7,
+      "content_hash": "f5d51a133600053d"
+    },
+    {
+      "title": "The Big Benchmarks Collection - Hugging Face",
+      "url": "https://huggingface.co/collections/open-llm-leaderboard/the-big-benchmarks-collection",
+      "source": "gemini_grounded",
+      "author": "huggingface.co",
+      "snippet": "As of April 2026, the open-source LLM landscape is highly active with several notable recent releases. Google's Gemma 4 is among the freshest arrivals, touting frontier multimodal intelligence with strong performance across reasoning, coding, vision, and long-context tasks. Other prominent open-source models being tracked and benchmarked include Meta's Llama 4, Alibaba's Qwen 3, and DeepSeek R1, all of which have garnered significant community attention on Hugging Face and GitHub. A community-ma",
+      "timestamp": "2026-04-11T07:34:47.487510+00:00",
+      "category": "major_org",
+      "relevance_score": 0.7,
+      "content_hash": "a2e784d81b760fd4"
+    },
+    {
+      "title": "New Cursor Interface · Cursor 3.0",
+      "url": "https://cursor.com/changelog/3-0",
+      "source": "gemini_grounded",
+      "author": "cursor.com",
+      "snippet": "Cursor made a major splash in early April 2026 with the release of Cursor 3.0 on April 2nd, introducing a completely redesigned 'Agents Window' interface that allows running multiple agents in parallel across local, git worktree, cloud, and remote SSH environments. Key new capabilities include Design Mode (annotate and target UI elements directly in the browser), Agent Tabs for side-by-side multi-chat views, a /worktree command for isolated git branches, and /best-of-n which runs the same task a",
+      "timestamp": "2026-04-11T07:35:37.929144+00:00",
+      "category": "general",
+      "relevance_score": 0.7,
+      "content_hash": "57d8115bb72321b0"
+    },
+    {
+      "title": "BigCodeBench: The Next Generation of HumanEval",
+      "url": "https://huggingface.co/blog/leaderboard-bigcodebench",
+      "source": "gemini_grounded",
+      "author": "huggingface.co",
+      "snippet": "As of April 2026, the open-source LLM landscape is highly active with several notable recent releases. Google's Gemma 4 is among the freshest arrivals, touting frontier multimodal intelligence with strong performance across reasoning, coding, vision, and long-context tasks. Other prominent open-source models being tracked and benchmarked include Meta's Llama 4, Alibaba's Qwen 3, and DeepSeek R1, all of which have garnered significant community attention on Hugging Face and GitHub. A community-ma",
+      "timestamp": "2026-04-11T07:34:47.487519+00:00",
+      "category": "major_org",
+      "relevance_score": 0.5,
+      "content_hash": "9f16b4ecdaa86ffa"
+    },
+    {
+      "title": "April 6th Updates | Sourcegraph Changelog",
+      "url": "https://sourcegraph.com/changelog/2026-04-06",
+      "source": "gemini_grounded",
+      "author": "sourcegraph.com",
+      "snippet": "Cursor made a major splash in early April 2026 with the release of Cursor 3.0 on April 2nd, introducing a completely redesigned 'Agents Window' interface that allows running multiple agents in parallel across local, git worktree, cloud, and remote SSH environments. Key new capabilities include Design Mode (annotate and target UI elements directly in the browser), Agent Tabs for side-by-side multi-chat views, a /worktree command for isolated git branches, and /best-of-n which runs the same task a",
+      "timestamp": "2026-04-11T07:35:37.929165+00:00",
+      "category": "general",
+      "relevance_score": 0.5,
+      "content_hash": "451135a64b6d06fb"
+    },
+    {
+      "title": "Open to Work: How to Get Ahead in the Age of AI",
+      "url": "https://blogs.microsoft.com/blog/2026/03/31/open-to-work-how-to-get-ahead-in-the-age-of-ai/",
+      "source": "gemini_grounded",
+      "author": "blogs.microsoft.com",
+      "snippet": "Microsoft has been actively expanding its AI Copilot ecosystem into 2026 with several major announcements. In March 2026, Microsoft introduced the 'Frontier Suite' — a new enterprise bundle built around what they call 'Intelligence + Trust,' featuring an expanded Microsoft 365 E7 tier at $99/user. Wave 3 of Microsoft 365 Copilot introduced next-generation agentic experiences embedded directly into Word, Excel, PowerPoint, and Outlook, alongside a new Agent 365 product going GA on May 1 at $15/us",
+      "timestamp": "2026-04-11T07:31:30.092291+00:00",
+      "category": "major_org",
+      "relevance_score": 0.4,
+      "content_hash": "f6594cf3ea952330"
+    },
+    {
+      "title": "Windsurf Wave 1 Blog | Codeium",
+      "url": "https://codeium.com/blog/windsurf-wave-1",
+      "source": "gemini_grounded",
+      "author": "codeium.com",
+      "snippet": "Cursor made a major splash in early April 2026 with the release of Cursor 3.0 on April 2nd, introducing a completely redesigned 'Agents Window' interface that allows running multiple agents in parallel across local, git worktree, cloud, and remote SSH environments. Key new capabilities include Design Mode (annotate and target UI elements directly in the browser), Agent Tabs for side-by-side multi-chat views, a /worktree command for isolated git branches, and /best-of-n which runs the same task a",
+      "timestamp": "2026-04-11T07:35:37.929159+00:00",
+      "category": "general",
+      "relevance_score": 0.4,
+      "content_hash": "f0fda96cc82cecf9"
+    },
+    {
+      "title": "Cody Agentic Context Gathering with MCP Tools | Sourcegraph",
+      "url": "https://sourcegraph.com/changelog/mcp-context-gathering",
+      "source": "gemini_grounded",
+      "author": "sourcegraph.com",
+      "snippet": "Cursor made a major splash in early April 2026 with the release of Cursor 3.0 on April 2nd, introducing a completely redesigned 'Agents Window' interface that allows running multiple agents in parallel across local, git worktree, cloud, and remote SSH environments. Key new capabilities include Design Mode (annotate and target UI elements directly in the browser), Agent Tabs for side-by-side multi-chat views, a /worktree command for isolated git branches, and /best-of-n which runs the same task a",
+      "timestamp": "2026-04-11T07:35:37.929169+00:00",
+      "category": "general",
+      "relevance_score": 0.3,
+      "content_hash": "e1d193ca8bc697df"
+    }
+  ]
+}

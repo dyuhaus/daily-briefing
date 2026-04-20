@@ -1,0 +1,218 @@
+{
+  "date": "2026-04-14",
+  "scan_time": "2026-04-14T07:38:42.805514+00:00",
+  "total_scraped": 92,
+  "after_dedup": 21,
+  "after_filter": 19,
+  "items": [
+    {
+      "title": "GitHub Trending",
+      "url": "https://github.com/trending",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "The week of April 14, 2026 has seen an exceptionally dense wave of AI agent repository activity on GitHub. The standout newcomer is Google's Agent Development Kit (google/adk-python), which accumulated 8,200+ stars in its first two weeks, providing a production-ready framework for building multi-agent systems. Other fast-rising releases include meta-llama/llama-stack (6,400+ stars), openai/codex-cli — a terminal-native coding agent with sandboxed execution (5,800+ stars), block/goose — a local-f",
+      "timestamp": "2026-04-14T07:34:51.668901+00:00",
+      "category": "github",
+      "relevance_score": 1.0,
+      "content_hash": "766faf546cd564c9"
+    },
+    {
+      "title": "New Open Source AI Projects on GitHub and Hugging Face — April 2026 — Fazm Blog",
+      "url": "https://fazm.ai/blog/new-open-source-ai-projects-github-hugging-face-april-2026",
+      "source": "gemini_grounded",
+      "author": "fazm.ai",
+      "snippet": "The week of April 14, 2026 has seen an exceptionally dense wave of AI agent repository activity on GitHub. The standout newcomer is Google's Agent Development Kit (google/adk-python), which accumulated 8,200+ stars in its first two weeks, providing a production-ready framework for building multi-agent systems. Other fast-rising releases include meta-llama/llama-stack (6,400+ stars), openai/codex-cli — a terminal-native coding agent with sandboxed execution (5,800+ stars), block/goose — a local-f",
+      "timestamp": "2026-04-14T07:34:51.668950+00:00",
+      "category": "github",
+      "relevance_score": 1.0,
+      "content_hash": "ab964a9a14976a65"
+    },
+    {
+      "title": "GitHub Trending Weekly 2026-04-08: Skills Ecosystem Explosion — ShareUHack",
+      "url": "https://www.shareuhack.com/en/posts/github-trending-weekly-2026-04-08",
+      "source": "gemini_grounded",
+      "author": "www.shareuhack.com",
+      "snippet": "The week of April 14, 2026 has seen an exceptionally dense wave of AI agent repository activity on GitHub. The standout newcomer is Google's Agent Development Kit (google/adk-python), which accumulated 8,200+ stars in its first two weeks, providing a production-ready framework for building multi-agent systems. Other fast-rising releases include meta-llama/llama-stack (6,400+ stars), openai/codex-cli — a terminal-native coding agent with sandboxed execution (5,800+ stars), block/goose — a local-f",
+      "timestamp": "2026-04-14T07:34:51.668956+00:00",
+      "category": "github",
+      "relevance_score": 1.0,
+      "content_hash": "83f0b19979eb528c"
+    },
+    {
+      "title": "New AI Model Releases and Open Source Projects in April 2026 - Fazm Blog",
+      "url": "https://fazm.ai/blog/new-ai-model-releases-open-source-projects-april-2026",
+      "source": "gemini_grounded",
+      "author": "fazm.ai",
+      "snippet": "April 2026 has seen a surge in open-source LLM releases, with seven major foundation models shipping in the first twelve days of the month alone. Key releases include Meta Llama 4 Scout (17B active parameters, MoE architecture), Qwen3-72B (reported as the first open model to beat GPT-4o on MMLU-Pro), Qwen3-Coder-32B with 128K context, Mistral Codestral-2-22B, and DeepSeek-V3-Base. A notable architectural trend: four of the seven April releases use mixture-of-experts (MoE) architecture, and Apach",
+      "timestamp": "2026-04-14T07:35:26.210843+00:00",
+      "category": "github",
+      "relevance_score": 1.0,
+      "content_hash": "ae36635ee6fe8aab"
+    },
+    {
+      "title": "New Open Source AI Projects on GitHub and Hugging Face - April 2026 - Fazm Blog",
+      "url": "https://fazm.ai/blog/new-open-source-ai-projects-github-hugging-face-april-2026",
+      "source": "gemini_grounded",
+      "author": "fazm.ai",
+      "snippet": "April 2026 has seen a surge in open-source LLM releases, with seven major foundation models shipping in the first twelve days of the month alone. Key releases include Meta Llama 4 Scout (17B active parameters, MoE architecture), Qwen3-72B (reported as the first open model to beat GPT-4o on MMLU-Pro), Qwen3-Coder-32B with 128K context, Mistral Codestral-2-22B, and DeepSeek-V3-Base. A notable architectural trend: four of the seven April releases use mixture-of-experts (MoE) architecture, and Apach",
+      "timestamp": "2026-04-14T07:35:26.210849+00:00",
+      "category": "github",
+      "relevance_score": 1.0,
+      "content_hash": "4cf030c64a584284"
+    },
+    {
+      "title": "LangChain vs CrewAI vs AutoGen: Top AI Frameworks 2026",
+      "url": "https://www.agilesoftlabs.com/blog/2026/03/langchain-vs-crewai-vs-autogen-top-ai",
+      "source": "gemini_grounded",
+      "author": "www.agilesoftlabs.com",
+      "snippet": "In 2026, the major AI agent frameworks have all reached new maturity milestones. LangGraph 1.0 shipped in October 2025 as the first stable major release and can now be used standalone without LangChain. LangChain's ecosystem also spawned 'Deep Agents' (github.com/langchain-ai/deepagents), a new agent harness with planning tools, filesystem backends, and subagent spawning. CrewAI OSS v1.0 launched on October 20, 2025, decoupling from LangChain as a hard dependency while maintaining interoperabili",
+      "timestamp": "2026-04-14T07:37:59.693035+00:00",
+      "category": "github",
+      "relevance_score": 1.0,
+      "content_hash": "6cb9224e21693c02"
+    },
+    {
+      "title": "Hermes Agent: The New Growing AI Agent by NousResearch — AIToolly",
+      "url": "https://aitoolly.com/ai-news/article/2026-04-12-nousresearch-launches-hermes-agent-a-new-intelligent-agent-designed-to-grow-with-users",
+      "source": "gemini_grounded",
+      "author": "aitoolly.com",
+      "snippet": "The week of April 14, 2026 has seen an exceptionally dense wave of AI agent repository activity on GitHub. The standout newcomer is Google's Agent Development Kit (google/adk-python), which accumulated 8,200+ stars in its first two weeks, providing a production-ready framework for building multi-agent systems. Other fast-rising releases include meta-llama/llama-stack (6,400+ stars), openai/codex-cli — a terminal-native coding agent with sandboxed execution (5,800+ stars), block/goose — a local-f",
+      "timestamp": "2026-04-14T07:34:51.668974+00:00",
+      "category": "github",
+      "relevance_score": 0.9,
+      "content_hash": "52c34e593eef8ea9"
+    },
+    {
+      "title": "Report: Meta developing open-source versions of upcoming AI models — SiliconANGLE",
+      "url": "https://siliconangle.com/2026/04/06/report-meta-developing-open-source-versions-upcoming-ai-models/",
+      "source": "gemini_grounded",
+      "author": "siliconangle.com",
+      "snippet": "Meta has been active on multiple open-source AI fronts in early 2026. The Llama 4 herd, launched in early 2025, remains a cornerstone of Meta's open-source strategy — featuring Llama 4 Scout and Llama 4 Maverick (17B active params, 128 experts, 1M context window) trained on 30+ trillion tokens with natively multimodal capabilities across text, image, and video. Both models are freely available on llama.com and Hugging Face, with broad cloud and edge silicon support.\n\nOn the research side, Meta F",
+      "timestamp": "2026-04-14T07:30:41.614792+00:00",
+      "category": "startup",
+      "relevance_score": 0.8,
+      "content_hash": "3a42fd6453ee08bb"
+    },
+    {
+      "title": "The Agent Memory Race of 2026: 5 Repos, 4 Architectures, 1 Unsolved Problem — OSS Insight",
+      "url": "https://ossinsight.io/blog/agent-memory-race-2026",
+      "source": "gemini_grounded",
+      "author": "ossinsight.io",
+      "snippet": "The week of April 14, 2026 has seen an exceptionally dense wave of AI agent repository activity on GitHub. The standout newcomer is Google's Agent Development Kit (google/adk-python), which accumulated 8,200+ stars in its first two weeks, providing a production-ready framework for building multi-agent systems. Other fast-rising releases include meta-llama/llama-stack (6,400+ stars), openai/codex-cli — a terminal-native coding agent with sandboxed execution (5,800+ stars), block/goose — a local-f",
+      "timestamp": "2026-04-14T07:34:51.668963+00:00",
+      "category": "github",
+      "relevance_score": 0.8,
+      "content_hash": "9a9b4f5998bf44a8"
+    },
+    {
+      "title": "open-source-ai · GitHub Topics",
+      "url": "https://github.com/topics/open-source-ai",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "April 2026 has been one of the most active months for open-source AI model releases in recent memory. Key releases tracked on Hugging Face include Meta's Llama 4 family — notably Llama-4-Scout-17B (1.2M+ downloads, runs on a single 48GB GPU) and Llama-4-Maverick-17B — alongside Alibaba's Qwen3-72B, which became the first open model to beat GPT-4o on MMLU-Pro, and Qwen3-Coder-32B with 128K context and native tool calling. Mistral's Codestral-2-22B (Apache 2.0) and Google's Gemma-3-9b (newly opene",
+      "timestamp": "2026-04-14T07:37:28.180918+00:00",
+      "category": "github",
+      "relevance_score": 0.8,
+      "content_hash": "1d2dc2ba2cd7a2fc"
+    },
+    {
+      "title": "Omnilingual ASR: Advancing Automatic Speech Recognition for 1,600+ Languages",
+      "url": "https://ai.meta.com/blog/omnilingual-asr-advancing-automatic-speech-recognition/",
+      "source": "gemini_grounded",
+      "author": "ai.meta.com",
+      "snippet": "Meta has been active on multiple open-source AI fronts in early 2026. The Llama 4 herd, launched in early 2025, remains a cornerstone of Meta's open-source strategy — featuring Llama 4 Scout and Llama 4 Maverick (17B active params, 128 experts, 1M context window) trained on 30+ trillion tokens with natively multimodal capabilities across text, image, and video. Both models are freely available on llama.com and Hugging Face, with broad cloud and edge silicon support.\n\nOn the research side, Meta F",
+      "timestamp": "2026-04-14T07:30:41.614775+00:00",
+      "category": "startup",
+      "relevance_score": 0.7,
+      "content_hash": "8b5e54d3d47ba6a6"
+    },
+    {
+      "title": "Amp - an AI Coding Agent by Sourcegraph",
+      "url": "https://sourcegraph.com/amp",
+      "source": "gemini_grounded",
+      "author": "sourcegraph.com",
+      "snippet": "Cursor has been one of the most active AI coding tools in early 2026, releasing Cursor 3.0 on April 2, 2026 — a major new interface that enables running many agents in parallel across repositories and environments (local, worktrees, cloud, and remote SSH). A follow-up patch, Cursor 3.1, landed on April 13, 2026, fixing multi-root workspace hooks, markdown parsing bugs, and thinking-block streaming issues. Earlier in March, Cursor shipped self-hosted cloud agent support (keeping code and secrets ",
+      "timestamp": "2026-04-14T07:36:06.647152+00:00",
+      "category": "general",
+      "relevance_score": 0.7,
+      "content_hash": "28ffec870e52f083"
+    },
+    {
+      "title": "LocalAI — open-source AI engine (GitHub)",
+      "url": "https://github.com/mudler/LocalAI",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "April 2026 has been one of the most active months for open-source AI model releases in recent memory. Key releases tracked on Hugging Face include Meta's Llama 4 family — notably Llama-4-Scout-17B (1.2M+ downloads, runs on a single 48GB GPU) and Llama-4-Maverick-17B — alongside Alibaba's Qwen3-72B, which became the first open model to beat GPT-4o on MMLU-Pro, and Qwen3-Coder-32B with 128K context and native tool calling. Mistral's Codestral-2-22B (Apache 2.0) and Google's Gemma-3-9b (newly opene",
+      "timestamp": "2026-04-14T07:37:28.180913+00:00",
+      "category": "github",
+      "relevance_score": 0.7,
+      "content_hash": "85bee0cb972f86e0"
+    },
+    {
+      "title": "GitHub - microsoft/agent-lightning: The absolute trainer to light up AI agents",
+      "url": "https://microsoft/agent-lightning",
+      "source": "gemini_grounded",
+      "author": "microsoft",
+      "snippet": "In 2026, the major AI agent frameworks have all reached new maturity milestones. LangGraph 1.0 shipped in October 2025 as the first stable major release and can now be used standalone without LangChain. LangChain's ecosystem also spawned 'Deep Agents' (github.com/langchain-ai/deepagents), a new agent harness with planning tools, filesystem backends, and subagent spawning. CrewAI OSS v1.0 launched on October 20, 2025, decoupling from LangChain as a hard dependency while maintaining interoperabili",
+      "timestamp": "2026-04-14T07:37:59.693027+00:00",
+      "category": "github",
+      "relevance_score": 0.7,
+      "content_hash": "88bd9d69eb058d6e"
+    },
+    {
+      "title": "Goodbye, Llama? Meta launches new proprietary AI model Muse Spark — VentureBeat",
+      "url": "https://venturebeat.com/technology/goodbye-llama-meta-launches-new-proprietary-ai-model-muse-spark-first-since",
+      "source": "gemini_grounded",
+      "author": "venturebeat.com",
+      "snippet": "Meta has been active on multiple open-source AI fronts in early 2026. The Llama 4 herd, launched in early 2025, remains a cornerstone of Meta's open-source strategy — featuring Llama 4 Scout and Llama 4 Maverick (17B active params, 128 experts, 1M context window) trained on 30+ trillion tokens with natively multimodal capabilities across text, image, and video. Both models are freely available on llama.com and Hugging Face, with broad cloud and edge silicon support.\n\nOn the research side, Meta F",
+      "timestamp": "2026-04-14T07:30:41.614801+00:00",
+      "category": "startup",
+      "relevance_score": 0.6,
+      "content_hash": "5f40845ee1fd2f4c"
+    },
+    {
+      "title": "GitHub - pinexai/agent-memory: Production-ready persistent memory for AI agents",
+      "url": "https://github.com/pinexai/agent-memory",
+      "source": "gemini_grounded",
+      "author": "github.com",
+      "snippet": "In 2026, the major AI agent frameworks have all reached new maturity milestones. LangGraph 1.0 shipped in October 2025 as the first stable major release and can now be used standalone without LangChain. LangChain's ecosystem also spawned 'Deep Agents' (github.com/langchain-ai/deepagents), a new agent harness with planning tools, filesystem backends, and subagent spawning. CrewAI OSS v1.0 launched on October 20, 2025, decoupling from LangChain as a hard dependency while maintaining interoperabili",
+      "timestamp": "2026-04-14T07:37:59.693009+00:00",
+      "category": "github",
+      "relevance_score": 0.6,
+      "content_hash": "d1be77aacd01b03b"
+    },
+    {
+      "title": "Multiagent Systems — arxiv cs.MA current listings",
+      "url": "https://arxiv.org/list/cs.MA/current",
+      "source": "gemini_grounded",
+      "author": "arxiv.org",
+      "snippet": "This week's arxiv activity on AI agents and LLMs reflects three broad thrusts. First, evaluation infrastructure is rapidly maturing: AgentSocialBench (2604.01487) introduces a benchmark for privacy risks in human-centered agentic social networks featuring persistent, personalized LLM agent teams, while a comprehensive review (2504.19678) taxonomizes roughly 60 benchmarks spanning reasoning, math, code generation, multimodal, and task-orchestration assessments — signaling the field is shifting fr",
+      "timestamp": "2026-04-14T07:33:10.459817+00:00",
+      "category": "research",
+      "relevance_score": 0.5,
+      "content_hash": "66a8f0e61fabaf89"
+    },
+    {
+      "title": "EU Artificial Intelligence Act — Up-to-date developments and analyses",
+      "url": "https://artificialintelligenceact.eu/",
+      "source": "gemini_grounded",
+      "author": "artificialintelligenceact.eu",
+      "snippet": "In 2026, AI regulation is advancing on multiple fronts globally. The EU AI Act is entering its most consequential phase: August 2, 2026 marks the activation of the European Commission's enforcement powers over General Purpose AI (GPAI) model providers, with fines up to €35 million or 7% of global turnover for prohibited practices. All EU Member States must also establish at least one national AI regulatory sandbox by this date, and transparency obligations for AI systems will become fully enforc",
+      "timestamp": "2026-04-14T07:36:47.270153+00:00",
+      "category": "general",
+      "relevance_score": 0.4,
+      "content_hash": "aff3b0b9d96302a7"
+    },
+    {
+      "title": "EU AI Act Implementation Timeline",
+      "url": "https://artificialintelligenceact.eu/implementation-timeline/",
+      "source": "gemini_grounded",
+      "author": "artificialintelligenceact.eu",
+      "snippet": "In 2026, AI regulation is advancing on multiple fronts globally. The EU AI Act is entering its most consequential phase: August 2, 2026 marks the activation of the European Commission's enforcement powers over General Purpose AI (GPAI) model providers, with fines up to €35 million or 7% of global turnover for prohibited practices. All EU Member States must also establish at least one national AI regulatory sandbox by this date, and transparency obligations for AI systems will become fully enforc",
+      "timestamp": "2026-04-14T07:36:47.270180+00:00",
+      "category": "general",
+      "relevance_score": 0.3,
+      "content_hash": "dd46c52defd3bb54"
+    }
+  ]
+}

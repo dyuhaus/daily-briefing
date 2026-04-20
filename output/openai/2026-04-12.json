@@ -1,0 +1,106 @@
+{
+  "date": "2026-04-12",
+  "company": "openai",
+  "scan_time": "2026-04-12T07:36:41.717328+00:00",
+  "total_scraped": 39,
+  "after_dedup": 8,
+  "after_filter": 8,
+  "items": [
+    {
+      "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations | OpenAI",
+      "url": "https://openai.com/index/gpt-5-3-instant/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI has been highly active in early 2026, releasing a rapid succession of GPT-5 model variants. The flagship GPT-5.4 was released as OpenAI's most capable frontier model, combining advances in reasoning, coding, and agentic workflows. Notably, GPT-5.4 is the first general-purpose model with native computer-use capabilities, enabling agents to operate computers and carry out complex workflows across applications, with support for up to 1M tokens of context. On the GDPval benchmark, it matches ",
+      "timestamp": "2026-04-12T07:34:11.569485+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 1.0,
+      "content_hash": "44803a766495f062"
+    },
+    {
+      "title": "GPT-5.1: A smarter, more conversational ChatGPT | OpenAI",
+      "url": "https://openai.com/index/gpt-5-1/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI has been highly active in early 2026, releasing a rapid succession of GPT-5 model variants. The flagship GPT-5.4 was released as OpenAI's most capable frontier model, combining advances in reasoning, coding, and agentic workflows. Notably, GPT-5.4 is the first general-purpose model with native computer-use capabilities, enabling agents to operate computers and carry out complex workflows across applications, with support for up to 1M tokens of context. On the GDPval benchmark, it matches ",
+      "timestamp": "2026-04-12T07:34:11.569491+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 1.0,
+      "content_hash": "64e950af691fe457"
+    },
+    {
+      "title": "GPT-5.3 and GPT-5.4 in ChatGPT | OpenAI Help Center",
+      "url": "https://help.openai.com/en/articles/11909943-gpt-53-and-gpt-54-in-chatgpt",
+      "source": "gemini_grounded",
+      "author": "help.openai.com",
+      "snippet": "OpenAI has been highly active in early 2026, releasing a rapid succession of GPT-5 model variants. The flagship GPT-5.4 was released as OpenAI's most capable frontier model, combining advances in reasoning, coding, and agentic workflows. Notably, GPT-5.4 is the first general-purpose model with native computer-use capabilities, enabling agents to operate computers and carry out complex workflows across applications, with support for up to 1M tokens of context. On the GDPval benchmark, it matches ",
+      "timestamp": "2026-04-12T07:34:11.569501+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 1.0,
+      "content_hash": "091d3b1de45a2ca8"
+    },
+    {
+      "title": "OpenAI Models by OpenAI - Release Notes - March 2026 - Releasebot",
+      "url": "https://releasebot.io/updates/openai/openai-models",
+      "source": "gemini_grounded",
+      "author": "releasebot.io",
+      "snippet": "OpenAI has been on an aggressive release cadence in early 2026. GPT-5.4 launched in March 2026 across ChatGPT, the API, and Codex, featuring a 1 million token context window and 33% fewer factual errors compared to GPT-5.2. A higher-end GPT-5.4 Pro variant targets maximum performance and deeper reasoning on complex workloads. GPT-5.3 Instant and GPT-5.3 Instant Mini were also released, offering more natural conversation, richer web search results, and stronger contextual writing. GPT-5.4 mini is",
+      "timestamp": "2026-04-12T07:35:22.245195+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 1.0,
+      "content_hash": "2358d9a86bdcf7b3"
+    },
+    {
+      "title": "GPT-5.4 and the March 2026 ChatGPT Upgrade Cycle - AI Critique",
+      "url": "https://www.aicritique.org/us/2026/03/16/gpt-5-4-and-the-march-2026-chatgpt-upgrade-cycle-official-release-media-narratives-and-real-world-reactions/",
+      "source": "gemini_grounded",
+      "author": "www.aicritique.org",
+      "snippet": "OpenAI has been on an aggressive release cadence in early 2026. GPT-5.4 launched in March 2026 across ChatGPT, the API, and Codex, featuring a 1 million token context window and 33% fewer factual errors compared to GPT-5.2. A higher-end GPT-5.4 Pro variant targets maximum performance and deeper reasoning on complex workloads. GPT-5.3 Instant and GPT-5.3 Instant Mini were also released, offering more natural conversation, richer web search results, and stronger contextual writing. GPT-5.4 mini is",
+      "timestamp": "2026-04-12T07:35:22.245203+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 1.0,
+      "content_hash": "222aacb647dffd10"
+    },
+    {
+      "title": "OpenAI Is Having a Rough 2026 - And It Shows",
+      "url": "https://autogpt.net/openai-is-having-a-rough-2026-and-it-shows/",
+      "source": "gemini_grounded",
+      "author": "autogpt.net",
+      "snippet": "OpenAI has been active on Twitter/X in April 2026 with several major announcements. The company announced a massive $122 billion funding round, pushing its post-money valuation to approximately $852 billion and reporting $2 billion in monthly revenue. Sam Altman also confirmed via social channels that pretraining for OpenAI's next frontier model (internally codenamed 'Spud') completed on March 24, 2026, with a release expected within weeks. Additionally, OpenAI announced the acquisition of TBPN,",
+      "timestamp": "2026-04-12T07:36:20.084545+00:00",
+      "company": "openai",
+      "category": "partnership",
+      "relevance_score": 0.9,
+      "content_hash": "377d8c092c2e438a"
+    },
+    {
+      "title": "GPT-6 Release Date: What's Confirmed vs. Rumored (April 2026)",
+      "url": "https://findskill.ai/blog/gpt-6-release-date/",
+      "source": "gemini_grounded",
+      "author": "findskill.ai",
+      "snippet": "OpenAI has been active on Twitter/X in April 2026 with several major announcements. The company announced a massive $122 billion funding round, pushing its post-money valuation to approximately $852 billion and reporting $2 billion in monthly revenue. Sam Altman also confirmed via social channels that pretraining for OpenAI's next frontier model (internally codenamed 'Spud') completed on March 24, 2026, with a release expected within weeks. Additionally, OpenAI announced the acquisition of TBPN,",
+      "timestamp": "2026-04-12T07:36:20.084540+00:00",
+      "company": "openai",
+      "category": "partnership",
+      "relevance_score": 0.8,
+      "content_hash": "6c7620acb1093126"
+    },
+    {
+      "title": "AI and International Security Pathways of Impact",
+      "url": "https://cdn.openai.com/pdf/international-security.pdf",
+      "source": "gemini_grounded",
+      "author": "cdn.openai.com",
+      "snippet": "OpenAI has been actively publishing research across multiple domains in early 2026. Key recent publications include work on AI safety and alignment: 'Evaluating Chain-of-Thought Monitorability' explores how reasoning model transparency can serve as an AI safety safeguard, while 'How We Monitor Internal Coding Agents for Misalignment' details chain-of-thought monitoring techniques for detecting misalignment in deployed coding agents. OpenAI also published 'Improving Instruction Hierarchy in Front",
+      "timestamp": "2026-04-12T07:34:51.495485+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.7,
+      "content_hash": "93d1e54e86d7d3d2"
+    }
+  ]
+}

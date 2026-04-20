@@ -1,0 +1,38 @@
+{
+  "date": "2026-04-18",
+  "scan_time": "2026-04-18T07:31:11.914183+00:00",
+  "total_found": 120,
+  "unique_new": 7,
+  "with_transcripts": 3,
+  "after_filter": 2,
+  "items": [
+    {
+      "video_id": "-tGH2tLwCEw",
+      "title": "Claude Design is INSANE",
+      "channel": "Chase AI",
+      "url": "https://www.youtube.com/watch?v=-tGH2tLwCEw",
+      "upload_date": "",
+      "duration_seconds": 516.0,
+      "description": "Master Claude Code, Build Your Agency, Land Your First Client⚡ https://www.skool.com/chase-ai FREE community with tons of ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.5,
+      "content_hash": "71dc3cba62906201",
+      "transcript_length": 0
+    },
+    {
+      "video_id": "4XqVR6xI6Kw",
+      "title": "This One Plugin Just 10x’d Claude Code",
+      "channel": "Nate Herk | AI Automation",
+      "url": "https://www.youtube.com/watch?v=4XqVR6xI6Kw",
+      "upload_date": "",
+      "duration_seconds": 914.0,
+      "description": "Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=superpowers All my FREE ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.5,
+      "content_hash": "660899bce823deb4",
+      "transcript_length": 0
+    }
+  ]
+}

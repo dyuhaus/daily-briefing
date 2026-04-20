@@ -1,0 +1,38 @@
+{
+  "date": "2026-04-08",
+  "scan_time": "2026-04-08T07:31:08.080150+00:00",
+  "total_found": 120,
+  "unique_new": 6,
+  "with_transcripts": 3,
+  "after_filter": 2,
+  "items": [
+    {
+      "video_id": "stZr6U_7S90",
+      "title": "Claude Code is unusable now",
+      "channel": "Theo - t3․gg",
+      "url": "https://www.youtube.com/watch?v=stZr6U_7S90",
+      "upload_date": "",
+      "duration_seconds": 1463.0,
+      "description": "I'm tired of talking about Anthropic, but I feel like I have to because things keep getting worse Thank you Clerk for sponsoring!",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.58,
+      "content_hash": "7f00c2e7dc50ee13",
+      "transcript_length": 0
+    },
+    {
+      "video_id": "9kvAgmkfxIk",
+      "title": "What Anthropic’s Embarrassing Claude Code Leak Revealed",
+      "channel": "The Information",
+      "url": "https://www.youtube.com/watch?v=9kvAgmkfxIk",
+      "upload_date": "",
+      "duration_seconds": 333.0,
+      "description": "Reporter Aaron Holmes discusses the accidental leak of Anthropic's \"Kairos\" agent, an always-on tool that works without human ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.58,
+      "content_hash": "7428f2555596166d",
+      "transcript_length": 0
+    }
+  ]
+}

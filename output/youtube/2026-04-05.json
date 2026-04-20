@@ -1,0 +1,52 @@
+{
+  "date": "2026-04-05",
+  "scan_time": "2026-04-05T07:31:08.440680+00:00",
+  "total_found": 120,
+  "unique_new": 7,
+  "with_transcripts": 3,
+  "after_filter": 3,
+  "items": [
+    {
+      "video_id": "j_kJNYLI6Tw",
+      "title": "We need to talk about the Claude Code rate limits",
+      "channel": "Theo - t3․gg",
+      "url": "https://www.youtube.com/watch?v=j_kJNYLI6Tw",
+      "upload_date": "",
+      "duration_seconds": 1977.0,
+      "description": "Anthropic just made the limits on the Claude Max/Pro plans a lot worse... Thank you Depot for sponsoring! Check them out at: ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.58,
+      "content_hash": "48347d9a96328a75",
+      "transcript_length": 0
+    },
+    {
+      "video_id": "67Cbb3DyIxA",
+      "title": "Claude Code Was Leaked… So I Rebuilt it (From Scratch)",
+      "channel": "Riley Brown",
+      "url": "https://www.youtube.com/watch?v=67Cbb3DyIxA",
+      "upload_date": "",
+      "duration_seconds": 1045.0,
+      "description": "I got my hands on the leaked Claude Code source code, analyzed it with OpenAI Codex, and rebuilt it as my own CLI called ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.5,
+      "content_hash": "ae9688f037ecfe2b",
+      "transcript_length": 0
+    },
+    {
+      "video_id": "e6xAElPQBiU",
+      "title": "This might be my most useful Claude Code hook",
+      "channel": "Web Dev Cody",
+      "url": "https://www.youtube.com/watch?v=e6xAElPQBiU",
+      "upload_date": "",
+      "duration_seconds": 294.0,
+      "description": "Join the https://agenticjumpstart.com waitlist for when I finish the course. Join my AI community as well here ...",
+      "transcript": "",
+      "extracted_patterns": [],
+      "relevance_score": 0.5,
+      "content_hash": "fcd5c8ca63fdeaa4",
+      "transcript_length": 0
+    }
+  ]
+}

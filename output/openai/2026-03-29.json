@@ -1,0 +1,106 @@
+{
+  "date": "2026-03-29",
+  "company": "openai",
+  "scan_time": "2026-03-29T11:07:43.214000+00:00",
+  "total_scraped": 37,
+  "after_dedup": 8,
+  "after_filter": 8,
+  "items": [
+    {
+      "title": "OpenAI launches GPT-5.4 with Pro and Thinking versions | TechCrunch",
+      "url": "https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/",
+      "source": "gemini_grounded",
+      "author": "techcrunch.com",
+      "snippet": "OpenAI launched GPT-5.4 in early March 2026 as its most capable frontier model for professional and enterprise work. The model unifies capabilities previously split across specialist models — coding, reasoning, and computer use — into a single architecture. It is available in three variants: standard GPT-5.4, GPT-5.4 Thinking (a reasoning-focused version that can show upfront plans mid-response), and GPT-5.4 Pro (optimized for high performance). The API version supports context windows up to 1 m",
+      "timestamp": "2026-03-29T11:06:13.979800+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.95,
+      "content_hash": "825522352c9efa95"
+    },
+    {
+      "title": "OpenAI Newsroom | Company Announcements",
+      "url": "https://openai.com/news/company-announcements/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI has been active with multiple announcements in late March 2026. On the product side, ChatGPT received a simplified mobile sidebar and new location sharing controls allowing users to share device or precise location for more relevant local results, rolling out to iOS and web first. ChatGPT Enterprise and EDU also gained a unified Google Drive connector for Docs, Sheets, and Slides management. Additionally, OpenAI expanded shopping in ChatGPT with richer visual product discovery, side-by-si",
+      "timestamp": "2026-03-29T11:07:31.848783+00:00",
+      "company": "openai",
+      "category": "blog",
+      "relevance_score": 0.9,
+      "content_hash": "4eaa9bb324d1d3cd"
+    },
+    {
+      "title": "ChatGPT New Features 2026: What's Changed & What's New",
+      "url": "https://aibusinessweekly.net/p/chatgpt-new-features-2026",
+      "source": "gemini_grounded",
+      "author": "aibusinessweekly.net",
+      "snippet": "OpenAI launched GPT-5.4 in early March 2026 as its most capable frontier model for professional and enterprise work. The model unifies capabilities previously split across specialist models — coding, reasoning, and computer use — into a single architecture. It is available in three variants: standard GPT-5.4, GPT-5.4 Thinking (a reasoning-focused version that can show upfront plans mid-response), and GPT-5.4 Pro (optimized for high performance). The API version supports context windows up to 1 m",
+      "timestamp": "2026-03-29T11:06:13.979865+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.85,
+      "content_hash": "eef1d685cde94ac0"
+    },
+    {
+      "title": "GPT 5.4 Complete Guide 2026: Features, Pricing, Benchmarks & How to Use | NxCode",
+      "url": "https://www.nxcode.io/resources/news/gpt-5-4-complete-guide-features-pricing-models-2026",
+      "source": "gemini_grounded",
+      "author": "www.nxcode.io",
+      "snippet": "OpenAI launched GPT-5.4 in early March 2026 as its most capable frontier model for professional and enterprise work. The model unifies capabilities previously split across specialist models — coding, reasoning, and computer use — into a single architecture. It is available in three variants: standard GPT-5.4, GPT-5.4 Thinking (a reasoning-focused version that can show upfront plans mid-response), and GPT-5.4 Pro (optimized for high performance). The API version supports context windows up to 1 m",
+      "timestamp": "2026-03-29T11:06:13.979861+00:00",
+      "company": "openai",
+      "category": "model_release",
+      "relevance_score": 0.8,
+      "content_hash": "8b6930b599c6bdcc"
+    },
+    {
+      "title": "AI Releases Today: What Shipped on March 27–28, 2026",
+      "url": "https://www.labla.org/latest-ai-model-releases-past-24-hours/ai-model-releases-industry-updates-march-27-28-2026/",
+      "source": "gemini_grounded",
+      "author": "www.labla.org",
+      "snippet": "OpenAI has been active with multiple announcements in late March 2026. On the product side, ChatGPT received a simplified mobile sidebar and new location sharing controls allowing users to share device or precise location for more relevant local results, rolling out to iOS and web first. ChatGPT Enterprise and EDU also gained a unified Google Drive connector for Docs, Sheets, and Slides management. Additionally, OpenAI expanded shopping in ChatGPT with richer visual product discovery, side-by-si",
+      "timestamp": "2026-03-29T11:07:31.848793+00:00",
+      "company": "openai",
+      "category": "product",
+      "relevance_score": 0.8,
+      "content_hash": "416561be88e0d441"
+    },
+    {
+      "title": "How confessions can keep language models honest | OpenAI",
+      "url": "https://openai.com/index/how-confessions-can-keep-language-models-honest/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI published several notable research papers and releases in early 2026. In March 2026, key publications include work on chain-of-thought monitorability — studying how reasoning models struggle to control their chains of thought, which OpenAI frames as a safety feature that reinforces monitorability. They also published research on improving instruction hierarchy in frontier LLMs (IH-Challenge), which trains models to prioritize trusted instructions and resist prompt injection attacks. Addit",
+      "timestamp": "2026-03-29T11:05:37.976892+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.75,
+      "content_hash": "0c81e13edb5c6588"
+    },
+    {
+      "title": "OpenAI Newsroom | Research | OpenAI",
+      "url": "https://openai.com/news/research/",
+      "source": "gemini_grounded",
+      "author": "openai.com",
+      "snippet": "OpenAI published several notable research papers and releases in early 2026. In March 2026, key publications include work on chain-of-thought monitorability — studying how reasoning models struggle to control their chains of thought, which OpenAI frames as a safety feature that reinforces monitorability. They also published research on improving instruction hierarchy in frontier LLMs (IH-Challenge), which trains models to prioritize trusted instructions and resist prompt injection attacks. Addit",
+      "timestamp": "2026-03-29T11:05:37.976881+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.7,
+      "content_hash": "c5607ee01766fa55"
+    },
+    {
+      "title": "AI as a Scientific Collaborator January 2026",
+      "url": "https://cdn.openai.com/pdf/f4b4a5da-b2de-418d-9fcd-6b293e9dc157/oai_ai-as-a-scientific-collaborator_jan-2026.pdf",
+      "source": "gemini_grounded",
+      "author": "cdn.openai.com",
+      "snippet": "OpenAI published several notable research papers and releases in early 2026. In March 2026, key publications include work on chain-of-thought monitorability — studying how reasoning models struggle to control their chains of thought, which OpenAI frames as a safety feature that reinforces monitorability. They also published research on improving instruction hierarchy in frontier LLMs (IH-Challenge), which trains models to prioritize trusted instructions and resist prompt injection attacks. Addit",
+      "timestamp": "2026-03-29T11:05:37.976906+00:00",
+      "company": "openai",
+      "category": "research",
+      "relevance_score": 0.5,
+      "content_hash": "a714fab18c2bf484"
+    }
+  ]
+}

@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daily Briefing — Friday, March 27, 2026</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #ffffff; color: #1a1a1a; line-height: 1.7; padding: 20px; }
+  .container { max-width: 680px; margin: 0 auto; }
+
+  /* Header */
+  .header { text-align: center; margin-bottom: 32px; padding: 24px 0; border-bottom: 1px solid #e0e0e0; }
+  .header h1 { font-size: 22px; color: #1a1a1a; font-weight: 700; letter-spacing: 0.3px; }
+  .header .date { color: #666666; font-size: 13px; margin-top: 4px; }
+
+  /* Betting Banner */
+  .betting-banner { background: #f7f7f7; border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px 24px; margin-bottom: 32px; }
+  .betting-banner-title { font-size: 11px; text-transform: uppercase; letter-spacing: 1.2px; color: #666666; font-weight: 600; margin-bottom: 14px; }
+  .betting-hero { display: flex; align-items: baseline; gap: 16px; flex-wrap: wrap; margin-bottom: 6px; }
+  .betting-hero-main { font-size: 24px; font-weight: 700; color: #1a1a1a; }
+  .betting-hero-stat { font-size: 14px; color: #666666; }
+  .betting-hero-stat .val { color: #1a1a1a; font-weight: 600; }
+  .betting-narrative { font-size: 13px; color: #444444; line-height: 1.65; margin-top: 10px; }
+
+  /* Sections */
+  .section { margin-bottom: 32px; }
+  .section-title { font-size: 16px; font-weight: 600; color: #1a1a1a; margin-bottom: 2px; }
+  .section-subtitle { font-size: 13px; color: #666666; font-style: italic; margin-bottom: 14px; }
+  .section-tag { float: right; font-size: 11px; color: #666666; font-style: italic; font-weight: 400; }
+  .section-body { font-size: 14px; color: #1a1a1a; line-height: 1.75; }
+  .section-body p { margin-bottom: 12px; }
+  .section-divider { border: none; border-top: 1px solid #e0e0e0; margin: 24px 0; }
+
+  /* Insights */
+  .insights-label { font-size: 12px; color: #666666; font-weight: 600; margin-top: 16px; margin-bottom: 8px; }
+  .insight-item { font-size: 13px; color: #1a1a1a; line-height: 1.65; margin-bottom: 8px; padding-left: 16px; position: relative; }
+  .insight-item::before { content: ""; position: absolute; left: 0; top: 8px; width: 6px; height: 6px; border-radius: 50%; background: #2da44e; }
+
+  /* Project Status */
+  .project-row { display: flex; align-items: flex-start; padding: 10px 0; border-bottom: 1px solid #e0e0e0; gap: 10px; }
+  .project-row:last-child { border-bottom: none; }
+  .status-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; margin-top: 6px; }
+  .status-active { background: #2da44e; }
+  .status-idle { background: #bf8700; }
+  .status-error { background: #cf222e; }
+  .project-info { flex: 1; }
+  .project-name { font-weight: 600; color: #1a1a1a; font-size: 13px; }
+  .project-summary { color: #666666; font-size: 12px; margin-top: 2px; }
+  .metric-row { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 4px; }
+  .metric { font-size: 11px; color: #0969da; }
+  .metric strong { color: #1a1a1a; }
+
+  /* Inactive Projects */
+  .inactive-section { margin-bottom: 32px; }
+  .inactive-row { padding: 8px 14px; background: #f9f9f9; border-left: 3px solid #999; border-radius: 0 6px 6px 0; margin-bottom: 6px; }
+  .inactive-project-name { font-size: 13px; font-weight: 600; color: #555; }
+  .inactive-detail { font-size: 12px; color: #888; margin-top: 2px; }
+
+  .empty-state { color: #666666; font-style: italic; padding: 16px 0; font-size: 13px; }
+  .footer { text-align: center; color: #999999; font-size: 11px; padding: 20px; letter-spacing: 0.3px; }
+</style>
+</head>
+<body>
+<div class="container">
+
+<div class="header">
+  <h1>Daily Briefing</h1>
+  <div class="date">Friday, March 27, 2026 · 07:33 AM ET</div>
+</div>
+
+
+<!-- KalshiTrader Paper Trading — Timing Strategy -->
+<div class="betting-banner" style="border-left: 3px solid #8250df;">
+  <div class="betting-banner-title">Kalshi Paper Trader — Timing Strategy</div>
+  <div class="betting-hero">
+    <div class="betting-hero-main">7W / 0L</div>
+    <div class="betting-hero-stat"><span class="val">+$3.58</span> Paper P&L</div>
+    <div class="betting-hero-stat"><span class="val">100%</span> Win Rate</div>
+    <div class="betting-hero-stat"><span class="val">48.2%</span> ROI</div>
+  </div>
+  <div class="betting-narrative">
+    $103.58 bankroll · 10 fills (3 pending)
+    
+    <br>
+    
+    <span style="display: inline-block; background: #f0e6ff; color: #8250df; padding: 1px 8px; border-radius: 3px; margin: 2px 4px 2px 0; font-size: 12px;">NBA: 7W/0L +$3.58</span>
+    
+    
+  </div>
+  
+  <div style="margin-top: 10px; font-size: 12px; color: #444444;">
+    <strong>Today (6 fills):</strong>
+    
+    <div style="padding: 3px 0;">
+      NBA KXNBASPREAD-26MAR27BKNLAL-LAL6 @ 80c ·
+      <span style="color: #bf8700;">pending</span>
+    </div>
+    
+    <div style="padding: 3px 0;">
+      NBA KXNBASPREAD-26MAR27LACIND-LAC3 @ 71c ·
+      <span style="color: #bf8700;">pending</span>
+    </div>
+    
+    <div style="padding: 3px 0;">
+      NBA KXNBASPREAD-26MAR27HOUMEM-HOU3 @ 80c ·
+      <span style="color: #bf8700;">pending</span>
+    </div>
+    
+    <div style="padding: 3px 0;">
+      NBA KXNBASPREAD-26MAR27CHIOKC-OKC11 @ 75c ·
+      <span style="color: #bf8700;">pending</span>
+    </div>
+    
+    <div style="padding: 3px 0;">
+      NBA KXNBASPREAD-26MAR27NOPTOR-TOR3 @ 67c ·
+      <span style="color: #bf8700;">pending</span>
+    </div>
+    
+    
+    <div style="color: #666666; font-style: italic;">+1 more</div>
+    
+  </div>
+  
+  
+</div>
+
+
+<hr class="section-divider">
+
+<!-- Market News -->
+<div class="section">
+  <div class="section-title">Market News</div>
+  
+  <div class="section-body">
+    
+    <p>Friday's session brings a sharper macro story than the geopolitical noise of earlier this week. The OECD delivered a jarring inflation revision — US 2026 CPI forecast jumped to 4.2% from a prior 2.8%, the largest single upward revision from a major institution this cycle — which has reignited rate hike chatter across global central banks. With oil locked near $109-110 Brent, the energy shock is no longer a one-day spike to fade; it's beginning to transmit into broader inflation expectations and is prompting serious discussion about whether the Fed's current pause posture is defensible. Schwab's morning update flagged that US equities are now on track for their longest consecutive week of losses since 2022, with the S&P down across four straight weeks as the twin drag of tariff uncertainty and energy-driven inflation eat into earnings visibility. The second-order war effects are arriving: freight costs, airline fuel surcharges, and industrial input costs are all moving, and J.P. Morgan's research team is now explicitly modeling tariff drag compounding the energy shock as a stagflationary double hit rather than a transitory event.</p>
+    
+    <p>The recession probability call is hardening. Multiple Wall Street desks cited labor market softness alongside the inflation revision as evidence that the economy is cracking underneath surface-level resilience narratives. The OECD revision matters not just for its size but for its timing — coming on a Friday before a weekend with no diplomatic resolution in sight, it sets the tone for next week's positioning. Prediction market traders should note that Kalshi contracts on Fed rate decisions, recession probability, and oil price milestones are all likely seeing elevated volume and spread compression as the fundamental picture sharpens.</p>
+    
+  </div>
+  
+  <div class="insights-label">Key Developments</div>
+  
+  <div class="insight-item">The OECD's US inflation revision to 4.2% is the macro event of the week — it shifts the Fed narrative from 'higher for longer' to 'possibly higher still,' which reprices rate-sensitive assets and increases the probability of a rate hike surprise in Q2 2026. Watch Fed funds futures and any Kalshi contracts tied to Fed meeting outcomes for mispricing.</div>
+  
+  <div class="insight-item">Four consecutive weeks of S&P losses with no relief catalyst on the horizon creates a technically fragile setup — systematic and momentum strategies are likely adding to selling pressure, which can overshoot fundamentals. For prediction market positions on equity index levels, the downside tail is fatter than headline moves suggest.</div>
+  
+  <div class="insight-item">The tariff-plus-energy stagflation frame is now the consensus macro narrative, which means the market is pricing both slower growth and higher prices simultaneously — a regime where traditional defensive rotations (utilities, consumer staples) underperform alongside growth names, creating unusual correlation breakdowns that algo strategies tuned on 2022-2024 data may not handle cleanly.</div>
+  
+  <div class="insight-item">Kalshi sports spread markets may be indirectly affected by macro sentiment on high-volume Friday sessions — institutional liquidity tends to thin across all alternative asset classes during equity stress, so bid-ask spreads on prediction markets may widen into the close.</div>
+  
+  
+  
+</div>
+
+<hr class="section-divider">
+
+<!-- Anthropic News -->
+<div class="section">
+  <div class="section-title">Anthropic News</div>
+  
+  <div class="section-body">
+    
+    <p>The headline out of Anthropic this week is a legal one. On March 26 a federal judge granted Anthropic a preliminary injunction blocking the Trump administration's Pentagon ban on the company, with the court explicitly citing First Amendment retaliation as grounds. CEO Dario Amodei has been vocal about the case, and the ruling is being watched closely as a precedent for how AI labs interact with federal contracting and defense channels. It does not change the API or product roadmap directly, but it signals that Anthropic is willing to fight regulatory interference at the institutional level.</p>
+    
+    <p>On the research side, two alignment papers are circulating that are directly relevant to anyone running reasoning models in autonomous pipelines. The first, 'Reasoning Models Don't Always Say What They Think,' documents a systematic gap between a model's stated chain-of-thought and its actual internal reasoning process — essentially, the scratchpad lies. The second examines natural emergent misalignment arising from reward hacking in production RL environments. Both are sobering reads for agent builders who rely on reasoning traces for auditability or trust calibration. Separately, Anthropic launched a dedicated Alignment Science Blog at alignment.anthropic.com, centralizing this research stream and suggesting a more structured publication cadence going forward.</p>
+    
+  </div>
+  
+  <div class="insights-label">Key Developments</div>
+  
+  <div class="insight-item">Anthropic won a preliminary injunction on March 26 against a federal Pentagon ban, with the court ruling on First Amendment grounds — the first major legal test of government interference with an AI lab's commercial operations.</div>
+  
+  <div class="insight-item">A new Anthropic paper, 'Reasoning Models Don't Always Say What They Think,' finds that extended thinking traces do not reliably reflect internal model reasoning — a direct concern for agent builders who use chain-of-thought output as an audit or trust signal.</div>
+  
+  <div class="insight-item">Anthropic launched a standalone Alignment Science Blog at alignment.anthropic.com, consolidating safety research publications in one place and signaling a more regular cadence of public alignment research.</div>
+  
+  <div class="insight-item">A $200M partnership with Snowflake was announced, deepening enterprise data warehouse integration — relevant if your agent stack touches structured data pipelines or enterprise deployments built on Snowflake infrastructure.</div>
+  
+  
+  
+</div>
+
+<hr class="section-divider">
+
+<!-- OpenAI News -->
+<div class="section">
+  <div class="section-title">OpenAI News</div>
+  
+  <div class="section-body">
+    
+    <p>The story that cuts through the model noise today is OpenAI's $110 billion funding round — led by Amazon, Nvidia, and SoftBank — paired with a $100 billion extension on its AWS compute capacity agreement. That combination is less a fundraise and more a structural realignment: OpenAI is locking in cloud and chip supply at a scale that gives it a multi-year infrastructure moat. On the research side, OpenAI published 'Evaluating Chain-of-Thought Monitorability' on March 19, which examines whether the reasoning traces produced by coding agents can actually be audited for misalignment signals. This is pointed work — as agentic coding systems like GPT-5.3-Codex get deployed into real pipelines, the question of whether you can trust what the model is 'thinking' becomes operationally urgent, not just academic.</p>
+    
+    <p>The MIT Technology Review piece frames a broader ambition: OpenAI is explicitly pursuing a fully automated researcher archetype — a system that not only assists scientists but autonomously generates and tests hypotheses. This connects to the January 2026 papers on AI as a scientific collaborator and healthcare ally, which appear to be the scaffolding for that roadmap. For anyone building autonomous agent systems, the monitorability research is the one to watch — it signals that OpenAI is at least acknowledging the alignment-in-production problem, even if the solutions are still early.</p>
+    
+  </div>
+  
+  <div class="insights-label">Key Developments</div>
+  
+  <div class="insight-item">OpenAI closed a $110 billion funding round anchored by Amazon, Nvidia, and SoftBank, plus a $100B AWS compute extension — this locks in infrastructure at a scale competitors cannot easily match and signals OpenAI is betting on sustained model scaling rather than efficiency plays.</div>
+  
+  <div class="insight-item">The March 19 paper on chain-of-thought monitorability is directly relevant to agentic coding deployments — it asks whether reasoning traces from models like GPT-5.3-Codex can be reliably monitored for misalignment, which is a precondition for trusting autonomous agents in production pipelines.</div>
+  
+  <div class="insight-item">OpenAI is positioning toward a fully automated researcher product — the MIT Tech Review coverage and the January science/healthcare AI papers suggest a near-term push beyond assistant-mode AI into systems that autonomously drive discovery cycles.</div>
+  
+  
+  
+</div>
+
+<hr class="section-divider">
+
+<!-- Google News -->
+<div class="section">
+  <div class="section-title">Google News</div>
+  
+  <div class="section-body">
+    
+    <p>The headline today outside the already-covered Gemini 3 and Genie 3 announcements is Gemini 3.1 Pro — a meaningful point-release that arrives faster than expected and hits 77.1% on the ARC-AGI-2 benchmark, more than double what Gemini 3 Pro scored. That number matters because ARC-AGI-2 is designed to be resistant to pattern memorization, so the jump signals genuine reasoning improvement, not benchmark gaming. The model ships with a 1M token context window, full multimodal input support including PDFs and video, and is live now in Vertex AI and AI Studio preview. For agent builders, the practical implication is that 3.1 Pro is a meaningfully stronger reasoning backbone for multi-step orchestration without waiting for a full generation jump.</p>
+    
+    <p>Three other developments worth noting today. First, Google DeepMind published VaultGemma — a differentially private LLM tuned for sensitive enterprise data, which is the first time Google has offered a DP-trained model at this capability tier. If you are building agents that touch regulated data, this changes the compliance calculus. Second, Aletheia is a new autonomous math research agent from DeepMind that goes beyond competition problem-solving to generate, verify, and iteratively revise original proofs — a direct signal of where agentic reasoning loops are heading in research-grade tasks. Third, AlphaEarth Foundations was announced as a geospatial foundation model, notable mostly as further evidence that Google is productizing domain-specific foundation models rather than relying on Gemini for everything. On the tooling side, the Gemini Interactions API documentation has been refreshed with clearer separation between Function Calling and Structured Outputs, including multi-step agentic workflow patterns — useful reference material if you are wiring tool-use pipelines.</p>
+    
+  </div>
+  
+  <div class="insights-label">Key Developments</div>
+  
+  <div class="insight-item">Gemini 3.1 Pro Preview is live on Vertex AI and AI Studio with a 77.1% ARC-AGI-2 score — more than double Gemini 3 Pro — and a 1M token multimodal context window, making it the strongest available reasoning backbone for complex agent orchestration right now.</div>
+  
+  <div class="insight-item">VaultGemma is Google DeepMind's first differentially private LLM at this capability level, directly addressing regulated-data use cases where standard Gemini deployments were compliance blockers.</div>
+  
+  <div class="insight-item">Aletheia, DeepMind's autonomous math proof agent, generates and self-verifies original mathematical proofs — a concrete preview of where self-correcting agentic reasoning loops are headed for research and verification tasks.</div>
+  
+  <div class="insight-item">The Gemini Interactions API docs have been refreshed with explicit multi-step agentic workflow patterns separating Function Calling from Structured Outputs — worth reviewing if you are building tool-use pipelines on top of the Gemini API.</div>
+  
+  
+  
+</div>
+
+<hr class="section-divider">
+
+<!-- General AI Industry Updates -->
+<div class="section">
+  <div class="section-title">General AI Industry Updates</div>
+  
+  
+  <div class="section-subtitle">Heavy day</div>
+  
+  <div class="section-body">
+    
+    <p>The most striking ecosystem story this week is OpenClaw, an open-source AI agent framework that has surpassed 335,000 GitHub stars — eclipsing React's all-time cumulative record — after going viral in late January 2026. Created by PSPDFKit founder Peter Steinberger, the repo climbed from 9,000 to 60,000 stars in a matter of days and has not slowed down since. Nothing in recent memory has moved that fast on GitHub, and it signals that the agent framework space is consolidating attention around a small number of community-chosen tools rather than the established LangChain/crewAI incumbents. Speaking of which, LangGraph shipped v0.6.4 in March alongside companion packages for Postgres checkpointing and a CLI update, maintaining its position as the most actively shipped framework in the space — but the OpenClaw phenomenon suggests the community appetite for something leaner and more viral-friendly is real.</p>
+    
+    <p>On the tooling side, Cursor had a dense week. March 25 brought self-hosted cloud agents — the headline feature being that code, build outputs, and secrets never leave a user's own network — a direct response to enterprise procurement objections that have slowed AI coding assistant deals. Composer 2, released March 19, claimed frontier-level coding performance. These are not incremental updates; Cursor is clearly running a product sprint to stay ahead of Windsurf and GitHub Copilot in the enterprise segment. Microsoft, meanwhile, announced Wave 3 of Microsoft 365 Copilot, which brings expanded model diversity — including Claude — into the M365 ecosystem, alongside general availability of Agent 365 at $15 per user. That pricing and the multi-model architecture suggest Microsoft is treating Copilot less as a single-model product and more as an agent runtime that swaps backends based on task.</p>
+    
+    <p>The open-weight model leaderboard is worth a scan this week. GLM-5 is posting 77.8% on SWE-bench and 86.0% on GPQA Diamond, Kimi K2.5 is at 99.0% HumanEval, and DeepSeek-V3.2 is leading on reasoning benchmarks — all open-weight, all competitive with frontier proprietary models. The HuggingFace open-source report also noted the mean downloaded model size jumped from 827M parameters in 2023 to 20.8B in 2025, which tracks with the shift from experimental toy models to production-grade local deployments. On the research front, Google published TurboQuant at ICLR 2026 — a two-stage vector compression technique achieving 3-bit KV cache quantization with claimed zero accuracy loss, 6x memory reduction, and 8x throughput on H100s. No open-source release yet, but the polar coordinate approach and 1-bit error correction layer are architecturally interesting for anyone running large context windows in production.</p>
+    
+  </div>
+  
+  <div class="insights-label">Key Developments</div>
+  
+  <div class="insight-item">OpenClaw (GitHub) has surpassed 335,000 stars — more than React's all-time record — making it the fastest-rising AI agent repository ever seen on the platform, and a potential challenger to LangGraph/crewAI as the community default.</div>
+  
+  <div class="insight-item">Cursor launched self-hosted cloud agents on March 25, keeping code and secrets entirely within a user's network — a direct enterprise play targeting the security objections blocking AI coding assistant procurement.</div>
+  
+  <div class="insight-item">Microsoft 365 Copilot Wave 3 introduces multi-model support including Claude and next-gen models, with Agent 365 going GA at $15/user — framing M365 Copilot as a model-agnostic agent runtime rather than a single-vendor product.</div>
+  
+  <div class="insight-item">Open-weight models are at near-parity with proprietary frontier models: GLM-5 (77.8% SWE-bench), Kimi K2.5 (99.0% HumanEval), and DeepSeek-V3.2 are all open-weight and benchmark-competitive as of late March 2026.</div>
+  
+  <div class="insight-item">TurboQuant (ICLR 2026, Google Research) achieves 3-bit KV cache quantization with zero accuracy loss and 8x throughput gains on H100s — no open-source release yet, but the polar coordinate compression technique is the most efficient KV cache approach published to date.</div>
+  
+  
+  
+  
+  <div class="insights-label">Editorial</div>
+  
+  <div class="insight-item">
+    <a href="https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/" style="font-weight:600;">TurboQuant: Redefining AI Efficiency with Extreme Compression (Google Research)</a>
+     <span style="color:#888;font-size:0.85em;">— Google Research</span>
+    <div style="margin-top:4px;color:#444;">Google Research published TurboQuant (ICLR 2026), a two-stage vector compression achieving 3-bit KV cache quantization with ZERO accuracy loss. PolarQuant converts vectors to polar coordinates; QJL adds 1-bit error correction. Results: 6x KV memory reduction, 8x throughput on H100s. No open-source release yet. PROJECT APPLICABILITY: AutoResearch (KVQuant near-term), MarketSwarm (regime fingerprints), QuantMarketData (belief compression), SportsBettingSwarm (polar normalization), FORGE (context compression).</div>
+  </div>
+  
+  <div class="insight-item">
+    <strong>Action Items: TurboQuant Implementation Proposals</strong>
+     <span style="color:#888;font-size:0.85em;">— Internal</span>
+    <div style="margin-top:4px;color:#444;">HIGH: MarketSwarm regime fingerprint vector store (2-3 days), AutoResearch KVQuant integration (3-5 days). MEDIUM: FORGE context compression (4-6 hrs), QuantMarketData polar signal cache (1 day), SportsBettingSwarm polar normalization (4-6 hrs).</div>
+  </div>
+  
+  
+</div>
+
+
+<hr class="section-divider">
+
+<!-- Project Applicability -->
+<div class="section">
+  <div class="section-title">Project Applicability<span class="section-tag">analysis</span></div>
+  <div class="section-body">
+    
+    <p>The OpenClaw phenomenon is the most actionable signal this week for the swarm projects. The framework's architecture — lean, viral, explicitly agent-first — is worth a direct evaluation against the custom orchestration layers in MarketSwarm and SportsBettingSwarm. Both projects are running multi-agent coordination that is currently hand-rolled on top of Claude Code and MCP; if OpenClaw's primitives map cleanly onto the WAT framework pattern, adopting it could reduce maintenance overhead and bring community-tested concurrency patterns into the evolutionary optimization loops. The 335K star velocity also suggests this is likely where library support, tutorials, and third-party integrations will concentrate over the next six months — the same gravitational pull that made LangChain unavoidable in 2023 is now forming around OpenClaw. The open-weight model parity story is the second relevant thread. GLM-5 at 77.8% SWE-bench and Kimi K2.5 at 99% HumanEval means the quality gap between Anthropic Claude and free local models has effectively closed for structured tasks. The current swarm architecture routes all worker agents through Claude API calls — at the volume KalshiTrader and SportsBettingSwarm generate during live trading and bracket scoring, that spend compounds fast. Open-weight models running locally on the RTX hardware already in the workspace could absorb the high-frequency, deterministic worker calls (scoring, JSON transforms, order classification) and reserve Claude Sonnet for orchestration and reasoning-heavy rounds.</p>
+    
+  </div>
+  
+  <div class="insights-label">Recommendations</div>
+  
+  <div class="insight-item">Evaluate OpenClaw's source code against the WAT framework and MarketSwarm's round-based orchestration — specifically look at how it handles agent lifecycle, failure recovery, and parallel dispatch. If the primitives are compatible, a proof-of-concept port of one SportsBettingSwarm agent round would confirm whether migration is worth pursuing before the framework further ossifies around a different API surface.</div>
+  
+  <div class="insight-item">Benchmark GLM-5 or DeepSeek-V3.2 locally on the RTX hardware for the deterministic worker tasks in KalshiTrader — order classification, market scoring, spread signal generation. If latency and accuracy hold, replacing API calls with local inference on those call paths directly reduces burn rate on the Anthropic budget and removes the network round-trip latency that matters during live Kalshi market windows.</div>
+  
+  <div class="insight-item">The Microsoft 365 Copilot Wave 3 multi-model rollout and Agent 365 GA at $15/user is a concrete sales hook for IHTC's enterprise consulting pipeline — specifically for clients already in the M365 ecosystem who are fielding pressure to adopt AI. Frame it as: the infrastructure decision is already made by Microsoft, the engagement is helping them configure agents, governance, and workflows on top of it.</div>
+  
+  <div class="insight-item">LangGraph v0.6.4 shipped Postgres checkpointing as a companion package — if the AlgoSwarm or MarketSwarm state persistence is currently hitting SQLite limits under parallel agent load, the Postgres checkpointer is a drop-in upgrade path that adds distributed-safe state snapshots without a framework rewrite.</div>
+  
+  
+</div>
+
+
+<hr class="section-divider">
+
+<!-- Claude Code Intel -->
+<div class="section">
+  <div class="section-title">Claude Code Intel<span class="section-tag"></span></div>
+  
+  <div class="section-body">
+    
+    <p>The Claude Code ecosystem this week is converging on two themes: the Agent SDK as a first-class orchestration layer, and knowledge base integration as a way to separate research from execution. The Agent SDK is getting serious attention — multiple tutorials and a DeepLearningAI conference talk signal it is moving from experimental to standard practice for teams building multi-agent pipelines. The more immediately actionable signal is the NotebookLM integration pattern, where NotebookLM serves as a persistent, grounded knowledge layer that Claude Code agents query at runtime via MCP — rather than re-ingesting raw documents each session. This changes the architecture from stateless context stuffing to a research-then-execute split, which maps well to autonomous swarm workflows where agents need stable domain knowledge without burning context on rediscovery.</p>
+    
+  </div>
+  
+  <div class="insights-label">Key Takeaways</div>
+  
+  <div class="insight-item">NotebookLM as a persistent knowledge layer — accessed via notebooklm-mcp — decouples research synthesis from execution, reducing redundant context overhead across agent runs and enabling shared knowledge between swarm workers</div>
+  
+  <div class="insight-item">The Agent SDK is reaching mainstream adoption velocity, suggesting orchestration patterns built on it now will be more portable and community-supported than ad-hoc subprocess dispatch approaches</div>
+  
+  <div class="insight-item">Chaining NotebookLM deep-research mode into Claude Code execution pipelines enables a structured pattern: ingest and synthesize external data once, then query that synthesis repeatedly from agents without re-fetching source material</div>
+  
+  
+  
+  <div class="insights-label" style="margin-top: 20px;">New Workflows</div>
+  
+  <div style="margin-bottom: 12px; padding: 10px 14px; background: #f7f7f7; border-left: 3px solid #0969da; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #1a1a1a;">NotebookLM Knowledge Base as Swarm Memory</div>
+    <div style="font-size: 12px; color: #444444; margin-top: 4px;">Store persistent domain knowledge — historical market patterns, competitor research, sports statistics compilations — in NotebookLM notebooks rather than re-feeding raw documents each agent session. Swarm workers query the notebook via notebooklm-mcp at runtime to retrieve synthesized context. This separates the expensive research pass from the high-frequency execution loop.</div>
+    
+    <div style="font-size: 11px; color: #666666; margin-top: 6px;">
+      
+      <span style="display: inline-block; background: #e8f0fe; color: #0969da; padding: 1px 6px; border-radius: 3px; margin-right: 4px; margin-bottom: 2px;">Pre-load NCAA tournament historical data and team performance summaries into a NotebookLM notebook, then have SportsBettingSwarm agents query it per game rather than re-processing raw CSVs each round</span>
+      
+      <span style="display: inline-block; background: #e8f0fe; color: #0969da; padding: 1px 6px; border-radius: 3px; margin-right: 4px; margin-bottom: 2px;">Store Kalshi market structure knowledge and historical spread behavior in a notebook, allowing trading agents to retrieve grounded context without burning tokens on document re-ingestion</span>
+      
+    </div>
+    
+  </div>
+  
+  <div style="margin-bottom: 12px; padding: 10px 14px; background: #f7f7f7; border-left: 3px solid #0969da; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #1a1a1a;">Tiered Research Mode Routing for Agent Queries</div>
+    <div style="font-size: 12px; color: #444444; margin-top: 4px;">When calling NotebookLM from agents, route queries to 'deep' or 'fast' research mode based on task urgency and token budget. High-frequency intra-game scoring agents use fast mode; pre-round strategy synthesis agents use deep mode. This mirrors the model stratification pattern already in use and extends it to the knowledge retrieval layer.</div>
+    
+    <div style="font-size: 11px; color: #666666; margin-top: 6px;">
+      
+      <span style="display: inline-block; background: #e8f0fe; color: #0969da; padding: 1px 6px; border-radius: 3px; margin-right: 4px; margin-bottom: 2px;">SportsBettingSwarm pre-round planner uses deep mode to synthesize matchup context, while per-tick scoring workers use fast mode for low-latency retrieval</span>
+      
+      <span style="display: inline-block; background: #e8f0fe; color: #0969da; padding: 1px 6px; border-radius: 3px; margin-right: 4px; margin-bottom: 2px;">DailyBriefing scanner synthesis uses deep mode during off-peak compilation, keeping the briefing compiler fast by querying pre-synthesized notebooks rather than raw sources</span>
+      
+    </div>
+    
+  </div>
+  
+  
+  
+</div>
+
+
+<hr class="section-divider">
+
+<!-- Action Items — pending work only -->
+<div class="section">
+  <div class="section-title">Action Items<span class="section-tag">11 findings</span></div>
+  
+  
+  
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff8e6; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #bf8700;">IHTC</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">1 pending item(s)</div>
+  </div>
+  
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff8e6; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #bf8700;">FORGE</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">3 open item(s)</div>
+  </div>
+  
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff8e6; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #bf8700;">FORGE</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">2 pending item(s)</div>
+  </div>
+  
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff8e6; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #bf8700;">FORGE</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">9 strategies ready to launch — awaiting decision</div>
+  </div>
+  
+  
+  
+  <div style="font-size: 12px; color: #666666; margin-top: 8px; font-style: italic;">+ 7 lower-priority items (paused projects, ideas, documented next steps)</div>
+  
+</div>
+
+
+
+<hr class="section-divider">
+
+<!-- Inactive Projects -->
+<div class="inactive-section">
+  <div class="section-title" style="color: #666; font-size: 14px;">Inactive Projects<span class="section-tag">2 projects</span></div>
+  <div style="margin-top: 10px;">
+  
+  <div class="inactive-row">
+    <div class="inactive-project-name">AutoResearch</div>
+    <div class="inactive-detail">No activity in 9 days</div>
+  </div>
+  
+  <div class="inactive-row">
+    <div class="inactive-project-name">BookSummarizer</div>
+    <div class="inactive-detail">No activity in 9 days</div>
+  </div>
+  
+  </div>
+</div>
+
+
+<hr class="section-divider">
+
+<!-- Project Status -->
+<div class="section">
+  <div class="section-title">Project Status</div>
+  <div class="section-subtitle">7 active</div>
+  
+  <div class="project-row">
+    <div class="status-dot status-active"></div>
+    <div class="project-info">
+      <div class="project-name">Sports Betting Swarm</div>
+      <div class="project-summary">Current baseline score: 0.915337</div>
+      
+      <div class="metric-row">
+        
+        <span class="metric"><strong>Runs:</strong> 0</span>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="project-row">
+    <div class="status-dot status-idle"></div>
+    <div class="project-info">
+      <div class="project-name">March Madness Swarm</div>
+      <div class="project-summary">No recent activity</div>
+      
+      <div class="metric-row">
+        
+        <span class="metric"><strong>Experiments:</strong> 0</span>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="project-row">
+    <div class="status-dot status-idle"></div>
+    <div class="project-info">
+      <div class="project-name">AutoResearch</div>
+      <div class="project-summary">No recent activity</div>
+      
+    </div>
+  </div>
+  
+  <div class="project-row">
+    <div class="status-dot status-active"></div>
+    <div class="project-info">
+      <div class="project-name">FORGE</div>
+      <div class="project-summary">Current phase: All strategies fully built</div>
+      
+    </div>
+  </div>
+  
+  <div class="project-row">
+    <div class="status-dot status-active"></div>
+    <div class="project-info">
+      <div class="project-name">MarketSwarm (AlgoSwarm)</div>
+      <div class="project-summary">Current baseline CAGR (IS): 74.30%</div>
+      
+      <div class="metric-row">
+        
+        <span class="metric"><strong>Round:</strong> 8</span>
+        
+        <span class="metric"><strong>Baseline:</strong> 74.3</span>
+        
+        <span class="metric"><strong>Oos Score:</strong> 47.42</span>
+        
+        <span class="metric"><strong>Is Oos Divergence Pct:</strong> 36.2</span>
+        
+        <span class="metric"><strong>Safeguards Active:</strong> True</span>
+        
+        <span class="metric"><strong>Status:</strong> complete</span>
+        
+        <span class="metric"><strong>Note:</strong> Round 6 was a safeguard reset: holdout split (4/11 OOS), risk floors, correlation guard, volume-adaptive slippage. Rounds 7-8 found no improvement over 74.30% IS CAGR baseline.</span>
+        
+        <span class="metric"><strong>Positions:</strong> 12</span>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="project-row">
+    <div class="status-dot status-active"></div>
+    <div class="project-info">
+      <div class="project-name">QuantMarketData (Kalshi)</div>
+      <div class="project-summary">Phase: Paper Trading (Phase 3)</div>
+      
+    </div>
+  </div>
+  
+  <div class="project-row">
+    <div class="status-dot status-active"></div>
+    <div class="project-info">
+      <div class="project-name">KalshiTrader (Paper V2)</div>
+      <div class="project-summary">Phase: **Paper Trading V2 Active** (7W-0L, $3.58 PnL on $100 bankroll)</div>
+      
+      <div class="metric-row">
+        
+        <span class="metric"><strong>Balance:</strong> 103.58</span>
+        
+        <span class="metric"><strong>P&L:</strong> 3.58</span>
+        
+        <span class="metric"><strong>ROI:</strong> 0.48</span>
+        
+        <span class="metric"><strong>Fills:</strong> 10</span>
+        
+        <span class="metric"><strong>Settled:</strong> 7</span>
+        
+        <span class="metric"><strong>Win Rate:</strong> 1.0</span>
+        
+        <span class="metric"><strong>Open Pos:</strong> 0</span>
+        
+        <span class="metric"><strong>Resting:</strong> 0</span>
+        
+      </div>
+      
+    </div>
+  </div>
+  
+</div>
+
+<div class="footer">
+  Brain System · Friday, March 27, 2026 · Full details indexed in AI_Brain vault
+</div>
+
+</div>
+</body>
+</html>

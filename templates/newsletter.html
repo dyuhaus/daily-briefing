@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daily Briefing — {{ date }}</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #ffffff; color: #1a1a1a; line-height: 1.7; padding: 20px; }
+  .container { max-width: 680px; margin: 0 auto; }
+
+  /* Header */
+  .header { text-align: center; margin-bottom: 32px; padding: 24px 0; border-bottom: 1px solid #e0e0e0; }
+  .header h1 { font-size: 22px; color: #1a1a1a; font-weight: 700; letter-spacing: 0.3px; }
+  .header .date { color: #666666; font-size: 13px; margin-top: 4px; }
+
+  /* Betting Banner */
+  .betting-banner { background: #f7f7f7; border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px 24px; margin-bottom: 32px; }
+  .betting-banner-title { font-size: 11px; text-transform: uppercase; letter-spacing: 1.2px; color: #666666; font-weight: 600; margin-bottom: 14px; }
+  .betting-hero { display: flex; align-items: baseline; gap: 16px; flex-wrap: wrap; margin-bottom: 6px; }
+  .betting-hero-main { font-size: 24px; font-weight: 700; color: #1a1a1a; }
+  .betting-hero-stat { font-size: 14px; color: #666666; }
+  .betting-hero-stat .val { color: #1a1a1a; font-weight: 600; }
+  .betting-narrative { font-size: 13px; color: #444444; line-height: 1.65; margin-top: 10px; }
+
+  /* Sections */
+  .section { margin-bottom: 32px; }
+  .section-title { font-size: 16px; font-weight: 600; color: #1a1a1a; margin-bottom: 2px; }
+  .section-subtitle { font-size: 13px; color: #666666; font-style: italic; margin-bottom: 14px; }
+  .section-tag { float: right; font-size: 11px; color: #666666; font-style: italic; font-weight: 400; }
+  .section-body { font-size: 14px; color: #1a1a1a; line-height: 1.75; }
+  .section-body p { margin-bottom: 12px; }
+  .section-divider { border: none; border-top: 1px solid #e0e0e0; margin: 24px 0; }
+
+  /* Insights */
+  .insights-label { font-size: 12px; color: #666666; font-weight: 600; margin-top: 16px; margin-bottom: 8px; }
+  .insight-item { font-size: 13px; color: #1a1a1a; line-height: 1.65; margin-bottom: 8px; padding-left: 16px; position: relative; }
+  .insight-item::before { content: ""; position: absolute; left: 0; top: 8px; width: 6px; height: 6px; border-radius: 50%; background: #2da44e; }
+
+  /* Project Status */
+  .project-row { display: flex; align-items: flex-start; padding: 10px 0; border-bottom: 1px solid #e0e0e0; gap: 10px; }
+  .project-row:last-child { border-bottom: none; }
+  .status-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; margin-top: 6px; }
+  .status-active { background: #2da44e; }
+  .status-idle { background: #bf8700; }
+  .status-error { background: #cf222e; }
+  .project-info { flex: 1; }
+  .project-name { font-weight: 600; color: #1a1a1a; font-size: 13px; }
+  .project-summary { color: #666666; font-size: 12px; margin-top: 2px; }
+  .metric-row { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 4px; }
+  .metric { font-size: 11px; color: #0969da; }
+  .metric strong { color: #1a1a1a; }
+
+  /* Inactive Projects */
+  .inactive-section { margin-bottom: 32px; }
+  .inactive-row { padding: 8px 14px; background: #f9f9f9; border-left: 3px solid #999; border-radius: 0 6px 6px 0; margin-bottom: 6px; }
+  .inactive-project-name { font-size: 13px; font-weight: 600; color: #555; }
+  .inactive-detail { font-size: 12px; color: #888; margin-top: 2px; }
+
+  .empty-state { color: #666666; font-style: italic; padding: 16px 0; font-size: 13px; }
+  .footer { text-align: center; color: #999999; font-size: 11px; padding: 20px; letter-spacing: 0.3px; }
+</style>
+</head>
+<body>
+<div class="container">
+
+<div class="header">
+  <h1>Daily Briefing</h1>
+  <div class="date">{{ date }} · {{ generation_time }}</div>
+</div>
+
+{% if kalshi_paper and kalshi_paper.total_trades > 0 %}
+<!-- KalshiTrader Paper Trading — Timing Strategy -->
+<div class="betting-banner" style="border-left: 3px solid #8250df;">
+  <div class="betting-banner-title">Kalshi Paper Trader — Timing Strategy</div>
+  <div class="betting-hero">
+    <div class="betting-hero-main">{{ kalshi_paper.wins }}W / {{ kalshi_paper.losses }}L</div>
+    <div class="betting-hero-stat"><span class="val">{{ "+$%.2f"|format(kalshi_paper.total_pnl) if kalshi_paper.total_pnl >= 0 else "-$%.2f"|format(kalshi_paper.total_pnl|abs) }}</span> Paper P&L</div>
+    <div class="betting-hero-stat"><span class="val">{{ "%.0f%%"|format(kalshi_paper.win_rate * 100) }}</span> Win Rate</div>
+    <div class="betting-hero-stat"><span class="val">{{ "%.1f%%"|format(kalshi_paper.roi * 100) }}</span> ROI</div>
+  </div>
+  <div class="betting-narrative">
+    ${{ "%.2f"|format(kalshi_paper.bankroll) }} bankroll · {{ kalshi_paper.total_trades }} fills ({{ kalshi_paper.unsettled }} pending)
+    {% if kalshi_paper.by_league %}
+    <br>
+    {% for league, stats in kalshi_paper.by_league.items() %}
+    <span style="display: inline-block; background: #f0e6ff; color: #8250df; padding: 1px 8px; border-radius: 3px; margin: 2px 4px 2px 0; font-size: 12px;">{{ league }}: {{ stats.wins }}W/{{ stats.losses }}L {{ "+$%.2f"|format(stats.pnl) if stats.pnl >= 0 else "-$%.2f"|format(stats.pnl|abs) }}</span>
+    {% endfor %}
+    {% endif %}
+  </div>
+  {% if kalshi_paper.today_trades %}
+  <div style="margin-top: 10px; font-size: 12px; color: #444444;">
+    <strong>Today ({{ kalshi_paper.today_trades|length }} fills):</strong>
+    {% for t in kalshi_paper.today_trades[:5] %}
+    <div style="padding: 3px 0;">
+      {{ t.league }} {{ t.ticker }} @ {{ "%.0f"|format((t.entry_price or 0) * 100) }}c ·
+      {% if t.settled %}<span style="color: #2da44e; font-weight: 600;">settled</span>{% else %}<span style="color: #bf8700;">pending</span>{% endif %}
+    </div>
+    {% endfor %}
+    {% if kalshi_paper.today_trades|length > 5 %}
+    <div style="color: #666666; font-style: italic;">+{{ kalshi_paper.today_trades|length - 5 }} more</div>
+    {% endif %}
+  </div>
+  {% endif %}
+  {% if kalshi_paper.change_notes %}
+  <div style="margin-top: 14px; padding: 10px 14px; background: #fffbea; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0; font-size: 12px; color: #444444;">
+    <strong style="color: #7a5c00; display: block; margin-bottom: 6px;">Strategy changes applied today:</strong>
+    {% for note in kalshi_paper.change_notes %}
+    <div style="padding: 2px 0;">&#8212; {{ note }}</div>
+    {% endfor %}
+  </div>
+  {% endif %}
+</div>
+{% endif %}
+
+<hr class="section-divider">
+
+<!-- Market News -->
+<div class="section">
+  <div class="section-title">Market News</div>
+  {% if market_news and market_news.cliff_notes %}
+  <div class="section-body">
+    {% for paragraph in market_news.cliff_notes.split('\n\n') %}
+    <p>{{ paragraph | safe }}</p>
+    {% endfor %}
+  </div>
+  {% if market_news.key_insights %}
+  <div class="insights-label">Key Developments</div>
+  {% for insight in market_news.key_insights %}
+  <div class="insight-item">{{ insight | safe }}</div>
+  {% endfor %}
+  {% endif %}
+  {% else %}
+  <div class="empty-state">No market news gathered in the last 24 hours.</div>
+  {% endif %}
+</div>
+
+<hr class="section-divider">
+
+<!-- Anthropic News -->
+<div class="section">
+  <div class="section-title">Anthropic News</div>
+  {% if anthropic_news and anthropic_news.cliff_notes %}
+  <div class="section-body">
+    {% for paragraph in anthropic_news.cliff_notes.split('\n\n') %}
+    <p>{{ paragraph | safe }}</p>
+    {% endfor %}
+  </div>
+  {% if anthropic_news.key_insights %}
+  <div class="insights-label">Key Developments</div>
+  {% for insight in anthropic_news.key_insights %}
+  <div class="insight-item">{{ insight | safe }}</div>
+  {% endfor %}
+  {% endif %}
+  {% else %}
+  <div class="empty-state">No new Anthropic developments today.</div>
+  {% endif %}
+</div>
+
+<hr class="section-divider">
+
+<!-- OpenAI News -->
+<div class="section">
+  <div class="section-title">OpenAI News</div>
+  {% if openai_news and openai_news.cliff_notes %}
+  <div class="section-body">
+    {% for paragraph in openai_news.cliff_notes.split('\n\n') %}
+    <p>{{ paragraph | safe }}</p>
+    {% endfor %}
+  </div>
+  {% if openai_news.key_insights %}
+  <div class="insights-label">Key Developments</div>
+  {% for insight in openai_news.key_insights %}
+  <div class="insight-item">{{ insight | safe }}</div>
+  {% endfor %}
+  {% endif %}
+  {% else %}
+  <div class="empty-state">No new OpenAI developments today.</div>
+  {% endif %}
+</div>
+
+<hr class="section-divider">
+
+<!-- Google News -->
+<div class="section">
+  <div class="section-title">Google News</div>
+  {% if google_ai_news and google_ai_news.cliff_notes %}
+  <div class="section-body">
+    {% for paragraph in google_ai_news.cliff_notes.split('\n\n') %}
+    <p>{{ paragraph | safe }}</p>
+    {% endfor %}
+  </div>
+  {% if google_ai_news.key_insights %}
+  <div class="insights-label">Key Developments</div>
+  {% for insight in google_ai_news.key_insights %}
+  <div class="insight-item">{{ insight | safe }}</div>
+  {% endfor %}
+  {% endif %}
+  {% else %}
+  <div class="empty-state">No new Google AI developments today.</div>
+  {% endif %}
+</div>
+
+<hr class="section-divider">
+
+<!-- General AI Industry Updates -->
+<div class="section">
+  <div class="section-title">General AI Industry Updates</div>
+  {% if ai_industry and ai_industry.cliff_notes %}
+  {% if ai_industry.density %}
+  <div class="section-subtitle">{{ ai_industry.density }}</div>
+  {% endif %}
+  <div class="section-body">
+    {% for paragraph in ai_industry.cliff_notes.split('\n\n') %}
+    <p>{{ paragraph | safe }}</p>
+    {% endfor %}
+  </div>
+  {% if ai_industry.key_insights %}
+  <div class="insights-label">Key Developments</div>
+  {% for insight in ai_industry.key_insights %}
+  <div class="insight-item">{{ insight | safe }}</div>
+  {% endfor %}
+  {% endif %}
+  {% else %}
+  <div class="empty-state">No AI industry news gathered in the last 24 hours.</div>
+  {% endif %}
+  {% if editorial_items %}
+  <div class="insights-label">Editorial</div>
+  {% for item in editorial_items %}
+  <div class="insight-item">
+    {% if item.url %}<a href="{{ item.url }}" style="font-weight:600;">{{ item.title }}</a>{% else %}<strong>{{ item.title }}</strong>{% endif %}
+    {% if item.author %} <span style="color:#888;font-size:0.85em;">— {{ item.author }}</span>{% endif %}
+    <div style="margin-top:4px;color:#444;">{{ item.snippet | safe }}</div>
+  </div>
+  {% endfor %}
+  {% endif %}
+</div>
+
+{% if project_applicability and project_applicability.cliff_notes %}
+<hr class="section-divider">
+
+<!-- Project Applicability -->
+<div class="section">
+  <div class="section-title">Project Applicability<span class="section-tag">analysis</span></div>
+  <div class="section-body">
+    {% for paragraph in project_applicability.cliff_notes.split('\n\n') %}
+    <p>{{ paragraph | safe }}</p>
+    {% endfor %}
+  </div>
+  {% if project_applicability.key_insights %}
+  <div class="insights-label">Recommendations</div>
+  {% for insight in project_applicability.key_insights %}
+  <div class="insight-item">{{ insight | safe }}</div>
+  {% endfor %}
+  {% endif %}
+</div>
+{% endif %}
+
+<hr class="section-divider">
+
+<!-- Claude Code Intel -->
+<div class="section">
+  <div class="section-title">Claude Code Intel<span class="section-tag">{{ claude_workflows.section_tag|default('', true) }}</span></div>
+  {% if claude_workflows and claude_workflows.cliff_notes %}
+  <div class="section-body">
+    {% for paragraph in claude_workflows.cliff_notes.split('\n\n') %}
+    <p>{{ paragraph | safe }}</p>
+    {% endfor %}
+  </div>
+  {% if claude_workflows.key_insights %}
+  <div class="insights-label">Key Takeaways</div>
+  {% for insight in claude_workflows.key_insights %}
+  <div class="insight-item">{{ insight | safe }}</div>
+  {% endfor %}
+  {% endif %}
+  {% if applicable_workflows %}
+  <div class="insights-label" style="margin-top: 20px;">New Workflows</div>
+  {% for wf in applicable_workflows %}
+  <div style="margin-bottom: 12px; padding: 10px 14px; background: #f7f7f7; border-left: 3px solid #0969da; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #1a1a1a;">{{ wf.name }}</div>
+    <div style="font-size: 12px; color: #444444; margin-top: 4px;">{{ wf.description | safe }}</div>
+    {% if wf.use_cases %}
+    <div style="font-size: 11px; color: #666666; margin-top: 6px;">
+      {% for uc in wf.use_cases %}
+      <span style="display: inline-block; background: #e8f0fe; color: #0969da; padding: 1px 6px; border-radius: 3px; margin-right: 4px; margin-bottom: 2px;">{{ uc }}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </div>
+  {% endfor %}
+  {% endif %}
+  {% else %}
+  <div class="empty-state">No new Claude Code workflows discovered in the last 24 hours.</div>
+  {% endif %}
+</div>
+
+{% if action_items and action_items.total > 0 %}
+<hr class="section-divider">
+
+<!-- Action Items — pending work only -->
+<div class="section">
+  <div class="section-title">Action Items<span class="section-tag">{{ action_items.total }} findings</span></div>
+  {% if action_items.critical %}
+  {% for item in action_items.critical %}
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff5f5; border-left: 3px solid #cf222e; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #cf222e;">{{ item.project }}</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">{{ item.title }}</div>
+  </div>
+  {% endfor %}
+  {% endif %}
+  {% if action_items.attention %}
+  {% for item in action_items.attention %}
+  <div style="margin-bottom: 8px; padding: 10px 14px; background: #fff8e6; border-left: 3px solid #bf8700; border-radius: 0 6px 6px 0;">
+    <div style="font-size: 13px; font-weight: 600; color: #bf8700;">{{ item.project }}</div>
+    <div style="font-size: 12px; color: #1a1a1a; margin-top: 2px;">{{ item.title }}</div>
+  </div>
+  {% endfor %}
+  {% endif %}
+  {% if action_items.info_count > 0 %}
+  <div style="font-size: 12px; color: #666666; margin-top: 8px; font-style: italic;">+ {{ action_items.info_count }} lower-priority item{{ 's' if action_items.info_count > 1 else '' }} (paused projects, ideas, documented next steps)</div>
+  {% endif %}
+</div>
+{% endif %}
+
+{% if inactive_projects and inactive_projects|length > 0 %}
+<hr class="section-divider">
+
+<!-- Inactive Projects -->
+<div class="inactive-section">
+  <div class="section-title" style="color: #666; font-size: 14px;">Inactive Projects<span class="section-tag">{{ inactive_projects|length }} projects</span></div>
+  <div style="margin-top: 10px;">
+  {% for item in inactive_projects %}
+  <div class="inactive-row">
+    <div class="inactive-project-name">{{ item.project }}</div>
+    <div class="inactive-detail">{{ item.title }}</div>
+  </div>
+  {% endfor %}
+  </div>
+</div>
+{% endif %}
+
+<hr class="section-divider">
+
+<!-- Project Status -->
+<div class="section">
+  <div class="section-title">Project Status</div>
+  <div class="section-subtitle">{{ projects | length }} active</div>
+  {% for proj in projects %}
+  <div class="project-row">
+    <div class="status-dot status-{{ proj.status }}"></div>
+    <div class="project-info">
+      <div class="project-name">{{ proj.name }}</div>
+      <div class="project-summary">{{ proj.summary[:80] }}{% if proj.summary|length > 80 %}...{% endif %}</div>
+      {% if proj.metrics %}
+      <div class="metric-row">
+        {% for key, value in proj.metrics.items() %}
+        <span class="metric"><strong>{{ key }}:</strong> {{ value }}</span>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<div class="footer">
+  Brain System · {{ date }} · Full details indexed in AI_Brain vault
+</div>
+
+</div>
+</body>
+</html>

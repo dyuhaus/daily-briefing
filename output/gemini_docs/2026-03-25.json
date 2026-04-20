@@ -1,0 +1,185 @@
+{
+  "date": "2026-03-25",
+  "scan_time": "2026-03-25T11:00:58.946927+00:00",
+  "total_scraped": 16,
+  "after_dedup": 16,
+  "after_filter": 16,
+  "items": [
+    {
+      "title": "google.dev",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKzy3wmq0z4nfLCTWzcBXvCsDJ9-uspk7rC8PMS7FYP6ke2jeQJq83gJWcsxPJ3UOzKANthbwTe4s9BBzTmT7Udphj_I5HnntBAyXoBQExJOgn0dfb7tLtSfrwqXWLvVeBxgZBpXGDXhyL",
+      "source": "gemini_grounded",
+      "snippet": "The Gemini API has seen significant updates and new feature introductions, particularly with the rollout of the Gemini 3 series and enhancements across existing models and functionalities. This information is current as of March 25, 2026.\n\n### 1. Clear, Comprehensive Answer\n\nThe Gemini API continues to evolve, with recent updates focusing on advanced multimodal capabilities, improved developer control, and enhanced billing features. Key developments include the introduction of the Gemini 3 serie",
+      "timestamp": "2026-03-25T11:00:23.365551+00:00",
+      "content_type": "article",
+      "relevance_score": 0.5,
+      "content_hash": "66be4556d68de4fb",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "google.dev",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLsLjU0oFp15QaE4TwjRkojQ92xQeMjNv9GWEiP7DFtNHfphiCWggOsU_726k1-3n4Zocu6K4hitFsJq87_bqqL-BfU-vzkKM-eArj9DmujkJxPcv48ckLfAoR4zXSnf8Z9JDvLn8AVdU=",
+      "source": "gemini_grounded",
+      "snippet": "The Gemini API has seen significant updates and new feature introductions, particularly with the rollout of the Gemini 3 series and enhancements across existing models and functionalities. This information is current as of March 25, 2026.\n\n### 1. Clear, Comprehensive Answer\n\nThe Gemini API continues to evolve, with recent updates focusing on advanced multimodal capabilities, improved developer control, and enhanced billing features. Key developments include the introduction of the Gemini 3 serie",
+      "timestamp": "2026-03-25T11:00:23.365584+00:00",
+      "content_type": "article",
+      "relevance_score": 0.5,
+      "content_hash": "adbc3d0296528b18",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "google.dev",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_zPAaOtEkzD-sZBbqovymboyvNar85G3Q_Oxf9HSaaeWSkKLN90Wpck6I-jJig83cTHFNvpSOFLmJiCc9-MqwB5Mosb9G-5UNDJW4Tw7ZnHIyUrOdr6Hd6WyFTnaLo3c=",
+      "source": "gemini_grounded",
+      "snippet": "The Gemini API has seen significant updates and new feature introductions, particularly with the rollout of the Gemini 3 series and enhancements across existing models and functionalities. This information is current as of March 25, 2026.\n\n### 1. Clear, Comprehensive Answer\n\nThe Gemini API continues to evolve, with recent updates focusing on advanced multimodal capabilities, improved developer control, and enhanced billing features. Key developments include the introduction of the Gemini 3 serie",
+      "timestamp": "2026-03-25T11:00:23.365595+00:00",
+      "content_type": "article",
+      "relevance_score": 0.5,
+      "content_hash": "2b87c92d97eb5bb8",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "google.dev",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnuhW0_G_k4-8f-odLx8X7FBHqPUDt_Rb4ZNnSKQp84nlxuVEeXbzlo-rooQbNSdnHDE9RpHGrfomnF2J4Rb5nXVWhu3Sauds41SMcURrgHFSV7mtDAK9XHB_mGtfXkCP0pmRuby-9LaIB2pc9CYp4VQ==",
+      "source": "gemini_grounded",
+      "snippet": "The Gemini API has seen significant updates and new feature introductions, particularly with the rollout of the Gemini 3 series and enhancements across existing models and functionalities. This information is current as of March 25, 2026.\n\n### 1. Clear, Comprehensive Answer\n\nThe Gemini API continues to evolve, with recent updates focusing on advanced multimodal capabilities, improved developer control, and enhanced billing features. Key developments include the introduction of the Gemini 3 serie",
+      "timestamp": "2026-03-25T11:00:23.365602+00:00",
+      "content_type": "article",
+      "relevance_score": 0.5,
+      "content_hash": "b6842e8e498186ca",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "google.dev",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRkj_i4Cdu_R1MECVSjKC82cWfL13rnGODh35C9iOLRPg_dpuQovFWAZh9teGFA-vUQw6R1OsCxCHzXJDfkFM11zzbW36rTsKeEOKBGPzymBejjeYlRi6DMJ_6WGVJ70JoEvL9EvEg",
+      "source": "gemini_grounded",
+      "snippet": "The Gemini API has seen significant updates and new feature introductions, particularly with the rollout of the Gemini 3 series and enhancements across existing models and functionalities. This information is current as of March 25, 2026.\n\n### 1. Clear, Comprehensive Answer\n\nThe Gemini API continues to evolve, with recent updates focusing on advanced multimodal capabilities, improved developer control, and enhanced billing features. Key developments include the introduction of the Gemini 3 serie",
+      "timestamp": "2026-03-25T11:00:23.365607+00:00",
+      "content_type": "article",
+      "relevance_score": 0.5,
+      "content_hash": "b483febdeeeb7da9",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "googleblog.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELkxHbuLTesp8MVBEQJ8HtLGE6aS8uHC9mXj7gCNBYqVHSGtUGQyQPGf_0d9hZ8oxhubXSshuws7ygLja438QksU8c9SVULGv89tP2WKQk_6pnWaASpY-FCyr9C14Ci8eiDGTqYZ5zx66eM07B0REjeWbIDi8-3bnPyk6T1SsdWoTLMJD8iryvk8oF7giwQaw7",
+      "source": "gemini_grounded",
+      "snippet": "The Gemini API has seen significant updates and new feature introductions, particularly with the rollout of the Gemini 3 series and enhancements across existing models and functionalities. This information is current as of March 25, 2026.\n\n### 1. Clear, Comprehensive Answer\n\nThe Gemini API continues to evolve, with recent updates focusing on advanced multimodal capabilities, improved developer control, and enhanced billing features. Key developments include the introduction of the Gemini 3 serie",
+      "timestamp": "2026-03-25T11:00:23.365613+00:00",
+      "content_type": "blog",
+      "relevance_score": 0.5,
+      "content_hash": "1dd91ceee67eb555",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "apidog.io",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEDSq8reMSXRpSX7l8fpHDz0XtIwzGBsTuckEq9f9sOfwj6Oc3mMjW0g8bhxZRMfHfuYxE7ey9FM0KvqGbo06wgtTlHd1J7e1yBFU1U4u0TO9a2McQxkTEOzhcTaPtfmeijg==",
+      "source": "gemini_grounded",
+      "snippet": "The Gemini API has seen significant updates and new feature introductions, particularly with the rollout of the Gemini 3 series and enhancements across existing models and functionalities. This information is current as of March 25, 2026.\n\n### 1. Clear, Comprehensive Answer\n\nThe Gemini API continues to evolve, with recent updates focusing on advanced multimodal capabilities, improved developer control, and enhanced billing features. Key developments include the introduction of the Gemini 3 serie",
+      "timestamp": "2026-03-25T11:00:23.365619+00:00",
+      "content_type": "article",
+      "relevance_score": 0.5,
+      "content_hash": "d65aa97338ccfc78",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "googleblog.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExkF3O8AUWUOLIwNyoC7Ixf-PdqJ9GTH7cUE4GVahk7NKbRTemv1WqdZAyNsq5n7Xiu2qQu8xuJZFZpic887AUukUm32xpZZ2s1izDSVn5WqXZA_Hlzp3FT8CVSGuHVAHTytK8dCiOxViRopWL1FKgyeDR",
+      "source": "gemini_grounded",
+      "snippet": "The Gemini API has seen significant updates and new feature introductions, particularly with the rollout of the Gemini 3 series and enhancements across existing models and functionalities. This information is current as of March 25, 2026.\n\n### 1. Clear, Comprehensive Answer\n\nThe Gemini API continues to evolve, with recent updates focusing on advanced multimodal capabilities, improved developer control, and enhanced billing features. Key developments include the introduction of the Gemini 3 serie",
+      "timestamp": "2026-03-25T11:00:23.365624+00:00",
+      "content_type": "blog",
+      "relevance_score": 0.5,
+      "content_hash": "8bfb112351576d55",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "timesnownews.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFVMJaFigwSXOMFoq_qFQ9h6DFD4ni9OFKmkIdZaXuRyoCBdtGSoB3QwTQfbWdmuWOLAOvZKdpfRu3Ri-8OqDSBh4piNTN9QHzKaQYLARtfhL-oTpXbWQoDBz1IwUrMMSeUeP0YEn7YOs6boz7jYh2e6pZc1k-uNKraCNi17q_-FCg6rFHw0mRUH8yDdlo_y6d3Fbmeo8i58hzV63PisHqSkvfTdtsv_L4VAZnto3f7kjHMsMeCbu7pT8r8j_EKaFJZ17ezTc0Igx8eMdk",
+      "source": "gemini_grounded",
+      "snippet": "Google AI Studio has received a significant update, introducing a new \"vibe coding\" experience powered by the **Antigravity coding agent**. This update, widely reported around March 2026, transforms AI Studio from primarily a prototyping tool into a platform for building full-stack, production-ready applications directly from prompts.\n\n### Key New Features of Google AI Studio with Antigravity:\n\nThe Antigravity coding agent itself is a central component, designed to maintain a deeper understandin",
+      "timestamp": "2026-03-25T11:00:38.996615+00:00",
+      "content_type": "article",
+      "relevance_score": 0.42,
+      "content_hash": "0b067aaa4169ccf7",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "youtube.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfw35ZPdo0MmW5YYG9HaHVluBbbWVoZNxIJy3cK8TmN4mOCZ7v9ZLQWuXDnEqAw99HypCt_bC9c-mv6Ry0SSap5t1Q0GhyI6qJ3OJREMTSUo8krrJXKygg-bHlEcQZhwZeqYnnmB8=",
+      "source": "gemini_grounded",
+      "snippet": "Google AI Studio has received a significant update, introducing a new \"vibe coding\" experience powered by the **Antigravity coding agent**. This update, widely reported around March 2026, transforms AI Studio from primarily a prototyping tool into a platform for building full-stack, production-ready applications directly from prompts.\n\n### Key New Features of Google AI Studio with Antigravity:\n\nThe Antigravity coding agent itself is a central component, designed to maintain a deeper understandin",
+      "timestamp": "2026-03-25T11:00:38.996633+00:00",
+      "content_type": "video",
+      "relevance_score": 0.42,
+      "content_hash": "2e116617fbadc090",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "edtechinnovationhub.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOB1slmzrI3tXm7t5ftE5x9nmc6_duCb6dHG-QwMFKMsIzwEOIkQFA1o_81vxsjCqA5g2JlFH9w0fSIOS2rDjoM6ly9QJ_SGPaoBzQWY_gFnShTY9GKxC3iqr0qdtbgRLdGtOOIOL8ompu1tmN2cIx3afi-7Xvb0u3_WnAKwixl1NpMhA6kKMT3m6JgWSP3Cu8RLi64T8coHz049UGVN9lC_Qy0stEBqZg4yPfI8E9gmD-SlU1NZcmP-ynAm9b",
+      "source": "gemini_grounded",
+      "snippet": "Google AI Studio has received a significant update, introducing a new \"vibe coding\" experience powered by the **Antigravity coding agent**. This update, widely reported around March 2026, transforms AI Studio from primarily a prototyping tool into a platform for building full-stack, production-ready applications directly from prompts.\n\n### Key New Features of Google AI Studio with Antigravity:\n\nThe Antigravity coding agent itself is a central component, designed to maintain a deeper understandin",
+      "timestamp": "2026-03-25T11:00:38.996638+00:00",
+      "content_type": "article",
+      "relevance_score": 0.42,
+      "content_hash": "d4aa50089863ad65",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "indiatimes.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw9OOBBNhJwO-AcOtNkE2-W3iPOqaNFF0SUjQLr_lZ6GFz3eJFIKGNwROJeJIFfqqdQMYL6Q1xiWpgAyd_x5z6wfMg-nap2vJi7z94Vtk0gVFOaQBzhlzEYbLF49OsCL-2MvtmNCm9EAeebx_u7X85sNImwOSSVKMb5XMZbaNusmr7NAAF7ZxPQEQUncyONW-1XsnzkldLCOs6NsEpLimPEWd4nScT98_bHKJcSPfW7qXZ8nXHkM5kqKYte2wIvzM4rBj1Ubx26Nzesx7eamDK5TR7",
+      "source": "gemini_grounded",
+      "snippet": "Google AI Studio has received a significant update, introducing a new \"vibe coding\" experience powered by the **Antigravity coding agent**. This update, widely reported around March 2026, transforms AI Studio from primarily a prototyping tool into a platform for building full-stack, production-ready applications directly from prompts.\n\n### Key New Features of Google AI Studio with Antigravity:\n\nThe Antigravity coding agent itself is a central component, designed to maintain a deeper understandin",
+      "timestamp": "2026-03-25T11:00:38.996642+00:00",
+      "content_type": "article",
+      "relevance_score": 0.42,
+      "content_hash": "7d651ffff21a1ca8",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "geeky-gadgets.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbU4YFW17nim20LATt2xKNklF_xXXI6RBekTbT8XbzKSMLA9oiJjKflapWbU6I8jOMGJsrMa4zk1z_W-8psvu8gUWnj6aMww8vS1hQzvPbaP3RK6H5rIOjk2sv3KGxBXVAzEIfWGBx2xioZ_E8PV9lxfs=",
+      "source": "gemini_grounded",
+      "snippet": "Google AI Studio has received a significant update, introducing a new \"vibe coding\" experience powered by the **Antigravity coding agent**. This update, widely reported around March 2026, transforms AI Studio from primarily a prototyping tool into a platform for building full-stack, production-ready applications directly from prompts.\n\n### Key New Features of Google AI Studio with Antigravity:\n\nThe Antigravity coding agent itself is a central component, designed to maintain a deeper understandin",
+      "timestamp": "2026-03-25T11:00:38.996647+00:00",
+      "content_type": "article",
+      "relevance_score": 0.42,
+      "content_hash": "c6abe9f4b5d9b91b",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "itbrief.com.au",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUxq8esKtzec6gJPcAXi9kE1fpud3GFNptw6ufzY7-W7RRkSY91UJWm4fqEkw-YOxWEHYDSkM9tdz5oZ8lbzWX8x_8VI5ZEjLvLblbSShv4HArF8nw4YMqSW5HRqBIEDHZM2RE8uKTX4EtaTf4KDIR5mR1ihB4erPsg6ipqRRr6i8kEZ0MCHtI3ao0FIb39Vkd",
+      "source": "gemini_grounded",
+      "snippet": "Google AI Studio has received a significant update, introducing a new \"vibe coding\" experience powered by the **Antigravity coding agent**. This update, widely reported around March 2026, transforms AI Studio from primarily a prototyping tool into a platform for building full-stack, production-ready applications directly from prompts.\n\n### Key New Features of Google AI Studio with Antigravity:\n\nThe Antigravity coding agent itself is a central component, designed to maintain a deeper understandin",
+      "timestamp": "2026-03-25T11:00:38.996651+00:00",
+      "content_type": "article",
+      "relevance_score": 0.42,
+      "content_hash": "8f94500afbf87260",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "youtube.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh9mUuDVsex0PFWaxeqLpzs1tRN8yWe77-AmS4g_QDSz7R0KmXIdSTy5dh3JyMeMEkEwymJXWTOpjO3UvvywVwrpFBa3GmcKfVugkp2oViQt7VQcxRLWtuf6YdNPLNcZvRrpHvJg8=",
+      "source": "gemini_grounded",
+      "snippet": "Google AI Studio has received a significant update, introducing a new \"vibe coding\" experience powered by the **Antigravity coding agent**. This update, widely reported around March 2026, transforms AI Studio from primarily a prototyping tool into a platform for building full-stack, production-ready applications directly from prompts.\n\n### Key New Features of Google AI Studio with Antigravity:\n\nThe Antigravity coding agent itself is a central component, designed to maintain a deeper understandin",
+      "timestamp": "2026-03-25T11:00:38.996656+00:00",
+      "content_type": "video",
+      "relevance_score": 0.42,
+      "content_hash": "8def6690cf187e36",
+      "freshness_window": "24h"
+    },
+    {
+      "title": "youtube.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAgUeLjq6JWHSs_v0WhmZxKE8GafI9K7dAUtNGQ9i37D-YE61yXV2mlyjwU-2_OlepTO4vuzSCcBH5F1_wTg2tErkaNFFp0EKdBmVGo5PAiLQwwa73jYgpm1q_07gzYnLupuAjmTw=",
+      "source": "gemini_grounded",
+      "snippet": "Google AI Studio has received a significant update, introducing a new \"vibe coding\" experience powered by the **Antigravity coding agent**. This update, widely reported around March 2026, transforms AI Studio from primarily a prototyping tool into a platform for building full-stack, production-ready applications directly from prompts.\n\n### Key New Features of Google AI Studio with Antigravity:\n\nThe Antigravity coding agent itself is a central component, designed to maintain a deeper understandin",
+      "timestamp": "2026-03-25T11:00:38.996659+00:00",
+      "content_type": "video",
+      "relevance_score": 0.42,
+      "content_hash": "230b8e3befa42e2b",
+      "freshness_window": "24h"
+    }
+  ]
+}
